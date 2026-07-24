@@ -4,18 +4,180 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Account - PMW Visuals</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="shortcut icon" href="/favicon.png">
   <link rel="stylesheet" href="css/pmw-auth.css" />
 </head>
-<body class="pmw-auth-page">
-  <nav class="pmw-auth-nav"><a class="pmw-brand" href="index.html"><img class="pmw-brand-wordmark" src="pmw-wordmark.png" alt="PMW"><span>Visuals</span></a><div class="pmw-nav-links"><a href="index.html">Home</a><a href="pmw-wallpapers.html">Wallpapers</a><a href="premium-wallpapers.html">Premium</a></div></nav>
-  <main class="pmw-auth-shell">
-    <section class="pmw-account-card">
-      <span class="pmw-badge">My Account</span><h2 id="accountName">Loading...</h2><p class="pmw-sub" id="accountEmail">Checking account...</p>
-      <div class="pmw-grid"><div class="pmw-mini-card"><h3>Account</h3><p id="accountPlan">Loading...</p></div><div class="pmw-mini-card"><h3>Status</h3><p id="accountMessage">Please wait...</p></div></div>
-      <div class="pmw-btn-row"><a class="pmw-btn secondary" href="pmw-wallpapers.html">Browse Wallpapers</a><a class="pmw-btn secondary" id="premiumAction" href="premium.html">Go Premium</a><button class="pmw-btn" id="logoutBtn">Logout</button></div>
+<body class="pmw-auth-page pmw-account-dashboard-page">
+  <main class="pmw-dashboard-shell">
+    <aside class="pmw-dashboard-sidebar" aria-label="Account navigation">
+      <a class="pmw-dashboard-brand" href="index.html">
+        <img src="pmw-wordmark.png" alt="PMW" />
+        <span>Visuals</span>
+      </a>
+
+      <nav class="pmw-dashboard-menu" aria-label="Dashboard">
+        <a class="is-active" href="account.html">
+          <span class="pmw-menu-icon">D</span>
+          Dashboard
+        </a>
+        <a href="pmw-wallpapers.html">
+          <span class="pmw-menu-icon">W</span>
+          Browse Wallpapers
+        </a>
+        <a class="is-placeholder" href="#saved-wallpapers" aria-disabled="true">
+          <span class="pmw-menu-icon">S</span>
+          Saved Wallpapers
+        </a>
+        <a class="is-placeholder" href="#downloads" aria-disabled="true">
+          <span class="pmw-menu-icon">DL</span>
+          Downloads
+        </a>
+        <a href="premium.html">
+          <span class="pmw-menu-icon">P</span>
+          My Plan
+        </a>
+        <a href="privacy-policy.html">
+          <span class="pmw-menu-icon">PR</span>
+          Privacy Policy
+        </a>
+        <a href="contact.html">
+          <span class="pmw-menu-icon">?</span>
+          Contact Us
+        </a>
+      </nav>
+
+      <section class="pmw-sidebar-upgrade" aria-label="Premium upgrade">
+        <span class="pmw-crown">VIP</span>
+        <h2>Go Premium</h2>
+        <p>Unlock premium wallpapers, higher limits, and future member features.</p>
+        <a class="pmw-gold-button" href="premium.html">Upgrade Now</a>
+      </section>
+
+      <div class="pmw-theme-placeholder" aria-label="Theme option coming soon">
+        <span>DM</span>
+        <strong>Dark Mode</strong>
+        <button type="button" aria-label="Dark mode placeholder" disabled></button>
+      </div>
+    </aside>
+
+    <section class="pmw-dashboard-main" aria-label="Account dashboard">
+      <header class="pmw-profile-hero">
+        <div class="pmw-profile-avatar" aria-hidden="true">
+          <span>PMW</span>
+        </div>
+        <div>
+          <p>Welcome back,</p>
+          <h1 id="accountName">Loading...</h1>
+          <span id="accountEmail">Checking account...</span>
+        </div>
+      </header>
+
+      <section class="pmw-dashboard-stats" aria-label="Account stats">
+        <article>
+          <span class="pmw-stat-icon">W</span>
+          <strong>0</strong>
+          <p>Saved Wallpapers</p>
+          <small>Your favorite picks</small>
+        </article>
+        <article>
+          <span class="pmw-stat-icon">DL</span>
+          <strong>0</strong>
+          <p>Downloaded</p>
+          <small>Wallpapers you've downloaded</small>
+        </article>
+        <article>
+          <span class="pmw-stat-icon">C</span>
+          <strong>0</strong>
+          <p>Collections</p>
+          <small>Your custom collections</small>
+        </article>
+        <article>
+          <span class="pmw-stat-icon">V</span>
+          <strong>0</strong>
+          <p>Viewed</p>
+          <small>Recently viewed wallpapers</small>
+        </article>
+      </section>
+
+      <section class="pmw-dashboard-panel" id="recent-activity">
+        <div class="pmw-panel-heading">
+          <h2>Recent Activity</h2>
+        </div>
+        <div class="pmw-empty-activity">
+          <span>PMW</span>
+          <strong>No recent activity yet.</strong>
+          <p>Start exploring wallpapers and your activity will appear here.</p>
+        </div>
+      </section>
+
+      <section class="pmw-dashboard-panel pmw-explore-panel">
+        <div class="pmw-panel-heading">
+          <div>
+            <h2>Continue Exploring</h2>
+            <p>Discover wallpapers curated for your screen.</p>
+          </div>
+          <a class="pmw-outline-button" href="pmw-wallpapers.html">Browse Wallpapers</a>
+        </div>
+        <div class="pmw-explore-strip">
+          <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_53_dlxavf.png" alt="Dark blue fantasy wallpaper preview"></a>
+          <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_56_cqvglb.png" alt="Moonlit forest wallpaper preview"></a>
+          <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135620/D.F.W_30_oxfk2m.png" alt="Dark romantic wallpaper preview"></a>
+        </div>
+      </section>
     </section>
-    <section class="pmw-hero-card"><div><div class="pmw-kicker">Dashboard</div><h1>Your PMW space.</h1><p>Your account is active. Premium access will unlock the private wallpaper collection after payment is connected.</p></div><div class="pmw-stats"><div class="pmw-stat"><strong id="accountTierStat">Free</strong><span>member access</span></div><div class="pmw-stat"><strong>PMW</strong><span>visual hub</span></div><div class="pmw-stat"><strong>Secure</strong><span>Firebase auth</span></div></div></section>
+
+    <aside class="pmw-dashboard-aside" aria-label="Account details">
+      <section class="pmw-member-card">
+        <span class="pmw-member-icon">ME</span>
+        <div>
+          <h2 id="accountPlan">Loading...</h2>
+          <p>Account Status</p>
+        </div>
+        <strong id="accountTierStat">Free</strong>
+      </section>
+
+      <section class="pmw-premium-dashboard-card">
+        <span class="pmw-crown">VIP</span>
+        <h2>Upgrade to Premium</h2>
+        <p>Unlock the complete PMW experience.</p>
+        <ul>
+          <li>Unlimited downloads</li>
+          <li>Premium collections</li>
+          <li>High resolution access</li>
+          <li>Early access to new uploads</li>
+        </ul>
+        <a class="pmw-gold-button" id="premiumAction" href="premium.html">Go Premium</a>
+      </section>
+
+      <section class="pmw-overview-card">
+        <h2>Account Overview</h2>
+        <div><span>Plan</span><strong id="accountPlanSummary">Loading...</strong></div>
+        <div><span>Member Since</span><strong id="memberSince">Today</strong></div>
+        <div><span>Account Status</span><strong id="accountMessage">Please wait...</strong></div>
+        <div><span>Email</span><strong id="accountEmailSummary">Checking...</strong></div>
+      </section>
+
+      <section class="pmw-help-card">
+        <h2>Need Help?</h2>
+        <p>Check support options or manage your billing securely.</p>
+        <div class="pmw-help-actions">
+          <a class="pmw-outline-button" href="contact.html">Contact Us</a>
+          <button class="pmw-outline-button" id="billingPortalBtn" type="button">Manage Billing</button>
+          <button class="pmw-outline-button" id="logoutBtn" type="button">Logout</button>
+        </div>
+      </section>
+    </aside>
   </main>
+
+  <footer class="pmw-dashboard-footer">
+    <span>&copy; 2026 PMW Visuals. All rights reserved.</span>
+    <nav aria-label="Account footer links">
+      <a href="privacy-policy.html">Privacy Policy</a>
+      <a href="terms.html">Terms of Service</a>
+    </nav>
+  </footer>
+
   <script type="module" src="js/account.js"></script>
 </body>
 </html>
