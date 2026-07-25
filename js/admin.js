@@ -8,6 +8,7 @@ import {
   doc,
   getDocs,
   serverTimestamp,
+  setDoc,
   updateDoc
 } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-firestore.js";
 
@@ -377,6 +378,7 @@ function normalizeWallpaper(docSnap) {
   const data = docSnap.data() || {};
   return {
     id: docSnap.id,
+    source: "firestore",
     title: String(data.title || ""),
     description: String(data.description || ""),
     imageUrl: String(data.imageUrl || ""),
@@ -389,6 +391,85 @@ function normalizeWallpaper(docSnap) {
     width: Number(data.width) || 0,
     height: Number(data.height) || 0,
     format: String(data.format || "")
+  };
+}
+
+function getStaticDesktopUrls(item) {
+  return [
+    item.image,
+    item.imageUrl,
+    item.download,
+    item.preview,
+    item.thumbnail
+  ].map(normalizeUrl).filter(Boolean);
+}
+
+function normalizeStaticDesktopWallpaper(item, index) {
+  const id = String(item.id || `desktop-wallpaper-${index + 1}`).trim();
+  const imageUrl = String(item.image || item.imageUrl || item.download || item.preview || item.thumbnail || "").trim();
+  const types = [item.category, ...(Array.isArray(item.types) ? item.types : [])]
+    .map((type) => String(type || "").trim())
+    .filter(Boolean);
+
+  return {
+    id,
+    source: "static-desktop",
+    title: String(item.title || ""),
+    description: String(item.description || ""),
+    imageUrl,
+    cloudinaryPublicId: String(item.publicId || item.public_id || item.cloudinaryPublicId || ""),
+    types: Array.from(new Set(types)),
+    deviceTypes: ["desktop"],
+    hashtags: parseHashtags(Array.isArray(item.tags) ? item.tags.join(",") : item.hashtags || ""),
+    access: item.access === "premium" || item.premium || item.isPremium ? "premium" : "free",
+    visible: item.visible !== false,
+    width: Number(item.width) || 0,
+    height: Number(item.height) || 0,
+    format: String(item.format || "").toUpperCase(),
+    staticUrls: getStaticDesktopUrls(item)
+  };
+}
+
+function getMissingStaticDesktopWallpapers(firestoreItems) {
+  const existingIds = new Set(firestoreItems.map((item) => item.id));
+  const existingPublicIds = new Set(
+    firestoreItems
+      .map((item) => normalizeText(item.cloudinaryPublicId))
+      .filter(Boolean)
+  );
+  const existingUrls = new Set(
+    firestoreItems
+      .map((item) => normalizeUrl(item.imageUrl))
+      .filter(Boolean)
+  );
+
+  return (window.PMW_DESKTOP_WALLPAPERS || [])
+    .map(normalizeStaticDesktopWallpaper)
+    .filter((item) => item.id && item.title && item.imageUrl && item.types.length)
+    .filter((item) => {
+      const publicId = normalizeText(item.cloudinaryPublicId);
+      return !existingIds.has(item.id)
+        && (!publicId || !existingPublicIds.has(publicId))
+        && !item.staticUrls.some((url) => existingUrls.has(url));
+    });
+}
+
+function getFirestorePayloadFromWallpaper(wallpaper, access = wallpaper.access) {
+  return {
+    title: wallpaper.title.trim(),
+    description: wallpaper.description.trim(),
+    imageUrl: wallpaper.imageUrl.trim(),
+    cloudinaryPublicId: wallpaper.cloudinaryPublicId.trim(),
+    types: wallpaper.types,
+    deviceTypes: wallpaper.deviceTypes,
+    hashtags: wallpaper.hashtags,
+    access,
+    visible: wallpaper.visible,
+    width: wallpaper.width,
+    height: wallpaper.height,
+    format: wallpaper.format,
+    createdAt: serverTimestamp(),
+    updatedAt: serverTimestamp()
   };
 }
 
@@ -431,7 +512,7 @@ function renderWallpapers() {
   const filtered = getFilteredWallpapers();
 
   if (!wallpapers.length) {
-    setMessage(manageMessage, "No Firestore wallpaper records found.");
+    setMessage(manageMessage, "No Firestore or static desktop wallpaper records found.");
     return;
   }
 
@@ -440,7 +521,7 @@ function renderWallpapers() {
     return;
   }
 
-  setMessage(manageMessage, `Showing ${filtered.length} of ${wallpapers.length} wallpaper record${wallpapers.length === 1 ? "" : "s"}.`);
+  setMessage(manageMessage, `Showing ${filtered.length} of ${wallpapers.length} wallpaper record${wallpapers.length === 1 ? "" : "s"}. Static desktop items must be added to Firestore before full editing.`);
 
   filtered.forEach((wallpaper) => {
     const item = document.createElement("article");
@@ -463,7 +544,9 @@ function renderWallpapers() {
       : "Cloudinary public ID is empty";
     const docId = document.createElement("p");
     docId.className = "admin-wallpaper-id";
-    docId.textContent = `Doc: ${wallpaper.id}`;
+    docId.textContent = wallpaper.source === "static-desktop"
+      ? `Static desktop ID: ${wallpaper.id}`
+      : `Doc: ${wallpaper.id}`;
     details.append(title, publicId, docId);
 
     const tags = document.createElement("div");
@@ -475,18 +558,26 @@ function renderWallpapers() {
     tags.append(
       createPill(typeText, !wallpaper.types.length),
       createPill(deviceText, !wallpaper.deviceTypes.length),
+      wallpaper.source === "static-desktop" ? createPill("Not in Firestore", true) : createPill("Firestore"),
       createPill(wallpaper.access === "premium" ? "Premium" : "Free"),
       createPill(wallpaper.visible ? "Visible" : "Hidden", !wallpaper.visible)
     );
 
     const actions = document.createElement("div");
     actions.className = "admin-wallpaper-actions";
-    actions.append(
-      createActionButton("Edit", "edit", wallpaper.id),
-      createActionButton(wallpaper.access === "premium" ? "Make Free" : "Make Premium", "toggle-access", wallpaper.id),
-      createActionButton(wallpaper.visible ? "Hide" : "Show", "toggle-visible", wallpaper.id),
-      createActionButton("Delete", "delete", wallpaper.id, "danger")
-    );
+    if (wallpaper.source === "static-desktop") {
+      actions.append(
+        createActionButton("Add to Firestore", "import-static", wallpaper.id),
+        createActionButton("Make Premium", "import-static-premium", wallpaper.id)
+      );
+    } else {
+      actions.append(
+        createActionButton("Edit", "edit", wallpaper.id),
+        createActionButton(wallpaper.access === "premium" ? "Make Free" : "Make Premium", "toggle-access", wallpaper.id),
+        createActionButton(wallpaper.visible ? "Hide" : "Show", "toggle-visible", wallpaper.id),
+        createActionButton("Delete", "delete", wallpaper.id, "danger")
+      );
+    }
 
     item.append(thumbnail, details, tags, actions);
     wallpapersList.append(item);
@@ -500,7 +591,9 @@ async function loadWallpapers(successText = "") {
 
   try {
     const snapshot = await getDocs(collection(db, "wallpapers"));
-    wallpapers = snapshot.docs.map(normalizeWallpaper)
+    const firestoreWallpapers = snapshot.docs.map(normalizeWallpaper);
+    const staticDesktopWallpapers = getMissingStaticDesktopWallpapers(firestoreWallpapers);
+    wallpapers = [...firestoreWallpapers, ...staticDesktopWallpapers]
       .sort((a, b) => a.title.localeCompare(b.title));
     renderWallpapers();
     if (successText) setMessage(manageMessage, successText, "success");
@@ -616,6 +709,17 @@ async function updateWallpaperFields(id, fields, successText) {
   }
 }
 
+async function importStaticDesktopWallpaper(wallpaper, access) {
+  setMessage(manageMessage, `Adding "${wallpaper.title}" to Firestore...`);
+  try {
+    await setDoc(doc(db, "wallpapers", wallpaper.id), getFirestorePayloadFromWallpaper(wallpaper, access));
+    await loadWallpapers(`Desktop wallpaper added to Firestore as ${access}.`);
+  } catch (error) {
+    console.error("Unable to import static desktop wallpaper.", error);
+    setMessage(manageMessage, error.message.replace("Firebase: ", ""), "error");
+  }
+}
+
 async function handleWallpaperAction(event) {
   const button = event.target.closest("button[data-action]");
   if (!button) return;
@@ -633,6 +737,11 @@ async function handleWallpaperAction(event) {
   }
 
   button.disabled = true;
+
+  if (action === "import-static" || action === "import-static-premium") {
+    const nextAccess = action === "import-static-premium" ? "premium" : "free";
+    await importStaticDesktopWallpaper(wallpaper, nextAccess);
+  }
 
   if (action === "toggle-access") {
     const nextAccess = wallpaper.access === "premium" ? "free" : "premium";
