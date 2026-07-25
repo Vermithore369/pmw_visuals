@@ -1,6 +1,7 @@
 import { auth } from "./firebase.js";
 import { onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-auth.js";
 import { isPremiumUser } from "./premium-access.js";
+import { getSavedWallpapers } from "./saved-wallpapers.js";
 
 const nameEl = document.querySelector("#accountName");
 const emailEl = document.querySelector("#accountEmail");
@@ -13,12 +14,51 @@ const billingPortalBtn = document.querySelector("#billingPortalBtn");
 const accountPlanSummary = document.querySelector("#accountPlanSummary");
 const accountEmailSummary = document.querySelector("#accountEmailSummary");
 const memberSince = document.querySelector("#memberSince");
+const savedWallpapersCount = document.querySelector("#savedWallpapersCount");
+const savedWallpaperPreviewStrip = document.querySelector("#savedWallpaperPreviewStrip");
+const recentActivityEmpty = document.querySelector("#recentActivityEmpty");
 const FUNCTIONS_BASE_URL =
   window.PMW_FUNCTIONS_BASE_URL || "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net";
 
 const setText = (element, value) => {
   if (element) {
     element.textContent = value;
+  }
+};
+
+const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
+  "&": "&amp;",
+  "<": "&lt;",
+  ">": "&gt;",
+  "\"": "&quot;",
+  "'": "&#039;",
+}[char]));
+
+const renderSavedWallpapers = (savedWallpapers) => {
+  setText(savedWallpapersCount, String(savedWallpapers.length));
+
+  if (!savedWallpapers.length) return;
+
+  const previewItems = savedWallpapers
+    .slice()
+    .sort((a, b) => {
+      const aTime = a.savedAt?.toMillis?.() || 0;
+      const bTime = b.savedAt?.toMillis?.() || 0;
+      return bTime - aTime;
+    })
+    .slice(0, 4);
+
+  if (savedWallpaperPreviewStrip) {
+    savedWallpaperPreviewStrip.innerHTML = previewItems.map((item) => `
+      <a href="${escapeHtml(item.url || "pmw-wallpapers.html")}" title="${escapeHtml(item.title || "Saved wallpaper")}">
+        <img src="${escapeHtml(item.image || "")}" alt="${escapeHtml(item.title || "Saved wallpaper")}">
+      </a>
+    `).join("");
+  }
+
+  if (recentActivityEmpty) {
+    setText(recentActivityEmpty.querySelector("strong"), `${savedWallpapers.length} saved wallpaper${savedWallpapers.length === 1 ? "" : "s"}`);
+    setText(recentActivityEmpty.querySelector("p"), "Your saved wallpapers are ready from this account.");
   }
 };
 
@@ -56,6 +96,12 @@ onAuthStateChanged(auth, async (user) => {
   } else {
     premiumAction.textContent = "Go Premium";
     premiumAction.href = "premium.html";
+  }
+
+  try {
+    renderSavedWallpapers(await getSavedWallpapers(user));
+  } catch (error) {
+    console.warn("Unable to load saved wallpapers.", error);
   }
 });
 

@@ -1450,6 +1450,7 @@
                     <div class="wallpaper-thumb">
                         <img src="${escapeHtml(item.thumbnail)}" alt="${escapeHtml(item.title)}" loading="lazy">
                         <span class="wallpaper-hd-badge">HD</span>
+                        <span class="wallpaper-save-chip" role="button" tabindex="0" data-save-wallpaper data-wallpaper-id="${escapeHtml(item.id)}" data-wallpaper-title="${escapeHtml(item.title)}" data-wallpaper-image="${escapeHtml(item.thumbnail || item.preview)}" data-wallpaper-url="${escapeHtml(getWallpaperPageUrl(item))}" data-wallpaper-category="${escapeHtml(getItemTypes(item).map(getCategoryLabel).join(', '))}" aria-pressed="false">Save</span>
                         ${isPremiumWallpaper(item) ? crownIconMarkup() : ''}
                     </div>
                     <div class="wallpaper-card-info">
@@ -1634,6 +1635,8 @@
         });
 
         function handleWallpaperGridClick(event) {
+            if (event.target.closest('[data-save-wallpaper]')) return;
+
             const categoryCard = event.target.closest('.category-card');
             if (categoryCard) {
                 event.preventDefault();
@@ -1650,6 +1653,13 @@
         }
 
         grid.addEventListener('click', handleWallpaperGridClick);
+        grid.addEventListener('keydown', event => {
+            const saveChip = event.target.closest('[data-save-wallpaper]');
+            if (saveChip && (event.key === 'Enter' || event.key === ' ')) {
+                event.preventDefault();
+                saveChip.click();
+            }
+        });
 
         panelDownload.addEventListener('click', () => {
             if (!selectedWallpaper) return;
@@ -1775,6 +1785,7 @@
         initializePremiumAccess();
         initializeWallpaperPage();
     </script>
+    <script type="module" src="js/saved-wallpapers.js"></script>
     <script src="consent.js" defer></script>
 </body>
 </html>

@@ -25,7 +25,7 @@
           <span class="pmw-menu-icon">W</span>
           Browse Wallpapers
         </a>
-        <a class="is-placeholder" href="#saved-wallpapers" aria-disabled="true">
+        <a href="#saved-wallpapers">
           <span class="pmw-menu-icon">S</span>
           Saved Wallpapers
         </a>
@@ -76,7 +76,7 @@
       <section class="pmw-dashboard-stats" aria-label="Account stats">
         <article>
           <span class="pmw-stat-icon">W</span>
-          <strong>0</strong>
+          <strong id="savedWallpapersCount">0</strong>
           <p>Saved Wallpapers</p>
           <small>Your favorite picks</small>
         </article>
@@ -85,12 +85,6 @@
           <strong>0</strong>
           <p>Downloaded</p>
           <small>Wallpapers you've downloaded</small>
-        </article>
-        <article>
-          <span class="pmw-stat-icon">C</span>
-          <strong>0</strong>
-          <p>Collections</p>
-          <small>Your custom collections</small>
         </article>
         <article>
           <span class="pmw-stat-icon">V</span>
@@ -104,14 +98,14 @@
         <div class="pmw-panel-heading">
           <h2>Recent Activity</h2>
         </div>
-        <div class="pmw-empty-activity">
+        <div class="pmw-empty-activity" id="recentActivityEmpty">
           <span>PMW</span>
           <strong>No recent activity yet.</strong>
           <p>Start exploring wallpapers and your activity will appear here.</p>
         </div>
       </section>
 
-      <section class="pmw-dashboard-panel pmw-explore-panel">
+      <section class="pmw-dashboard-panel pmw-explore-panel" id="saved-wallpapers">
         <div class="pmw-panel-heading">
           <div>
             <h2>Continue Exploring</h2>
@@ -119,7 +113,7 @@
           </div>
           <a class="pmw-outline-button" href="pmw-wallpapers.html">Browse Wallpapers</a>
         </div>
-        <div class="pmw-explore-strip">
+        <div class="pmw-explore-strip" id="savedWallpaperPreviewStrip">
           <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_53_dlxavf.png" alt="Dark blue fantasy wallpaper preview"></a>
           <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_56_cqvglb.png" alt="Moonlit forest wallpaper preview"></a>
           <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135620/D.F.W_30_oxfk2m.png" alt="Dark romantic wallpaper preview"></a>
