@@ -1199,7 +1199,7 @@ a {
 
 .pmw-dashboard-stats {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(190px, 1fr));
   gap: 14px;
 }
 
@@ -1209,6 +1209,7 @@ a {
   gap: 4px 14px;
   align-items: center;
   min-height: 128px;
+  min-width: 0;
   border-radius: 18px;
   padding: 20px;
 }
@@ -1235,6 +1236,7 @@ a {
 .pmw-dashboard-stats p {
   color: #fff;
   font-weight: 800;
+  overflow-wrap: anywhere;
 }
 
 .pmw-dashboard-stats small {

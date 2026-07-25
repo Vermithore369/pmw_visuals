@@ -519,8 +519,8 @@
         }
         .wallpapers-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
-            gap: 18px;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 22px;
             align-items: start;
         }
         .feed-grid { margin-bottom: 0; }
@@ -530,14 +530,16 @@
         .desktop-wallpapers-row {
             display: grid;
             grid-template-columns: repeat(4, minmax(0, 1fr));
-            gap: 18px;
+            gap: 22px;
             column-count: initial;
             margin: 6px 0 18px;
         }
         .wallpaper-card {
             position: relative;
-            display: block;
+            display: flex;
+            flex-direction: column;
             width: 100%;
+            height: 100%;
             border: 1px solid var(--border);
             border-radius: var(--radius-lg);
             background: linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
@@ -556,10 +558,11 @@
             box-shadow: 0 24px 60px rgba(0,0,0,0.48);
         }
         .wallpaper-thumb {
-            aspect-ratio: var(--wallpaper-aspect, 9 / 16);
+            aspect-ratio: 4 / 5;
             overflow: hidden;
             background: #111;
             position: relative;
+            flex: 0 0 auto;
         }
         .wallpaper-thumb img {
             width: 100%;
@@ -618,6 +621,9 @@
         }
         .wallpaper-card-info {
             padding: 14px;
+            flex: 1 1 auto;
+            display: flex;
+            align-items: flex-start;
         }
         .wallpaper-card-title {
             font-family: 'Space Grotesk', sans-serif;
@@ -625,6 +631,7 @@
             font-weight: 700;
             letter-spacing: -0.02em;
             margin: 0;
+            line-height: 1.32;
         }
 
         .panel-overlay {
@@ -794,7 +801,7 @@
             .category-card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
             .filter-panel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
             .filter-chips { justify-content: flex-start; }
-            .wallpapers-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+            .wallpapers-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
             .desktop-wallpapers-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
             .wallpaper-panel {
                 grid-template-columns: 1fr;
@@ -1450,7 +1457,7 @@
                     <div class="wallpaper-thumb">
                         <img src="${escapeHtml(item.thumbnail)}" alt="${escapeHtml(item.title)}" loading="lazy">
                         <span class="wallpaper-hd-badge">HD</span>
-                        <span class="wallpaper-save-chip" role="button" tabindex="0" data-save-wallpaper data-wallpaper-id="${escapeHtml(item.id)}" data-wallpaper-title="${escapeHtml(item.title)}" data-wallpaper-image="${escapeHtml(item.thumbnail || item.preview)}" data-wallpaper-url="${escapeHtml(getWallpaperPageUrl(item))}" data-wallpaper-category="${escapeHtml(getItemTypes(item).map(getCategoryLabel).join(', '))}" aria-pressed="false">Save</span>
+                        <span class="wallpaper-save-chip" role="button" tabindex="0" data-save-wallpaper data-wallpaper-id="${escapeHtml(item.id)}" data-wallpaper-title="${escapeHtml(item.title)}" data-wallpaper-image="${escapeHtml(item.thumbnail || item.preview)}" data-wallpaper-url="${escapeHtml(getWallpaperPageUrl(item))}" data-wallpaper-category="${escapeHtml(getItemTypes(item).map(getCategoryLabel).join(', '))}" aria-pressed="false" aria-label="Save wallpaper"></span>
                         ${isPremiumWallpaper(item) ? crownIconMarkup() : ''}
                     </div>
                     <div class="wallpaper-card-info">

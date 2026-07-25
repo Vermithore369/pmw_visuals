@@ -76,8 +76,13 @@ function getButtonPayload(button) {
   };
 }
 
-function iconMarkup(saved) {
-  return saved ? "Saved" : "Save";
+function saveIconMarkup(saved, label = "") {
+  return `
+    <svg class="save-wallpaper-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M6.5 4.75A2.25 2.25 0 0 1 8.75 2.5h6.5a2.25 2.25 0 0 1 2.25 2.25v16.1l-5.5-3.35-5.5 3.35V4.75Z"${saved ? " fill=\"currentColor\"" : " fill=\"none\""} stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+    </svg>
+    ${label ? `<span>${label}</span>` : `<span class="save-wallpaper-sr">${saved ? "Saved wallpaper" : "Save wallpaper"}</span>`}
+  `;
 }
 
 function updateButton(button) {
@@ -86,7 +91,8 @@ function updateButton(button) {
   button.classList.toggle("is-saved", isSaved);
   button.setAttribute("aria-pressed", isSaved ? "true" : "false");
   button.setAttribute("title", isSaved ? "Remove from saved wallpapers" : "Save wallpaper");
-  button.textContent = iconMarkup(isSaved);
+  const label = button.classList.contains("wallpaper-save-chip") ? "" : (isSaved ? "Saved" : "Save");
+  button.innerHTML = saveIconMarkup(isSaved, label);
 }
 
 function refreshButtons(root = document) {
@@ -238,20 +244,34 @@ function injectStyles() {
       cursor: pointer;
       transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
     }
+    .save-wallpaper-icon {
+      width: 18px;
+      height: 18px;
+      display: block;
+    }
+    .save-wallpaper-sr {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+    }
     .save-wallpaper-btn {
       min-height: 48px;
       border-radius: 14px;
       padding: 13px 18px;
+      gap: 9px;
     }
     .wallpaper-save-chip {
       position: absolute;
       top: 10px;
       right: 10px;
       z-index: 3;
-      min-width: 58px;
-      min-height: 28px;
+      width: 34px;
+      height: 34px;
       border-radius: 999px;
-      padding: 0 10px;
+      padding: 0;
       font-size: 0.72rem;
       box-shadow: 0 8px 24px rgba(0,0,0,0.34);
     }
