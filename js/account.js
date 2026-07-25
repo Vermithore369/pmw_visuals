@@ -11,9 +11,13 @@ const logoutBtn = document.querySelector("#logoutBtn");
 const premiumAction = document.querySelector("#premiumAction");
 const accountTierStat = document.querySelector("#accountTierStat");
 const billingPortalBtn = document.querySelector("#billingPortalBtn");
+const billingPortalCopy = document.querySelector("#billingPortalCopy");
 const accountPlanSummary = document.querySelector("#accountPlanSummary");
 const accountEmailSummary = document.querySelector("#accountEmailSummary");
 const memberSince = document.querySelector("#memberSince");
+
+const BILLING_PORTAL_LABEL = "Manage or Cancel Subscription";
+const BILLING_PORTAL_FREE_LABEL = "Open Billing Portal";
 const savedWallpapersCount = document.querySelector("#savedWallpapersCount");
 const savedWallpaperPreviewStrip = document.querySelector("#savedWallpaperPreviewStrip");
 const recentActivityEmpty = document.querySelector("#recentActivityEmpty");
@@ -93,9 +97,21 @@ onAuthStateChanged(auth, async (user) => {
   if (isPremium) {
     premiumAction.textContent = "Open Premium";
     premiumAction.href = "premium-wallpapers.html";
+    billingPortalBtn.textContent = BILLING_PORTAL_LABEL;
+    billingPortalBtn.dataset.defaultLabel = BILLING_PORTAL_LABEL;
+    setText(
+      billingPortalCopy,
+      "Manage your subscription, cancel your plan, update payment details, or view invoices through the secure Paddle customer portal."
+    );
   } else {
     premiumAction.textContent = "Go Premium";
     premiumAction.href = "premium.html";
+    billingPortalBtn.textContent = BILLING_PORTAL_FREE_LABEL;
+    billingPortalBtn.dataset.defaultLabel = BILLING_PORTAL_FREE_LABEL;
+    setText(
+      billingPortalCopy,
+      "After subscribing, this portal lets you cancel your plan, update payment details, and view invoices securely through Paddle."
+    );
   }
 
   try {
@@ -118,6 +134,7 @@ billingPortalBtn.addEventListener("click", async () => {
   }
 
   billingPortalBtn.disabled = true;
+  billingPortalBtn.dataset.defaultLabel = billingPortalBtn.textContent;
   billingPortalBtn.textContent = "Opening...";
   msg.textContent = "Opening secure Paddle billing portal...";
 
@@ -141,6 +158,6 @@ billingPortalBtn.addEventListener("click", async () => {
     console.error(error);
     msg.textContent = error.message || "Unable to open billing portal.";
     billingPortalBtn.disabled = false;
-    billingPortalBtn.textContent = "Manage Billing";
+    billingPortalBtn.textContent = billingPortalBtn.dataset.defaultLabel || BILLING_PORTAL_LABEL;
   }
 });

@@ -1199,19 +1199,23 @@ a {
 
 .pmw-dashboard-stats {
   display: grid;
-  grid-template-columns: repeat(3, minmax(190px, 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 16px;
 }
 
 .pmw-dashboard-stats article {
   display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 4px 14px;
+  grid-template-columns: 54px minmax(0, 1fr);
+  grid-template-areas:
+    "icon value"
+    "icon label"
+    "icon copy";
+  gap: 5px 18px;
   align-items: center;
   min-height: 128px;
   min-width: 0;
   border-radius: 18px;
-  padding: 20px;
+  padding: 22px;
 }
 
 .pmw-stat-icon,
@@ -1222,26 +1226,32 @@ a {
 }
 
 .pmw-dashboard-stats strong {
+  grid-area: value;
   color: #fff;
   font-size: 2rem;
   line-height: 1;
 }
 
-.pmw-dashboard-stats p,
-.pmw-dashboard-stats small {
-  grid-column: 2;
-  margin: 0;
+.pmw-dashboard-stats .pmw-stat-icon {
+  grid-area: icon;
+  align-self: start;
 }
 
 .pmw-dashboard-stats p {
+  grid-area: label;
+  margin: 0;
   color: #fff;
   font-weight: 800;
-  overflow-wrap: anywhere;
+  line-height: 1.2;
+  overflow-wrap: normal;
+  word-break: normal;
 }
 
 .pmw-dashboard-stats small {
+  grid-area: copy;
+  margin: 0;
   color: var(--muted);
-  line-height: 1.35;
+  line-height: 1.45;
 }
 
 .pmw-dashboard-panel {
