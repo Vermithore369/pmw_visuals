@@ -3279,12 +3279,6 @@
                 <button class="nav-link" data-section="contact" onclick="navigateTo('contact')"><span>Contact</span></button>
                 <button class="nav-link auth-signed-in auth-free-only auth-link-hidden" onclick="window.location.href='premium.html'"><span>Go Premium</span></button>
                 <button class="nav-link auth-signed-out" onclick="window.location.href='login.html'"><span>Sign In / Up</span></button>
-                <button class="nav-link auth-profile-link auth-signed-in auth-link-hidden" onclick="window.location.href='account.html'" aria-label="Open account">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                        <path d="M20 21a8 8 0 0 0-16 0"></path>
-                        <circle cx="12" cy="7" r="4"></circle>
-                    </svg>
-                </button>
             </div>
                 <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Menu">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
@@ -3306,7 +3300,6 @@
         <button class="nav-link" onclick="navigateTo('contact'); toggleMobileMenu();">Contact</button>
         <button class="nav-link auth-signed-in auth-free-only auth-link-hidden" onclick="window.location.href='premium.html';">Go Premium</button>
         <button class="nav-link auth-signed-out" onclick="window.location.href='login.html';">Sign In / Up</button>
-        <button class="nav-link auth-signed-in auth-link-hidden" onclick="window.location.href='account.html';">Account</button>
     </div>
 
     <!-- Main Content -->
@@ -5736,9 +5729,6 @@ function initContactForm() {
         });
     </script>
     <script src="consent.js" defer></script>
+  <script src="./js/account-menu.js" defer></script>
 </body>
 </html>
-
-
-
-

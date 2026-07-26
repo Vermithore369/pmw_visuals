@@ -47,6 +47,10 @@ a {
   text-decoration: none;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 .pmw-auth-nav {
   position: relative;
   z-index: 2;
@@ -1200,35 +1204,35 @@ a {
 .pmw-dashboard-stats {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
+  gap: 12px;
 }
 
 .pmw-dashboard-stats article {
   display: grid;
-  grid-template-columns: 46px minmax(0, 1fr);
+  grid-template-columns: 40px minmax(0, 1fr);
   grid-template-areas:
     "icon value"
     "icon label"
     "icon copy";
-  gap: 4px 14px;
+  gap: 4px 12px;
   align-items: center;
   min-height: 118px;
   min-width: 0;
   border-radius: 18px;
-  padding: 18px;
+  padding: 16px;
 }
 
 .pmw-stat-icon,
 .pmw-member-icon,
 .pmw-crown {
-  width: 46px;
-  height: 46px;
+  width: 42px;
+  height: 42px;
 }
 
 .pmw-dashboard-stats strong {
   grid-area: value;
   color: #fff;
-  font-size: clamp(1.55rem, 2.2vw, 1.9rem);
+  font-size: clamp(1.35rem, 1.9vw, 1.75rem);
   line-height: 1;
 }
 
@@ -1242,9 +1246,9 @@ a {
   margin: 0;
   color: #fff;
   font-weight: 800;
-  font-size: clamp(0.78rem, 1.08vw, 0.96rem);
+  font-size: clamp(0.72rem, 0.94vw, 0.88rem);
   line-height: 1.18;
-  overflow-wrap: normal;
+  overflow-wrap: anywhere;
   word-break: normal;
 }
 
@@ -1252,7 +1256,7 @@ a {
   grid-area: copy;
   margin: 0;
   color: var(--muted);
-  font-size: clamp(0.72rem, 0.94vw, 0.86rem);
+  font-size: clamp(0.68rem, 0.86vw, 0.8rem);
   line-height: 1.35;
 }
 

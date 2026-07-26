@@ -21,8 +21,10 @@ const savedWallpapersCount = document.querySelector("#savedWallpapersCount");
 const savedWallpaperPreviewStrip = document.querySelector("#savedWallpaperPreviewStrip");
 const downloadedWallpapersCount = document.querySelector("#downloadedWallpapersCount");
 const downloadedWallpaperPreviewStrip = document.querySelector("#downloadedWallpaperPreviewStrip");
+const viewedWallpapersCount = document.querySelector("#viewedWallpapersCount");
 const recentActivityEmpty = document.querySelector("#recentActivityEmpty");
 const DOWNLOAD_STORAGE_KEY = "pmw_download_events_v1";
+const VIEW_STORAGE_KEY = "pmw_view_events_v1";
 const FUNCTIONS_BASE_URL =
   window.PMW_FUNCTIONS_BASE_URL || "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net";
 
@@ -55,6 +57,23 @@ const getDownloadEvents = () => {
   }
 };
 
+const getViewEvents = () => {
+  try {
+    return JSON.parse(localStorage.getItem(VIEW_STORAGE_KEY) || "[]")
+      .filter((item) => item && item.type === "wallpaper");
+  } catch {
+    return [];
+  }
+};
+
+const getUniqueWallpaperEvents = (items) => items
+  .slice()
+  .reverse()
+  .filter((item, index, source) => {
+    const key = `${item.id || ""}|${item.url || ""}`;
+    return source.findIndex((candidate) => `${candidate.id || ""}|${candidate.url || ""}` === key) === index;
+  });
+
 const renderSavedWallpapers = (savedWallpapers) => {
   setText(savedWallpapersCount, String(savedWallpapers.length));
 
@@ -80,13 +99,7 @@ const renderSavedWallpapers = (savedWallpapers) => {
 };
 
 const renderDownloadedWallpapers = () => {
-  const downloads = getDownloadEvents()
-    .slice()
-    .reverse()
-    .filter((item, index, items) => {
-      const key = `${item.id || ""}|${item.url || ""}`;
-      return items.findIndex((candidate) => `${candidate.id || ""}|${candidate.url || ""}` === key) === index;
-    });
+  const downloads = getUniqueWallpaperEvents(getDownloadEvents());
 
   setText(downloadedWallpapersCount, String(downloads.length));
 
@@ -101,6 +114,10 @@ const renderDownloadedWallpapers = () => {
       </a>
     `).join("");
   }
+};
+
+const renderViewedWallpapers = () => {
+  setText(viewedWallpapersCount, String(getUniqueWallpaperEvents(getViewEvents()).length));
 };
 
 onAuthStateChanged(auth, async (user) => {
@@ -160,6 +177,7 @@ onAuthStateChanged(auth, async (user) => {
   }
 
   renderDownloadedWallpapers();
+  renderViewedWallpapers();
 });
 
 logoutBtn.addEventListener("click", async () => {

@@ -519,8 +519,8 @@
         }
         .wallpapers-grid {
             display: grid;
-            grid-template-columns: repeat(4, minmax(0, 1fr));
-            gap: 22px;
+            grid-template-columns: repeat(6, minmax(0, 1fr));
+            gap: 18px;
             align-items: start;
         }
         .feed-grid { margin-bottom: 0; }
@@ -578,6 +578,9 @@
         .wallpaper-card.is-desktop .wallpaper-thumb {
             aspect-ratio: 16 / 9;
         }
+        .wallpaper-card.is-desktop {
+            grid-column: span 2;
+        }
         .wallpaper-hd-badge {
             position: absolute;
             top: 10px;
@@ -626,14 +629,14 @@
             stroke-width: 1.8;
         }
         .wallpaper-card-info {
-            padding: 14px;
+            padding: 12px;
             flex: 1 1 auto;
             display: flex;
             align-items: flex-start;
         }
         .wallpaper-card-title {
             font-family: 'Space Grotesk', sans-serif;
-            font-size: 1rem;
+            font-size: clamp(0.82rem, 0.92vw, 0.98rem);
             font-weight: 700;
             letter-spacing: -0.02em;
             margin: 0;
@@ -808,6 +811,7 @@
             .filter-panel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
             .filter-chips { justify-content: flex-start; }
             .wallpapers-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+            .wallpaper-card.is-desktop { grid-column: span 2; }
             .desktop-wallpapers-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
             .wallpaper-panel {
                 grid-template-columns: 1fr;
@@ -834,6 +838,7 @@
             .category-marquee .category-card { min-width: 230px; }
             .filter-panel { grid-template-columns: 1fr; }
             .wallpapers-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+            .wallpaper-card.is-desktop { grid-column: span 2; }
             .desktop-wallpapers-row { grid-template-columns: 1fr; gap: 12px; }
             .panel-overlay { padding: 12px; align-items: center; }
             .panel-details { padding: 26px 20px 22px; }
@@ -1562,6 +1567,16 @@
             const item = wallpapers.find(wallpaper => wallpaper.id === id);
             if (!item) return;
             selectedWallpaper = item;
+            if (window.PMW_DOWNLOAD_TRACKING) {
+                window.PMW_DOWNLOAD_TRACKING.trackView({
+                    id: item.id,
+                    title: item.title,
+                    category: getItemTypes(item).map(getCategoryLabel).join(', '),
+                    image: item.thumbnail || item.preview || item.image || '',
+                    url: getWallpaperPageUrl(item),
+                    type: 'wallpaper'
+                });
+            }
             document.getElementById('panelImage').src = item.preview;
             document.getElementById('panelImage').alt = item.title;
             document.getElementById('panelCategory').textContent = getItemTypes(item).map(getCategoryLabel).join(' / ');
@@ -1799,5 +1814,6 @@
     </script>
     <script type="module" src="js/saved-wallpapers.js"></script>
     <script src="consent.js" defer></script>
+  <script src="./js/account-menu.js" defer></script>
 </body>
 </html>

@@ -52,5 +52,6 @@
         const canvas = document.getElementById('canvas-bg'); const ctx = canvas.getContext('2d'); let stars=[]; function resize(){ canvas.width=innerWidth; canvas.height=innerHeight; stars=Array.from({length:Math.min(140,Math.floor(innerWidth*innerHeight/9000))},()=>({x:Math.random()*canvas.width,y:Math.random()*canvas.height,r:Math.random()*1.5+.2,a:Math.random()*.7+.15,v:Math.random()*.18+.04})); } function animate(){ ctx.clearRect(0,0,canvas.width,canvas.height); for(const s of stars){ s.y+=s.v; if(s.y>canvas.height) s.y=0; ctx.beginPath(); ctx.arc(s.x,s.y,s.r,0,Math.PI*2); ctx.fillStyle='rgba(255,255,255,'+s.a+')'; ctx.fill(); } requestAnimationFrame(animate); } resize(); addEventListener('resize',resize); animate(); renderChips(); render();
     </script>
     <script src="consent.js"></script>
+  <script src="./js/account-menu.js" defer></script>
 </body>
 </html>

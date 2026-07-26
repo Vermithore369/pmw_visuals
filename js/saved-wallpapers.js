@@ -343,15 +343,15 @@ function injectStyles() {
     .save-wallpaper-btn:hover,
     .wallpaper-save-chip:hover {
       transform: translateY(-1px);
-      border-color: rgba(216,173,76,0.48);
-      background: rgba(216,173,76,0.16);
+      border-color: rgba(125,211,252,0.58);
+      background: rgba(14,165,233,0.16);
     }
     .save-wallpaper-btn.is-saved,
     .wallpaper-save-chip.is-saved {
-      color: #111;
-      border-color: rgba(255,231,169,0.5);
-      background: linear-gradient(135deg, #fff3bd, #d8ad4c);
-      box-shadow: 0 12px 28px rgba(216,173,76,0.2);
+      color: #e0f7ff;
+      border-color: rgba(125,211,252,0.62);
+      background: linear-gradient(135deg, rgba(8,47,73,0.94), rgba(14,165,233,0.82));
+      box-shadow: 0 12px 28px rgba(14,165,233,0.22);
     }
     .save-wallpaper-btn.is-busy,
     .wallpaper-save-chip.is-busy {
