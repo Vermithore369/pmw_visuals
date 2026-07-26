@@ -6,6 +6,7 @@
     /\/account\.html$/i,
     /\/login\.html$/i,
     /\/signup\.html$/i,
+    /\/premium\.html$/i,
     /\/privacy-policy\.html$/i,
     /\/terms\.html$/i,
     /\/cookie-policy\.html$/i,
@@ -152,8 +153,8 @@
       text-overflow: ellipsis;
       white-space: nowrap;
     }
-    .pmw-account-head span,
-    .pmw-account-head p {
+    .pmw-account-head div > span,
+    .pmw-account-head div > p {
       display: block;
       margin: 4px 0 0;
       color: rgba(255,255,255,0.62);
@@ -217,6 +218,13 @@
       stroke-width: 2;
       stroke-linecap: round;
       stroke-linejoin: round;
+    }
+    .pmw-account-stars {
+      margin-left: auto;
+      color: #f4d77d;
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      white-space: nowrap;
     }
     .pmw-account-signout {
       color: #f5f5f5;
@@ -295,6 +303,7 @@
     trigger.innerHTML = iconUser;
   };
 
+  const premiumLabel = `PREMIUM PLAN <span class="pmw-account-stars" aria-hidden="true">✦ ✦ ✦</span>`;
   const menuLink = (label, path) => `<a class="pmw-account-link" href="${href(path)}">${label}</a>`;
 
   const renderGuest = () => {
@@ -314,8 +323,8 @@
         </div>
         ${menuLink("PMW Wallpapers", "pmw-wallpapers.html")}
         ${menuLink("PMW Tools", "tools/")}
-        ${menuLink("Premium", "premium.html")}
-        ${menuLink("Contact", "index.html#contact")}
+        ${menuLink(premiumLabel, "premium.html")}
+        ${menuLink("Contact Us", "index.html#contact")}
       </div>
     `;
   };
@@ -335,7 +344,7 @@
       </div>
       <div class="pmw-account-actions">
         ${menuLink("My Profile", "account.html")}
-        ${menuLink("Premium / Subscription", "premium.html")}
+        ${menuLink(premiumLabel, "premium.html")}
         ${menuLink("PMW Tools", "tools/")}
         ${menuLink("PMW Wallpapers", "pmw-wallpapers.html")}
         <button class="pmw-account-link pmw-account-signout" type="button" data-pmw-signout>${iconSignOut} Sign Out</button>
