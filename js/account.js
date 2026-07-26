@@ -17,10 +17,12 @@ const accountEmailSummary = document.querySelector("#accountEmailSummary");
 const memberSince = document.querySelector("#memberSince");
 
 const BILLING_PORTAL_LABEL = "Manage or Cancel Subscription";
-const BILLING_PORTAL_FREE_LABEL = "Open Billing Portal";
 const savedWallpapersCount = document.querySelector("#savedWallpapersCount");
 const savedWallpaperPreviewStrip = document.querySelector("#savedWallpaperPreviewStrip");
+const downloadedWallpapersCount = document.querySelector("#downloadedWallpapersCount");
+const downloadedWallpaperPreviewStrip = document.querySelector("#downloadedWallpaperPreviewStrip");
 const recentActivityEmpty = document.querySelector("#recentActivityEmpty");
+const DOWNLOAD_STORAGE_KEY = "pmw_download_events_v1";
 const FUNCTIONS_BASE_URL =
   window.PMW_FUNCTIONS_BASE_URL || "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net";
 
@@ -38,6 +40,21 @@ const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => (
   "'": "&#039;",
 }[char]));
 
+const getSavedTime = (item) => {
+  if (item.savedAt?.toMillis) return item.savedAt.toMillis();
+  if (item.savedAt) return new Date(item.savedAt).getTime() || 0;
+  return 0;
+};
+
+const getDownloadEvents = () => {
+  try {
+    return JSON.parse(localStorage.getItem(DOWNLOAD_STORAGE_KEY) || "[]")
+      .filter((item) => item && item.type === "wallpaper");
+  } catch {
+    return [];
+  }
+};
+
 const renderSavedWallpapers = (savedWallpapers) => {
   setText(savedWallpapersCount, String(savedWallpapers.length));
 
@@ -45,11 +62,7 @@ const renderSavedWallpapers = (savedWallpapers) => {
 
   const previewItems = savedWallpapers
     .slice()
-    .sort((a, b) => {
-      const aTime = a.savedAt?.toMillis?.() || 0;
-      const bTime = b.savedAt?.toMillis?.() || 0;
-      return bTime - aTime;
-    })
+    .sort((a, b) => getSavedTime(b) - getSavedTime(a))
     .slice(0, 4);
 
   if (savedWallpaperPreviewStrip) {
@@ -63,6 +76,30 @@ const renderSavedWallpapers = (savedWallpapers) => {
   if (recentActivityEmpty) {
     setText(recentActivityEmpty.querySelector("strong"), `${savedWallpapers.length} saved wallpaper${savedWallpapers.length === 1 ? "" : "s"}`);
     setText(recentActivityEmpty.querySelector("p"), "Your saved wallpapers are ready from this account.");
+  }
+};
+
+const renderDownloadedWallpapers = () => {
+  const downloads = getDownloadEvents()
+    .slice()
+    .reverse()
+    .filter((item, index, items) => {
+      const key = `${item.id || ""}|${item.url || ""}`;
+      return items.findIndex((candidate) => `${candidate.id || ""}|${candidate.url || ""}` === key) === index;
+    });
+
+  setText(downloadedWallpapersCount, String(downloads.length));
+
+  const previewItems = downloads
+    .filter((item) => item.image)
+    .slice(0, 4);
+
+  if (downloadedWallpaperPreviewStrip && previewItems.length) {
+    downloadedWallpaperPreviewStrip.innerHTML = previewItems.map((item) => `
+      <a href="${escapeHtml(item.url || "pmw-wallpapers.html")}" title="${escapeHtml(item.title || "Downloaded wallpaper")}">
+        <img src="${escapeHtml(item.image || "")}" alt="${escapeHtml(item.title || "Downloaded wallpaper")}">
+      </a>
+    `).join("");
   }
 };
 
@@ -88,15 +125,16 @@ onAuthStateChanged(auth, async (user) => {
 
   const isPremium = await isPremiumUser(user);
   const planName = isPremium ? "Premium Member" : "Free Member";
-  const accountStatus = isPremium ? "Premium access active." : "Free account active.";
+  const accountStatus = isPremium ? "Premium access active." : "Free Plan";
 
   setText(planEl, planName);
   setText(accountPlanSummary, planName);
   setText(msg, accountStatus);
-  setText(accountTierStat, isPremium ? "Premium" : "Free");
+  setText(accountTierStat, isPremium ? "Premium" : "Free Plan");
   if (isPremium) {
     premiumAction.textContent = "Open Premium";
     premiumAction.href = "premium-wallpapers.html";
+    billingPortalBtn.hidden = false;
     billingPortalBtn.textContent = BILLING_PORTAL_LABEL;
     billingPortalBtn.dataset.defaultLabel = BILLING_PORTAL_LABEL;
     setText(
@@ -106,11 +144,12 @@ onAuthStateChanged(auth, async (user) => {
   } else {
     premiumAction.textContent = "Go Premium";
     premiumAction.href = "premium.html";
-    billingPortalBtn.textContent = BILLING_PORTAL_FREE_LABEL;
-    billingPortalBtn.dataset.defaultLabel = BILLING_PORTAL_FREE_LABEL;
+    billingPortalBtn.hidden = true;
+    billingPortalBtn.textContent = BILLING_PORTAL_LABEL;
+    billingPortalBtn.dataset.defaultLabel = BILLING_PORTAL_LABEL;
     setText(
       billingPortalCopy,
-      "After subscribing, this portal lets you cancel your plan, update payment details, and view invoices securely through Paddle."
+      "Free users can upgrade anytime. Subscription management appears here after you become a premium member."
     );
   }
 
@@ -119,6 +158,8 @@ onAuthStateChanged(auth, async (user) => {
   } catch (error) {
     console.warn("Unable to load saved wallpapers.", error);
   }
+
+  renderDownloadedWallpapers();
 });
 
 logoutBtn.addEventListener("click", async () => {

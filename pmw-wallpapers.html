@@ -558,7 +558,7 @@
             box-shadow: 0 24px 60px rgba(0,0,0,0.48);
         }
         .wallpaper-thumb {
-            aspect-ratio: 4 / 5;
+            aspect-ratio: var(--wallpaper-aspect, 9 / 16);
             overflow: hidden;
             background: #111;
             position: relative;
@@ -572,6 +572,12 @@
             transition: transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
         }
         .wallpaper-card:hover img { transform: scale(1.06); }
+        .wallpaper-card.is-mobile .wallpaper-thumb {
+            aspect-ratio: 9 / 16;
+        }
+        .wallpaper-card.is-desktop .wallpaper-thumb {
+            aspect-ratio: 16 / 9;
+        }
         .wallpaper-hd-badge {
             position: absolute;
             top: 10px;
@@ -1448,12 +1454,10 @@
         function getWallpaperCardMarkup(item, options = {}) {
             const devices = getDeviceTypes(item);
             const wide = options.wide || devices.includes('desktop') || isWideWallpaper(item);
-            const size = getResolutionSize(item);
-            const aspect = size.width && size.height
-                ? `${size.width} / ${size.height}`
-                : (wide ? '16 / 9' : '9 / 16');
+            const orientationClass = wide ? 'is-desktop' : 'is-mobile';
+            const aspect = wide ? '16 / 9' : '9 / 16';
             return `
-                <a class="wallpaper-card" data-id="${escapeHtml(item.id)}" data-panel-only="${opensPanelOnly(item) ? 'true' : 'false'}" href="${escapeHtml(getWallpaperPageUrl(item))}" style="--wallpaper-aspect: ${escapeHtml(aspect)}">
+                <a class="wallpaper-card ${orientationClass}" data-id="${escapeHtml(item.id)}" data-panel-only="${opensPanelOnly(item) ? 'true' : 'false'}" href="${escapeHtml(getWallpaperPageUrl(item))}" style="--wallpaper-aspect: ${escapeHtml(aspect)}">
                     <div class="wallpaper-thumb">
                         <img src="${escapeHtml(item.thumbnail)}" alt="${escapeHtml(item.title)}" loading="lazy">
                         <span class="wallpaper-hd-badge">HD</span>
@@ -1679,6 +1683,7 @@
                     id: selectedWallpaper.id,
                     title: selectedWallpaper.title,
                     category: getItemTypes(selectedWallpaper).map(getCategoryLabel).join(', '),
+                    image: selectedWallpaper.thumbnail || selectedWallpaper.preview || selectedWallpaper.image || '',
                     url: location.href,
                     type: 'wallpaper'
                 });

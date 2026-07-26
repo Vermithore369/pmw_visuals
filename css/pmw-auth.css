@@ -1199,23 +1199,23 @@ a {
 
 .pmw-dashboard-stats {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
 }
 
 .pmw-dashboard-stats article {
   display: grid;
-  grid-template-columns: 54px minmax(0, 1fr);
+  grid-template-columns: 46px minmax(0, 1fr);
   grid-template-areas:
     "icon value"
     "icon label"
     "icon copy";
-  gap: 5px 18px;
+  gap: 4px 14px;
   align-items: center;
-  min-height: 128px;
+  min-height: 118px;
   min-width: 0;
   border-radius: 18px;
-  padding: 22px;
+  padding: 18px;
 }
 
 .pmw-stat-icon,
@@ -1228,7 +1228,7 @@ a {
 .pmw-dashboard-stats strong {
   grid-area: value;
   color: #fff;
-  font-size: 2rem;
+  font-size: clamp(1.55rem, 2.2vw, 1.9rem);
   line-height: 1;
 }
 
@@ -1242,7 +1242,8 @@ a {
   margin: 0;
   color: #fff;
   font-weight: 800;
-  line-height: 1.2;
+  font-size: clamp(0.78rem, 1.08vw, 0.96rem);
+  line-height: 1.18;
   overflow-wrap: normal;
   word-break: normal;
 }
@@ -1251,7 +1252,8 @@ a {
   grid-area: copy;
   margin: 0;
   color: var(--muted);
-  line-height: 1.45;
+  font-size: clamp(0.72rem, 0.94vw, 0.86rem);
+  line-height: 1.35;
 }
 
 .pmw-dashboard-panel {
@@ -1494,7 +1496,13 @@ a {
   }
 
   .pmw-dashboard-stats {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .pmw-dashboard-stats article {
+    grid-template-columns: 42px minmax(0, 1fr);
+    padding: 16px;
   }
 }
 

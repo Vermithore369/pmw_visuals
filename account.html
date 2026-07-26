@@ -29,7 +29,7 @@
           <span class="pmw-menu-icon">S</span>
           Saved Wallpapers
         </a>
-        <a class="is-placeholder" href="#downloads" aria-disabled="true">
+        <a href="#downloads">
           <span class="pmw-menu-icon">DL</span>
           Downloads
         </a>
@@ -82,7 +82,7 @@
         </article>
         <article>
           <span class="pmw-stat-icon">DL</span>
-          <strong>0</strong>
+          <strong id="downloadedWallpapersCount">0</strong>
           <p>Downloaded</p>
           <small>Wallpapers you've downloaded</small>
         </article>
@@ -117,6 +117,21 @@
           <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_53_dlxavf.png" alt="Dark blue fantasy wallpaper preview"></a>
           <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_56_cqvglb.png" alt="Moonlit forest wallpaper preview"></a>
           <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135620/D.F.W_30_oxfk2m.png" alt="Dark romantic wallpaper preview"></a>
+        </div>
+      </section>
+
+      <section class="pmw-dashboard-panel pmw-explore-panel" id="downloads">
+        <div class="pmw-panel-heading">
+          <div>
+            <h2>Downloaded Wallpapers</h2>
+            <p>Your recent wallpaper downloads from this browser.</p>
+          </div>
+          <a class="pmw-outline-button" href="pmw-wallpapers.html">Find More</a>
+        </div>
+        <div class="pmw-explore-strip" id="downloadedWallpaperPreviewStrip">
+          <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_53_dlxavf.png" alt="Wallpaper download preview"></a>
+          <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135604/D.F.W_56_cqvglb.png" alt="Wallpaper download preview"></a>
+          <a href="pmw-wallpapers.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_260,q_auto,f_auto/v1780135620/D.F.W_30_oxfk2m.png" alt="Wallpaper download preview"></a>
         </div>
       </section>
     </section>
@@ -156,7 +171,7 @@
         <h2>Subscription & Billing</h2>
         <p id="billingPortalCopy">Manage your subscription, cancel your plan, update payment details, or view invoices through the secure Paddle customer portal.</p>
         <div class="pmw-help-actions">
-          <button class="pmw-outline-button" id="billingPortalBtn" type="button">Manage or Cancel Subscription</button>
+          <button class="pmw-outline-button" id="billingPortalBtn" type="button" hidden>Manage or Cancel Subscription</button>
           <a class="pmw-outline-button" href="contact.html">Contact Us</a>
           <button class="pmw-outline-button" id="logoutBtn" type="button">Logout</button>
         </div>

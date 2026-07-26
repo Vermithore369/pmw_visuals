@@ -12,6 +12,7 @@ import {
 
 const SAVE_SELECTOR = "[data-save-wallpaper]";
 const savedIds = new Set();
+const LOCAL_SAVE_PREFIX = "pmw_saved_wallpapers_";
 let currentUser = auth.currentUser || null;
 let observerStarted = false;
 let stylesInjected = false;
@@ -36,6 +37,51 @@ function getCollectionRef(user = currentUser) {
 function getDocRef(id, user = currentUser) {
   if (!user || !id) return null;
   return doc(db, "users", user.uid, "savedWallpapers", id);
+}
+
+function getLocalKey(user = currentUser) {
+  return user?.uid ? `${LOCAL_SAVE_PREFIX}${user.uid}` : "";
+}
+
+function readLocalSavedWallpapers(user = currentUser) {
+  const key = getLocalKey(user);
+  if (!key) return [];
+  try {
+    return JSON.parse(localStorage.getItem(key) || "[]");
+  } catch {
+    return [];
+  }
+}
+
+function writeLocalSavedWallpapers(items, user = currentUser) {
+  const key = getLocalKey(user);
+  if (!key) return;
+  try {
+    localStorage.setItem(key, JSON.stringify(items.slice(-500)));
+  } catch {
+    // Storage can be unavailable in strict browser modes.
+  }
+}
+
+function upsertLocalSavedWallpaper(payload, user = currentUser) {
+  const cleanId = safeId(payload.id);
+  if (!cleanId) return;
+  const items = readLocalSavedWallpapers(user).filter((item) => safeId(item.id) !== cleanId);
+  items.push({
+    id: cleanId,
+    title: String(payload.title || "Untitled wallpaper"),
+    image: String(payload.image || ""),
+    url: String(payload.url || location.href),
+    category: String(payload.category || ""),
+    savedAt: new Date().toISOString(),
+  });
+  writeLocalSavedWallpapers(items, user);
+}
+
+function removeLocalSavedWallpaper(id, user = currentUser) {
+  const cleanId = safeId(id);
+  const items = readLocalSavedWallpapers(user).filter((item) => safeId(item.id) !== cleanId);
+  writeLocalSavedWallpapers(items, user);
 }
 
 function getPagePayload() {
@@ -112,6 +158,10 @@ async function loadSavedIds(user = currentUser) {
   } catch (error) {
     console.warn("Unable to load saved wallpapers.", error);
   }
+  readLocalSavedWallpapers(user).forEach((item) => {
+    const cleanId = safeId(item.id);
+    if (cleanId) savedIds.add(cleanId);
+  });
   refreshButtons();
 }
 
@@ -142,14 +192,23 @@ async function saveWallpaper(payload, user = currentUser) {
   const ref = getDocRef(cleanId, user);
   if (!ref) return false;
 
-  await setDoc(ref, {
+  const savedData = {
     id: cleanId,
     title: String(payload.title || "Untitled wallpaper"),
     image: String(payload.image || ""),
     url: String(payload.url || location.href),
     category: String(payload.category || ""),
-    savedAt: serverTimestamp(),
-  }, { merge: true });
+  };
+
+  try {
+    await setDoc(ref, {
+      ...savedData,
+      savedAt: serverTimestamp(),
+    }, { merge: true });
+  } catch (error) {
+    console.warn("Saving wallpaper to Firestore failed. Using browser backup storage.", error);
+    upsertLocalSavedWallpaper(savedData, user);
+  }
   savedIds.add(cleanId);
   return true;
 }
@@ -162,7 +221,12 @@ async function unsaveWallpaper(id, user = currentUser) {
   const ref = getDocRef(cleanId, user);
   if (!ref) return false;
 
-  await deleteDoc(ref);
+  try {
+    await deleteDoc(ref);
+  } catch (error) {
+    console.warn("Removing saved wallpaper from Firestore failed. Removing browser backup copy.", error);
+  }
+  removeLocalSavedWallpaper(cleanId, user);
   savedIds.delete(cleanId);
   return true;
 }
@@ -186,7 +250,8 @@ async function toggleSaved(button) {
     refreshButtons();
   } catch (error) {
     console.error("Unable to update saved wallpaper.", error);
-    button.textContent = "Try again";
+    updateButton(button);
+    button.setAttribute("title", "Could not save this wallpaper. Please try again.");
   } finally {
     button.classList.remove("is-busy");
   }
@@ -315,8 +380,20 @@ function startObserver() {
 async function getSavedWallpapers(user = currentUser) {
   await authReady;
   if (!user) return [];
-  const snapshot = await getDocs(getCollectionRef(user));
-  return snapshot.docs.map((item) => ({ id: item.id, ...item.data() }));
+  const localItems = readLocalSavedWallpapers(user);
+  try {
+    const snapshot = await getDocs(getCollectionRef(user));
+    const firestoreItems = snapshot.docs.map((item) => ({ id: item.id, ...item.data() }));
+    const merged = new Map();
+    [...localItems, ...firestoreItems].forEach((item) => {
+      const cleanId = safeId(item.id);
+      if (cleanId) merged.set(cleanId, { ...item, id: cleanId });
+    });
+    return Array.from(merged.values());
+  } catch (error) {
+    console.warn("Unable to load saved wallpapers from Firestore. Using browser backup storage.", error);
+    return localItems;
+  }
 }
 
 function initializeSavedWallpaperButtons() {

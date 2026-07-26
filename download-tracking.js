@@ -17,11 +17,18 @@
         }
     }
 
+    function getPageImage() {
+        return document.querySelector('meta[property="og:image"]')?.content
+            || document.querySelector('.preview-card img, #panelImage, .wallpaper-panel img, .wallpaper-thumb img')?.src
+            || '';
+    }
+
     function trackDownload(payload) {
         const event = {
             id: payload.id || '',
             title: payload.title || '',
             category: payload.category || '',
+            image: payload.image || payload.thumbnail || getPageImage(),
             url: payload.url || location.href,
             type: payload.type || 'wallpaper',
             time: new Date().toISOString()

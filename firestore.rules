@@ -11,6 +11,10 @@ service cloud.firestore {
         && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
     }
 
+    function isOwner(userId) {
+      return signedIn() && request.auth.uid == userId;
+    }
+
     function hasPremiumClaim() {
       return signedIn()
         && (
@@ -116,6 +120,26 @@ service cloud.firestore {
         );
 
       allow delete: if isAdmin();
+
+      match /savedWallpapers/{savedWallpaperId} {
+        allow read: if isOwner(userId) || isAdmin();
+        allow create, update: if isOwner(userId)
+          && request.resource.data.keys().hasOnly([
+            'id',
+            'title',
+            'image',
+            'url',
+            'category',
+            'savedAt'
+          ])
+          && request.resource.data.id == savedWallpaperId
+          && request.resource.data.title is string
+          && request.resource.data.image is string
+          && request.resource.data.url is string
+          && request.resource.data.category is string
+          && request.resource.data.savedAt is timestamp;
+        allow delete: if isOwner(userId) || isAdmin();
+      }
     }
 
     match /wallpapers/{wallpaperId} {
