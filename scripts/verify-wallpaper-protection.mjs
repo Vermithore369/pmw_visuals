@@ -63,10 +63,22 @@ if (!mainGallery.includes(
   failures.push("pmw-wallpapers.html: premium quick-view watermark toggle is missing");
 }
 
-for (const dataFile of ["wallpapers-data.js", "desktop-wallpapers-data.js"]) {
-  const source = fs.readFileSync(path.join(root, dataFile), "utf8");
-  if (/res\.cloudinary\.com|cloudinaryPublicId|public_id|imageUrl\s*:/.test(source)) {
-    failures.push(`${dataFile}: exposes an original Cloudinary delivery field`);
+const mobileData = fs.readFileSync(path.join(root, "wallpapers-data.js"), "utf8");
+if (/res\.cloudinary\.com|cloudinaryPublicId|public_id|imageUrl\s*:/.test(mobileData)) {
+  failures.push("wallpapers-data.js: exposes an original Cloudinary delivery field");
+}
+
+const desktopContext = { window: {} };
+vm.runInNewContext(
+  fs.readFileSync(path.join(root, "desktop-wallpapers-data.js"), "utf8"),
+  desktopContext
+);
+for (const item of desktopContext.window.PMW_DESKTOP_WALLPAPERS || []) {
+  if (String(item.access || "free").toLowerCase() === "premium") {
+    const serialized = JSON.stringify(item);
+    if (/res\.cloudinary\.com|cloudinaryPublicId|public_id|publicId/.test(serialized)) {
+      failures.push(`desktop-wallpapers-data.js: premium item ${item.id} exposes its original source`);
+    }
   }
 }
 

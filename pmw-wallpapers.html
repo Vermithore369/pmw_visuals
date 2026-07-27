@@ -1264,14 +1264,16 @@
         function mixWallpaperLists(primaryItems = [], desktopItems = []) {
             const mixed = [];
             let desktopIndex = 0;
+            const protectedIds = new Set(primaryItems.map(item => item.id).filter(Boolean));
+            const availableDesktopItems = desktopItems.filter(item => !protectedIds.has(item.id));
             primaryItems.forEach((item, index) => {
                 mixed.push(item);
-                if ((index + 1) % 3 === 0 && desktopIndex < desktopItems.length) {
-                    mixed.push(desktopItems[desktopIndex]);
+                if ((index + 1) % 3 === 0 && desktopIndex < availableDesktopItems.length) {
+                    mixed.push(availableDesktopItems[desktopIndex]);
                     desktopIndex += 1;
                 }
             });
-            return mergeWallpaperLists(mixed, desktopItems.slice(desktopIndex));
+            return mergeWallpaperLists(mixed, availableDesktopItems.slice(desktopIndex));
         }
 
         function getResolutionSize(item) {
@@ -1730,6 +1732,10 @@
                     url: location.href,
                     type: 'wallpaper'
                 });
+            }
+            if (selectedWallpaper.source === 'desktop-static' && selectedWallpaper.access !== 'premium') {
+                window.location.href = selectedWallpaper.download || selectedWallpaper.imageUrl;
+                return;
             }
             try {
                 const { requestWallpaperDownload, navigateForDownloadError } = await import('./js/secure-wallpaper-download.js');

@@ -198,23 +198,71 @@ function sanitizeWallpaperDocument(doc) {
 
 function getCloudinarySource(data = {}) {
   const imageUrl = String(data.imageUrl || data.image || data.preview || "").trim();
-  const previewUrl = String(
-    data.previewUrl || data.protectedPreviewUrl || imageUrl,
-  ).trim();
   const publicId = String(
     data.cloudinaryPublicId || data.public_id || data.publicId || "",
   ).trim();
   const cloudNameMatch = imageUrl.match(/res\.cloudinary\.com\/([^/]+)\//i);
-  const cloudName = String(data.cloudinaryCloudName || cloudNameMatch?.[1] || "").trim();
+  const deviceTypes = Array.isArray(data.deviceTypes)
+    ? data.deviceTypes.map((value) => String(value || "").toLowerCase())
+    : [String(data.deviceType || data.device || "").toLowerCase()];
+  const sourceName = String(data.source || "").toLowerCase();
+  const isDesktop = deviceTypes.includes("desktop")
+    || deviceTypes.includes("laptop")
+    || sourceName.includes("desktop")
+    || (Number(data.width) > Number(data.height));
+  const cloudName = String(
+    data.cloudinaryCloudName
+      || cloudNameMatch?.[1]
+      || (isDesktop ? "nhxfoykh" : "dlmjetz3s"),
+  ).trim();
+  const format = String(data.format || "").replace(/^\./, "").toLowerCase();
+  const resourceType = String(data.resourceType || "image");
+  const deliveryType = String(data.deliveryType || data.cloudinaryDeliveryType || "upload");
+  const derivedPreviewUrl = buildCloudinaryDeliveryUrl({
+    cloudName,
+    publicId,
+    format,
+    resourceType,
+    deliveryType,
+  });
+  const previewUrl = String(
+    data.previewUrl || data.protectedPreviewUrl || imageUrl || derivedPreviewUrl,
+  ).trim();
   return {
     imageUrl,
     previewUrl,
     publicId,
     cloudName,
-    format: String(data.format || "").replace(/^\./, "").toLowerCase(),
-    resourceType: String(data.resourceType || "image"),
-    deliveryType: String(data.deliveryType || data.cloudinaryDeliveryType || "upload"),
+    format,
+    resourceType,
+    deliveryType,
   };
+}
+
+function buildCloudinaryDeliveryUrl({
+  cloudName,
+  publicId,
+  format,
+  resourceType = "image",
+  deliveryType = "upload",
+}) {
+  const normalizedCloudName = String(cloudName || "").trim();
+  const normalizedPublicId = String(publicId || "").replace(/^\/+/, "").trim();
+  if (!normalizedCloudName || !normalizedPublicId) return "";
+
+  const encodedPublicId = normalizedPublicId
+    .split("/")
+    .filter(Boolean)
+    .map((segment) => encodeURIComponent(segment))
+    .join("/");
+  const safeFormat = /^[a-z0-9]+$/i.test(format || "") ? String(format).toLowerCase() : "";
+  const extension = safeFormat && !/\.[a-z0-9]+$/i.test(normalizedPublicId)
+    ? `.${safeFormat}`
+    : "";
+
+  return `https://res.cloudinary.com/${encodeURIComponent(normalizedCloudName)}`
+    + `/${encodeURIComponent(resourceType)}/${encodeURIComponent(deliveryType)}`
+    + `/${encodedPublicId}${extension}`;
 }
 
 function addCloudinaryTransformation(url, transformation) {

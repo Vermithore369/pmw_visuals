@@ -21,11 +21,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunset"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-enchanted-treehouse-city-at-sunset-001&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-enchanted-treehouse-city-at-sunset-001&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-enchanted-treehouse-city-at-sunset-001&variant=thumbnail",
-    "download": "",
-    "slug": "enchanted-treehouse-city-at-sunset"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0001/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_1.png",
+    "slug": "enchanted-treehouse-city-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_16_PM_1"
   },
   {
     "id": "desktop-golden-sky-forest-treehouse-realm-002",
@@ -50,11 +51,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "realm"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-sky-forest-treehouse-realm-002&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-sky-forest-treehouse-realm-002&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-sky-forest-treehouse-realm-002&variant=thumbnail",
-    "download": "",
-    "slug": "golden-sky-forest-treehouse-realm"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0002/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_16_PM_2.png",
+    "slug": "golden-sky-forest-treehouse-realm",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_16_PM_2"
   },
   {
     "id": "desktop-white-floating-palace-above-clouds-003",
@@ -78,11 +80,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-floating-palace-above-clouds-003&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-floating-palace-above-clouds-003&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-floating-palace-above-clouds-003&variant=thumbnail",
-    "download": "",
-    "slug": "white-floating-palace-above-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784388137/ChatGPT_Image_Jul_16_2026_05_21_28_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784388137/ChatGPT_Image_Jul_16_2026_05_21_28_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784388137/ChatGPT_Image_Jul_16_2026_05_21_28_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0003/v1784388137/ChatGPT_Image_Jul_16_2026_05_21_28_PM.png",
+    "slug": "white-floating-palace-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_28_PM"
   },
   {
     "id": "desktop-magical-library-with-floating-books-004",
@@ -106,11 +109,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "books"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-magical-library-with-floating-books-004&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-magical-library-with-floating-books-004&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-magical-library-with-floating-books-004&variant=thumbnail",
-    "download": "",
-    "slug": "magical-library-with-floating-books"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389643/ChatGPT_Image_Jul_16_2026_05_21_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389643/ChatGPT_Image_Jul_16_2026_05_21_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389643/ChatGPT_Image_Jul_16_2026_05_21_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0004/v1784389643/ChatGPT_Image_Jul_16_2026_05_21_30_PM.png",
+    "slug": "magical-library-with-floating-books",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_30_PM"
   },
   {
     "id": "desktop-flying-whale-castle-in-the-clouds-005",
@@ -134,11 +138,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-flying-whale-castle-in-the-clouds-005&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-flying-whale-castle-in-the-clouds-005&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-flying-whale-castle-in-the-clouds-005&variant=thumbnail",
-    "download": "",
-    "slug": "flying-whale-castle-in-the-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784388329/ChatGPT_Image_Jul_16_2026_05_21_33_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784388329/ChatGPT_Image_Jul_16_2026_05_21_33_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784388329/ChatGPT_Image_Jul_16_2026_05_21_33_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0005/v1784388329/ChatGPT_Image_Jul_16_2026_05_21_33_PM.png",
+    "slug": "flying-whale-castle-in-the-clouds",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_33_PM"
   },
   {
     "id": "desktop-bioluminescent-jungle-waterfall-path-006",
@@ -162,11 +167,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "path"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-bioluminescent-jungle-waterfall-path-006&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-bioluminescent-jungle-waterfall-path-006&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-bioluminescent-jungle-waterfall-path-006&variant=thumbnail",
-    "download": "",
-    "slug": "bioluminescent-jungle-waterfall-path"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389642/ChatGPT_Image_Jul_16_2026_05_21_36_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389642/ChatGPT_Image_Jul_16_2026_05_21_36_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389642/ChatGPT_Image_Jul_16_2026_05_21_36_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0006/v1784389642/ChatGPT_Image_Jul_16_2026_05_21_36_PM.png",
+    "slug": "bioluminescent-jungle-waterfall-path",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_36_PM"
   },
   {
     "id": "desktop-storm-fortress-among-floating-rocks-007",
@@ -191,11 +197,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "rocks"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-storm-fortress-among-floating-rocks-007&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-storm-fortress-among-floating-rocks-007&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-storm-fortress-among-floating-rocks-007&variant=thumbnail",
-    "download": "",
-    "slug": "storm-fortress-among-floating-rocks"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784388068/ChatGPT_Image_Jul_16_2026_05_21_38_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784388068/ChatGPT_Image_Jul_16_2026_05_21_38_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784388068/ChatGPT_Image_Jul_16_2026_05_21_38_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0007/v1784388068/ChatGPT_Image_Jul_16_2026_05_21_38_PM.png",
+    "slug": "storm-fortress-among-floating-rocks",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_38_PM"
   },
   {
     "id": "desktop-crescent-moon-over-a-misty-wasteland-008",
@@ -219,11 +226,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "wasteland"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crescent-moon-over-a-misty-wasteland-008&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crescent-moon-over-a-misty-wasteland-008&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crescent-moon-over-a-misty-wasteland-008&variant=thumbnail",
-    "download": "",
-    "slug": "crescent-moon-over-a-misty-wasteland"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387650/ChatGPT_Image_Jul_16_2026_05_21_40_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387650/ChatGPT_Image_Jul_16_2026_05_21_40_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387650/ChatGPT_Image_Jul_16_2026_05_21_40_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0008/v1784387650/ChatGPT_Image_Jul_16_2026_05_21_40_PM.png",
+    "slug": "crescent-moon-over-a-misty-wasteland",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_40_PM"
   },
   {
     "id": "desktop-moonlit-crystal-waterfall-garden-009",
@@ -247,11 +255,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "garden"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-crystal-waterfall-garden-009&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-crystal-waterfall-garden-009&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-crystal-waterfall-garden-009&variant=thumbnail",
-    "download": "",
-    "slug": "moonlit-crystal-waterfall-garden"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_43_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_43_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_43_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0009/v1784389644/ChatGPT_Image_Jul_16_2026_05_21_43_PM.png",
+    "slug": "moonlit-crystal-waterfall-garden",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_43_PM"
   },
   {
     "id": "desktop-stormy-mountain-kingdom-in-mist-010",
@@ -275,11 +284,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "mist"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-stormy-mountain-kingdom-in-mist-010&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-stormy-mountain-kingdom-in-mist-010&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-stormy-mountain-kingdom-in-mist-010&variant=thumbnail",
-    "download": "",
-    "slug": "stormy-mountain-kingdom-in-mist"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784388076/ChatGPT_Image_Jul_16_2026_05_21_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784388076/ChatGPT_Image_Jul_16_2026_05_21_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784388076/ChatGPT_Image_Jul_16_2026_05_21_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0010/v1784388076/ChatGPT_Image_Jul_16_2026_05_21_45_PM.png",
+    "slug": "stormy-mountain-kingdom-in-mist",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_45_PM"
   },
   {
     "id": "desktop-moonlit-ancient-forest-portal-011",
@@ -303,11 +313,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "portal"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-ancient-forest-portal-011&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-ancient-forest-portal-011&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-ancient-forest-portal-011&variant=thumbnail",
-    "download": "",
-    "slug": "moonlit-ancient-forest-portal"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_47_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_47_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_47_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0011/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_47_PM.png",
+    "slug": "moonlit-ancient-forest-portal",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_47_PM"
   },
   {
     "id": "desktop-solar-eclipse-over-dark-spires-012",
@@ -331,11 +342,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "spires"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solar-eclipse-over-dark-spires-012&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solar-eclipse-over-dark-spires-012&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solar-eclipse-over-dark-spires-012&variant=thumbnail",
-    "download": "",
-    "slug": "solar-eclipse-over-dark-spires"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0012/v1784389646/ChatGPT_Image_Jul_16_2026_05_21_50_PM.png",
+    "slug": "solar-eclipse-over-dark-spires",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_50_PM"
   },
   {
     "id": "desktop-full-moon-lotus-lake-fantasy-013",
@@ -360,11 +372,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "fantasy"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-full-moon-lotus-lake-fantasy-013&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-full-moon-lotus-lake-fantasy-013&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-full-moon-lotus-lake-fantasy-013&variant=thumbnail",
-    "download": "",
-    "slug": "full-moon-lotus-lake-fantasy"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389699/ChatGPT_Image_Jul_16_2026_05_21_52_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389699/ChatGPT_Image_Jul_16_2026_05_21_52_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389699/ChatGPT_Image_Jul_16_2026_05_21_52_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0013/v1784389699/ChatGPT_Image_Jul_16_2026_05_21_52_PM.png",
+    "slug": "full-moon-lotus-lake-fantasy",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_52_PM"
   },
   {
     "id": "desktop-red-moon-haunted-swamp-014",
@@ -388,11 +401,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "swamp"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-moon-haunted-swamp-014&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-moon-haunted-swamp-014&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-moon-haunted-swamp-014&variant=thumbnail",
-    "download": "",
-    "slug": "red-moon-haunted-swamp"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389647/ChatGPT_Image_Jul_16_2026_05_21_55_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389647/ChatGPT_Image_Jul_16_2026_05_21_55_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389647/ChatGPT_Image_Jul_16_2026_05_21_55_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0014/v1784389647/ChatGPT_Image_Jul_16_2026_05_21_55_PM.png",
+    "slug": "red-moon-haunted-swamp",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_55_PM"
   },
   {
     "id": "desktop-crimson-waterfall-under-red-moon-015",
@@ -416,11 +430,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crimson-waterfall-under-red-moon-015&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crimson-waterfall-under-red-moon-015&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crimson-waterfall-under-red-moon-015&variant=thumbnail",
-    "download": "",
-    "slug": "crimson-waterfall-under-red-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389656/ChatGPT_Image_Jul_16_2026_05_21_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389656/ChatGPT_Image_Jul_16_2026_05_21_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389656/ChatGPT_Image_Jul_16_2026_05_21_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0015/v1784389656/ChatGPT_Image_Jul_16_2026_05_21_57_PM.png",
+    "slug": "crimson-waterfall-under-red-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_57_PM"
   },
   {
     "id": "desktop-eclipse-temple-above-the-clouds-016",
@@ -443,11 +458,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-temple-above-the-clouds-016&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-temple-above-the-clouds-016&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-temple-above-the-clouds-016&variant=thumbnail",
-    "download": "",
-    "slug": "eclipse-temple-above-the-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389657/ChatGPT_Image_Jul_16_2026_05_21_59_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389657/ChatGPT_Image_Jul_16_2026_05_21_59_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389657/ChatGPT_Image_Jul_16_2026_05_21_59_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0016/v1784389657/ChatGPT_Image_Jul_16_2026_05_21_59_PM.png",
+    "slug": "eclipse-temple-above-the-clouds",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_21_59_PM"
   },
   {
     "id": "desktop-frozen-throne-in-blue-ice-cavern-017",
@@ -472,11 +488,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "cavern"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-throne-in-blue-ice-cavern-017&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-throne-in-blue-ice-cavern-017&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-throne-in-blue-ice-cavern-017&variant=thumbnail",
-    "download": "",
-    "slug": "frozen-throne-in-blue-ice-cavern"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389662/ChatGPT_Image_Jul_16_2026_05_22_01_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389662/ChatGPT_Image_Jul_16_2026_05_22_01_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389662/ChatGPT_Image_Jul_16_2026_05_22_01_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0017/v1784389662/ChatGPT_Image_Jul_16_2026_05_22_01_PM.png",
+    "slug": "frozen-throne-in-blue-ice-cavern",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_01_PM"
   },
   {
     "id": "desktop-samurai-in-red-moon-blossom-forest-018",
@@ -501,11 +518,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "forest"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-samurai-in-red-moon-blossom-forest-018&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-samurai-in-red-moon-blossom-forest-018&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-samurai-in-red-moon-blossom-forest-018&variant=thumbnail",
-    "download": "",
-    "slug": "samurai-in-red-moon-blossom-forest"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389702/ChatGPT_Image_Jul_16_2026_05_22_04_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389702/ChatGPT_Image_Jul_16_2026_05_22_04_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389702/ChatGPT_Image_Jul_16_2026_05_22_04_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0018/v1784389702/ChatGPT_Image_Jul_16_2026_05_22_04_PM.png",
+    "slug": "samurai-in-red-moon-blossom-forest",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_04_PM"
   },
   {
     "id": "desktop-mage-opening-a-violet-portal-019",
@@ -529,11 +547,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "portal"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mage-opening-a-violet-portal-019&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mage-opening-a-violet-portal-019&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mage-opening-a-violet-portal-019&variant=thumbnail",
-    "download": "",
-    "slug": "mage-opening-a-violet-portal"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389698/ChatGPT_Image_Jul_16_2026_05_22_11_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389698/ChatGPT_Image_Jul_16_2026_05_22_11_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389698/ChatGPT_Image_Jul_16_2026_05_22_11_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0019/v1784389698/ChatGPT_Image_Jul_16_2026_05_22_11_PM_1.png",
+    "slug": "mage-opening-a-violet-portal",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_11_PM_1"
   },
   {
     "id": "desktop-dragon-over-a-stormy-mountain-city-020",
@@ -557,11 +576,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "city"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dragon-over-a-stormy-mountain-city-020&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dragon-over-a-stormy-mountain-city-020&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dragon-over-a-stormy-mountain-city-020&variant=thumbnail",
-    "download": "",
-    "slug": "dragon-over-a-stormy-mountain-city"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387665/ChatGPT_Image_Jul_16_2026_05_22_11_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387665/ChatGPT_Image_Jul_16_2026_05_22_11_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387665/ChatGPT_Image_Jul_16_2026_05_22_11_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0020/v1784387665/ChatGPT_Image_Jul_16_2026_05_22_11_PM_2.png",
+    "slug": "dragon-over-a-stormy-mountain-city",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_11_PM_2"
   },
   {
     "id": "desktop-dark-angel-under-blood-eclipse-021",
@@ -585,11 +605,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "eclipse"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-angel-under-blood-eclipse-021&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-angel-under-blood-eclipse-021&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-angel-under-blood-eclipse-021&variant=thumbnail",
-    "download": "",
-    "slug": "dark-angel-under-blood-eclipse"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389666/ChatGPT_Image_Jul_16_2026_05_22_15_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389666/ChatGPT_Image_Jul_16_2026_05_22_15_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389666/ChatGPT_Image_Jul_16_2026_05_22_15_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0021/v1784389666/ChatGPT_Image_Jul_16_2026_05_22_15_PM.png",
+    "slug": "dark-angel-under-blood-eclipse",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_15_PM"
   },
   {
     "id": "desktop-demon-warrior-in-burning-forest-022",
@@ -613,11 +634,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "forest"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-demon-warrior-in-burning-forest-022&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-demon-warrior-in-burning-forest-022&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-demon-warrior-in-burning-forest-022&variant=thumbnail",
-    "download": "",
-    "slug": "demon-warrior-in-burning-forest"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387632/ChatGPT_Image_Jul_16_2026_05_22_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387632/ChatGPT_Image_Jul_16_2026_05_22_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387632/ChatGPT_Image_Jul_16_2026_05_22_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0022/v1784387632/ChatGPT_Image_Jul_16_2026_05_22_17_PM.png",
+    "slug": "demon-warrior-in-burning-forest",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_17_PM"
   },
   {
     "id": "desktop-cosmic-world-tree-over-city-023",
@@ -641,11 +663,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "city"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-world-tree-over-city-023&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-world-tree-over-city-023&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-world-tree-over-city-023&variant=thumbnail",
-    "download": "",
-    "slug": "cosmic-world-tree-over-city"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389678/ChatGPT_Image_Jul_16_2026_05_22_54_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389678/ChatGPT_Image_Jul_16_2026_05_22_54_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389678/ChatGPT_Image_Jul_16_2026_05_22_54_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0023/v1784389678/ChatGPT_Image_Jul_16_2026_05_22_54_PM.png",
+    "slug": "cosmic-world-tree-over-city",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_54_PM"
   },
   {
     "id": "desktop-starlit-ghost-ship-on-mirror-sea-024",
@@ -670,11 +693,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sea"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-starlit-ghost-ship-on-mirror-sea-024&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-starlit-ghost-ship-on-mirror-sea-024&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-starlit-ghost-ship-on-mirror-sea-024&variant=thumbnail",
-    "download": "",
-    "slug": "starlit-ghost-ship-on-mirror-sea"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389680/ChatGPT_Image_Jul_16_2026_05_22_56_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389680/ChatGPT_Image_Jul_16_2026_05_22_56_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389680/ChatGPT_Image_Jul_16_2026_05_22_56_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0024/v1784389680/ChatGPT_Image_Jul_16_2026_05_22_56_PM.png",
+    "slug": "starlit-ghost-ship-on-mirror-sea",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_56_PM"
   },
   {
     "id": "desktop-glowing-ancient-tree-under-stars-025",
@@ -698,11 +722,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "stars"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-glowing-ancient-tree-under-stars-025&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-glowing-ancient-tree-under-stars-025&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-glowing-ancient-tree-under-stars-025&variant=thumbnail",
-    "download": "",
-    "slug": "glowing-ancient-tree-under-stars"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389692/ChatGPT_Image_Jul_16_2026_05_22_59_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389692/ChatGPT_Image_Jul_16_2026_05_22_59_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389692/ChatGPT_Image_Jul_16_2026_05_22_59_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0025/v1784389692/ChatGPT_Image_Jul_16_2026_05_22_59_PM.png",
+    "slug": "glowing-ancient-tree-under-stars",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_22_59_PM"
   },
   {
     "id": "desktop-shipwreck-cove-under-moonlight-026",
@@ -725,11 +750,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moonlight"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-shipwreck-cove-under-moonlight-026&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-shipwreck-cove-under-moonlight-026&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-shipwreck-cove-under-moonlight-026&variant=thumbnail",
-    "download": "",
-    "slug": "shipwreck-cove-under-moonlight"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389678/ChatGPT_Image_Jul_16_2026_05_23_01_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389678/ChatGPT_Image_Jul_16_2026_05_23_01_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389678/ChatGPT_Image_Jul_16_2026_05_23_01_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0026/v1784389678/ChatGPT_Image_Jul_16_2026_05_23_01_PM.png",
+    "slug": "shipwreck-cove-under-moonlight",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_01_PM"
   },
   {
     "id": "desktop-spiral-galaxy-over-alien-valley-027",
@@ -753,11 +779,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "valley"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-spiral-galaxy-over-alien-valley-027&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-spiral-galaxy-over-alien-valley-027&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-spiral-galaxy-over-alien-valley-027&variant=thumbnail",
-    "download": "",
-    "slug": "spiral-galaxy-over-alien-valley"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389693/ChatGPT_Image_Jul_16_2026_05_23_03_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389693/ChatGPT_Image_Jul_16_2026_05_23_03_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389693/ChatGPT_Image_Jul_16_2026_05_23_03_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0027/v1784389693/ChatGPT_Image_Jul_16_2026_05_23_03_PM.png",
+    "slug": "spiral-galaxy-over-alien-valley",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_03_PM"
   },
   {
     "id": "desktop-blue-moon-forest-stream-028",
@@ -781,11 +808,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "stream"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-moon-forest-stream-028&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-moon-forest-stream-028&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-moon-forest-stream-028&variant=thumbnail",
-    "download": "",
-    "slug": "blue-moon-forest-stream"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389694/ChatGPT_Image_Jul_16_2026_05_23_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389694/ChatGPT_Image_Jul_16_2026_05_23_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389694/ChatGPT_Image_Jul_16_2026_05_23_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0028/v1784389694/ChatGPT_Image_Jul_16_2026_05_23_05_PM.png",
+    "slug": "blue-moon-forest-stream",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_05_PM"
   },
   {
     "id": "desktop-red-storm-coast-at-sunset-029",
@@ -809,11 +837,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunset"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-storm-coast-at-sunset-029&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-storm-coast-at-sunset-029&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-storm-coast-at-sunset-029&variant=thumbnail",
-    "download": "",
-    "slug": "red-storm-coast-at-sunset"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_08_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_08_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_08_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0029/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_08_PM.png",
+    "slug": "red-storm-coast-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_08_PM"
   },
   {
     "id": "desktop-moonlit-ruins-above-a-cloud-abyss-030",
@@ -837,11 +866,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "abyss"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-ruins-above-a-cloud-abyss-030&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-ruins-above-a-cloud-abyss-030&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonlit-ruins-above-a-cloud-abyss-030&variant=thumbnail",
-    "download": "",
-    "slug": "moonlit-ruins-above-a-cloud-abyss"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_10_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_10_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_10_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0030/v1784389633/ChatGPT_Image_Jul_16_2026_05_23_10_PM.png",
+    "slug": "moonlit-ruins-above-a-cloud-abyss",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_10_PM"
   },
   {
     "id": "desktop-lava-mountain-in-a-burning-realm-031",
@@ -865,11 +895,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "realm"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lava-mountain-in-a-burning-realm-031&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lava-mountain-in-a-burning-realm-031&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lava-mountain-in-a-burning-realm-031&variant=thumbnail",
-    "download": "",
-    "slug": "lava-mountain-in-a-burning-realm"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389631/ChatGPT_Image_Jul_16_2026_05_23_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389631/ChatGPT_Image_Jul_16_2026_05_23_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389631/ChatGPT_Image_Jul_16_2026_05_23_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0031/v1784389631/ChatGPT_Image_Jul_16_2026_05_23_12_PM.png",
+    "slug": "lava-mountain-in-a-burning-realm",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_12_PM"
   },
   {
     "id": "desktop-lanterns-in-a-stormy-pine-valley-032",
@@ -893,11 +924,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "valley"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lanterns-in-a-stormy-pine-valley-032&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lanterns-in-a-stormy-pine-valley-032&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lanterns-in-a-stormy-pine-valley-032&variant=thumbnail",
-    "download": "",
-    "slug": "lanterns-in-a-stormy-pine-valley"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389630/ChatGPT_Image_Jul_16_2026_05_23_15_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389630/ChatGPT_Image_Jul_16_2026_05_23_15_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389630/ChatGPT_Image_Jul_16_2026_05_23_15_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0032/v1784389630/ChatGPT_Image_Jul_16_2026_05_23_15_PM.png",
+    "slug": "lanterns-in-a-stormy-pine-valley",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_15_PM"
   },
   {
     "id": "desktop-haunted-blue-forest-with-spirits-033",
@@ -921,11 +953,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "spirits"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-haunted-blue-forest-with-spirits-033&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-haunted-blue-forest-with-spirits-033&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-haunted-blue-forest-with-spirits-033&variant=thumbnail",
-    "download": "",
-    "slug": "haunted-blue-forest-with-spirits"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389627/ChatGPT_Image_Jul_16_2026_05_23_19_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389627/ChatGPT_Image_Jul_16_2026_05_23_19_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389627/ChatGPT_Image_Jul_16_2026_05_23_19_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0033/v1784389627/ChatGPT_Image_Jul_16_2026_05_23_19_PM.png",
+    "slug": "haunted-blue-forest-with-spirits",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_19_PM"
   },
   {
     "id": "desktop-wandering-knight-before-gothic-castle-034",
@@ -949,11 +982,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "castle"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-wandering-knight-before-gothic-castle-034&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-wandering-knight-before-gothic-castle-034&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-wandering-knight-before-gothic-castle-034&variant=thumbnail",
-    "download": "",
-    "slug": "wandering-knight-before-gothic-castle"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389610/ChatGPT_Image_Jul_16_2026_05_23_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389610/ChatGPT_Image_Jul_16_2026_05_23_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389610/ChatGPT_Image_Jul_16_2026_05_23_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0034/v1784389610/ChatGPT_Image_Jul_16_2026_05_23_22_PM.png",
+    "slug": "wandering-knight-before-gothic-castle",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_22_PM"
   },
   {
     "id": "desktop-blood-moon-cathedral-of-ravens-035",
@@ -977,11 +1011,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "ravens"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blood-moon-cathedral-of-ravens-035&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blood-moon-cathedral-of-ravens-035&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blood-moon-cathedral-of-ravens-035&variant=thumbnail",
-    "download": "",
-    "slug": "blood-moon-cathedral-of-ravens"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389622/ChatGPT_Image_Jul_16_2026_05_23_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389622/ChatGPT_Image_Jul_16_2026_05_23_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389622/ChatGPT_Image_Jul_16_2026_05_23_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0035/v1784389622/ChatGPT_Image_Jul_16_2026_05_23_24_PM.png",
+    "slug": "blood-moon-cathedral-of-ravens",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_24_PM"
   },
   {
     "id": "desktop-infernal-castle-city-under-red-sky-036",
@@ -1006,11 +1041,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sky"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-infernal-castle-city-under-red-sky-036&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-infernal-castle-city-under-red-sky-036&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-infernal-castle-city-under-red-sky-036&variant=thumbnail",
-    "download": "",
-    "slug": "infernal-castle-city-under-red-sky"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389634/ChatGPT_Image_Jul_16_2026_05_23_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389634/ChatGPT_Image_Jul_16_2026_05_23_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389634/ChatGPT_Image_Jul_16_2026_05_23_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0036/v1784389634/ChatGPT_Image_Jul_16_2026_05_23_26_PM.png",
+    "slug": "infernal-castle-city-under-red-sky",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_26_PM"
   },
   {
     "id": "desktop-cloaked-traveler-in-rainy-medieval-street-037",
@@ -1035,11 +1071,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "street"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cloaked-traveler-in-rainy-medieval-street-037&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cloaked-traveler-in-rainy-medieval-street-037&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cloaked-traveler-in-rainy-medieval-street-037&variant=thumbnail",
-    "download": "",
-    "slug": "cloaked-traveler-in-rainy-medieval-street"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389635/ChatGPT_Image_Jul_16_2026_05_23_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389635/ChatGPT_Image_Jul_16_2026_05_23_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389635/ChatGPT_Image_Jul_16_2026_05_23_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0037/v1784389635/ChatGPT_Image_Jul_16_2026_05_23_29_PM.png",
+    "slug": "cloaked-traveler-in-rainy-medieval-street",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_29_PM"
   },
   {
     "id": "desktop-dark-wanderer-under-blood-moon-038",
@@ -1063,11 +1100,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-wanderer-under-blood-moon-038&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-wanderer-under-blood-moon-038&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-wanderer-under-blood-moon-038&variant=thumbnail",
-    "download": "",
-    "slug": "dark-wanderer-under-blood-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387642/ChatGPT_Image_Jul_16_2026_05_23_31_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387642/ChatGPT_Image_Jul_16_2026_05_23_31_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387642/ChatGPT_Image_Jul_16_2026_05_23_31_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0038/v1784387642/ChatGPT_Image_Jul_16_2026_05_23_31_PM.png",
+    "slug": "dark-wanderer-under-blood-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_23_31_PM"
   },
   {
     "id": "desktop-astral-observatory-under-starry-sky-039",
@@ -1091,11 +1129,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sky"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astral-observatory-under-starry-sky-039&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astral-observatory-under-starry-sky-039&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astral-observatory-under-starry-sky-039&variant=thumbnail",
-    "download": "",
-    "slug": "astral-observatory-under-starry-sky"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387453/ChatGPT_Image_Jul_16_2026_05_24_19_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387453/ChatGPT_Image_Jul_16_2026_05_24_19_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387453/ChatGPT_Image_Jul_16_2026_05_24_19_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0039/v1784387453/ChatGPT_Image_Jul_16_2026_05_24_19_PM.png",
+    "slug": "astral-observatory-under-starry-sky",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_19_PM"
   },
   {
     "id": "desktop-blue-firefly-forest-stream-040",
@@ -1119,11 +1158,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "stream"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-firefly-forest-stream-040&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-firefly-forest-stream-040&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-firefly-forest-stream-040&variant=thumbnail",
-    "download": "",
-    "slug": "blue-firefly-forest-stream"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387473/ChatGPT_Image_Jul_16_2026_05_24_23_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387473/ChatGPT_Image_Jul_16_2026_05_24_23_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387473/ChatGPT_Image_Jul_16_2026_05_24_23_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0040/v1784387473/ChatGPT_Image_Jul_16_2026_05_24_23_PM.png",
+    "slug": "blue-firefly-forest-stream",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_23_PM"
   },
   {
     "id": "desktop-crystal-moon-valley-with-floating-gems-041",
@@ -1148,11 +1188,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "gems"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crystal-moon-valley-with-floating-gems-041&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crystal-moon-valley-with-floating-gems-041&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crystal-moon-valley-with-floating-gems-041&variant=thumbnail",
-    "download": "",
-    "slug": "crystal-moon-valley-with-floating-gems"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387490/ChatGPT_Image_Jul_16_2026_05_24_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387490/ChatGPT_Image_Jul_16_2026_05_24_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387490/ChatGPT_Image_Jul_16_2026_05_24_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0041/v1784387490/ChatGPT_Image_Jul_16_2026_05_24_26_PM.png",
+    "slug": "crystal-moon-valley-with-floating-gems",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_26_PM"
   },
   {
     "id": "desktop-silver-world-tree-under-galaxy-042",
@@ -1176,11 +1217,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "galaxy"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-silver-world-tree-under-galaxy-042&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-silver-world-tree-under-galaxy-042&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-silver-world-tree-under-galaxy-042&variant=thumbnail",
-    "download": "",
-    "slug": "silver-world-tree-under-galaxy"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784389642/ChatGPT_Image_Jul_16_2026_05_24_28_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784389642/ChatGPT_Image_Jul_16_2026_05_24_28_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784389642/ChatGPT_Image_Jul_16_2026_05_24_28_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0042/v1784389642/ChatGPT_Image_Jul_16_2026_05_24_28_PM.png",
+    "slug": "silver-world-tree-under-galaxy",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_28_PM"
   },
   {
     "id": "desktop-solar-eclipse-over-standing-stones-043",
@@ -1204,11 +1246,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "stones"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solar-eclipse-over-standing-stones-043&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solar-eclipse-over-standing-stones-043&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solar-eclipse-over-standing-stones-043&variant=thumbnail",
-    "download": "",
-    "slug": "solar-eclipse-over-standing-stones"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387500/ChatGPT_Image_Jul_16_2026_05_24_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387500/ChatGPT_Image_Jul_16_2026_05_24_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387500/ChatGPT_Image_Jul_16_2026_05_24_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0043/v1784387500/ChatGPT_Image_Jul_16_2026_05_24_30_PM.png",
+    "slug": "solar-eclipse-over-standing-stones",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_30_PM"
   },
   {
     "id": "desktop-blue-flowers-under-a-full-moon-044",
@@ -1232,11 +1275,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-flowers-under-a-full-moon-044&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-flowers-under-a-full-moon-044&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-flowers-under-a-full-moon-044&variant=thumbnail",
-    "download": "",
-    "slug": "blue-flowers-under-a-full-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387698/ChatGPT_Image_Jul_16_2026_05_24_32_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387698/ChatGPT_Image_Jul_16_2026_05_24_32_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387698/ChatGPT_Image_Jul_16_2026_05_24_32_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0044/v1784387698/ChatGPT_Image_Jul_16_2026_05_24_32_PM.png",
+    "slug": "blue-flowers-under-a-full-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_32_PM"
   },
   {
     "id": "desktop-purple-crystal-cave-kingdom-045",
@@ -1260,11 +1304,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "kingdom"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-crystal-cave-kingdom-045&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-crystal-cave-kingdom-045&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-crystal-cave-kingdom-045&variant=thumbnail",
-    "download": "",
-    "slug": "purple-crystal-cave-kingdom"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387656/ChatGPT_Image_Jul_16_2026_05_24_36_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387656/ChatGPT_Image_Jul_16_2026_05_24_36_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387656/ChatGPT_Image_Jul_16_2026_05_24_36_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0045/v1784387656/ChatGPT_Image_Jul_16_2026_05_24_36_PM.png",
+    "slug": "purple-crystal-cave-kingdom",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_36_PM"
   },
   {
     "id": "desktop-aurora-ice-gate-on-frozen-sea-046",
@@ -1289,11 +1334,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sea"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-ice-gate-on-frozen-sea-046&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-ice-gate-on-frozen-sea-046&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-ice-gate-on-frozen-sea-046&variant=thumbnail",
-    "download": "",
-    "slug": "aurora-ice-gate-on-frozen-sea"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387660/ChatGPT_Image_Jul_16_2026_05_24_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387660/ChatGPT_Image_Jul_16_2026_05_24_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387660/ChatGPT_Image_Jul_16_2026_05_24_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0046/v1784387660/ChatGPT_Image_Jul_16_2026_05_24_39_PM.png",
+    "slug": "aurora-ice-gate-on-frozen-sea",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_39_PM"
   },
   {
     "id": "desktop-haunted-marsh-with-ancient-statues-047",
@@ -1317,11 +1363,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "statues"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-haunted-marsh-with-ancient-statues-047&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-haunted-marsh-with-ancient-statues-047&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-haunted-marsh-with-ancient-statues-047&variant=thumbnail",
-    "download": "",
-    "slug": "haunted-marsh-with-ancient-statues"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387502/ChatGPT_Image_Jul_16_2026_05_24_42_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387502/ChatGPT_Image_Jul_16_2026_05_24_42_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387502/ChatGPT_Image_Jul_16_2026_05_24_42_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0047/v1784387502/ChatGPT_Image_Jul_16_2026_05_24_42_PM.png",
+    "slug": "haunted-marsh-with-ancient-statues",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_42_PM"
   },
   {
     "id": "desktop-purple-crystal-cavern-lake-048",
@@ -1345,11 +1392,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "lake"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-crystal-cavern-lake-048&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-crystal-cavern-lake-048&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-crystal-cavern-lake-048&variant=thumbnail",
-    "download": "",
-    "slug": "purple-crystal-cavern-lake"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387627/ChatGPT_Image_Jul_16_2026_05_24_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387627/ChatGPT_Image_Jul_16_2026_05_24_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387627/ChatGPT_Image_Jul_16_2026_05_24_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0048/v1784387627/ChatGPT_Image_Jul_16_2026_05_24_45_PM.png",
+    "slug": "purple-crystal-cavern-lake",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_45_PM"
   },
   {
     "id": "desktop-raven-forest-under-moonlight-049",
@@ -1372,11 +1420,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moonlight"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-raven-forest-under-moonlight-049&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-raven-forest-under-moonlight-049&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-raven-forest-under-moonlight-049&variant=thumbnail",
-    "download": "",
-    "slug": "raven-forest-under-moonlight"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387691/ChatGPT_Image_Jul_16_2026_05_24_49_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387691/ChatGPT_Image_Jul_16_2026_05_24_49_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387691/ChatGPT_Image_Jul_16_2026_05_24_49_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0049/v1784387691/ChatGPT_Image_Jul_16_2026_05_24_49_PM.png",
+    "slug": "raven-forest-under-moonlight",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_49_PM"
   },
   {
     "id": "desktop-storm-castle-in-mountain-cliffs-050",
@@ -1400,11 +1449,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "cliffs"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-storm-castle-in-mountain-cliffs-050&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-storm-castle-in-mountain-cliffs-050&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-storm-castle-in-mountain-cliffs-050&variant=thumbnail",
-    "download": "",
-    "slug": "storm-castle-in-mountain-cliffs"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387634/ChatGPT_Image_Jul_16_2026_05_24_52_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387634/ChatGPT_Image_Jul_16_2026_05_24_52_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387634/ChatGPT_Image_Jul_16_2026_05_24_52_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0050/v1784387634/ChatGPT_Image_Jul_16_2026_05_24_52_PM.png",
+    "slug": "storm-castle-in-mountain-cliffs",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_52_PM"
   },
   {
     "id": "desktop-red-eclipse-over-frozen-lake-051",
@@ -1428,11 +1478,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "lake"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-eclipse-over-frozen-lake-051&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-eclipse-over-frozen-lake-051&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-eclipse-over-frozen-lake-051&variant=thumbnail",
-    "download": "",
-    "slug": "red-eclipse-over-frozen-lake"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387706/ChatGPT_Image_Jul_16_2026_05_24_58_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387706/ChatGPT_Image_Jul_16_2026_05_24_58_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387706/ChatGPT_Image_Jul_16_2026_05_24_58_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0051/v1784387706/ChatGPT_Image_Jul_16_2026_05_24_58_PM.png",
+    "slug": "red-eclipse-over-frozen-lake",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_24_58_PM"
   },
   {
     "id": "desktop-crimson-gothic-citadel-052",
@@ -1455,11 +1506,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "citadel"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crimson-gothic-citadel-052&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crimson-gothic-citadel-052&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crimson-gothic-citadel-052&variant=thumbnail",
-    "download": "",
-    "slug": "crimson-gothic-citadel"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387620/ChatGPT_Image_Jul_16_2026_05_25_00_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387620/ChatGPT_Image_Jul_16_2026_05_25_00_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387620/ChatGPT_Image_Jul_16_2026_05_25_00_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0052/v1784387620/ChatGPT_Image_Jul_16_2026_05_25_00_PM.png",
+    "slug": "crimson-gothic-citadel",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_25_00_PM"
   },
   {
     "id": "desktop-blue-spirit-forest-with-mushrooms-053",
@@ -1483,11 +1535,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "mushrooms"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-spirit-forest-with-mushrooms-053&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-spirit-forest-with-mushrooms-053&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-spirit-forest-with-mushrooms-053&variant=thumbnail",
-    "download": "",
-    "slug": "blue-spirit-forest-with-mushrooms"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387657/ChatGPT_Image_Jul_16_2026_05_25_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387657/ChatGPT_Image_Jul_16_2026_05_25_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387657/ChatGPT_Image_Jul_16_2026_05_25_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0053/v1784387657/ChatGPT_Image_Jul_16_2026_05_25_02_PM.png",
+    "slug": "blue-spirit-forest-with-mushrooms",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_25_02_PM"
   },
   {
     "id": "desktop-sorcerer-beside-a-cosmic-portal-054",
@@ -1510,11 +1563,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "portal"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sorcerer-beside-a-cosmic-portal-054&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sorcerer-beside-a-cosmic-portal-054&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sorcerer-beside-a-cosmic-portal-054&variant=thumbnail",
-    "download": "",
-    "slug": "sorcerer-beside-a-cosmic-portal"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784388070/ChatGPT_Image_Jul_16_2026_05_25_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784388070/ChatGPT_Image_Jul_16_2026_05_25_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784388070/ChatGPT_Image_Jul_16_2026_05_25_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0054/v1784388070/ChatGPT_Image_Jul_16_2026_05_25_05_PM.png",
+    "slug": "sorcerer-beside-a-cosmic-portal",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_25_05_PM"
   },
   {
     "id": "desktop-eclipse-warrior-before-red-kingdom-055",
@@ -1538,11 +1592,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "kingdom"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-warrior-before-red-kingdom-055&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-warrior-before-red-kingdom-055&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-warrior-before-red-kingdom-055&variant=thumbnail",
-    "download": "",
-    "slug": "eclipse-warrior-before-red-kingdom"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387694/ChatGPT_Image_Jul_16_2026_05_25_18_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387694/ChatGPT_Image_Jul_16_2026_05_25_18_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387694/ChatGPT_Image_Jul_16_2026_05_25_18_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0055/v1784387694/ChatGPT_Image_Jul_16_2026_05_25_18_PM.png",
+    "slug": "eclipse-warrior-before-red-kingdom",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_25_18_PM"
   },
   {
     "id": "desktop-dark-vampire-overlooking-red-city-056",
@@ -1567,11 +1622,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "city"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-vampire-overlooking-red-city-056&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-vampire-overlooking-red-city-056&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-dark-vampire-overlooking-red-city-056&variant=thumbnail",
-    "download": "",
-    "slug": "dark-vampire-overlooking-red-city"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387504/ChatGPT_Image_Jul_16_2026_05_25_21_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387504/ChatGPT_Image_Jul_16_2026_05_25_21_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387504/ChatGPT_Image_Jul_16_2026_05_25_21_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0056/v1784387504/ChatGPT_Image_Jul_16_2026_05_25_21_PM.png",
+    "slug": "dark-vampire-overlooking-red-city",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_25_21_PM"
   },
   {
     "id": "desktop-ancient-blue-throne-waterfall-057",
@@ -1595,11 +1651,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "waterfall"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ancient-blue-throne-waterfall-057&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ancient-blue-throne-waterfall-057&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ancient-blue-throne-waterfall-057&variant=thumbnail",
-    "download": "",
-    "slug": "ancient-blue-throne-waterfall"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784387636/ChatGPT_Image_Jul_16_2026_05_25_51_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784387636/ChatGPT_Image_Jul_16_2026_05_25_51_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784387636/ChatGPT_Image_Jul_16_2026_05_25_51_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0057/v1784387636/ChatGPT_Image_Jul_16_2026_05_25_51_PM.png",
+    "slug": "ancient-blue-throne-waterfall",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_25_51_PM"
   },
   {
     "id": "desktop-minimal-torii-gate-at-sunrise-058",
@@ -1623,11 +1680,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunrise"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-torii-gate-at-sunrise-058&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-torii-gate-at-sunrise-058&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-torii-gate-at-sunrise-058&variant=thumbnail",
-    "download": "",
-    "slug": "minimal-torii-gate-at-sunrise"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386796/ChatGPT_Image_Jul_16_2026_05_14_31_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386796/ChatGPT_Image_Jul_16_2026_05_14_31_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386796/ChatGPT_Image_Jul_16_2026_05_14_31_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0058/v1784386796/ChatGPT_Image_Jul_16_2026_05_14_31_PM.png",
+    "slug": "minimal-torii-gate-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_14_31_PM"
   },
   {
     "id": "desktop-lone-samurai-under-a-full-moon-059",
@@ -1651,11 +1709,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lone-samurai-under-a-full-moon-059&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lone-samurai-under-a-full-moon-059&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lone-samurai-under-a-full-moon-059&variant=thumbnail",
-    "download": "",
-    "slug": "lone-samurai-under-a-full-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386799/ChatGPT_Image_Jul_16_2026_05_15_21_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386799/ChatGPT_Image_Jul_16_2026_05_15_21_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386799/ChatGPT_Image_Jul_16_2026_05_15_21_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0059/v1784386799/ChatGPT_Image_Jul_16_2026_05_15_21_PM.png",
+    "slug": "lone-samurai-under-a-full-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_21_PM"
   },
   {
     "id": "desktop-paper-crane-in-soft-peach-sky-060",
@@ -1680,11 +1739,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sky"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-paper-crane-in-soft-peach-sky-060&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-paper-crane-in-soft-peach-sky-060&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-paper-crane-in-soft-peach-sky-060&variant=thumbnail",
-    "download": "",
-    "slug": "paper-crane-in-soft-peach-sky"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386802/ChatGPT_Image_Jul_16_2026_05_15_25_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386802/ChatGPT_Image_Jul_16_2026_05_15_25_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386802/ChatGPT_Image_Jul_16_2026_05_15_25_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0060/v1784386802/ChatGPT_Image_Jul_16_2026_05_15_25_PM.png",
+    "slug": "paper-crane-in-soft-peach-sky",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_25_PM"
   },
   {
     "id": "desktop-double-moon-reflection-on-dark-sea-061",
@@ -1709,11 +1769,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sea"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-double-moon-reflection-on-dark-sea-061&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-double-moon-reflection-on-dark-sea-061&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-double-moon-reflection-on-dark-sea-061&variant=thumbnail",
-    "download": "",
-    "slug": "double-moon-reflection-on-dark-sea"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386800/ChatGPT_Image_Jul_16_2026_05_15_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386800/ChatGPT_Image_Jul_16_2026_05_15_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386800/ChatGPT_Image_Jul_16_2026_05_15_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0061/v1784386800/ChatGPT_Image_Jul_16_2026_05_15_27_PM.png",
+    "slug": "double-moon-reflection-on-dark-sea",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_27_PM"
   },
   {
     "id": "desktop-blue-whale-flying-above-clouds-062",
@@ -1737,11 +1798,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-whale-flying-above-clouds-062&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-whale-flying-above-clouds-062&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-whale-flying-above-clouds-062&variant=thumbnail",
-    "download": "",
-    "slug": "blue-whale-flying-above-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0062/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_29_PM.png",
+    "slug": "blue-whale-flying-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_29_PM"
   },
   {
     "id": "desktop-red-balloon-in-white-cloud-sky-063",
@@ -1766,11 +1828,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sky"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-balloon-in-white-cloud-sky-063&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-balloon-in-white-cloud-sky-063&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-balloon-in-white-cloud-sky-063&variant=thumbnail",
-    "download": "",
-    "slug": "red-balloon-in-white-cloud-sky"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_32_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_32_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_32_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0063/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_32_PM.png",
+    "slug": "red-balloon-in-white-cloud-sky",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_32_PM"
   },
   {
     "id": "desktop-solitary-figure-under-huge-moon-064",
@@ -1794,11 +1857,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solitary-figure-under-huge-moon-064&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solitary-figure-under-huge-moon-064&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-solitary-figure-under-huge-moon-064&variant=thumbnail",
-    "download": "",
-    "slug": "solitary-figure-under-huge-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0064/v1784386815/ChatGPT_Image_Jul_16_2026_05_15_34_PM.png",
+    "slug": "solitary-figure-under-huge-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_34_PM"
   },
   {
     "id": "desktop-minimal-bamboo-stalks-on-white-065",
@@ -1822,11 +1886,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "white"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-bamboo-stalks-on-white-065&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-bamboo-stalks-on-white-065&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-bamboo-stalks-on-white-065&variant=thumbnail",
-    "download": "",
-    "slug": "minimal-bamboo-stalks-on-white"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0065/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_37_PM.png",
+    "slug": "minimal-bamboo-stalks-on-white",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_37_PM"
   },
   {
     "id": "desktop-white-stairway-rising-through-clouds-066",
@@ -1850,11 +1915,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-stairway-rising-through-clouds-066&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-stairway-rising-through-clouds-066&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-stairway-rising-through-clouds-066&variant=thumbnail",
-    "download": "",
-    "slug": "white-stairway-rising-through-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0066/v1784386813/ChatGPT_Image_Jul_16_2026_05_15_39_PM.png",
+    "slug": "white-stairway-rising-through-clouds",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_39_PM"
   },
   {
     "id": "desktop-floating-lantern-in-night-sky-067",
@@ -1878,11 +1944,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sky"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-lantern-in-night-sky-067&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-lantern-in-night-sky-067&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-lantern-in-night-sky-067&variant=thumbnail",
-    "download": "",
-    "slug": "floating-lantern-in-night-sky"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386801/ChatGPT_Image_Jul_16_2026_05_15_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386801/ChatGPT_Image_Jul_16_2026_05_15_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386801/ChatGPT_Image_Jul_16_2026_05_15_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0067/v1784386801/ChatGPT_Image_Jul_16_2026_05_15_41_PM.png",
+    "slug": "floating-lantern-in-night-sky",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_41_PM"
   },
   {
     "id": "desktop-vintage-book-floating-on-white-068",
@@ -1906,11 +1973,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "white"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-vintage-book-floating-on-white-068&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-vintage-book-floating-on-white-068&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-vintage-book-floating-on-white-068&variant=thumbnail",
-    "download": "",
-    "slug": "vintage-book-floating-on-white"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386798/ChatGPT_Image_Jul_16_2026_05_15_44_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386798/ChatGPT_Image_Jul_16_2026_05_15_44_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386798/ChatGPT_Image_Jul_16_2026_05_15_44_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0068/v1784386798/ChatGPT_Image_Jul_16_2026_05_15_44_PM.png",
+    "slug": "vintage-book-floating-on-white",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_44_PM"
   },
   {
     "id": "desktop-astronaut-walking-on-the-moon-069",
@@ -1933,11 +2001,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astronaut-walking-on-the-moon-069&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astronaut-walking-on-the-moon-069&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astronaut-walking-on-the-moon-069&variant=thumbnail",
-    "download": "",
-    "slug": "astronaut-walking-on-the-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386805/ChatGPT_Image_Jul_16_2026_05_15_47_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386805/ChatGPT_Image_Jul_16_2026_05_15_47_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386805/ChatGPT_Image_Jul_16_2026_05_15_47_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0069/v1784386805/ChatGPT_Image_Jul_16_2026_05_15_47_PM.png",
+    "slug": "astronaut-walking-on-the-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_47_PM"
   },
   {
     "id": "desktop-lone-tree-sunrise-reflection-070",
@@ -1961,11 +2030,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "reflection"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lone-tree-sunrise-reflection-070&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lone-tree-sunrise-reflection-070&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lone-tree-sunrise-reflection-070&variant=thumbnail",
-    "download": "",
-    "slug": "lone-tree-sunrise-reflection"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386807/ChatGPT_Image_Jul_16_2026_05_15_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386807/ChatGPT_Image_Jul_16_2026_05_15_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386807/ChatGPT_Image_Jul_16_2026_05_15_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0070/v1784386807/ChatGPT_Image_Jul_16_2026_05_15_50_PM.png",
+    "slug": "lone-tree-sunrise-reflection",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_50_PM"
   },
   {
     "id": "desktop-pastel-horizon-over-calm-water-071",
@@ -1989,11 +2059,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "water"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pastel-horizon-over-calm-water-071&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pastel-horizon-over-calm-water-071&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pastel-horizon-over-calm-water-071&variant=thumbnail",
-    "download": "",
-    "slug": "pastel-horizon-over-calm-water"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_52_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_52_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_52_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0071/v1784386814/ChatGPT_Image_Jul_16_2026_05_15_52_PM.png",
+    "slug": "pastel-horizon-over-calm-water",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_52_PM"
   },
   {
     "id": "desktop-soft-sunset-horizon-over-still-water-072",
@@ -2018,11 +2089,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "water"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-soft-sunset-horizon-over-still-water-072&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-soft-sunset-horizon-over-still-water-072&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-soft-sunset-horizon-over-still-water-072&variant=thumbnail",
-    "download": "",
-    "slug": "soft-sunset-horizon-over-still-water"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386823/ChatGPT_Image_Jul_16_2026_05_15_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386823/ChatGPT_Image_Jul_16_2026_05_15_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386823/ChatGPT_Image_Jul_16_2026_05_15_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0072/v1784386823/ChatGPT_Image_Jul_16_2026_05_15_57_PM.png",
+    "slug": "soft-sunset-horizon-over-still-water",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_15_57_PM"
   },
   {
     "id": "desktop-snow-path-across-a-pale-mountain-lake-073",
@@ -2047,11 +2119,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "mountain"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-snow-path-across-a-pale-mountain-lake-073&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-snow-path-across-a-pale-mountain-lake-073&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-snow-path-across-a-pale-mountain-lake-073&variant=thumbnail",
-    "download": "",
-    "slug": "snow-path-across-a-pale-mountain-lake"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386821/ChatGPT_Image_Jul_16_2026_05_16_00_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386821/ChatGPT_Image_Jul_16_2026_05_16_00_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386821/ChatGPT_Image_Jul_16_2026_05_16_00_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0073/v1784386821/ChatGPT_Image_Jul_16_2026_05_16_00_PM.png",
+    "slug": "snow-path-across-a-pale-mountain-lake",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_16_00_PM"
   },
   {
     "id": "desktop-minimal-bonsai-tree-on-stone-074",
@@ -2075,11 +2148,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "stone"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-bonsai-tree-on-stone-074&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-bonsai-tree-on-stone-074&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-minimal-bonsai-tree-on-stone-074&variant=thumbnail",
-    "download": "",
-    "slug": "minimal-bonsai-tree-on-stone"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386826/ChatGPT_Image_Jul_16_2026_05_16_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386826/ChatGPT_Image_Jul_16_2026_05_16_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386826/ChatGPT_Image_Jul_16_2026_05_16_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0074/v1784386826/ChatGPT_Image_Jul_16_2026_05_16_02_PM.png",
+    "slug": "minimal-bonsai-tree-on-stone",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_16_02_PM"
   },
   {
     "id": "desktop-black-dragon-silhouette-against-moon-075",
@@ -2104,11 +2178,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-dragon-silhouette-against-moon-075&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-dragon-silhouette-against-moon-075&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-dragon-silhouette-against-moon-075&variant=thumbnail",
-    "download": "",
-    "slug": "black-dragon-silhouette-against-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386872/ChatGPT_Image_Jul_16_2026_05_16_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386872/ChatGPT_Image_Jul_16_2026_05_16_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386872/ChatGPT_Image_Jul_16_2026_05_16_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0075/v1784386872/ChatGPT_Image_Jul_16_2026_05_16_05_PM.png",
+    "slug": "black-dragon-silhouette-against-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_16_05_PM"
   },
   {
     "id": "desktop-white-cat-watching-a-giant-moon-076",
@@ -2133,11 +2208,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-cat-watching-a-giant-moon-076&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-cat-watching-a-giant-moon-076&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-cat-watching-a-giant-moon-076&variant=thumbnail",
-    "download": "",
-    "slug": "white-cat-watching-a-giant-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_08_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_08_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_08_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0076/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_08_PM.png",
+    "slug": "white-cat-watching-a-giant-moon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_08_PM"
   },
   {
     "id": "desktop-white-owl-on-a-bare-branch-077",
@@ -2161,11 +2237,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "branch"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-owl-on-a-bare-branch-077&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-owl-on-a-bare-branch-077&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-owl-on-a-bare-branch-077&variant=thumbnail",
-    "download": "",
-    "slug": "white-owl-on-a-bare-branch"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_11_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_11_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_11_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0077/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_11_PM.png",
+    "slug": "white-owl-on-a-bare-branch",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_11_PM"
   },
   {
     "id": "desktop-yin-yang-mountain-landscape-078",
@@ -2189,11 +2266,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "landscape"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-yin-yang-mountain-landscape-078&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-yin-yang-mountain-landscape-078&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-yin-yang-mountain-landscape-078&variant=thumbnail",
-    "download": "",
-    "slug": "yin-yang-mountain-landscape"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_14_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_14_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_14_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0078/v1784386829/ChatGPT_Image_Jul_16_2026_05_17_14_PM.png",
+    "slug": "yin-yang-mountain-landscape",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_14_PM"
   },
   {
     "id": "desktop-floating-crystal-in-white-mist-079",
@@ -2217,11 +2295,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "mist"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-crystal-in-white-mist-079&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-crystal-in-white-mist-079&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-crystal-in-white-mist-079&variant=thumbnail",
-    "download": "",
-    "slug": "floating-crystal-in-white-mist"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386838/ChatGPT_Image_Jul_16_2026_05_17_16_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386838/ChatGPT_Image_Jul_16_2026_05_17_16_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386838/ChatGPT_Image_Jul_16_2026_05_17_16_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0079/v1784386838/ChatGPT_Image_Jul_16_2026_05_17_16_PM.png",
+    "slug": "floating-crystal-in-white-mist",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_16_PM"
   },
   {
     "id": "desktop-black-pyramid-in-white-desert-080",
@@ -2245,11 +2324,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "desert"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-pyramid-in-white-desert-080&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-pyramid-in-white-desert-080&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-pyramid-in-white-desert-080&variant=thumbnail",
-    "download": "",
-    "slug": "black-pyramid-in-white-desert"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386835/ChatGPT_Image_Jul_16_2026_05_17_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386835/ChatGPT_Image_Jul_16_2026_05_17_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386835/ChatGPT_Image_Jul_16_2026_05_17_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0080/v1784386835/ChatGPT_Image_Jul_16_2026_05_17_17_PM.png",
+    "slug": "black-pyramid-in-white-desert",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_17_PM"
   },
   {
     "id": "desktop-polar-bear-in-a-white-snowfield-081",
@@ -2273,11 +2353,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "snowfield"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-polar-bear-in-a-white-snowfield-081&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-polar-bear-in-a-white-snowfield-081&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-polar-bear-in-a-white-snowfield-081&variant=thumbnail",
-    "download": "",
-    "slug": "polar-bear-in-a-white-snowfield"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_20_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_20_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_20_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0081/v1784386837/ChatGPT_Image_Jul_16_2026_05_17_20_PM.png",
+    "slug": "polar-bear-in-a-white-snowfield",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_20_PM"
   },
   {
     "id": "desktop-pink-blossom-tree-reflection-082",
@@ -2301,11 +2382,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "reflection"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-blossom-tree-reflection-082&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-blossom-tree-reflection-082&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-blossom-tree-reflection-082&variant=thumbnail",
-    "download": "",
-    "slug": "pink-blossom-tree-reflection"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0082/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_22_PM.png",
+    "slug": "pink-blossom-tree-reflection",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_22_PM"
   },
   {
     "id": "desktop-tiny-sailboat-on-peach-horizon-083",
@@ -2329,11 +2411,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "horizon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tiny-sailboat-on-peach-horizon-083&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tiny-sailboat-on-peach-horizon-083&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tiny-sailboat-on-peach-horizon-083&variant=thumbnail",
-    "download": "",
-    "slug": "tiny-sailboat-on-peach-horizon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386842/ChatGPT_Image_Jul_16_2026_05_17_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386842/ChatGPT_Image_Jul_16_2026_05_17_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386842/ChatGPT_Image_Jul_16_2026_05_17_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0083/v1784386842/ChatGPT_Image_Jul_16_2026_05_17_24_PM.png",
+    "slug": "tiny-sailboat-on-peach-horizon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_24_PM"
   },
   {
     "id": "desktop-lonely-house-in-endless-snow-084",
@@ -2357,11 +2440,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "snow"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lonely-house-in-endless-snow-084&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lonely-house-in-endless-snow-084&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lonely-house-in-endless-snow-084&variant=thumbnail",
-    "download": "",
-    "slug": "lonely-house-in-endless-snow"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386845/ChatGPT_Image_Jul_16_2026_05_17_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386845/ChatGPT_Image_Jul_16_2026_05_17_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386845/ChatGPT_Image_Jul_16_2026_05_17_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0084/v1784386845/ChatGPT_Image_Jul_16_2026_05_17_26_PM.png",
+    "slug": "lonely-house-in-endless-snow",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_26_PM"
   },
   {
     "id": "desktop-orange-sun-over-desert-peaks-085",
@@ -2385,11 +2469,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "peaks"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-orange-sun-over-desert-peaks-085&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-orange-sun-over-desert-peaks-085&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-orange-sun-over-desert-peaks-085&variant=thumbnail",
-    "download": "",
-    "slug": "orange-sun-over-desert-peaks"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386851/ChatGPT_Image_Jul_16_2026_05_17_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386851/ChatGPT_Image_Jul_16_2026_05_17_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386851/ChatGPT_Image_Jul_16_2026_05_17_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0085/v1784386851/ChatGPT_Image_Jul_16_2026_05_17_30_PM.png",
+    "slug": "orange-sun-over-desert-peaks",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_30_PM"
   },
   {
     "id": "desktop-lighthouse-reflection-on-calm-sea-086",
@@ -2413,11 +2498,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sea"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lighthouse-reflection-on-calm-sea-086&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lighthouse-reflection-on-calm-sea-086&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lighthouse-reflection-on-calm-sea-086&variant=thumbnail",
-    "download": "",
-    "slug": "lighthouse-reflection-on-calm-sea"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_33_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_33_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_33_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0086/v1784386850/ChatGPT_Image_Jul_16_2026_05_17_33_PM.png",
+    "slug": "lighthouse-reflection-on-calm-sea",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_33_PM"
   },
   {
     "id": "desktop-paper-boat-on-dark-horizon-087",
@@ -2441,11 +2527,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "horizon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-paper-boat-on-dark-horizon-087&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-paper-boat-on-dark-horizon-087&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-paper-boat-on-dark-horizon-087&variant=thumbnail",
-    "download": "",
-    "slug": "paper-boat-on-dark-horizon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386848/ChatGPT_Image_Jul_16_2026_05_17_35_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386848/ChatGPT_Image_Jul_16_2026_05_17_35_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386848/ChatGPT_Image_Jul_16_2026_05_17_35_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0087/v1784386848/ChatGPT_Image_Jul_16_2026_05_17_35_PM.png",
+    "slug": "paper-boat-on-dark-horizon",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_35_PM"
   },
   {
     "id": "desktop-mount-fuji-above-pink-clouds-088",
@@ -2469,11 +2556,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mount-fuji-above-pink-clouds-088&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mount-fuji-above-pink-clouds-088&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mount-fuji-above-pink-clouds-088&variant=thumbnail",
-    "download": "",
-    "slug": "mount-fuji-above-pink-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386860/ChatGPT_Image_Jul_16_2026_05_17_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386860/ChatGPT_Image_Jul_16_2026_05_17_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386860/ChatGPT_Image_Jul_16_2026_05_17_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0088/v1784386860/ChatGPT_Image_Jul_16_2026_05_17_37_PM.png",
+    "slug": "mount-fuji-above-pink-clouds",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_37_PM"
   },
   {
     "id": "desktop-white-moon-reflection-on-black-water-089",
@@ -2498,11 +2586,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "water"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-moon-reflection-on-black-water-089&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-moon-reflection-on-black-water-089&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-white-moon-reflection-on-black-water-089&variant=thumbnail",
-    "download": "",
-    "slug": "white-moon-reflection-on-black-water"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386865/ChatGPT_Image_Jul_16_2026_05_17_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386865/ChatGPT_Image_Jul_16_2026_05_17_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386865/ChatGPT_Image_Jul_16_2026_05_17_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0089/v1784386865/ChatGPT_Image_Jul_16_2026_05_17_39_PM.png",
+    "slug": "white-moon-reflection-on-black-water",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_17_39_PM"
   },
   {
     "id": "desktop-single-tree-on-a-snowy-hill-090",
@@ -2526,11 +2615,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "hill"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-single-tree-on-a-snowy-hill-090&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-single-tree-on-a-snowy-hill-090&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-single-tree-on-a-snowy-hill-090&variant=thumbnail",
-    "download": "",
-    "slug": "single-tree-on-a-snowy-hill"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386866/ChatGPT_Image_Jul_16_2026_05_18_53_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386866/ChatGPT_Image_Jul_16_2026_05_18_53_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386866/ChatGPT_Image_Jul_16_2026_05_18_53_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0090/v1784386866/ChatGPT_Image_Jul_16_2026_05_18_53_PM.png",
+    "slug": "single-tree-on-a-snowy-hill",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_18_53_PM"
   },
   {
     "id": "desktop-black-stone-on-white-sand-091",
@@ -2554,11 +2644,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sand"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-stone-on-white-sand-091&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-stone-on-white-sand-091&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-black-stone-on-white-sand-091&variant=thumbnail",
-    "download": "",
-    "slug": "black-stone-on-white-sand"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386868/ChatGPT_Image_Jul_16_2026_05_19_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386868/ChatGPT_Image_Jul_16_2026_05_19_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386868/ChatGPT_Image_Jul_16_2026_05_19_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0091/v1784386868/ChatGPT_Image_Jul_16_2026_05_19_05_PM.png",
+    "slug": "black-stone-on-white-sand",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_05_PM"
   },
   {
     "id": "desktop-three-pines-in-minimal-snowfield-092",
@@ -2582,11 +2673,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "snowfield"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-three-pines-in-minimal-snowfield-092&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-three-pines-in-minimal-snowfield-092&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-three-pines-in-minimal-snowfield-092&variant=thumbnail",
-    "download": "",
-    "slug": "three-pines-in-minimal-snowfield"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386866/ChatGPT_Image_Jul_16_2026_05_19_07_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386866/ChatGPT_Image_Jul_16_2026_05_19_07_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386866/ChatGPT_Image_Jul_16_2026_05_19_07_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0092/v1784386866/ChatGPT_Image_Jul_16_2026_05_19_07_PM.png",
+    "slug": "three-pines-in-minimal-snowfield",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_07_PM"
   },
   {
     "id": "desktop-floating-feather-on-white-093",
@@ -2609,11 +2701,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "white"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-feather-on-white-093&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-feather-on-white-093&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-feather-on-white-093&variant=thumbnail",
-    "download": "",
-    "slug": "floating-feather-on-white"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386865/ChatGPT_Image_Jul_16_2026_05_19_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386865/ChatGPT_Image_Jul_16_2026_05_19_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386865/ChatGPT_Image_Jul_16_2026_05_19_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0093/v1784386865/ChatGPT_Image_Jul_16_2026_05_19_13_PM.png",
+    "slug": "floating-feather-on-white",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_13_PM"
   },
   {
     "id": "desktop-umbrella-on-a-grey-shore-094",
@@ -2636,11 +2729,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "shore"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-umbrella-on-a-grey-shore-094&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-umbrella-on-a-grey-shore-094&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-umbrella-on-a-grey-shore-094&variant=thumbnail",
-    "download": "",
-    "slug": "umbrella-on-a-grey-shore"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386875/ChatGPT_Image_Jul_16_2026_05_19_20_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386875/ChatGPT_Image_Jul_16_2026_05_19_20_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386875/ChatGPT_Image_Jul_16_2026_05_19_20_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0094/v1784386875/ChatGPT_Image_Jul_16_2026_05_19_20_PM.png",
+    "slug": "umbrella-on-a-grey-shore",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_20_PM"
   },
   {
     "id": "desktop-distant-earth-in-deep-space-095",
@@ -2664,11 +2758,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "space"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-distant-earth-in-deep-space-095&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-distant-earth-in-deep-space-095&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-distant-earth-in-deep-space-095&variant=thumbnail",
-    "download": "",
-    "slug": "distant-earth-in-deep-space"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_23_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_23_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_23_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0095/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_23_PM.png",
+    "slug": "distant-earth-in-deep-space",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_23_PM"
   },
   {
     "id": "desktop-aurora-wolf-on-snowy-ridge-096",
@@ -2692,11 +2787,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "ridge"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-wolf-on-snowy-ridge-096&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-wolf-on-snowy-ridge-096&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-wolf-on-snowy-ridge-096&variant=thumbnail",
-    "download": "",
-    "slug": "aurora-wolf-on-snowy-ridge"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0096/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_26_PM.png",
+    "slug": "aurora-wolf-on-snowy-ridge",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_26_PM"
   },
   {
     "id": "desktop-round-window-sunrise-meditation-room-097",
@@ -2721,11 +2817,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "room"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-round-window-sunrise-meditation-room-097&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-round-window-sunrise-meditation-room-097&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-round-window-sunrise-meditation-room-097&variant=thumbnail",
-    "download": "",
-    "slug": "round-window-sunrise-meditation-room"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386885/ChatGPT_Image_Jul_16_2026_05_19_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386885/ChatGPT_Image_Jul_16_2026_05_19_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386885/ChatGPT_Image_Jul_16_2026_05_19_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0097/v1784386885/ChatGPT_Image_Jul_16_2026_05_19_29_PM.png",
+    "slug": "round-window-sunrise-meditation-room",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_29_PM"
   },
   {
     "id": "desktop-floating-castle-above-the-clouds-098",
@@ -2748,11 +2845,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-castle-above-the-clouds-098&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-castle-above-the-clouds-098&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-castle-above-the-clouds-098&variant=thumbnail",
-    "download": "",
-    "slug": "floating-castle-above-the-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_32_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_32_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_32_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0098/v1784386880/ChatGPT_Image_Jul_16_2026_05_19_32_PM.png",
+    "slug": "floating-castle-above-the-clouds",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_32_PM"
   },
   {
     "id": "desktop-neon-triangle-in-dark-room-099",
@@ -2776,11 +2874,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "room"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-neon-triangle-in-dark-room-099&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-neon-triangle-in-dark-room-099&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-neon-triangle-in-dark-room-099&variant=thumbnail",
-    "download": "",
-    "slug": "neon-triangle-in-dark-room"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0099/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_41_PM.png",
+    "slug": "neon-triangle-in-dark-room",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_41_PM"
   },
   {
     "id": "desktop-golden-leaf-on-peach-gradient-100",
@@ -2804,11 +2903,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "gradient"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-leaf-on-peach-gradient-100&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-leaf-on-peach-gradient-100&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-leaf-on-peach-gradient-100&variant=thumbnail",
-    "download": "",
-    "slug": "golden-leaf-on-peach-gradient"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386892/ChatGPT_Image_Jul_16_2026_05_19_44_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386892/ChatGPT_Image_Jul_16_2026_05_19_44_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386892/ChatGPT_Image_Jul_16_2026_05_19_44_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0100/v1784386892/ChatGPT_Image_Jul_16_2026_05_19_44_PM.png",
+    "slug": "golden-leaf-on-peach-gradient",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_44_PM"
   },
   {
     "id": "desktop-zen-stones-on-misty-lake-101",
@@ -2832,11 +2932,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "lake"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-zen-stones-on-misty-lake-101&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-zen-stones-on-misty-lake-101&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-zen-stones-on-misty-lake-101&variant=thumbnail",
-    "download": "",
-    "slug": "zen-stones-on-misty-lake"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_52_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_52_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_52_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0101/v1784386888/ChatGPT_Image_Jul_16_2026_05_19_52_PM.png",
+    "slug": "zen-stones-on-misty-lake",
+    "publicId": "ChatGPT_Image_Jul_16_2026_05_19_52_PM"
   },
   {
     "id": "desktop-golden-wheat-field-windmill-sunset-102",
@@ -2862,11 +2963,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunset"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-wheat-field-windmill-sunset-102&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-wheat-field-windmill-sunset-102&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-wheat-field-windmill-sunset-102&variant=thumbnail",
-    "download": "",
-    "slug": "golden-wheat-field-windmill-sunset"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520567/ChatGPT_Image_Jul_20_2026_08_57_59_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520567/ChatGPT_Image_Jul_20_2026_08_57_59_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520567/ChatGPT_Image_Jul_20_2026_08_57_59_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0102/v1784520567/ChatGPT_Image_Jul_20_2026_08_57_59_AM.png",
+    "slug": "golden-wheat-field-windmill-sunset",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_57_59_AM"
   },
   {
     "id": "desktop-turquoise-sea-arch-beach-103",
@@ -2891,11 +2993,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "beach"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-turquoise-sea-arch-beach-103&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-turquoise-sea-arch-beach-103&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-turquoise-sea-arch-beach-103&variant=thumbnail",
-    "download": "",
-    "slug": "turquoise-sea-arch-beach"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520630/ChatGPT_Image_Jul_20_2026_08_58_07_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520630/ChatGPT_Image_Jul_20_2026_08_58_07_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520630/ChatGPT_Image_Jul_20_2026_08_58_07_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0103/v1784520630/ChatGPT_Image_Jul_20_2026_08_58_07_AM.png",
+    "slug": "turquoise-sea-arch-beach",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_07_AM"
   },
   {
     "id": "desktop-sunrise-over-rolling-highlands-104",
@@ -2920,11 +3023,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "highlands"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunrise-over-rolling-highlands-104&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunrise-over-rolling-highlands-104&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunrise-over-rolling-highlands-104&variant=thumbnail",
-    "download": "",
-    "slug": "sunrise-over-rolling-highlands"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_09_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_09_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_09_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0104/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_09_AM.png",
+    "slug": "sunrise-over-rolling-highlands",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_09_AM"
   },
   {
     "id": "desktop-flowered-cliffs-above-blue-coast-105",
@@ -2950,11 +3054,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "coast"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-flowered-cliffs-above-blue-coast-105&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-flowered-cliffs-above-blue-coast-105&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-flowered-cliffs-above-blue-coast-105&variant=thumbnail",
-    "download": "",
-    "slug": "flowered-cliffs-above-blue-coast"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520618/ChatGPT_Image_Jul_20_2026_08_58_12_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520618/ChatGPT_Image_Jul_20_2026_08_58_12_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520618/ChatGPT_Image_Jul_20_2026_08_58_12_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0105/v1784520618/ChatGPT_Image_Jul_20_2026_08_58_12_AM.png",
+    "slug": "flowered-cliffs-above-blue-coast",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_12_AM"
   },
   {
     "id": "desktop-lotus-lake-at-golden-sunrise-106",
@@ -2979,11 +3084,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunrise"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lotus-lake-at-golden-sunrise-106&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lotus-lake-at-golden-sunrise-106&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lotus-lake-at-golden-sunrise-106&variant=thumbnail",
-    "download": "",
-    "slug": "lotus-lake-at-golden-sunrise"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520579/ChatGPT_Image_Jul_20_2026_08_58_14_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520579/ChatGPT_Image_Jul_20_2026_08_58_14_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520579/ChatGPT_Image_Jul_20_2026_08_58_14_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0106/v1784520579/ChatGPT_Image_Jul_20_2026_08_58_14_AM.png",
+    "slug": "lotus-lake-at-golden-sunrise",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_14_AM"
   },
   {
     "id": "desktop-frozen-waterfall-in-winter-107",
@@ -3007,11 +3113,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "winter"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-waterfall-in-winter-107&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-waterfall-in-winter-107&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-waterfall-in-winter-107&variant=thumbnail",
-    "download": "",
-    "slug": "frozen-waterfall-in-winter"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520556/ChatGPT_Image_Jul_20_2026_08_58_17_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520556/ChatGPT_Image_Jul_20_2026_08_58_17_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520556/ChatGPT_Image_Jul_20_2026_08_58_17_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0107/v1784520556/ChatGPT_Image_Jul_20_2026_08_58_17_AM.png",
+    "slug": "frozen-waterfall-in-winter",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_17_AM"
   },
   {
     "id": "desktop-sunset-cliffs-above-ocean-108",
@@ -3036,11 +3143,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "ocean"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunset-cliffs-above-ocean-108&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunset-cliffs-above-ocean-108&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunset-cliffs-above-ocean-108&variant=thumbnail",
-    "download": "",
-    "slug": "sunset-cliffs-above-ocean"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520543/ChatGPT_Image_Jul_20_2026_08_58_19_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520543/ChatGPT_Image_Jul_20_2026_08_58_19_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520543/ChatGPT_Image_Jul_20_2026_08_58_19_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0108/v1784520543/ChatGPT_Image_Jul_20_2026_08_58_19_AM.png",
+    "slug": "sunset-cliffs-above-ocean",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_19_AM"
   },
   {
     "id": "desktop-tropical-island-lagoon-from-above-109",
@@ -3066,11 +3174,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "above"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tropical-island-lagoon-from-above-109&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tropical-island-lagoon-from-above-109&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tropical-island-lagoon-from-above-109&variant=thumbnail",
-    "download": "",
-    "slug": "tropical-island-lagoon-from-above"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_22_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_22_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_22_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0109/v1784520541/ChatGPT_Image_Jul_20_2026_08_58_22_AM.png",
+    "slug": "tropical-island-lagoon-from-above",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_22_AM"
   },
   {
     "id": "desktop-glacier-fjord-between-mountains-110",
@@ -3095,11 +3204,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "mountains"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-glacier-fjord-between-mountains-110&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-glacier-fjord-between-mountains-110&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-glacier-fjord-between-mountains-110&variant=thumbnail",
-    "download": "",
-    "slug": "glacier-fjord-between-mountains"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520720/ChatGPT_Image_Jul_20_2026_08_58_25_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520720/ChatGPT_Image_Jul_20_2026_08_58_25_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520720/ChatGPT_Image_Jul_20_2026_08_58_25_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0110/v1784520720/ChatGPT_Image_Jul_20_2026_08_58_25_AM.png",
+    "slug": "glacier-fjord-between-mountains",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_25_AM"
   },
   {
     "id": "desktop-coastal-cliffs-at-golden-hour-111",
@@ -3124,11 +3234,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "hour"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-coastal-cliffs-at-golden-hour-111&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-coastal-cliffs-at-golden-hour-111&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-coastal-cliffs-at-golden-hour-111&variant=thumbnail",
-    "download": "",
-    "slug": "coastal-cliffs-at-golden-hour"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520705/ChatGPT_Image_Jul_20_2026_08_58_27_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520705/ChatGPT_Image_Jul_20_2026_08_58_27_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520705/ChatGPT_Image_Jul_20_2026_08_58_27_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0111/v1784520705/ChatGPT_Image_Jul_20_2026_08_58_27_AM.png",
+    "slug": "coastal-cliffs-at-golden-hour",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_27_AM"
   },
   {
     "id": "desktop-jungle-waterfall-pool-112",
@@ -3152,11 +3263,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "pool"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-jungle-waterfall-pool-112&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-jungle-waterfall-pool-112&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-jungle-waterfall-pool-112&variant=thumbnail",
-    "download": "",
-    "slug": "jungle-waterfall-pool"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520712/ChatGPT_Image_Jul_20_2026_08_58_30_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520712/ChatGPT_Image_Jul_20_2026_08_58_30_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520712/ChatGPT_Image_Jul_20_2026_08_58_30_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0112/v1784520712/ChatGPT_Image_Jul_20_2026_08_58_30_AM.png",
+    "slug": "jungle-waterfall-pool",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_30_AM"
   },
   {
     "id": "desktop-alpine-lake-with-golden-peaks-113",
@@ -3182,11 +3294,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "peaks"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-alpine-lake-with-golden-peaks-113&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-alpine-lake-with-golden-peaks-113&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-alpine-lake-with-golden-peaks-113&variant=thumbnail",
-    "download": "",
-    "slug": "alpine-lake-with-golden-peaks"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520662/ChatGPT_Image_Jul_20_2026_08_58_33_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520662/ChatGPT_Image_Jul_20_2026_08_58_33_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520662/ChatGPT_Image_Jul_20_2026_08_58_33_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0113/v1784520662/ChatGPT_Image_Jul_20_2026_08_58_33_AM.png",
+    "slug": "alpine-lake-with-golden-peaks",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_33_AM"
   },
   {
     "id": "desktop-autumn-cabin-beside-mountain-lake-114",
@@ -3212,11 +3325,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "lake"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-autumn-cabin-beside-mountain-lake-114&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-autumn-cabin-beside-mountain-lake-114&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-autumn-cabin-beside-mountain-lake-114&variant=thumbnail",
-    "download": "",
-    "slug": "autumn-cabin-beside-mountain-lake"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520667/ChatGPT_Image_Jul_20_2026_08_58_53_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520667/ChatGPT_Image_Jul_20_2026_08_58_53_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520667/ChatGPT_Image_Jul_20_2026_08_58_53_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0114/v1784520667/ChatGPT_Image_Jul_20_2026_08_58_53_AM.png",
+    "slug": "autumn-cabin-beside-mountain-lake",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_53_AM"
   },
   {
     "id": "desktop-mountain-cascades-and-wildflowers-115",
@@ -3241,11 +3355,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "wildflowers"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mountain-cascades-and-wildflowers-115&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mountain-cascades-and-wildflowers-115&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mountain-cascades-and-wildflowers-115&variant=thumbnail",
-    "download": "",
-    "slug": "mountain-cascades-and-wildflowers"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520707/ChatGPT_Image_Jul_20_2026_08_58_55_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520707/ChatGPT_Image_Jul_20_2026_08_58_55_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520707/ChatGPT_Image_Jul_20_2026_08_58_55_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0115/v1784520707/ChatGPT_Image_Jul_20_2026_08_58_55_AM.png",
+    "slug": "mountain-cascades-and-wildflowers",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_55_AM"
   },
   {
     "id": "desktop-sunlit-bluebell-forest-path-116",
@@ -3270,11 +3385,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "path"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunlit-bluebell-forest-path-116&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunlit-bluebell-forest-path-116&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunlit-bluebell-forest-path-116&variant=thumbnail",
-    "download": "",
-    "slug": "sunlit-bluebell-forest-path"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520697/ChatGPT_Image_Jul_20_2026_08_58_58_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520697/ChatGPT_Image_Jul_20_2026_08_58_58_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520697/ChatGPT_Image_Jul_20_2026_08_58_58_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0116/v1784520697/ChatGPT_Image_Jul_20_2026_08_58_58_AM.png",
+    "slug": "sunlit-bluebell-forest-path",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_58_58_AM"
   },
   {
     "id": "desktop-snowy-valley-sunrise-117",
@@ -3298,11 +3414,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunrise"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-snowy-valley-sunrise-117&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-snowy-valley-sunrise-117&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-snowy-valley-sunrise-117&variant=thumbnail",
-    "download": "",
-    "slug": "snowy-valley-sunrise"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520658/ChatGPT_Image_Jul_20_2026_08_59_00_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520658/ChatGPT_Image_Jul_20_2026_08_59_00_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520658/ChatGPT_Image_Jul_20_2026_08_59_00_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0117/v1784520658/ChatGPT_Image_Jul_20_2026_08_59_00_AM.png",
+    "slug": "snowy-valley-sunrise",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_00_AM"
   },
   {
     "id": "desktop-rainbow-over-green-mountain-valley-118",
@@ -3328,11 +3445,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "valley"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainbow-over-green-mountain-valley-118&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainbow-over-green-mountain-valley-118&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainbow-over-green-mountain-valley-118&variant=thumbnail",
-    "download": "",
-    "slug": "rainbow-over-green-mountain-valley"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520574/ChatGPT_Image_Jul_20_2026_08_59_03_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520574/ChatGPT_Image_Jul_20_2026_08_59_03_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520574/ChatGPT_Image_Jul_20_2026_08_59_03_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0118/v1784520574/ChatGPT_Image_Jul_20_2026_08_59_03_AM.png",
+    "slug": "rainbow-over-green-mountain-valley",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_03_AM"
   },
   {
     "id": "desktop-misty-rice-terraces-119",
@@ -3356,11 +3474,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "terraces"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-misty-rice-terraces-119&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-misty-rice-terraces-119&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-misty-rice-terraces-119&variant=thumbnail",
-    "download": "",
-    "slug": "misty-rice-terraces"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520586/ChatGPT_Image_Jul_20_2026_08_59_06_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520586/ChatGPT_Image_Jul_20_2026_08_59_06_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520586/ChatGPT_Image_Jul_20_2026_08_59_06_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0119/v1784520586/ChatGPT_Image_Jul_20_2026_08_59_06_AM.png",
+    "slug": "misty-rice-terraces",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_06_AM"
   },
   {
     "id": "desktop-stormy-mountain-lake-sunrise-120",
@@ -3385,11 +3504,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunrise"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-stormy-mountain-lake-sunrise-120&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-stormy-mountain-lake-sunrise-120&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-stormy-mountain-lake-sunrise-120&variant=thumbnail",
-    "download": "",
-    "slug": "stormy-mountain-lake-sunrise"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520554/ChatGPT_Image_Jul_20_2026_08_59_08_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520554/ChatGPT_Image_Jul_20_2026_08_59_08_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520554/ChatGPT_Image_Jul_20_2026_08_59_08_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0120/v1784520554/ChatGPT_Image_Jul_20_2026_08_59_08_AM.png",
+    "slug": "stormy-mountain-lake-sunrise",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_08_AM"
   },
   {
     "id": "desktop-emerald-forest-creek-121",
@@ -3413,11 +3533,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "creek"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-emerald-forest-creek-121&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-emerald-forest-creek-121&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-emerald-forest-creek-121&variant=thumbnail",
-    "download": "",
-    "slug": "emerald-forest-creek"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520632/ChatGPT_Image_Jul_20_2026_08_59_12_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520632/ChatGPT_Image_Jul_20_2026_08_59_12_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520632/ChatGPT_Image_Jul_20_2026_08_59_12_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0121/v1784520632/ChatGPT_Image_Jul_20_2026_08_59_12_AM.png",
+    "slug": "emerald-forest-creek",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_12_AM"
   },
   {
     "id": "desktop-pink-alpine-lake-reflection-122",
@@ -3442,11 +3563,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "reflection"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-alpine-lake-reflection-122&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-alpine-lake-reflection-122&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-alpine-lake-reflection-122&variant=thumbnail",
-    "download": "",
-    "slug": "pink-alpine-lake-reflection"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520559/ChatGPT_Image_Jul_20_2026_08_59_14_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520559/ChatGPT_Image_Jul_20_2026_08_59_14_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520559/ChatGPT_Image_Jul_20_2026_08_59_14_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0122/v1784520559/ChatGPT_Image_Jul_20_2026_08_59_14_AM.png",
+    "slug": "pink-alpine-lake-reflection",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_14_AM"
   },
   {
     "id": "desktop-sunrise-meadow-above-misty-hills-123",
@@ -3472,11 +3594,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "hills"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunrise-meadow-above-misty-hills-123&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunrise-meadow-above-misty-hills-123&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunrise-meadow-above-misty-hills-123&variant=thumbnail",
-    "download": "",
-    "slug": "sunrise-meadow-above-misty-hills"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520604/ChatGPT_Image_Jul_20_2026_08_59_17_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520604/ChatGPT_Image_Jul_20_2026_08_59_17_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520604/ChatGPT_Image_Jul_20_2026_08_59_17_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0123/v1784520604/ChatGPT_Image_Jul_20_2026_08_59_17_AM.png",
+    "slug": "sunrise-meadow-above-misty-hills",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_17_AM"
   },
   {
     "id": "desktop-rainforest-valley-with-distant-falls-124",
@@ -3502,11 +3625,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "falls"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainforest-valley-with-distant-falls-124&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainforest-valley-with-distant-falls-124&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainforest-valley-with-distant-falls-124&variant=thumbnail",
-    "download": "",
-    "slug": "rainforest-valley-with-distant-falls"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520546/ChatGPT_Image_Jul_20_2026_08_59_19_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520546/ChatGPT_Image_Jul_20_2026_08_59_19_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520546/ChatGPT_Image_Jul_20_2026_08_59_19_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0124/v1784520546/ChatGPT_Image_Jul_20_2026_08_59_19_AM.png",
+    "slug": "rainforest-valley-with-distant-falls",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_19_AM"
   },
   {
     "id": "desktop-cherry-blossom-mountain-stream-125",
@@ -3531,11 +3655,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "stream"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cherry-blossom-mountain-stream-125&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cherry-blossom-mountain-stream-125&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cherry-blossom-mountain-stream-125&variant=thumbnail",
-    "download": "",
-    "slug": "cherry-blossom-mountain-stream"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520708/ChatGPT_Image_Jul_20_2026_08_59_22_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520708/ChatGPT_Image_Jul_20_2026_08_59_22_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520708/ChatGPT_Image_Jul_20_2026_08_59_22_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0125/v1784520708/ChatGPT_Image_Jul_20_2026_08_59_22_AM.png",
+    "slug": "cherry-blossom-mountain-stream",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_59_22_AM"
   },
   {
     "id": "desktop-wildflower-valley-between-cliffs-126",
@@ -3560,11 +3685,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "cliffs"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-wildflower-valley-between-cliffs-126&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-wildflower-valley-between-cliffs-126&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-wildflower-valley-between-cliffs-126&variant=thumbnail",
-    "download": "",
-    "slug": "wildflower-valley-between-cliffs"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520683/ChatGPT_Image_Jul_20_2026_09_00_48_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520683/ChatGPT_Image_Jul_20_2026_09_00_48_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520683/ChatGPT_Image_Jul_20_2026_09_00_48_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0126/v1784520683/ChatGPT_Image_Jul_20_2026_09_00_48_AM.png",
+    "slug": "wildflower-valley-between-cliffs",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_00_48_AM"
   },
   {
     "id": "desktop-lavender-field-at-sunset-127",
@@ -3588,11 +3714,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunset"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lavender-field-at-sunset-127&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lavender-field-at-sunset-127&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lavender-field-at-sunset-127&variant=thumbnail",
-    "download": "",
-    "slug": "lavender-field-at-sunset"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520658/ChatGPT_Image_Jul_20_2026_09_00_51_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520658/ChatGPT_Image_Jul_20_2026_09_00_51_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520658/ChatGPT_Image_Jul_20_2026_09_00_51_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0127/v1784520658/ChatGPT_Image_Jul_20_2026_09_00_51_AM.png",
+    "slug": "lavender-field-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_00_51_AM"
   },
   {
     "id": "desktop-clear-tropical-mangrove-lagoon-128",
@@ -3617,11 +3744,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "lagoon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-clear-tropical-mangrove-lagoon-128&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-clear-tropical-mangrove-lagoon-128&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-clear-tropical-mangrove-lagoon-128&variant=thumbnail",
-    "download": "",
-    "slug": "clear-tropical-mangrove-lagoon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520684/ChatGPT_Image_Jul_20_2026_09_01_18_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520684/ChatGPT_Image_Jul_20_2026_09_01_18_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520684/ChatGPT_Image_Jul_20_2026_09_01_18_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0128/v1784520684/ChatGPT_Image_Jul_20_2026_09_01_18_AM.png",
+    "slug": "clear-tropical-mangrove-lagoon",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_18_AM"
   },
   {
     "id": "desktop-volcano-landscape-at-sunset-129",
@@ -3645,11 +3773,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunset"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-volcano-landscape-at-sunset-129&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-volcano-landscape-at-sunset-129&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-volcano-landscape-at-sunset-129&variant=thumbnail",
-    "download": "",
-    "slug": "volcano-landscape-at-sunset"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520596/ChatGPT_Image_Jul_20_2026_09_01_20_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520596/ChatGPT_Image_Jul_20_2026_09_01_20_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520596/ChatGPT_Image_Jul_20_2026_09_01_20_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0129/v1784520596/ChatGPT_Image_Jul_20_2026_09_01_20_AM.png",
+    "slug": "volcano-landscape-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_20_AM"
   },
   {
     "id": "desktop-purple-wisteria-garden-path-130",
@@ -3674,11 +3803,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "path"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-wisteria-garden-path-130&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-wisteria-garden-path-130&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-wisteria-garden-path-130&variant=thumbnail",
-    "download": "",
-    "slug": "purple-wisteria-garden-path"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520713/ChatGPT_Image_Jul_20_2026_09_01_23_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520713/ChatGPT_Image_Jul_20_2026_09_01_23_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520713/ChatGPT_Image_Jul_20_2026_09_01_23_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0130/v1784520713/ChatGPT_Image_Jul_20_2026_09_01_23_AM.png",
+    "slug": "purple-wisteria-garden-path",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_23_AM"
   },
   {
     "id": "desktop-lush-jungle-stream-131",
@@ -3702,11 +3832,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "stream"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lush-jungle-stream-131&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lush-jungle-stream-131&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lush-jungle-stream-131&variant=thumbnail",
-    "download": "",
-    "slug": "lush-jungle-stream"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520664/ChatGPT_Image_Jul_20_2026_09_01_25_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520664/ChatGPT_Image_Jul_20_2026_09_01_25_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520664/ChatGPT_Image_Jul_20_2026_09_01_25_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0131/v1784520664/ChatGPT_Image_Jul_20_2026_09_01_25_AM.png",
+    "slug": "lush-jungle-stream",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_25_AM"
   },
   {
     "id": "desktop-frozen-mountain-plain-at-sunrise-132",
@@ -3731,11 +3862,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunrise"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-mountain-plain-at-sunrise-132&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-mountain-plain-at-sunrise-132&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-mountain-plain-at-sunrise-132&variant=thumbnail",
-    "download": "",
-    "slug": "frozen-mountain-plain-at-sunrise"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520618/ChatGPT_Image_Jul_20_2026_09_01_28_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520618/ChatGPT_Image_Jul_20_2026_09_01_28_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520618/ChatGPT_Image_Jul_20_2026_09_01_28_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0132/v1784520618/ChatGPT_Image_Jul_20_2026_09_01_28_AM.png",
+    "slug": "frozen-mountain-plain-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_28_AM"
   },
   {
     "id": "desktop-blue-glacier-bay-133",
@@ -3759,11 +3891,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "bay"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-glacier-bay-133&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-glacier-bay-133&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-blue-glacier-bay-133&variant=thumbnail",
-    "download": "",
-    "slug": "blue-glacier-bay"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_30_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_30_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_30_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0133/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_30_AM.png",
+    "slug": "blue-glacier-bay",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_30_AM"
   },
   {
     "id": "desktop-tulip-fields-with-windmill-134",
@@ -3788,11 +3921,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "windmill"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tulip-fields-with-windmill-134&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tulip-fields-with-windmill-134&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-tulip-fields-with-windmill-134&variant=thumbnail",
-    "download": "",
-    "slug": "tulip-fields-with-windmill"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_33_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_33_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_33_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0134/v1784520599/ChatGPT_Image_Jul_20_2026_09_01_33_AM.png",
+    "slug": "tulip-fields-with-windmill",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_33_AM"
   },
   {
     "id": "desktop-green-tea-hills-in-morning-mist-135",
@@ -3818,11 +3952,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "mist"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-green-tea-hills-in-morning-mist-135&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-green-tea-hills-in-morning-mist-135&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-green-tea-hills-in-morning-mist-135&variant=thumbnail",
-    "download": "",
-    "slug": "green-tea-hills-in-morning-mist"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520587/ChatGPT_Image_Jul_20_2026_09_01_38_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520587/ChatGPT_Image_Jul_20_2026_09_01_38_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520587/ChatGPT_Image_Jul_20_2026_09_01_38_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0135/v1784520587/ChatGPT_Image_Jul_20_2026_09_01_38_AM.png",
+    "slug": "green-tea-hills-in-morning-mist",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_38_AM"
   },
   {
     "id": "desktop-sunflower-field-with-windmill-136",
@@ -3847,11 +3982,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "windmill"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunflower-field-with-windmill-136&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunflower-field-with-windmill-136&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-sunflower-field-with-windmill-136&variant=thumbnail",
-    "download": "",
-    "slug": "sunflower-field-with-windmill"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520601/ChatGPT_Image_Jul_20_2026_09_01_41_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520601/ChatGPT_Image_Jul_20_2026_09_01_41_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520601/ChatGPT_Image_Jul_20_2026_09_01_41_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0136/v1784520601/ChatGPT_Image_Jul_20_2026_09_01_41_AM.png",
+    "slug": "sunflower-field-with-windmill",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_41_AM"
   },
   {
     "id": "desktop-redwood-forest-sunbeams-137",
@@ -3875,11 +4011,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunbeams"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-redwood-forest-sunbeams-137&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-redwood-forest-sunbeams-137&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-redwood-forest-sunbeams-137&variant=thumbnail",
-    "download": "",
-    "slug": "redwood-forest-sunbeams"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520647/ChatGPT_Image_Jul_20_2026_09_01_43_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520647/ChatGPT_Image_Jul_20_2026_09_01_43_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520647/ChatGPT_Image_Jul_20_2026_09_01_43_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0137/v1784520647/ChatGPT_Image_Jul_20_2026_09_01_43_AM.png",
+    "slug": "redwood-forest-sunbeams",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_43_AM"
   },
   {
     "id": "desktop-desert-oasis-sunset-138",
@@ -3903,11 +4040,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunset"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-desert-oasis-sunset-138&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-desert-oasis-sunset-138&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-desert-oasis-sunset-138&variant=thumbnail",
-    "download": "",
-    "slug": "desert-oasis-sunset"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520575/ChatGPT_Image_Jul_20_2026_09_01_45_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520575/ChatGPT_Image_Jul_20_2026_09_01_45_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520575/ChatGPT_Image_Jul_20_2026_09_01_45_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0138/v1784520575/ChatGPT_Image_Jul_20_2026_09_01_45_AM.png",
+    "slug": "desert-oasis-sunset",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_45_AM"
   },
   {
     "id": "desktop-bamboo-forest-path-139",
@@ -3931,11 +4069,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "path"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-bamboo-forest-path-139&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-bamboo-forest-path-139&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-bamboo-forest-path-139&variant=thumbnail",
-    "download": "",
-    "slug": "bamboo-forest-path"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520570/ChatGPT_Image_Jul_20_2026_09_01_48_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520570/ChatGPT_Image_Jul_20_2026_09_01_48_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520570/ChatGPT_Image_Jul_20_2026_09_01_48_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0139/v1784520570/ChatGPT_Image_Jul_20_2026_09_01_48_AM.png",
+    "slug": "bamboo-forest-path",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_48_AM"
   },
   {
     "id": "desktop-ancient-oak-at-sunset-140",
@@ -3959,11 +4098,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sunset"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ancient-oak-at-sunset-140&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ancient-oak-at-sunset-140&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ancient-oak-at-sunset-140&variant=thumbnail",
-    "download": "",
-    "slug": "ancient-oak-at-sunset"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520630/ChatGPT_Image_Jul_20_2026_09_01_51_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520630/ChatGPT_Image_Jul_20_2026_09_01_51_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520630/ChatGPT_Image_Jul_20_2026_09_01_51_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0140/v1784520630/ChatGPT_Image_Jul_20_2026_09_01_51_AM.png",
+    "slug": "ancient-oak-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_51_AM"
   },
   {
     "id": "desktop-aurora-lake-in-winter-141",
@@ -3987,11 +4127,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "winter"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-lake-in-winter-141&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-lake-in-winter-141&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-lake-in-winter-141&variant=thumbnail",
-    "download": "",
-    "slug": "aurora-lake-in-winter"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520558/ChatGPT_Image_Jul_20_2026_09_01_54_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520558/ChatGPT_Image_Jul_20_2026_09_01_54_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520558/ChatGPT_Image_Jul_20_2026_09_01_54_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0141/v1784520558/ChatGPT_Image_Jul_20_2026_09_01_54_AM.png",
+    "slug": "aurora-lake-in-winter",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_54_AM"
   },
   {
     "id": "desktop-enchanted-forest-river-142",
@@ -4015,11 +4156,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "river"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-enchanted-forest-river-142&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-enchanted-forest-river-142&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-enchanted-forest-river-142&variant=thumbnail",
-    "download": "",
-    "slug": "enchanted-forest-river"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520691/ChatGPT_Image_Jul_20_2026_09_01_57_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520691/ChatGPT_Image_Jul_20_2026_09_01_57_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520691/ChatGPT_Image_Jul_20_2026_09_01_57_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0142/v1784520691/ChatGPT_Image_Jul_20_2026_09_01_57_AM.png",
+    "slug": "enchanted-forest-river",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_57_AM"
   },
   {
     "id": "desktop-mountain-sunrise-above-clouds-143",
@@ -4044,11 +4186,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mountain-sunrise-above-clouds-143&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mountain-sunrise-above-clouds-143&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mountain-sunrise-above-clouds-143&variant=thumbnail",
-    "download": "",
-    "slug": "mountain-sunrise-above-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520962/ChatGPT_Image_Jul_20_2026_08_57_50_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520962/ChatGPT_Image_Jul_20_2026_08_57_50_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520962/ChatGPT_Image_Jul_20_2026_08_57_50_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0143/v1784520962/ChatGPT_Image_Jul_20_2026_08_57_50_AM.png",
+    "slug": "mountain-sunrise-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_57_50_AM"
   },
   {
     "id": "desktop-purple-highland-trail-under-clouds-144",
@@ -4074,11 +4217,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-highland-trail-under-clouds-144&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-highland-trail-under-clouds-144&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-highland-trail-under-clouds-144&variant=thumbnail",
-    "download": "",
-    "slug": "purple-highland-trail-under-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521497/ChatGPT_Image_Jul_20_2026_08_57_57_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521497/ChatGPT_Image_Jul_20_2026_08_57_57_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521497/ChatGPT_Image_Jul_20_2026_08_57_57_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0144/v1784521497/ChatGPT_Image_Jul_20_2026_08_57_57_AM.png",
+    "slug": "purple-highland-trail-under-clouds",
+    "publicId": "ChatGPT_Image_Jul_20_2026_08_57_57_AM"
   },
   {
     "id": "desktop-rainy-forest-creek-light-145",
@@ -4103,11 +4247,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "light"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainy-forest-creek-light-145&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainy-forest-creek-light-145&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-rainy-forest-creek-light-145&variant=thumbnail",
-    "download": "",
-    "slug": "rainy-forest-creek-light"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521539/ChatGPT_Image_Jul_20_2026_09_01_35_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521539/ChatGPT_Image_Jul_20_2026_09_01_35_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521539/ChatGPT_Image_Jul_20_2026_09_01_35_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0145/v1784521539/ChatGPT_Image_Jul_20_2026_09_01_35_AM.png",
+    "slug": "rainy-forest-creek-light",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_01_35_AM"
   },
   {
     "id": "desktop-floating-island-galaxy-city-146",
@@ -4132,11 +4277,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "city"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-island-galaxy-city-146&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-island-galaxy-city-146&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-island-galaxy-city-146&variant=thumbnail",
-    "download": "",
-    "slug": "floating-island-galaxy-city"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521432/ChatGPT_Image_Jul_20_2026_09_03_16_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521432/ChatGPT_Image_Jul_20_2026_09_03_16_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521432/ChatGPT_Image_Jul_20_2026_09_03_16_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0146/v1784521432/ChatGPT_Image_Jul_20_2026_09_03_16_AM.png",
+    "slug": "floating-island-galaxy-city",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_16_AM"
   },
   {
     "id": "desktop-astronaut-eclipse-on-alien-rings-147",
@@ -4161,11 +4307,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "rings"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astronaut-eclipse-on-alien-rings-147&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astronaut-eclipse-on-alien-rings-147&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-astronaut-eclipse-on-alien-rings-147&variant=thumbnail",
-    "download": "",
-    "slug": "astronaut-eclipse-on-alien-rings"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521016/ChatGPT_Image_Jul_20_2026_09_03_19_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521016/ChatGPT_Image_Jul_20_2026_09_03_19_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521016/ChatGPT_Image_Jul_20_2026_09_03_19_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0147/v1784521016/ChatGPT_Image_Jul_20_2026_09_03_19_AM.png",
+    "slug": "astronaut-eclipse-on-alien-rings",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_19_AM"
   },
   {
     "id": "desktop-galaxy-over-frozen-shore-148",
@@ -4190,11 +4337,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "shore"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galaxy-over-frozen-shore-148&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galaxy-over-frozen-shore-148&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galaxy-over-frozen-shore-148&variant=thumbnail",
-    "download": "",
-    "slug": "galaxy-over-frozen-shore"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_23_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_23_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_23_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0148/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_23_AM.png",
+    "slug": "galaxy-over-frozen-shore",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_23_AM"
   },
   {
     "id": "desktop-twin-moons-over-desert-oasis-149",
@@ -4220,11 +4368,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "oasis"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-twin-moons-over-desert-oasis-149&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-twin-moons-over-desert-oasis-149&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-twin-moons-over-desert-oasis-149&variant=thumbnail",
-    "download": "",
-    "slug": "twin-moons-over-desert-oasis"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521448/ChatGPT_Image_Jul_20_2026_09_03_26_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521448/ChatGPT_Image_Jul_20_2026_09_03_26_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521448/ChatGPT_Image_Jul_20_2026_09_03_26_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0149/v1784521448/ChatGPT_Image_Jul_20_2026_09_03_26_AM.png",
+    "slug": "twin-moons-over-desert-oasis",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_26_AM"
   },
   {
     "id": "desktop-purple-galaxy-ocean-horizon-150",
@@ -4249,11 +4398,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "horizon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-galaxy-ocean-horizon-150&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-galaxy-ocean-horizon-150&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-purple-galaxy-ocean-horizon-150&variant=thumbnail",
-    "download": "",
-    "slug": "purple-galaxy-ocean-horizon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520978/ChatGPT_Image_Jul_20_2026_09_03_29_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520978/ChatGPT_Image_Jul_20_2026_09_03_29_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520978/ChatGPT_Image_Jul_20_2026_09_03_29_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0150/v1784520978/ChatGPT_Image_Jul_20_2026_09_03_29_AM.png",
+    "slug": "purple-galaxy-ocean-horizon",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_29_AM"
   },
   {
     "id": "desktop-planet-sunrise-above-clouds-151",
@@ -4278,11 +4428,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-planet-sunrise-above-clouds-151&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-planet-sunrise-above-clouds-151&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-planet-sunrise-above-clouds-151&variant=thumbnail",
-    "download": "",
-    "slug": "planet-sunrise-above-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520906/ChatGPT_Image_Jul_20_2026_09_03_31_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520906/ChatGPT_Image_Jul_20_2026_09_03_31_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520906/ChatGPT_Image_Jul_20_2026_09_03_31_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0151/v1784520906/ChatGPT_Image_Jul_20_2026_09_03_31_AM.png",
+    "slug": "planet-sunrise-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_31_AM"
   },
   {
     "id": "desktop-ringed-planet-space-bridge-152",
@@ -4307,11 +4458,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "bridge"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ringed-planet-space-bridge-152&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ringed-planet-space-bridge-152&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ringed-planet-space-bridge-152&variant=thumbnail",
-    "download": "",
-    "slug": "ringed-planet-space-bridge"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_35_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_35_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_35_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0152/v1784521427/ChatGPT_Image_Jul_20_2026_09_03_35_AM.png",
+    "slug": "ringed-planet-space-bridge",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_35_AM"
   },
   {
     "id": "desktop-alien-garden-sunset-with-giant-planet-153",
@@ -4338,11 +4490,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "planet"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-alien-garden-sunset-with-giant-planet-153&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-alien-garden-sunset-with-giant-planet-153&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-alien-garden-sunset-with-giant-planet-153&variant=thumbnail",
-    "download": "",
-    "slug": "alien-garden-sunset-with-giant-planet"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521408/ChatGPT_Image_Jul_20_2026_09_03_37_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521408/ChatGPT_Image_Jul_20_2026_09_03_37_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521408/ChatGPT_Image_Jul_20_2026_09_03_37_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0153/v1784521408/ChatGPT_Image_Jul_20_2026_09_03_37_AM.png",
+    "slug": "alien-garden-sunset-with-giant-planet",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_37_AM"
   },
   {
     "id": "desktop-aurora-planet-lake-154",
@@ -4366,11 +4519,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "lake"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-planet-lake-154&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-planet-lake-154&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-planet-lake-154&variant=thumbnail",
-    "download": "",
-    "slug": "aurora-planet-lake"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521410/ChatGPT_Image_Jul_20_2026_09_03_40_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521410/ChatGPT_Image_Jul_20_2026_09_03_40_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521410/ChatGPT_Image_Jul_20_2026_09_03_40_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0154/v1784521410/ChatGPT_Image_Jul_20_2026_09_03_40_AM.png",
+    "slug": "aurora-planet-lake",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_40_AM"
   },
   {
     "id": "desktop-cosmic-ruins-beneath-spiral-galaxy-155",
@@ -4396,11 +4550,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "galaxy"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-ruins-beneath-spiral-galaxy-155&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-ruins-beneath-spiral-galaxy-155&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-ruins-beneath-spiral-galaxy-155&variant=thumbnail",
-    "download": "",
-    "slug": "cosmic-ruins-beneath-spiral-galaxy"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521428/ChatGPT_Image_Jul_20_2026_09_03_43_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521428/ChatGPT_Image_Jul_20_2026_09_03_43_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521428/ChatGPT_Image_Jul_20_2026_09_03_43_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0155/v1784521428/ChatGPT_Image_Jul_20_2026_09_03_43_AM.png",
+    "slug": "cosmic-ruins-beneath-spiral-galaxy",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_43_AM"
   },
   {
     "id": "desktop-observatory-above-cloud-sea-156",
@@ -4425,11 +4580,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "sea"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-observatory-above-cloud-sea-156&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-observatory-above-cloud-sea-156&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-observatory-above-cloud-sea-156&variant=thumbnail",
-    "download": "",
-    "slug": "observatory-above-cloud-sea"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520919/ChatGPT_Image_Jul_20_2026_09_03_45_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520919/ChatGPT_Image_Jul_20_2026_09_03_45_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520919/ChatGPT_Image_Jul_20_2026_09_03_45_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0156/v1784520919/ChatGPT_Image_Jul_20_2026_09_03_45_AM.png",
+    "slug": "observatory-above-cloud-sea",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_03_45_AM"
   },
   {
     "id": "desktop-mirror-lake-under-planetary-rings-157",
@@ -4455,11 +4611,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "rings"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mirror-lake-under-planetary-rings-157&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mirror-lake-under-planetary-rings-157&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-mirror-lake-under-planetary-rings-157&variant=thumbnail",
-    "download": "",
-    "slug": "mirror-lake-under-planetary-rings"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521022/ChatGPT_Image_Jul_20_2026_09_04_16_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521022/ChatGPT_Image_Jul_20_2026_09_04_16_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521022/ChatGPT_Image_Jul_20_2026_09_04_16_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0157/v1784521022/ChatGPT_Image_Jul_20_2026_09_04_16_AM.png",
+    "slug": "mirror-lake-under-planetary-rings",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_16_AM"
   },
   {
     "id": "desktop-colorful-nebula-storm-158",
@@ -4483,11 +4640,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "storm"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-colorful-nebula-storm-158&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-colorful-nebula-storm-158&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-colorful-nebula-storm-158&variant=thumbnail",
-    "download": "",
-    "slug": "colorful-nebula-storm"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521034/ChatGPT_Image_Jul_20_2026_09_04_18_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521034/ChatGPT_Image_Jul_20_2026_09_04_18_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521034/ChatGPT_Image_Jul_20_2026_09_04_18_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0158/v1784521034/ChatGPT_Image_Jul_20_2026_09_04_18_AM.png",
+    "slug": "colorful-nebula-storm",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_18_AM"
   },
   {
     "id": "desktop-orbital-garden-city-above-earth-159",
@@ -4513,11 +4671,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "earth"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-orbital-garden-city-above-earth-159&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-orbital-garden-city-above-earth-159&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-orbital-garden-city-above-earth-159&variant=thumbnail",
-    "download": "",
-    "slug": "orbital-garden-city-above-earth"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521023/ChatGPT_Image_Jul_20_2026_09_04_21_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521023/ChatGPT_Image_Jul_20_2026_09_04_21_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521023/ChatGPT_Image_Jul_20_2026_09_04_21_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0159/v1784521023/ChatGPT_Image_Jul_20_2026_09_04_21_AM.png",
+    "slug": "orbital-garden-city-above-earth",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_21_AM"
   },
   {
     "id": "desktop-red-galaxy-mountain-range-160",
@@ -4542,11 +4701,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "range"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-galaxy-mountain-range-160&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-galaxy-mountain-range-160&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-galaxy-mountain-range-160&variant=thumbnail",
-    "download": "",
-    "slug": "red-galaxy-mountain-range"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520920/ChatGPT_Image_Jul_20_2026_09_04_24_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520920/ChatGPT_Image_Jul_20_2026_09_04_24_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520920/ChatGPT_Image_Jul_20_2026_09_04_24_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0160/v1784520920/ChatGPT_Image_Jul_20_2026_09_04_24_AM.png",
+    "slug": "red-galaxy-mountain-range",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_24_AM"
   },
   {
     "id": "desktop-ice-cavern-with-blue-planet-161",
@@ -4572,11 +4732,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "planet"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ice-cavern-with-blue-planet-161&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ice-cavern-with-blue-planet-161&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ice-cavern-with-blue-planet-161&variant=thumbnail",
-    "download": "",
-    "slug": "ice-cavern-with-blue-planet"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521411/ChatGPT_Image_Jul_20_2026_09_04_28_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521411/ChatGPT_Image_Jul_20_2026_09_04_28_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521411/ChatGPT_Image_Jul_20_2026_09_04_28_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0161/v1784521411/ChatGPT_Image_Jul_20_2026_09_04_28_AM.png",
+    "slug": "ice-cavern-with-blue-planet",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_28_AM"
   },
   {
     "id": "desktop-neon-river-alien-plateau-162",
@@ -4601,11 +4762,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "plateau"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-neon-river-alien-plateau-162&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-neon-river-alien-plateau-162&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-neon-river-alien-plateau-162&variant=thumbnail",
-    "download": "",
-    "slug": "neon-river-alien-plateau"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521408/ChatGPT_Image_Jul_20_2026_09_04_31_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521408/ChatGPT_Image_Jul_20_2026_09_04_31_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521408/ChatGPT_Image_Jul_20_2026_09_04_31_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0162/v1784521408/ChatGPT_Image_Jul_20_2026_09_04_31_AM.png",
+    "slug": "neon-river-alien-plateau",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_31_AM"
   },
   {
     "id": "desktop-space-bridge-between-worlds-163",
@@ -4630,11 +4792,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "worlds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-space-bridge-between-worlds-163&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-space-bridge-between-worlds-163&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-space-bridge-between-worlds-163&variant=thumbnail",
-    "download": "",
-    "slug": "space-bridge-between-worlds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521004/ChatGPT_Image_Jul_20_2026_09_04_34_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521004/ChatGPT_Image_Jul_20_2026_09_04_34_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521004/ChatGPT_Image_Jul_20_2026_09_04_34_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0163/v1784521004/ChatGPT_Image_Jul_20_2026_09_04_34_AM.png",
+    "slug": "space-bridge-between-worlds",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_34_AM"
   },
   {
     "id": "desktop-golden-black-hole-accretion-disk-164",
@@ -4660,11 +4823,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "disk"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-black-hole-accretion-disk-164&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-black-hole-accretion-disk-164&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-golden-black-hole-accretion-disk-164&variant=thumbnail",
-    "download": "",
-    "slug": "golden-black-hole-accretion-disk"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520884/ChatGPT_Image_Jul_20_2026_09_04_37_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520884/ChatGPT_Image_Jul_20_2026_09_04_37_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520884/ChatGPT_Image_Jul_20_2026_09_04_37_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0164/v1784520884/ChatGPT_Image_Jul_20_2026_09_04_37_AM.png",
+    "slug": "golden-black-hole-accretion-disk",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_37_AM"
   },
   {
     "id": "desktop-milky-way-galaxy-panorama-165",
@@ -4689,11 +4853,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "panorama"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-milky-way-galaxy-panorama-165&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-milky-way-galaxy-panorama-165&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-milky-way-galaxy-panorama-165&variant=thumbnail",
-    "download": "",
-    "slug": "milky-way-galaxy-panorama"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520915/ChatGPT_Image_Jul_20_2026_09_04_40_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520915/ChatGPT_Image_Jul_20_2026_09_04_40_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520915/ChatGPT_Image_Jul_20_2026_09_04_40_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0165/v1784520915/ChatGPT_Image_Jul_20_2026_09_04_40_AM.png",
+    "slug": "milky-way-galaxy-panorama",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_40_AM"
   },
   {
     "id": "desktop-hyperdrive-light-beams-in-space-166",
@@ -4718,11 +4883,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "space"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-hyperdrive-light-beams-in-space-166&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-hyperdrive-light-beams-in-space-166&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-hyperdrive-light-beams-in-space-166&variant=thumbnail",
-    "download": "",
-    "slug": "hyperdrive-light-beams-in-space"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520983/ChatGPT_Image_Jul_20_2026_09_04_42_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520983/ChatGPT_Image_Jul_20_2026_09_04_42_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520983/ChatGPT_Image_Jul_20_2026_09_04_42_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0166/v1784520983/ChatGPT_Image_Jul_20_2026_09_04_42_AM.png",
+    "slug": "hyperdrive-light-beams-in-space",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_42_AM"
   },
   {
     "id": "desktop-floating-island-under-spiral-galaxy-167",
@@ -4748,11 +4914,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "galaxy"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-island-under-spiral-galaxy-167&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-island-under-spiral-galaxy-167&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-island-under-spiral-galaxy-167&variant=thumbnail",
-    "download": "",
-    "slug": "floating-island-under-spiral-galaxy"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521015/ChatGPT_Image_Jul_20_2026_09_04_45_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521015/ChatGPT_Image_Jul_20_2026_09_04_45_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521015/ChatGPT_Image_Jul_20_2026_09_04_45_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0167/v1784521015/ChatGPT_Image_Jul_20_2026_09_04_45_AM.png",
+    "slug": "floating-island-under-spiral-galaxy",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_04_45_AM"
   },
   {
     "id": "desktop-ice-world-with-ringed-planet-168",
@@ -4778,11 +4945,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "planet"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ice-world-with-ringed-planet-168&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ice-world-with-ringed-planet-168&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ice-world-with-ringed-planet-168&variant=thumbnail",
-    "download": "",
-    "slug": "ice-world-with-ringed-planet"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521409/ChatGPT_Image_Jul_20_2026_09_05_22_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521409/ChatGPT_Image_Jul_20_2026_09_05_22_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521409/ChatGPT_Image_Jul_20_2026_09_05_22_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0168/v1784521409/ChatGPT_Image_Jul_20_2026_09_05_22_AM.png",
+    "slug": "ice-world-with-ringed-planet",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_05_22_AM"
   },
   {
     "id": "desktop-space-station-above-galaxy-169",
@@ -4807,11 +4975,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "galaxy"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-space-station-above-galaxy-169&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-space-station-above-galaxy-169&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-space-station-above-galaxy-169&variant=thumbnail",
-    "download": "",
-    "slug": "space-station-above-galaxy"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521017/ChatGPT_Image_Jul_20_2026_09_05_26_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521017/ChatGPT_Image_Jul_20_2026_09_05_26_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521017/ChatGPT_Image_Jul_20_2026_09_05_26_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0169/v1784521017/ChatGPT_Image_Jul_20_2026_09_05_26_AM.png",
+    "slug": "space-station-above-galaxy",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_05_26_AM"
   },
   {
     "id": "desktop-pink-crystal-trees-under-moon-170",
@@ -4837,11 +5006,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "moon"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-crystal-trees-under-moon-170&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-crystal-trees-under-moon-170&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pink-crystal-trees-under-moon-170&variant=thumbnail",
-    "download": "",
-    "slug": "pink-crystal-trees-under-moon"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521532/ChatGPT_Image_Jul_20_2026_09_05_32_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521532/ChatGPT_Image_Jul_20_2026_09_05_32_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521532/ChatGPT_Image_Jul_20_2026_09_05_32_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0170/v1784521532/ChatGPT_Image_Jul_20_2026_09_05_32_AM.png",
+    "slug": "pink-crystal-trees-under-moon",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_05_32_AM"
   },
   {
     "id": "desktop-cosmic-stone-arch-seascape-171",
@@ -4866,11 +5036,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "seascape"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-stone-arch-seascape-171&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-stone-arch-seascape-171&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-stone-arch-seascape-171&variant=thumbnail",
-    "download": "",
-    "slug": "cosmic-stone-arch-seascape"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521525/ChatGPT_Image_Jul_20_2026_09_05_50_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521525/ChatGPT_Image_Jul_20_2026_09_05_50_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521525/ChatGPT_Image_Jul_20_2026_09_05_50_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0171/v1784521525/ChatGPT_Image_Jul_20_2026_09_05_50_AM.png",
+    "slug": "cosmic-stone-arch-seascape",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_05_50_AM"
   },
   {
     "id": "desktop-galactic-harbor-space-station-172",
@@ -4895,11 +5066,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "station"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galactic-harbor-space-station-172&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galactic-harbor-space-station-172&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galactic-harbor-space-station-172&variant=thumbnail",
-    "download": "",
-    "slug": "galactic-harbor-space-station"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520912/ChatGPT_Image_Jul_20_2026_09_06_01_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520912/ChatGPT_Image_Jul_20_2026_09_06_01_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520912/ChatGPT_Image_Jul_20_2026_09_06_01_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0172/v1784520912/ChatGPT_Image_Jul_20_2026_09_06_01_AM.png",
+    "slug": "galactic-harbor-space-station",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_06_01_AM"
   },
   {
     "id": "desktop-red-and-blue-nebula-clouds-173",
@@ -4925,11 +5097,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "clouds"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-and-blue-nebula-clouds-173&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-and-blue-nebula-clouds-173&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-red-and-blue-nebula-clouds-173&variant=thumbnail",
-    "download": "",
-    "slug": "red-and-blue-nebula-clouds"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521408/ChatGPT_Image_Jul_20_2026_09_06_06_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521408/ChatGPT_Image_Jul_20_2026_09_06_06_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521408/ChatGPT_Image_Jul_20_2026_09_06_06_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0173/v1784521408/ChatGPT_Image_Jul_20_2026_09_06_06_AM.png",
+    "slug": "red-and-blue-nebula-clouds",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_06_06_AM"
   },
   {
     "id": "desktop-lighthouse-asteroid-in-deep-space-174",
@@ -4954,11 +5127,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "space"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lighthouse-asteroid-in-deep-space-174&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lighthouse-asteroid-in-deep-space-174&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-lighthouse-asteroid-in-deep-space-174&variant=thumbnail",
-    "download": "",
-    "slug": "lighthouse-asteroid-in-deep-space"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520972/ChatGPT_Image_Jul_20_2026_09_06_09_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520972/ChatGPT_Image_Jul_20_2026_09_06_09_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520972/ChatGPT_Image_Jul_20_2026_09_06_09_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0174/v1784520972/ChatGPT_Image_Jul_20_2026_09_06_09_AM.png",
+    "slug": "lighthouse-asteroid-in-deep-space",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_06_09_AM"
   },
   {
     "id": "desktop-floating-waterfall-island-in-space-175",
@@ -4983,11 +5157,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "space"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-waterfall-island-in-space-175&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-waterfall-island-in-space-175&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-waterfall-island-in-space-175&variant=thumbnail",
-    "download": "",
-    "slug": "floating-waterfall-island-in-space"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521427/ChatGPT_Image_Jul_20_2026_09_06_49_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521427/ChatGPT_Image_Jul_20_2026_09_06_49_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521427/ChatGPT_Image_Jul_20_2026_09_06_49_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0175/v1784521427/ChatGPT_Image_Jul_20_2026_09_06_49_AM.png",
+    "slug": "floating-waterfall-island-in-space",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_06_49_AM"
   },
   {
     "id": "desktop-crystal-asteroid-field-176",
@@ -5011,11 +5186,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "field"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crystal-asteroid-field-176&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crystal-asteroid-field-176&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-crystal-asteroid-field-176&variant=thumbnail",
-    "download": "",
-    "slug": "crystal-asteroid-field"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520997/ChatGPT_Image_Jul_20_2026_09_06_52_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520997/ChatGPT_Image_Jul_20_2026_09_06_52_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520997/ChatGPT_Image_Jul_20_2026_09_06_52_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0176/v1784520997/ChatGPT_Image_Jul_20_2026_09_06_52_AM.png",
+    "slug": "crystal-asteroid-field",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_06_52_AM"
   },
   {
     "id": "desktop-eclipse-over-desert-planet-177",
@@ -5040,11 +5216,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "planet"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-over-desert-planet-177&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-over-desert-planet-177&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-eclipse-over-desert-planet-177&variant=thumbnail",
-    "download": "",
-    "slug": "eclipse-over-desert-planet"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520865/ChatGPT_Image_Jul_20_2026_09_06_55_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520865/ChatGPT_Image_Jul_20_2026_09_06_55_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520865/ChatGPT_Image_Jul_20_2026_09_06_55_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0177/v1784520865/ChatGPT_Image_Jul_20_2026_09_06_55_AM.png",
+    "slug": "eclipse-over-desert-planet",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_06_55_AM"
   },
   {
     "id": "desktop-frozen-moon-under-giant-planet-178",
@@ -5070,11 +5247,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "planet"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-moon-under-giant-planet-178&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-moon-under-giant-planet-178&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-frozen-moon-under-giant-planet-178&variant=thumbnail",
-    "download": "",
-    "slug": "frozen-moon-under-giant-planet"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520911/ChatGPT_Image_Jul_20_2026_09_07_00_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520911/ChatGPT_Image_Jul_20_2026_09_07_00_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520911/ChatGPT_Image_Jul_20_2026_09_07_00_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0178/v1784520911/ChatGPT_Image_Jul_20_2026_09_07_00_AM.png",
+    "slug": "frozen-moon-under-giant-planet",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_07_00_AM"
   },
   {
     "id": "desktop-pillars-of-creation-nebula-179",
@@ -5098,11 +5276,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "nebula"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pillars-of-creation-nebula-179&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pillars-of-creation-nebula-179&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-pillars-of-creation-nebula-179&variant=thumbnail",
-    "download": "",
-    "slug": "pillars-of-creation-nebula"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784521001/ChatGPT_Image_Jul_20_2026_09_33_23_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784521001/ChatGPT_Image_Jul_20_2026_09_33_23_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784521001/ChatGPT_Image_Jul_20_2026_09_33_23_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0179/v1784521001/ChatGPT_Image_Jul_20_2026_09_33_23_AM.png",
+    "slug": "pillars-of-creation-nebula",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_33_23_AM"
   },
   {
     "id": "desktop-ringed-planet-city-lights-180",
@@ -5127,11 +5306,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "lights"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ringed-planet-city-lights-180&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ringed-planet-city-lights-180&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-ringed-planet-city-lights-180&variant=thumbnail",
-    "download": "",
-    "slug": "ringed-planet-city-lights"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520867/ChatGPT_Image_Jul_20_2026_09_40_44_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520867/ChatGPT_Image_Jul_20_2026_09_40_44_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520867/ChatGPT_Image_Jul_20_2026_09_40_44_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0180/v1784520867/ChatGPT_Image_Jul_20_2026_09_40_44_AM.png",
+    "slug": "ringed-planet-city-lights",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_40_44_AM"
   },
   {
     "id": "desktop-aurora-ice-lake-with-planet-181",
@@ -5157,11 +5337,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "planet"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-ice-lake-with-planet-181&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-ice-lake-with-planet-181&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-aurora-ice-lake-with-planet-181&variant=thumbnail",
-    "download": "",
-    "slug": "aurora-ice-lake-with-planet"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520878/ChatGPT_Image_Jul_20_2026_09_40_52_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520878/ChatGPT_Image_Jul_20_2026_09_40_52_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520878/ChatGPT_Image_Jul_20_2026_09_40_52_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0181/v1784520878/ChatGPT_Image_Jul_20_2026_09_40_52_AM.png",
+    "slug": "aurora-ice-lake-with-planet",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_40_52_AM"
   },
   {
     "id": "desktop-galaxy-walkway-over-water-182",
@@ -5186,11 +5367,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "water"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galaxy-walkway-over-water-182&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galaxy-walkway-over-water-182&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-galaxy-walkway-over-water-182&variant=thumbnail",
-    "download": "",
-    "slug": "galaxy-walkway-over-water"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520872/ChatGPT_Image_Jul_20_2026_09_40_57_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520872/ChatGPT_Image_Jul_20_2026_09_40_57_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520872/ChatGPT_Image_Jul_20_2026_09_40_57_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0182/v1784520872/ChatGPT_Image_Jul_20_2026_09_40_57_AM.png",
+    "slug": "galaxy-walkway-over-water",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_40_57_AM"
   },
   {
     "id": "desktop-cosmic-city-reflections-183",
@@ -5214,11 +5396,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "reflections"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-city-reflections-183&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-city-reflections-183&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cosmic-city-reflections-183&variant=thumbnail",
-    "download": "",
-    "slug": "cosmic-city-reflections"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520867/ChatGPT_Image_Jul_20_2026_09_41_10_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520867/ChatGPT_Image_Jul_20_2026_09_41_10_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520867/ChatGPT_Image_Jul_20_2026_09_41_10_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0183/v1784520867/ChatGPT_Image_Jul_20_2026_09_41_10_AM.png",
+    "slug": "cosmic-city-reflections",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_41_10_AM"
   },
   {
     "id": "desktop-floating-bio-dome-colony-184",
@@ -5243,11 +5426,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "colony"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-bio-dome-colony-184&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-bio-dome-colony-184&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-floating-bio-dome-colony-184&variant=thumbnail",
-    "download": "",
-    "slug": "floating-bio-dome-colony"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520860/ChatGPT_Image_Jul_20_2026_09_41_15_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520860/ChatGPT_Image_Jul_20_2026_09_41_15_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520860/ChatGPT_Image_Jul_20_2026_09_41_15_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0184/v1784520860/ChatGPT_Image_Jul_20_2026_09_41_15_AM.png",
+    "slug": "floating-bio-dome-colony",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_41_15_AM"
   },
   {
     "id": "desktop-planetary-ring-civilization-185",
@@ -5271,11 +5455,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "civilization"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-planetary-ring-civilization-185&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-planetary-ring-civilization-185&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-planetary-ring-civilization-185&variant=thumbnail",
-    "download": "",
-    "slug": "planetary-ring-civilization"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520901/ChatGPT_Image_Jul_20_2026_09_41_22_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520901/ChatGPT_Image_Jul_20_2026_09_41_22_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520901/ChatGPT_Image_Jul_20_2026_09_41_22_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0185/v1784520901/ChatGPT_Image_Jul_20_2026_09_41_22_AM.png",
+    "slug": "planetary-ring-civilization",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_41_22_AM"
   },
   {
     "id": "desktop-cherry-tree-under-blue-planet-186",
@@ -5301,11 +5486,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "planet"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cherry-tree-under-blue-planet-186&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cherry-tree-under-blue-planet-186&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-cherry-tree-under-blue-planet-186&variant=thumbnail",
-    "download": "",
-    "slug": "cherry-tree-under-blue-planet"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520889/ChatGPT_Image_Jul_20_2026_09_41_33_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520889/ChatGPT_Image_Jul_20_2026_09_41_33_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520889/ChatGPT_Image_Jul_20_2026_09_41_33_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0186/v1784520889/ChatGPT_Image_Jul_20_2026_09_41_33_AM.png",
+    "slug": "cherry-tree-under-blue-planet",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_41_33_AM"
   },
   {
     "id": "desktop-waterfall-islands-in-galaxy-187",
@@ -5329,11 +5515,12 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "galaxy"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-waterfall-islands-in-galaxy-187&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-waterfall-islands-in-galaxy-187&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-waterfall-islands-in-galaxy-187&variant=thumbnail",
-    "download": "",
-    "slug": "waterfall-islands-in-galaxy"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520903/ChatGPT_Image_Jul_20_2026_09_41_38_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520903/ChatGPT_Image_Jul_20_2026_09_41_38_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520903/ChatGPT_Image_Jul_20_2026_09_41_38_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0187/v1784520903/ChatGPT_Image_Jul_20_2026_09_41_38_AM.png",
+    "slug": "waterfall-islands-in-galaxy",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_41_38_AM"
   },
   {
     "id": "desktop-moonrise-above-cloud-kingdom-188",
@@ -5358,10 +5545,11 @@ window.PMW_DESKTOP_WALLPAPERS = [
       "kingdom"
     ],
     "source": "cloudinary-desktop",
-    "image": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonrise-above-cloud-kingdom-188&variant=detail",
-    "preview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonrise-above-cloud-kingdom-188&variant=detail",
-    "thumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=desktop-moonrise-above-cloud-kingdom-188&variant=thumbnail",
-    "download": "",
-    "slug": "moonrise-above-cloud-kingdom"
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1784520891/ChatGPT_Image_Jul_20_2026_09_41_47_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1784520891/ChatGPT_Image_Jul_20_2026_09_41_47_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1784520891/ChatGPT_Image_Jul_20_2026_09_41_47_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0188/v1784520891/ChatGPT_Image_Jul_20_2026_09_41_47_AM.png",
+    "slug": "moonrise-above-cloud-kingdom",
+    "publicId": "ChatGPT_Image_Jul_20_2026_09_41_47_AM"
   }
 ];
