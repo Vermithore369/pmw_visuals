@@ -35,12 +35,12 @@
     <meta property="og:title" content="Kimono Girl in A Lantern Street | PMW Visuals">
     <meta property="og:description" content="A vertical anime mobile wallpaper featuring kimono girl in a lantern street, with vivid fantasy detail, cinematic color, and a clean phone-screen composition.">
     <meta property="og:url" content="https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html">
-    <meta property="og:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1781099652/ChatGPT_Image_Jun_10_2026_07_19_34_PM_mlb1bg.png">
+    <meta property="og:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&amp;variant=detail">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Kimono Girl in A Lantern Street | PMW Visuals">
     <meta name="twitter:description" content="A vertical anime mobile wallpaper featuring kimono girl in a lantern street, with vivid fantasy detail, cinematic color, and a clean phone-screen composition.">
-    <meta name="twitter:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1781099652/ChatGPT_Image_Jun_10_2026_07_19_34_PM_mlb1bg.png">
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Kimono Girl in A Lantern Street","description":"A vertical anime mobile wallpaper featuring kimono girl in a lantern street, with vivid fantasy detail, cinematic color, and a clean phone-screen composition.","contentUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1781099652/ChatGPT_Image_Jun_10_2026_07_19_34_PM_mlb1bg.png","thumbnailUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781099652/ChatGPT_Image_Jun_10_2026_07_19_34_PM_mlb1bg.png","encodingFormat":"PNG","width":941,"height":1672,"keywords":"anime wallpaper, anime art, fantasy wallpaper, mobile wallpaper, phone wallpaper, kimono, lantern, street","url":"https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
+    <meta name="twitter:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&amp;variant=detail">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Kimono Girl in A Lantern Street","description":"A vertical anime mobile wallpaper featuring kimono girl in a lantern street, with vivid fantasy detail, cinematic color, and a clean phone-screen composition.","contentUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&variant=detail","thumbnailUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&variant=thumbnail","encodingFormat":"PNG","width":941,"height":1672,"keywords":"anime wallpaper, anime art, fantasy wallpaper, mobile wallpaper, phone wallpaper, kimono, lantern, street","url":"https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
@@ -353,6 +353,42 @@
         .brand-logo {
             display: none !important;
         }
+    
+        .preview-card {
+            position: relative;
+            isolation: isolate;
+        }
+        .preview-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            pointer-events: none;
+            user-select: none;
+            -webkit-user-select: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        .preview-card.has-premium-watermark::after {
+            opacity: 0.72;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='150' viewBox='0 0 260 150'%3E%3Ctext x='18' y='88' fill='white' fill-opacity='.42' font-family='Arial,sans-serif' font-size='21' font-weight='700' transform='rotate(-28 130 75)'%3EPMW VISUALS%3C/text%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: clamp(180px, 22vw, 260px) auto;
+            filter: drop-shadow(0 1px 2px rgba(0,0,0,.55));
+        }
+        .wallpaper-layout.protection-pending .preview-card img {
+            opacity: 0.18;
+            filter: blur(12px);
+        }
+        .download-btn:disabled {
+            cursor: wait;
+            opacity: 0.64;
+        }
+        @media (max-width: 520px) {
+            .preview-card.has-premium-watermark::after {
+                background-size: 170px auto;
+            }
+        }
     </style>
     <script type="application/ld+json" data-breadcrumb-schema>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pmwvisuals.com/"},{"@type":"ListItem","position":2,"name":"PMW Wallpapers","item":"https://pmwvisuals.com/pmw-wallpapers.html"},{"@type":"ListItem","position":3,"name":"Anime Wallpapers","item":"https://pmwvisuals.com/wallpapers/anime/"},{"@type":"ListItem","position":4,"name":"Kimono Girl in A Lantern Street","item":"https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html"}]}</script>
 </head>
@@ -376,9 +412,9 @@
             <span>/</span>
             <span>Kimono Girl in A Lantern Street</span>
         </div>
-        <section class="wallpaper-layout">
+        <section class="wallpaper-layout" data-protected-wallpaper data-wallpaper-id="chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg">
             <div class="preview-card">
-                <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1781099652/ChatGPT_Image_Jun_10_2026_07_19_34_PM_mlb1bg.png" alt="Kimono Girl in A Lantern Street">
+                <img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&amp;variant=detail" alt="Kimono Girl in A Lantern Street">
             </div>
             <article>
                 <p class="kicker">Anime Wallpapers</p>
@@ -412,25 +448,15 @@
         <section class="related" aria-labelledby="relatedTitle">
             <h2 id="relatedTitle">Related Wallpapers</h2>
             <div class="related-grid">
-                <a class="related-card" href="../../../wallpapers/anime/01/anime-boy-in-glowing-enchanted-forest.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781100545/ChatGPT_Image_Jun_10_2026_07_33_24_PM_qqonbv.png" alt="Anime Boy in Glowing Enchanted Forest" loading="lazy"><span>Anime Boy in Glowing Enchanted Forest</span></a><a class="related-card" href="../../../wallpapers/anime/01/anime-astronomer-with-brass-telescope.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781100544/ChatGPT_Image_Jun_10_2026_07_33_48_PM_qrqyv6.png" alt="Anime Astronomer with Brass Telescope" loading="lazy"><span>Anime Astronomer with Brass Telescope</span></a><a class="related-card" href="../../../wallpapers/anime/01/girl-in-candlelit-cosmic-library.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781100544/ChatGPT_Image_Jun_10_2026_07_37_44_PM_da69i0.png" alt="Girl in Candlelit Cosmic Library" loading="lazy"><span>Girl in Candlelit Cosmic Library</span></a><a class="related-card" href="../../../wallpapers/anime/01/girl-in-cathedral-like-cosmic-hall.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781100544/ChatGPT_Image_Jun_10_2026_07_37_58_PM_clmupt.png" alt="Girl in Cathedral-Like Cosmic Hall" loading="lazy"><span>Girl in Cathedral-Like Cosmic Hall</span></a><a class="related-card" href="../../../wallpapers/anime/01/boy-riding-a-white-deer-under-the-full-moon.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781099975/ChatGPT_Image_Jun_10_2026_07_16_31_PM_t02f0t.png" alt="Boy Riding A White Deer under the Full Moon" loading="lazy"><span>Boy Riding A White Deer under the Full Moon</span></a><a class="related-card" href="../../../wallpapers/anime/01/adventurer-near-ancient-dragon-bones.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781099971/ChatGPT_Image_Jun_10_2026_07_16_27_PM_ekkydl.png" alt="Adventurer Near Ancient Dragon Bones" loading="lazy"><span>Adventurer Near Ancient Dragon Bones</span></a>
+                <a class="related-card" href="../../../wallpapers/anime/01/anime-boy-in-glowing-enchanted-forest.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-24-pm-qqonbv&amp;variant=thumbnail" alt="Anime Boy in Glowing Enchanted Forest" loading="lazy"><span>Anime Boy in Glowing Enchanted Forest</span></a><a class="related-card" href="../../../wallpapers/anime/01/anime-astronomer-with-brass-telescope.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-48-pm-qrqyv6&amp;variant=thumbnail" alt="Anime Astronomer with Brass Telescope" loading="lazy"><span>Anime Astronomer with Brass Telescope</span></a><a class="related-card" href="../../../wallpapers/anime/01/girl-in-candlelit-cosmic-library.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-44-pm-da69i0&amp;variant=thumbnail" alt="Girl in Candlelit Cosmic Library" loading="lazy"><span>Girl in Candlelit Cosmic Library</span></a><a class="related-card" href="../../../wallpapers/anime/01/girl-in-cathedral-like-cosmic-hall.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-58-pm-clmupt&amp;variant=thumbnail" alt="Girl in Cathedral-Like Cosmic Hall" loading="lazy"><span>Girl in Cathedral-Like Cosmic Hall</span></a><a class="related-card" href="../../../wallpapers/anime/01/boy-riding-a-white-deer-under-the-full-moon.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-31-pm-t02f0t&amp;variant=thumbnail" alt="Boy Riding A White Deer under the Full Moon" loading="lazy"><span>Boy Riding A White Deer under the Full Moon</span></a><a class="related-card" href="../../../wallpapers/anime/01/adventurer-near-ancient-dragon-bones.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-27-pm-ekkydl&amp;variant=thumbnail" alt="Adventurer Near Ancient Dragon Bones" loading="lazy"><span>Adventurer Near Ancient Dragon Bones</span></a>
             </div>
         </section>
     </main>
     <script src="../../../download-tracking.js"></script>
-    <script>
-        const downloadUrl = "https://res.cloudinary.com/dlmjetz3s/image/upload/fl_attachment:PMW_Wallpapers_Download/v1781099652/ChatGPT_Image_Jun_10_2026_07_19_34_PM_mlb1bg.png";
-        const shareUrl = "https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html";
+    <script>        const shareUrl = "https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html";
         const shareTitle = "Kimono Girl in A Lantern Street - PMW Wallpapers";
         const shareText = "A vertical anime mobile wallpaper featuring kimono girl in a lantern street, with vivid fantasy detail, cinematic color, and a clean phone-screen composition.";
-        const wallpaperDownloadItem = {"id":"chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg","title":"Kimono Girl in A Lantern Street","category":"Anime Wallpapers","url":"https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html","type":"wallpaper"};
-
-        document.getElementById('downloadButton').addEventListener('click', () => {
-            const randomNumber = Math.floor(10000 + Math.random() * 90000);
-            if (window.PMW_DOWNLOAD_TRACKING) {
-                window.PMW_DOWNLOAD_TRACKING.trackDownload(wallpaperDownloadItem);
-            }
-            window.location.href = downloadUrl.replace('PMW_Wallpapers_Download', 'PMW_Wallpapers_' + randomNumber);
-        });
+        window.wallpaperDownloadItem = {"id":"chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg","title":"Kimono Girl in A Lantern Street","category":"Anime Wallpapers","url":"https://pmwvisuals.com/wallpapers/anime/01/kimono-girl-in-a-lantern-street.html","type":"wallpaper"};
 
         document.getElementById('shareButton').addEventListener('click', async () => {
             const status = document.getElementById('shareStatus');
@@ -447,6 +473,7 @@
             }
         });
     </script>
+    <script type="module" src="../../../js/wallpaper-protection.js"></script>
     <script type="module" src="../../../js/saved-wallpapers.js"></script>
 
     <script src="../../../js/wallpaper-tools-panel.js" defer></script>

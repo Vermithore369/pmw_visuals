@@ -1,0 +1,19 @@
+{
+  "name": "pmw-visuals-functions",
+  "private": true,
+  "engines": {
+    "node": "20"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "node --check index.js",
+    "deploy": "firebase deploy --only functions"
+  },
+  "dependencies": {
+    "@paddle/paddle-node-sdk": "latest",
+    "@google-cloud/functions-framework": "latest",
+    "firebase-admin": "latest",
+    "firebase-functions": "latest"
+  },
+  "devDependencies": {}
+}

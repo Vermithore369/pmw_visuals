@@ -35,12 +35,12 @@
     <meta property="og:title" content="Purple Throne among Glowing Roses | PMW Visuals">
     <meta property="og:description" content="A vertical dark fantasy mobile wallpaper featuring purple throne among glowing roses, with dramatic shadows, cinematic atmosphere, and a bold phone-screen composition.">
     <meta property="og:url" content="https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html">
-    <meta property="og:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780664826/ChatGPT_Image_Jun_1_2026_10_15_03_PM_h3ebhm.png">
+    <meta property="og:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&amp;variant=detail">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Purple Throne among Glowing Roses | PMW Visuals">
     <meta name="twitter:description" content="A vertical dark fantasy mobile wallpaper featuring purple throne among glowing roses, with dramatic shadows, cinematic atmosphere, and a bold phone-screen composition.">
-    <meta name="twitter:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780664826/ChatGPT_Image_Jun_1_2026_10_15_03_PM_h3ebhm.png">
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Purple Throne among Glowing Roses","description":"A vertical dark fantasy mobile wallpaper featuring purple throne among glowing roses, with dramatic shadows, cinematic atmosphere, and a bold phone-screen composition.","contentUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780664826/ChatGPT_Image_Jun_1_2026_10_15_03_PM_h3ebhm.png","thumbnailUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664826/ChatGPT_Image_Jun_1_2026_10_15_03_PM_h3ebhm.png","encodingFormat":"PNG","width":941,"height":1672,"keywords":"dark fantasy, fantasy wallpaper, dark wallpaper, mobile wallpaper, phone wallpaper, purple, throne, glowing, roses","url":"https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
+    <meta name="twitter:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&amp;variant=detail">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Purple Throne among Glowing Roses","description":"A vertical dark fantasy mobile wallpaper featuring purple throne among glowing roses, with dramatic shadows, cinematic atmosphere, and a bold phone-screen composition.","contentUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&variant=detail","thumbnailUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&variant=thumbnail","encodingFormat":"PNG","width":941,"height":1672,"keywords":"dark fantasy, fantasy wallpaper, dark wallpaper, mobile wallpaper, phone wallpaper, purple, throne, glowing, roses","url":"https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
@@ -353,6 +353,42 @@
         .brand-logo {
             display: none !important;
         }
+    
+        .preview-card {
+            position: relative;
+            isolation: isolate;
+        }
+        .preview-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            pointer-events: none;
+            user-select: none;
+            -webkit-user-select: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        .preview-card.has-premium-watermark::after {
+            opacity: 0.72;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='150' viewBox='0 0 260 150'%3E%3Ctext x='18' y='88' fill='white' fill-opacity='.42' font-family='Arial,sans-serif' font-size='21' font-weight='700' transform='rotate(-28 130 75)'%3EPMW VISUALS%3C/text%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: clamp(180px, 22vw, 260px) auto;
+            filter: drop-shadow(0 1px 2px rgba(0,0,0,.55));
+        }
+        .wallpaper-layout.protection-pending .preview-card img {
+            opacity: 0.18;
+            filter: blur(12px);
+        }
+        .download-btn:disabled {
+            cursor: wait;
+            opacity: 0.64;
+        }
+        @media (max-width: 520px) {
+            .preview-card.has-premium-watermark::after {
+                background-size: 170px auto;
+            }
+        }
     </style>
     <script type="application/ld+json" data-breadcrumb-schema>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pmwvisuals.com/"},{"@type":"ListItem","position":2,"name":"PMW Wallpapers","item":"https://pmwvisuals.com/pmw-wallpapers.html"},{"@type":"ListItem","position":3,"name":"Dark Fantasy Wallpapers","item":"https://pmwvisuals.com/wallpapers/dark-fantasy/"},{"@type":"ListItem","position":4,"name":"Purple Throne among Glowing Roses","item":"https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html"}]}</script>
 </head>
@@ -376,9 +412,9 @@
             <span>/</span>
             <span>Purple Throne among Glowing Roses</span>
         </div>
-        <section class="wallpaper-layout">
+        <section class="wallpaper-layout" data-protected-wallpaper data-wallpaper-id="chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm">
             <div class="preview-card">
-                <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780664826/ChatGPT_Image_Jun_1_2026_10_15_03_PM_h3ebhm.png" alt="Purple Throne among Glowing Roses">
+                <img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&amp;variant=detail" alt="Purple Throne among Glowing Roses">
             </div>
             <article>
                 <p class="kicker">Dark Fantasy</p>
@@ -412,25 +448,15 @@
         <section class="related" aria-labelledby="relatedTitle">
             <h2 id="relatedTitle">Related Wallpapers</h2>
             <div class="related-grid">
-                <a class="related-card" href="../../../wallpapers/dark-fantasy/01/black-phoenix-under-moonlight.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664533/ChatGPT_Image_Jun_1_2026_10_11_25_PM_qxdmxa.png" alt="Black Phoenix under Moonlight" loading="lazy"><span>Black Phoenix under Moonlight</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/golden-lion-on-ancient-ruins.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664539/ChatGPT_Image_Jun_1_2026_10_11_27_PM_hxhgf7.png" alt="Golden Lion On Ancient Ruins" loading="lazy"><span>Golden Lion On Ancient Ruins</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/red-raven-wings-over-a-gothic-city.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664570/ChatGPT_Image_Jun_1_2026_10_11_30_PM_tbnudu.png" alt="Red Raven Wings over A Gothic City" loading="lazy"><span>Red Raven Wings over A Gothic City</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/crimson-dragon-cave-and-lava-fortress.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664570/ChatGPT_Image_Jun_1_2026_10_12_19_PM_uxgd6n.png" alt="Crimson Dragon Cave and Lava Fortress" loading="lazy"><span>Crimson Dragon Cave and Lava Fortress</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/misty-jungle-temple-ruins.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664597/ChatGPT_Image_Jun_1_2026_10_12_28_PM_jhu2hw.png" alt="Misty Jungle Temple Ruins" loading="lazy"><span>Misty Jungle Temple Ruins</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/red-dragon-above-burning-castle.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664601/ChatGPT_Image_Jun_1_2026_10_12_25_PM_bxmtjn.png" alt="Red Dragon above Burning Castle" loading="lazy"><span>Red Dragon above Burning Castle</span></a>
+                <a class="related-card" href="../../../wallpapers/dark-fantasy/01/black-phoenix-under-moonlight.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-25-pm-qxdmxa&amp;variant=thumbnail" alt="Black Phoenix under Moonlight" loading="lazy"><span>Black Phoenix under Moonlight</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/golden-lion-on-ancient-ruins.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-27-pm-hxhgf7&amp;variant=thumbnail" alt="Golden Lion On Ancient Ruins" loading="lazy"><span>Golden Lion On Ancient Ruins</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/red-raven-wings-over-a-gothic-city.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-30-pm-tbnudu&amp;variant=thumbnail" alt="Red Raven Wings over A Gothic City" loading="lazy"><span>Red Raven Wings over A Gothic City</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/crimson-dragon-cave-and-lava-fortress.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-19-pm-uxgd6n&amp;variant=thumbnail" alt="Crimson Dragon Cave and Lava Fortress" loading="lazy"><span>Crimson Dragon Cave and Lava Fortress</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/misty-jungle-temple-ruins.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-28-pm-jhu2hw&amp;variant=thumbnail" alt="Misty Jungle Temple Ruins" loading="lazy"><span>Misty Jungle Temple Ruins</span></a><a class="related-card" href="../../../wallpapers/dark-fantasy/01/red-dragon-above-burning-castle.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-25-pm-bxmtjn&amp;variant=thumbnail" alt="Red Dragon above Burning Castle" loading="lazy"><span>Red Dragon above Burning Castle</span></a>
             </div>
         </section>
     </main>
     <script src="../../../download-tracking.js"></script>
-    <script>
-        const downloadUrl = "https://res.cloudinary.com/dlmjetz3s/image/upload/fl_attachment:PMW_Wallpapers_Download/v1780664826/ChatGPT_Image_Jun_1_2026_10_15_03_PM_h3ebhm.png";
-        const shareUrl = "https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html";
+    <script>        const shareUrl = "https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html";
         const shareTitle = "Purple Throne among Glowing Roses - PMW Wallpapers";
         const shareText = "A vertical dark fantasy mobile wallpaper featuring purple throne among glowing roses, with dramatic shadows, cinematic atmosphere, and a bold phone-screen composition.";
-        const wallpaperDownloadItem = {"id":"chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm","title":"Purple Throne among Glowing Roses","category":"Dark Fantasy","url":"https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html","type":"wallpaper"};
-
-        document.getElementById('downloadButton').addEventListener('click', () => {
-            const randomNumber = Math.floor(10000 + Math.random() * 90000);
-            if (window.PMW_DOWNLOAD_TRACKING) {
-                window.PMW_DOWNLOAD_TRACKING.trackDownload(wallpaperDownloadItem);
-            }
-            window.location.href = downloadUrl.replace('PMW_Wallpapers_Download', 'PMW_Wallpapers_' + randomNumber);
-        });
+        window.wallpaperDownloadItem = {"id":"chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm","title":"Purple Throne among Glowing Roses","category":"Dark Fantasy","url":"https://pmwvisuals.com/wallpapers/dark-fantasy/01/purple-throne-among-glowing-roses.html","type":"wallpaper"};
 
         document.getElementById('shareButton').addEventListener('click', async () => {
             const status = document.getElementById('shareStatus');
@@ -447,6 +473,7 @@
             }
         });
     </script>
+    <script type="module" src="../../../js/wallpaper-protection.js"></script>
     <script type="module" src="../../../js/saved-wallpapers.js"></script>
 
     <script src="../../../js/wallpaper-tools-panel.js" defer></script>

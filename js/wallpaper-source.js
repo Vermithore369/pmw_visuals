@@ -1,12 +1,6 @@
-import { db } from "./firebase.js";
-import {
-  collection,
-  getDocs,
-  query,
-  where
-} from "https://www.gstatic.com/firebasejs/12.15.0/firebase-firestore.js";
-
 const CACHE_TTL_MS = 0;
+const FUNCTIONS_BASE_URL = window.PMW_FUNCTIONS_BASE_URL
+  || "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net";
 
 function normalizeText(value) {
   return String(value || "").trim();
@@ -84,7 +78,9 @@ function buildResolution(item) {
 }
 
 function normalizeWallpaper(id, item, source) {
-  const imageUrl = normalizeText(item.imageUrl || item.preview || item.download || item.thumbnail);
+  const imageUrl = source === "static"
+    ? normalizeText(item.imageUrl || item.preview || item.download || item.thumbnail)
+    : "";
   const types = cleanTypes(item);
   const access = normalizeAccess(item.access || (item.premium || item.isPremium ? "premium" : "free"));
   const tags = cleanList([item.hashtags || [], item.tags || []]).map((tag) => tag.toLowerCase());
@@ -95,7 +91,9 @@ function normalizeWallpaper(id, item, source) {
     title: normalizeText(item.title),
     description: normalizeText(item.description),
     imageUrl,
-    cloudinaryPublicId: normalizeText(item.cloudinaryPublicId || item.public_id || item.publicId),
+    cloudinaryPublicId: source === "static"
+      ? normalizeText(item.cloudinaryPublicId || item.public_id || item.publicId)
+      : "",
     types,
     category: types[0] || normalizeText(item.category) || "Wallpapers",
     tags,
@@ -108,7 +106,9 @@ function normalizeWallpaper(id, item, source) {
     format: normalizeText(item.format).toUpperCase() || "Image",
     thumbnail: normalizeText(item.thumbnail) || cloudinaryTransformUrl(imageUrl, "c_fill,g_auto,w_420,h_746,q_auto,f_auto"),
     preview: normalizeText(item.preview) || cloudinaryTransformUrl(imageUrl, "q_auto,f_auto"),
-    download: normalizeText(item.download) || cloudinaryTransformUrl(imageUrl, "fl_attachment"),
+    download: source === "static"
+      ? normalizeText(item.download) || cloudinaryTransformUrl(imageUrl, "fl_attachment")
+      : "",
     source
   };
 }
@@ -146,18 +146,22 @@ function writeCache(access, items) {
   }
 }
 
-async function fetchFirestoreWallpapers(access) {
+async function fetchProtectedWallpapers(access) {
   const cached = readCache(access);
   if (cached) return cached;
 
-  const snapshot = await getDocs(query(
-    collection(db, "wallpapers"),
-    where("visible", "==", true),
-    where("access", "==", access)
-  ));
+  const response = await fetch(`${FUNCTIONS_BASE_URL}/listWallpapers`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ access })
+  });
+  const payload = await response.json().catch(() => ({}));
+  if (!response.ok) {
+    throw new Error(payload.error || "Unable to load protected wallpaper metadata");
+  }
 
-  const items = snapshot.docs
-    .map((docSnap) => normalizeWallpaper(docSnap.id, docSnap.data() || {}, "firestore"))
+  const items = (Array.isArray(payload.items) ? payload.items : [])
+    .map((item) => normalizeWallpaper(item.id, item, "protected"))
     .filter((item) => item.visible && item.access === access);
 
   writeCache(access, items);
@@ -169,11 +173,11 @@ export async function loadVisibleWallpapers({ access = "free", fallback = [], al
   const fallbackItems = staticFallbackWallpapers(fallback, normalizedAccess);
 
   try {
-    const firestoreItems = await fetchFirestoreWallpapers(normalizedAccess);
-    if (firestoreItems.length || !allowFallback) {
+    const protectedItems = await fetchProtectedWallpapers(normalizedAccess);
+    if (protectedItems.length || !allowFallback) {
       return {
-        items: firestoreItems,
-        source: "firestore",
+        items: protectedItems,
+        source: "protected",
         error: null
       };
     }

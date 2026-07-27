@@ -35,12 +35,12 @@
     <meta property="og:title" content="Hourglass with Blue Cosmic Sand | PMW Visuals">
     <meta property="og:description" content="A vertical AMOLED mobile wallpaper featuring hourglass with blue cosmic sand, set against deep blacks with crisp glowing contrast for phone screens.">
     <meta property="og:url" content="https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html">
-    <meta property="og:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780376873/ChatGPT_Image_Jun_1_2026_08_17_10_PM_odzuqd.png">
+    <meta property="og:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&amp;variant=detail">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Hourglass with Blue Cosmic Sand | PMW Visuals">
     <meta name="twitter:description" content="A vertical AMOLED mobile wallpaper featuring hourglass with blue cosmic sand, set against deep blacks with crisp glowing contrast for phone screens.">
-    <meta name="twitter:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780376873/ChatGPT_Image_Jun_1_2026_08_17_10_PM_odzuqd.png">
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Hourglass with Blue Cosmic Sand","description":"A vertical AMOLED mobile wallpaper featuring hourglass with blue cosmic sand, set against deep blacks with crisp glowing contrast for phone screens.","contentUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780376873/ChatGPT_Image_Jun_1_2026_08_17_10_PM_odzuqd.png","thumbnailUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780376873/ChatGPT_Image_Jun_1_2026_08_17_10_PM_odzuqd.png","encodingFormat":"PNG","width":941,"height":1672,"keywords":"amoled, black wallpaper, dark wallpaper, mobile wallpaper, phone wallpaper, hourglass, blue, cosmic","url":"https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
+    <meta name="twitter:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&amp;variant=detail">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Hourglass with Blue Cosmic Sand","description":"A vertical AMOLED mobile wallpaper featuring hourglass with blue cosmic sand, set against deep blacks with crisp glowing contrast for phone screens.","contentUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&variant=detail","thumbnailUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&variant=thumbnail","encodingFormat":"PNG","width":941,"height":1672,"keywords":"amoled, black wallpaper, dark wallpaper, mobile wallpaper, phone wallpaper, hourglass, blue, cosmic","url":"https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
@@ -353,6 +353,42 @@
         .brand-logo {
             display: none !important;
         }
+    
+        .preview-card {
+            position: relative;
+            isolation: isolate;
+        }
+        .preview-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            pointer-events: none;
+            user-select: none;
+            -webkit-user-select: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        .preview-card.has-premium-watermark::after {
+            opacity: 0.72;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='150' viewBox='0 0 260 150'%3E%3Ctext x='18' y='88' fill='white' fill-opacity='.42' font-family='Arial,sans-serif' font-size='21' font-weight='700' transform='rotate(-28 130 75)'%3EPMW VISUALS%3C/text%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: clamp(180px, 22vw, 260px) auto;
+            filter: drop-shadow(0 1px 2px rgba(0,0,0,.55));
+        }
+        .wallpaper-layout.protection-pending .preview-card img {
+            opacity: 0.18;
+            filter: blur(12px);
+        }
+        .download-btn:disabled {
+            cursor: wait;
+            opacity: 0.64;
+        }
+        @media (max-width: 520px) {
+            .preview-card.has-premium-watermark::after {
+                background-size: 170px auto;
+            }
+        }
     </style>
     <script type="application/ld+json" data-breadcrumb-schema>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pmwvisuals.com/"},{"@type":"ListItem","position":2,"name":"PMW Wallpapers","item":"https://pmwvisuals.com/pmw-wallpapers.html"},{"@type":"ListItem","position":3,"name":"AMOLED Wallpapers","item":"https://pmwvisuals.com/wallpapers/amoled/"},{"@type":"ListItem","position":4,"name":"Hourglass with Blue Cosmic Sand","item":"https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html"}]}</script>
 </head>
@@ -376,9 +412,9 @@
             <span>/</span>
             <span>Hourglass with Blue Cosmic Sand</span>
         </div>
-        <section class="wallpaper-layout">
+        <section class="wallpaper-layout" data-protected-wallpaper data-wallpaper-id="chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd">
             <div class="preview-card">
-                <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780376873/ChatGPT_Image_Jun_1_2026_08_17_10_PM_odzuqd.png" alt="Hourglass with Blue Cosmic Sand">
+                <img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&amp;variant=detail" alt="Hourglass with Blue Cosmic Sand">
             </div>
             <article>
                 <p class="kicker">AMOLED Wallpapers</p>
@@ -412,25 +448,15 @@
         <section class="related" aria-labelledby="relatedTitle">
             <h2 id="relatedTitle">Related Wallpapers</h2>
             <div class="related-grid">
-                <a class="related-card" href="../../../wallpapers/amoled/01/cosmic-lion-dragon-and-lotus-bowl.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373712/ChatGPT_Image_Jun_1_2026_03_39_05_PM_vlxhic.png" alt="Cosmic Lion, Dragon and Lotus Bowl" loading="lazy"><span>Cosmic Lion, Dragon and Lotus Bowl</span></a><a class="related-card" href="../../../wallpapers/amoled/01/glowing-blue-crystal-cave.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373716/ChatGPT_Image_Jun_1_2026_03_39_08_PM_wrwbd8.png" alt="Glowing Blue Crystal Cave" loading="lazy"><span>Glowing Blue Crystal Cave</span></a><a class="related-card" href="../../../wallpapers/amoled/01/cosmic-whale-in-a-starry-ocean.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373746/ChatGPT_Image_Jun_1_2026_03_39_11_PM_figmjk.png" alt="Cosmic Whale in a Starry Ocean" loading="lazy"><span>Cosmic Whale in a Starry Ocean</span></a><a class="related-card" href="../../../wallpapers/amoled/01/pink-lotus-glowing-in-a-galaxy.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780374179/ChatGPT_Image_Jun_1_2026_03_39_14_PM_a7dpci.png" alt="Pink Lotus Glowing in a Galaxy" loading="lazy"><span>Pink Lotus Glowing in a Galaxy</span></a><a class="related-card" href="../../../wallpapers/amoled/01/blue-crystal-cavern-with-luminous-shards.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780374364/ChatGPT_Image_Jun_1_2026_03_39_23_PM_pqgjac.png" alt="Blue Crystal Cavern with Luminous Shards" loading="lazy"><span>Blue Crystal Cavern with Luminous Shards</span></a><a class="related-card" href="../../../wallpapers/amoled/01/glowing-runic-egg-in-the-dark.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780374370/ChatGPT_Image_Jun_1_2026_03_39_26_PM_ul9jry.png" alt="Glowing Runic Egg in the Dark" loading="lazy"><span>Glowing Runic Egg in the Dark</span></a>
+                <a class="related-card" href="../../../wallpapers/amoled/01/cosmic-lion-dragon-and-lotus-bowl.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-05-pm-vlxhic&amp;variant=thumbnail" alt="Cosmic Lion, Dragon and Lotus Bowl" loading="lazy"><span>Cosmic Lion, Dragon and Lotus Bowl</span></a><a class="related-card" href="../../../wallpapers/amoled/01/glowing-blue-crystal-cave.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-08-pm-wrwbd8&amp;variant=thumbnail" alt="Glowing Blue Crystal Cave" loading="lazy"><span>Glowing Blue Crystal Cave</span></a><a class="related-card" href="../../../wallpapers/amoled/01/cosmic-whale-in-a-starry-ocean.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-11-pm-figmjk&amp;variant=thumbnail" alt="Cosmic Whale in a Starry Ocean" loading="lazy"><span>Cosmic Whale in a Starry Ocean</span></a><a class="related-card" href="../../../wallpapers/amoled/01/pink-lotus-glowing-in-a-galaxy.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-14-pm-a7dpci&amp;variant=thumbnail" alt="Pink Lotus Glowing in a Galaxy" loading="lazy"><span>Pink Lotus Glowing in a Galaxy</span></a><a class="related-card" href="../../../wallpapers/amoled/01/blue-crystal-cavern-with-luminous-shards.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-23-pm-pqgjac&amp;variant=thumbnail" alt="Blue Crystal Cavern with Luminous Shards" loading="lazy"><span>Blue Crystal Cavern with Luminous Shards</span></a><a class="related-card" href="../../../wallpapers/amoled/01/glowing-runic-egg-in-the-dark.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-26-pm-ul9jry&amp;variant=thumbnail" alt="Glowing Runic Egg in the Dark" loading="lazy"><span>Glowing Runic Egg in the Dark</span></a>
             </div>
         </section>
     </main>
     <script src="../../../download-tracking.js"></script>
-    <script>
-        const downloadUrl = "https://res.cloudinary.com/dlmjetz3s/image/upload/fl_attachment:PMW_Wallpapers_Download/v1780376873/ChatGPT_Image_Jun_1_2026_08_17_10_PM_odzuqd.png";
-        const shareUrl = "https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html";
+    <script>        const shareUrl = "https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html";
         const shareTitle = "Hourglass with Blue Cosmic Sand - PMW Wallpapers";
         const shareText = "A vertical AMOLED mobile wallpaper featuring hourglass with blue cosmic sand, set against deep blacks with crisp glowing contrast for phone screens.";
-        const wallpaperDownloadItem = {"id":"chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd","title":"Hourglass with Blue Cosmic Sand","category":"AMOLED Wallpapers","url":"https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html","type":"wallpaper"};
-
-        document.getElementById('downloadButton').addEventListener('click', () => {
-            const randomNumber = Math.floor(10000 + Math.random() * 90000);
-            if (window.PMW_DOWNLOAD_TRACKING) {
-                window.PMW_DOWNLOAD_TRACKING.trackDownload(wallpaperDownloadItem);
-            }
-            window.location.href = downloadUrl.replace('PMW_Wallpapers_Download', 'PMW_Wallpapers_' + randomNumber);
-        });
+        window.wallpaperDownloadItem = {"id":"chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd","title":"Hourglass with Blue Cosmic Sand","category":"AMOLED Wallpapers","url":"https://pmwvisuals.com/wallpapers/amoled/02/hourglass-with-blue-cosmic-sand.html","type":"wallpaper"};
 
         document.getElementById('shareButton').addEventListener('click', async () => {
             const status = document.getElementById('shareStatus');
@@ -447,6 +473,7 @@
             }
         });
     </script>
+    <script type="module" src="../../../js/wallpaper-protection.js"></script>
     <script type="module" src="../../../js/saved-wallpapers.js"></script>
 
     <script src="../../../js/wallpaper-tools-panel.js" defer></script>

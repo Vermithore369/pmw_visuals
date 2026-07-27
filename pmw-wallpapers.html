@@ -1684,7 +1684,7 @@
             }
         });
 
-        panelDownload.addEventListener('click', () => {
+        panelDownload.addEventListener('click', async () => {
             if (!selectedWallpaper) return;
             if (!canDownloadWallpaper(selectedWallpaper)) {
                 window.location.href = signedInUser ? 'premium.html' : 'login.html';
@@ -1700,7 +1700,17 @@
                     type: 'wallpaper'
                 });
             }
-            window.location.href = getNamedDownloadUrl(selectedWallpaper.download);
+            try {
+                const { requestWallpaperDownload, navigateForDownloadError } = await import('./js/secure-wallpaper-download.js');
+                const downloadUrl = await requestWallpaperDownload(selectedWallpaper.id);
+                window.location.href = downloadUrl;
+            } catch (error) {
+                const { navigateForDownloadError } = await import('./js/secure-wallpaper-download.js');
+                if (!navigateForDownloadError(error)) {
+                    console.error('Unable to download wallpaper.', error);
+                    panelDownload.textContent = error.message || 'Download failed. Try again.';
+                }
+            }
         });
 
         panelClose.addEventListener('click', closePanel);

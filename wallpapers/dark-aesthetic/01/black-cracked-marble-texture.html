@@ -35,12 +35,12 @@
     <meta property="og:title" content="Black Cracked Marble Texture | PMW Visuals">
     <meta property="og:description" content="A vertical dark aesthetic mobile wallpaper featuring black cracked marble texture, shaped with moonlit contrast, shadows, and a moody night atmosphere.">
     <meta property="og:url" content="https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html">
-    <meta property="og:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780135649/D.F.W_4_j2ado6.png">
+    <meta property="og:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&amp;variant=detail">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Black Cracked Marble Texture | PMW Visuals">
     <meta name="twitter:description" content="A vertical dark aesthetic mobile wallpaper featuring black cracked marble texture, shaped with moonlit contrast, shadows, and a moody night atmosphere.">
-    <meta name="twitter:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780135649/D.F.W_4_j2ado6.png">
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Black Cracked Marble Texture","description":"A vertical dark aesthetic mobile wallpaper featuring black cracked marble texture, shaped with moonlit contrast, shadows, and a moody night atmosphere.","contentUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780135649/D.F.W_4_j2ado6.png","thumbnailUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780135649/D.F.W_4_j2ado6.png","encodingFormat":"PNG","width":941,"height":1672,"keywords":"dark aesthetic, moody wallpaper, night wallpaper, mobile wallpaper, phone wallpaper, black, cracked, marble, texture","url":"https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
+    <meta name="twitter:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&amp;variant=detail">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Black Cracked Marble Texture","description":"A vertical dark aesthetic mobile wallpaper featuring black cracked marble texture, shaped with moonlit contrast, shadows, and a moody night atmosphere.","contentUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&variant=detail","thumbnailUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&variant=thumbnail","encodingFormat":"PNG","width":941,"height":1672,"keywords":"dark aesthetic, moody wallpaper, night wallpaper, mobile wallpaper, phone wallpaper, black, cracked, marble, texture","url":"https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
@@ -353,6 +353,42 @@
         .brand-logo {
             display: none !important;
         }
+    
+        .preview-card {
+            position: relative;
+            isolation: isolate;
+        }
+        .preview-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            pointer-events: none;
+            user-select: none;
+            -webkit-user-select: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        .preview-card.has-premium-watermark::after {
+            opacity: 0.72;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='150' viewBox='0 0 260 150'%3E%3Ctext x='18' y='88' fill='white' fill-opacity='.42' font-family='Arial,sans-serif' font-size='21' font-weight='700' transform='rotate(-28 130 75)'%3EPMW VISUALS%3C/text%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: clamp(180px, 22vw, 260px) auto;
+            filter: drop-shadow(0 1px 2px rgba(0,0,0,.55));
+        }
+        .wallpaper-layout.protection-pending .preview-card img {
+            opacity: 0.18;
+            filter: blur(12px);
+        }
+        .download-btn:disabled {
+            cursor: wait;
+            opacity: 0.64;
+        }
+        @media (max-width: 520px) {
+            .preview-card.has-premium-watermark::after {
+                background-size: 170px auto;
+            }
+        }
     </style>
     <script type="application/ld+json" data-breadcrumb-schema>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pmwvisuals.com/"},{"@type":"ListItem","position":2,"name":"PMW Wallpapers","item":"https://pmwvisuals.com/pmw-wallpapers.html"},{"@type":"ListItem","position":3,"name":"Dark Aesthetic Wallpapers","item":"https://pmwvisuals.com/wallpapers/dark-aesthetic/"},{"@type":"ListItem","position":4,"name":"Black Cracked Marble Texture","item":"https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html"}]}</script>
 </head>
@@ -376,9 +412,9 @@
             <span>/</span>
             <span>Black Cracked Marble Texture</span>
         </div>
-        <section class="wallpaper-layout">
+        <section class="wallpaper-layout" data-protected-wallpaper data-wallpaper-id="d-f-w-4-j2ado6">
             <div class="preview-card">
-                <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780135649/D.F.W_4_j2ado6.png" alt="Black Cracked Marble Texture">
+                <img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&amp;variant=detail" alt="Black Cracked Marble Texture">
             </div>
             <article>
                 <p class="kicker">Dark Aesthetic</p>
@@ -412,25 +448,15 @@
         <section class="related" aria-labelledby="relatedTitle">
             <h2 id="relatedTitle">Related Wallpapers</h2>
             <div class="related-grid">
-                <a class="related-card" href="../../../wallpapers/dark-aesthetic/01/milky-way-over-dark-mountains.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373549/ChatGPT_Image_May_30_2026_06_35_03_PM_wg9jku.png" alt="Milky Way over Dark Mountains" loading="lazy"><span>Milky Way over Dark Mountains</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/full-moon-lake-and-forest-reflection.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373386/ChatGPT_Image_May_30_2026_06_35_10_PM_xulaok.png" alt="Full Moon Lake and Forest Reflection" loading="lazy"><span>Full Moon Lake and Forest Reflection</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/milky-way-mountain-lake-at-night.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373424/ChatGPT_Image_May_30_2026_06_35_17_PM_xw4zdl.png" alt="Milky Way Mountain Lake at Night" loading="lazy"><span>Milky Way Mountain Lake at Night</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/lone-tree-under-the-milky-way.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373391/ChatGPT_Image_May_30_2026_06_35_25_PM_vn3vc0.png" alt="Lone Tree under the Milky Way" loading="lazy"><span>Lone Tree under the Milky Way</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/lightning-storm-over-a-canyon.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373389/ChatGPT_Image_May_30_2026_06_35_33_PM_rryg23.png" alt="Lightning Storm over a Canyon" loading="lazy"><span>Lightning Storm over a Canyon</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/milky-way-above-clouds-and-mountains.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373389/ChatGPT_Image_May_30_2026_06_35_38_PM_ybc8oe.png" alt="Milky Way Above Clouds and Mountains" loading="lazy"><span>Milky Way Above Clouds and Mountains</span></a>
+                <a class="related-card" href="../../../wallpapers/dark-aesthetic/01/milky-way-over-dark-mountains.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-03-pm-wg9jku&amp;variant=thumbnail" alt="Milky Way over Dark Mountains" loading="lazy"><span>Milky Way over Dark Mountains</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/full-moon-lake-and-forest-reflection.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-10-pm-xulaok&amp;variant=thumbnail" alt="Full Moon Lake and Forest Reflection" loading="lazy"><span>Full Moon Lake and Forest Reflection</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/milky-way-mountain-lake-at-night.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-17-pm-xw4zdl&amp;variant=thumbnail" alt="Milky Way Mountain Lake at Night" loading="lazy"><span>Milky Way Mountain Lake at Night</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/lone-tree-under-the-milky-way.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-25-pm-vn3vc0&amp;variant=thumbnail" alt="Lone Tree under the Milky Way" loading="lazy"><span>Lone Tree under the Milky Way</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/lightning-storm-over-a-canyon.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-33-pm-rryg23&amp;variant=thumbnail" alt="Lightning Storm over a Canyon" loading="lazy"><span>Lightning Storm over a Canyon</span></a><a class="related-card" href="../../../wallpapers/dark-aesthetic/01/milky-way-above-clouds-and-mountains.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-38-pm-ybc8oe&amp;variant=thumbnail" alt="Milky Way Above Clouds and Mountains" loading="lazy"><span>Milky Way Above Clouds and Mountains</span></a>
             </div>
         </section>
     </main>
     <script src="../../../download-tracking.js"></script>
-    <script>
-        const downloadUrl = "https://res.cloudinary.com/dlmjetz3s/image/upload/fl_attachment:PMW_Wallpapers_Download/v1780135649/D.F.W_4_j2ado6.png";
-        const shareUrl = "https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html";
+    <script>        const shareUrl = "https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html";
         const shareTitle = "Black Cracked Marble Texture - PMW Wallpapers";
         const shareText = "A vertical dark aesthetic mobile wallpaper featuring black cracked marble texture, shaped with moonlit contrast, shadows, and a moody night atmosphere.";
-        const wallpaperDownloadItem = {"id":"d-f-w-4-j2ado6","title":"Black Cracked Marble Texture","category":"Dark Aesthetic","url":"https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html","type":"wallpaper"};
-
-        document.getElementById('downloadButton').addEventListener('click', () => {
-            const randomNumber = Math.floor(10000 + Math.random() * 90000);
-            if (window.PMW_DOWNLOAD_TRACKING) {
-                window.PMW_DOWNLOAD_TRACKING.trackDownload(wallpaperDownloadItem);
-            }
-            window.location.href = downloadUrl.replace('PMW_Wallpapers_Download', 'PMW_Wallpapers_' + randomNumber);
-        });
+        window.wallpaperDownloadItem = {"id":"d-f-w-4-j2ado6","title":"Black Cracked Marble Texture","category":"Dark Aesthetic","url":"https://pmwvisuals.com/wallpapers/dark-aesthetic/01/black-cracked-marble-texture.html","type":"wallpaper"};
 
         document.getElementById('shareButton').addEventListener('click', async () => {
             const status = document.getElementById('shareStatus');
@@ -447,6 +473,7 @@
             }
         });
     </script>
+    <script type="module" src="../../../js/wallpaper-protection.js"></script>
     <script type="module" src="../../../js/saved-wallpapers.js"></script>
 
     <script src="../../../js/wallpaper-tools-panel.js" defer></script>

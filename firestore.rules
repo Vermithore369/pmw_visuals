@@ -59,7 +59,11 @@ service cloud.firestore {
           'title',
           'description',
           'imageUrl',
+          'previewUrl',
           'cloudinaryPublicId',
+          'cloudinaryCloudName',
+          'deliveryType',
+          'resourceType',
           'types',
           'deviceTypes',
           'hashtags',
@@ -77,7 +81,26 @@ service cloud.firestore {
         && request.resource.data.imageUrl is string
         && request.resource.data.imageUrl.size() > 0
         && request.resource.data.imageUrl.matches('https://res\\.cloudinary\\.com/.*')
+        && (
+          !request.resource.data.keys().hasAny(['previewUrl'])
+          || (
+            request.resource.data.previewUrl is string
+            && request.resource.data.previewUrl.matches('https://res\\.cloudinary\\.com/.*')
+          )
+        )
         && request.resource.data.cloudinaryPublicId is string
+        && (
+          !request.resource.data.keys().hasAny(['cloudinaryCloudName'])
+          || request.resource.data.cloudinaryCloudName is string
+        )
+        && (
+          !request.resource.data.keys().hasAny(['deliveryType'])
+          || request.resource.data.deliveryType in ['upload', 'private', 'authenticated']
+        )
+        && (
+          !request.resource.data.keys().hasAny(['resourceType'])
+          || request.resource.data.resourceType in ['image']
+        )
         && request.resource.data.types is list
         && request.resource.data.types.size() > 0
         && (
@@ -143,7 +166,9 @@ service cloud.firestore {
     }
 
     match /wallpapers/{wallpaperId} {
-      allow read: if canReadWallpaper();
+      // Public pages use sanitized Cloud Functions responses. Original Cloudinary
+      // delivery fields remain visible only to administrators.
+      allow read: if isAdmin();
       allow create: if isAdmin()
         && isValidWallpaper()
         && request.resource.data.createdAt == request.time

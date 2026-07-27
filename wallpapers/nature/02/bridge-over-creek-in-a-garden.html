@@ -35,12 +35,12 @@
     <meta property="og:title" content="Bridge over Creek in A Garden | PMW Visuals">
     <meta property="og:description" content="A vertical nature mobile wallpaper featuring bridge over creek in a garden, with scenic light, natural texture, and a calm phone-screen composition.">
     <meta property="og:url" content="https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html">
-    <meta property="og:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780920200/ChatGPT_Image_Jun_8_2026_05_19_16_PM_limwlh.png">
+    <meta property="og:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&amp;variant=detail">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Bridge over Creek in A Garden | PMW Visuals">
     <meta name="twitter:description" content="A vertical nature mobile wallpaper featuring bridge over creek in a garden, with scenic light, natural texture, and a calm phone-screen composition.">
-    <meta name="twitter:image" content="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780920200/ChatGPT_Image_Jun_8_2026_05_19_16_PM_limwlh.png">
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Bridge over Creek in A Garden","description":"A vertical nature mobile wallpaper featuring bridge over creek in a garden, with scenic light, natural texture, and a calm phone-screen composition.","contentUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780920200/ChatGPT_Image_Jun_8_2026_05_19_16_PM_limwlh.png","thumbnailUrl":"https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780920200/ChatGPT_Image_Jun_8_2026_05_19_16_PM_limwlh.png","encodingFormat":"PNG","width":941,"height":1672,"keywords":"nature wallpaper, landscape wallpaper, scenic wallpaper, mobile wallpaper, phone wallpaper, bridge, creek, garden","url":"https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
+    <meta name="twitter:image" content="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&amp;variant=detail">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"ImageObject","name":"Bridge over Creek in A Garden","description":"A vertical nature mobile wallpaper featuring bridge over creek in a garden, with scenic light, natural texture, and a calm phone-screen composition.","contentUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&variant=detail","thumbnailUrl":"https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&variant=thumbnail","encodingFormat":"PNG","width":941,"height":1672,"keywords":"nature wallpaper, landscape wallpaper, scenic wallpaper, mobile wallpaper, phone wallpaper, bridge, creek, garden","url":"https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html","creator":{"@type":"Organization","name":"PMW Visuals","url":"https://pmwvisuals.com"},"creditText":"PMW Visuals","copyrightNotice":"Copyright PMW Visuals","acquireLicensePage":"https://pmwvisuals.com/license.html","license":"https://pmwvisuals.com/license.html"}</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
@@ -353,6 +353,42 @@
         .brand-logo {
             display: none !important;
         }
+    
+        .preview-card {
+            position: relative;
+            isolation: isolate;
+        }
+        .preview-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            pointer-events: none;
+            user-select: none;
+            -webkit-user-select: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        .preview-card.has-premium-watermark::after {
+            opacity: 0.72;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='150' viewBox='0 0 260 150'%3E%3Ctext x='18' y='88' fill='white' fill-opacity='.42' font-family='Arial,sans-serif' font-size='21' font-weight='700' transform='rotate(-28 130 75)'%3EPMW VISUALS%3C/text%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: clamp(180px, 22vw, 260px) auto;
+            filter: drop-shadow(0 1px 2px rgba(0,0,0,.55));
+        }
+        .wallpaper-layout.protection-pending .preview-card img {
+            opacity: 0.18;
+            filter: blur(12px);
+        }
+        .download-btn:disabled {
+            cursor: wait;
+            opacity: 0.64;
+        }
+        @media (max-width: 520px) {
+            .preview-card.has-premium-watermark::after {
+                background-size: 170px auto;
+            }
+        }
     </style>
     <script type="application/ld+json" data-breadcrumb-schema>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pmwvisuals.com/"},{"@type":"ListItem","position":2,"name":"PMW Wallpapers","item":"https://pmwvisuals.com/pmw-wallpapers.html"},{"@type":"ListItem","position":3,"name":"Nature Wallpapers","item":"https://pmwvisuals.com/wallpapers/nature/"},{"@type":"ListItem","position":4,"name":"Bridge over Creek in A Garden","item":"https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html"}]}</script>
 </head>
@@ -376,9 +412,9 @@
             <span>/</span>
             <span>Bridge over Creek in A Garden</span>
         </div>
-        <section class="wallpaper-layout">
+        <section class="wallpaper-layout" data-protected-wallpaper data-wallpaper-id="chatgpt-image-jun-8-2026-05-19-16-pm-limwlh">
             <div class="preview-card">
-                <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/q_auto,f_auto/v1780920200/ChatGPT_Image_Jun_8_2026_05_19_16_PM_limwlh.png" alt="Bridge over Creek in A Garden">
+                <img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&amp;variant=detail" alt="Bridge over Creek in A Garden">
             </div>
             <article>
                 <p class="kicker">Nature Wallpapers</p>
@@ -412,25 +448,15 @@
         <section class="related" aria-labelledby="relatedTitle">
             <h2 id="relatedTitle">Related Wallpapers</h2>
             <div class="related-grid">
-                <a class="related-card" href="../../../wallpapers/nature/01/sun-rays-over-green-mountain-valley.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555836/ChatGPT_Image_Jun_2_2026_10_08_01_PM_pq5uk0.png" alt="Sun Rays over Green Mountain Valley" loading="lazy"><span>Sun Rays over Green Mountain Valley</span></a><a class="related-card" href="../../../wallpapers/nature/01/sunrise-above-clouds-and-pink-mountains.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555836/ChatGPT_Image_Jun_2_2026_10_08_04_PM_1_thdh97.png" alt="Sunrise above Clouds and Pink Mountains" loading="lazy"><span>Sunrise above Clouds and Pink Mountains</span></a><a class="related-card" href="../../../wallpapers/nature/01/sunset-above-mountain-sea-of-clouds.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555836/ChatGPT_Image_Jun_2_2026_10_08_05_PM_2_wmwejh.png" alt="Sunset above Mountain Sea of Clouds" loading="lazy"><span>Sunset above Mountain Sea of Clouds</span></a><a class="related-card" href="../../../wallpapers/nature/01/aurora-reflected-in-mountain-lake.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555845/ChatGPT_Image_Jun_2_2026_10_08_07_PM_rieei0.png" alt="Aurora Reflected in Mountain Lake" loading="lazy"><span>Aurora Reflected in Mountain Lake</span></a><a class="related-card" href="../../../wallpapers/nature/01/blue-sea-cave-with-clear-water.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555866/ChatGPT_Image_Jun_2_2026_10_08_09_PM_wnhb03.png" alt="Blue Sea Cave with Clear Water" loading="lazy"><span>Blue Sea Cave with Clear Water</span></a><a class="related-card" href="../../../wallpapers/nature/01/aurora-valley-with-waterfall-and-planets.html"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555874/ChatGPT_Image_Jun_2_2026_10_07_43_PM_rhunho.png" alt="Aurora Valley with Waterfall and Planets" loading="lazy"><span>Aurora Valley with Waterfall and Planets</span></a>
+                <a class="related-card" href="../../../wallpapers/nature/01/sun-rays-over-green-mountain-valley.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-01-pm-pq5uk0&amp;variant=thumbnail" alt="Sun Rays over Green Mountain Valley" loading="lazy"><span>Sun Rays over Green Mountain Valley</span></a><a class="related-card" href="../../../wallpapers/nature/01/sunrise-above-clouds-and-pink-mountains.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-04-pm-1-thdh97&amp;variant=thumbnail" alt="Sunrise above Clouds and Pink Mountains" loading="lazy"><span>Sunrise above Clouds and Pink Mountains</span></a><a class="related-card" href="../../../wallpapers/nature/01/sunset-above-mountain-sea-of-clouds.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-05-pm-2-wmwejh&amp;variant=thumbnail" alt="Sunset above Mountain Sea of Clouds" loading="lazy"><span>Sunset above Mountain Sea of Clouds</span></a><a class="related-card" href="../../../wallpapers/nature/01/aurora-reflected-in-mountain-lake.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-07-pm-rieei0&amp;variant=thumbnail" alt="Aurora Reflected in Mountain Lake" loading="lazy"><span>Aurora Reflected in Mountain Lake</span></a><a class="related-card" href="../../../wallpapers/nature/01/blue-sea-cave-with-clear-water.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-09-pm-wnhb03&amp;variant=thumbnail" alt="Blue Sea Cave with Clear Water" loading="lazy"><span>Blue Sea Cave with Clear Water</span></a><a class="related-card" href="../../../wallpapers/nature/01/aurora-valley-with-waterfall-and-planets.html"><img src="https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-07-43-pm-rhunho&amp;variant=thumbnail" alt="Aurora Valley with Waterfall and Planets" loading="lazy"><span>Aurora Valley with Waterfall and Planets</span></a>
             </div>
         </section>
     </main>
     <script src="../../../download-tracking.js"></script>
-    <script>
-        const downloadUrl = "https://res.cloudinary.com/dlmjetz3s/image/upload/fl_attachment:PMW_Wallpapers_Download/v1780920200/ChatGPT_Image_Jun_8_2026_05_19_16_PM_limwlh.png";
-        const shareUrl = "https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html";
+    <script>        const shareUrl = "https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html";
         const shareTitle = "Bridge over Creek in A Garden - PMW Wallpapers";
         const shareText = "A vertical nature mobile wallpaper featuring bridge over creek in a garden, with scenic light, natural texture, and a calm phone-screen composition.";
-        const wallpaperDownloadItem = {"id":"chatgpt-image-jun-8-2026-05-19-16-pm-limwlh","title":"Bridge over Creek in A Garden","category":"Nature Wallpapers","url":"https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html","type":"wallpaper"};
-
-        document.getElementById('downloadButton').addEventListener('click', () => {
-            const randomNumber = Math.floor(10000 + Math.random() * 90000);
-            if (window.PMW_DOWNLOAD_TRACKING) {
-                window.PMW_DOWNLOAD_TRACKING.trackDownload(wallpaperDownloadItem);
-            }
-            window.location.href = downloadUrl.replace('PMW_Wallpapers_Download', 'PMW_Wallpapers_' + randomNumber);
-        });
+        window.wallpaperDownloadItem = {"id":"chatgpt-image-jun-8-2026-05-19-16-pm-limwlh","title":"Bridge over Creek in A Garden","category":"Nature Wallpapers","url":"https://pmwvisuals.com/wallpapers/nature/02/bridge-over-creek-in-a-garden.html","type":"wallpaper"};
 
         document.getElementById('shareButton').addEventListener('click', async () => {
             const status = document.getElementById('shareStatus');
@@ -447,6 +473,7 @@
             }
         });
     </script>
+    <script type="module" src="../../../js/wallpaper-protection.js"></script>
     <script type="module" src="../../../js/saved-wallpapers.js"></script>
 
     <script src="../../../js/wallpaper-tools-panel.js" defer></script>
