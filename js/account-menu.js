@@ -86,12 +86,21 @@
       height: 100%;
       display: grid;
       place-items: center;
-      color: #06141f;
-      background: linear-gradient(135deg, #e0f7ff, #38bdf8);
+      box-sizing: border-box;
+      border: 1px solid rgba(255,255,255,0.48);
+      color: #ffffff;
+      background:
+        radial-gradient(circle at 34% 24%, rgba(255,255,255,0.3), transparent 32%),
+        linear-gradient(145deg, rgba(255,255,255,0.12), rgba(6,6,6,0.92));
+      box-shadow:
+        inset 0 0 0 1px rgba(255,255,255,0.1),
+        inset 0 -10px 18px rgba(255,255,255,0.06),
+        0 0 18px rgba(255,255,255,0.12);
       font-size: 0.92rem;
       font-weight: 900;
       letter-spacing: 0.04em;
       text-transform: uppercase;
+      text-shadow: 0 1px 8px rgba(255,255,255,0.42);
     }
     .pmw-account-panel {
       position: absolute;
@@ -131,11 +140,16 @@
       height: 50px;
       display: grid;
       place-items: center;
-      border: 1px solid rgba(216,173,76,0.34);
+      border: 1px solid rgba(255,255,255,0.34);
       border-radius: 999px;
       overflow: hidden;
       color: #fff;
-      background: linear-gradient(145deg, rgba(216,173,76,0.2), rgba(255,255,255,0.04));
+      background:
+        radial-gradient(circle at 36% 24%, rgba(255,255,255,0.18), transparent 34%),
+        linear-gradient(145deg, rgba(255,255,255,0.08), rgba(8,8,8,0.88));
+      box-shadow:
+        inset 0 0 0 1px rgba(255,255,255,0.08),
+        0 0 22px rgba(255,255,255,0.08);
     }
     .pmw-account-head-avatar svg {
       width: 22px;
