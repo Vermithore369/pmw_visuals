@@ -675,14 +675,40 @@
             justify-content: center;
             padding: 18px;
         }
-        .panel-preview img {
+        .panel-image-frame {
+            position: relative;
+            display: inline-flex;
+            max-width: 100%;
+            max-height: calc(88vh - 36px);
+            overflow: hidden;
+            isolation: isolate;
+            border-radius: var(--radius-md);
+            box-shadow: 0 24px 60px rgba(0,0,0,0.5);
+        }
+        .panel-image-frame::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            pointer-events: none;
+            user-select: none;
+            -webkit-user-select: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        .panel-image-frame.has-premium-watermark::after {
+            opacity: 0.78;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='230' height='135' viewBox='0 0 230 135'%3E%3Ctext x='12' y='78' fill='white' fill-opacity='.48' font-family='Arial,sans-serif' font-size='19' font-weight='700' transform='rotate(-28 115 67)'%3EPMW VISUALS%3C/text%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: clamp(150px, 18vw, 230px) auto;
+            filter: drop-shadow(0 1px 2px rgba(0,0,0,.7));
+        }
+        .panel-image-frame img {
             display: block;
             max-width: 100%;
             max-height: calc(88vh - 36px);
             aspect-ratio: 9 / 16;
             object-fit: contain;
-            border-radius: var(--radius-md);
-            box-shadow: 0 24px 60px rgba(0,0,0,0.5);
         }
         .panel-details {
             position: relative;
@@ -964,7 +990,9 @@
     <div class="panel-overlay" id="wallpaperPanel" role="dialog" aria-modal="true" aria-labelledby="panelTitle">
         <div class="wallpaper-panel">
             <div class="panel-preview">
-                <img id="panelImage" src="" alt="">
+                <div class="panel-image-frame" id="panelImageFrame">
+                    <img id="panelImage" src="" alt="">
+                </div>
             </div>
             <div class="panel-details">
                 <button class="panel-close" id="panelClose" aria-label="Close">
@@ -1086,6 +1114,7 @@
         const panel = document.getElementById('wallpaperPanel');
         const panelClose = document.getElementById('panelClose');
         const panelDownload = document.getElementById('panelDownload');
+        const panelImageFrame = document.getElementById('panelImageFrame');
         let selectedWallpaper = null;
 
         const categoryDisplayLabels = {
@@ -1576,6 +1605,7 @@
             }
             document.getElementById('panelImage').src = item.preview;
             document.getElementById('panelImage').alt = item.title;
+            panelImageFrame.classList.toggle('has-premium-watermark', isPremiumWallpaper(item));
             document.getElementById('panelCategory').textContent = getItemTypes(item).map(getCategoryLabel).join(' / ');
             document.getElementById('panelTitle').textContent = item.title;
             document.getElementById('panelDescription').textContent = item.description;
@@ -1606,6 +1636,7 @@
         function closePanel() {
             panel.classList.remove('active');
             document.body.classList.remove('panel-open');
+            panelImageFrame.classList.remove('has-premium-watermark');
             selectedWallpaper = null;
         }
 

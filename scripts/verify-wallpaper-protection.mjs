@@ -48,8 +48,19 @@ for (const categoryIndex of findFiles(path.join(root, "wallpapers"), "index.html
 }
 
 const mainGallery = fs.readFileSync(path.join(root, "pmw-wallpapers.html"), "utf8");
-if (mainGallery.includes("has-premium-watermark")) {
-  failures.push("pmw-wallpapers.html: gallery page contains a watermark overlay");
+if (/wallpaper-(?:card|thumb)[^{]*\{[^}]*has-premium-watermark/s.test(mainGallery)) {
+  failures.push("pmw-wallpapers.html: gallery cards contain a watermark overlay");
+}
+assertCount(
+  mainGallery,
+  ".panel-image-frame.has-premium-watermark::after",
+  1,
+  "pmw-wallpapers.html"
+);
+if (!mainGallery.includes(
+  "panelImageFrame.classList.toggle('has-premium-watermark', isPremiumWallpaper(item))"
+)) {
+  failures.push("pmw-wallpapers.html: premium quick-view watermark toggle is missing");
 }
 
 for (const dataFile of ["wallpapers-data.js", "desktop-wallpapers-data.js"]) {
