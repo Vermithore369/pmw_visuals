@@ -7,6 +7,7 @@
     /\/login\.html$/i,
     /\/signup\.html$/i,
     /\/premium\.html$/i,
+    /\/wallpapers\//i,
     /\/privacy-policy\.html$/i,
     /\/terms\.html$/i,
     /\/cookie-policy\.html$/i,
@@ -80,6 +81,7 @@
       height: 100%;
       display: block;
       object-fit: cover;
+      border-radius: 999px;
     }
     .pmw-account-avatar-initial {
       width: 100%;
@@ -88,6 +90,8 @@
       place-items: center;
       box-sizing: border-box;
       border: 1px solid rgba(255,255,255,0.48);
+      border-radius: 999px;
+      overflow: hidden;
       color: #ffffff;
       background:
         radial-gradient(circle at 34% 24%, rgba(255,255,255,0.3), transparent 32%),
@@ -143,6 +147,8 @@
       border: 1px solid rgba(255,255,255,0.34);
       border-radius: 999px;
       overflow: hidden;
+      flex: 0 0 50px;
+      aspect-ratio: 1 / 1;
       color: #fff;
       background:
         radial-gradient(circle at 36% 24%, rgba(255,255,255,0.18), transparent 34%),
