@@ -1261,12 +1261,32 @@
             });
         }
 
+        function getDesktopIdentityKeys(item) {
+            return uniqueList([
+                item.id,
+                item.slug,
+                item.publicId,
+                item.cloudinaryPublicId,
+                item.title
+            ].map(value => normalize(value)));
+        }
+
         function mixWallpaperLists(primaryItems = [], desktopItems = []) {
             const mixed = [];
             let desktopIndex = 0;
-            const protectedIds = new Set(primaryItems.map(item => item.id).filter(Boolean));
-            const availableDesktopItems = desktopItems.filter(item => !protectedIds.has(item.id));
-            primaryItems.forEach((item, index) => {
+            const desktopKeys = new Set(desktopItems.flatMap(getDesktopIdentityKeys));
+            const preferredPrimaryItems = primaryItems.filter(item => {
+                const matchesDesktopStatic = getDesktopIdentityKeys(item).some(key => desktopKeys.has(key));
+                if (!matchesDesktopStatic) return true;
+                return isPremiumWallpaper(item);
+            });
+            const protectedPremiumIds = new Set(
+                preferredPrimaryItems
+                    .filter(isPremiumWallpaper)
+                    .flatMap(getDesktopIdentityKeys)
+            );
+            const availableDesktopItems = desktopItems.filter(item => !getDesktopIdentityKeys(item).some(key => protectedPremiumIds.has(key)));
+            preferredPrimaryItems.forEach((item, index) => {
                 mixed.push(item);
                 if ((index + 1) % 3 === 0 && desktopIndex < availableDesktopItems.length) {
                     mixed.push(availableDesktopItems[desktopIndex]);
