@@ -270,6 +270,12 @@ a {
   font-weight: 800;
 }
 
+.pmw-field label span {
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 700;
+}
+
 .pmw-field input {
   width: 100%;
   border: 1px solid var(--line);
@@ -285,6 +291,48 @@ a {
 .pmw-field input:focus {
   border-color: rgba(216, 173, 76, 0.7);
   background: rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 0 4px var(--gold-soft);
+}
+
+.pmw-check-field {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin: 4px 0 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 13px 14px;
+  color: #e8e8e8;
+  background: rgba(255, 255, 255, 0.035);
+  font-size: 0.88rem;
+  font-weight: 700;
+  line-height: 1.45;
+  cursor: pointer;
+}
+
+.pmw-check-field input {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+  margin: 2px 0 0;
+  accent-color: var(--gold);
+  cursor: pointer;
+}
+
+.pmw-check-field span {
+  min-width: 0;
+}
+
+.pmw-check-field a {
+  color: #fff;
+  font-weight: 900;
+  text-decoration: underline;
+  text-decoration-color: rgba(216, 173, 76, 0.55);
+  text-underline-offset: 4px;
+}
+
+.pmw-check-field:focus-within {
+  border-color: rgba(216, 173, 76, 0.7);
   box-shadow: 0 0 0 4px var(--gold-soft);
 }
 

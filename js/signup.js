@@ -19,6 +19,27 @@ function resetRecaptcha() {
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
 
+  const name = document.querySelector("#name").value.trim();
+  const mobile = document.querySelector("#mobile").value.trim();
+  const email = document.querySelector("#email").value.trim();
+  const password = document.querySelector("#password").value;
+  const confirmPassword = document.querySelector("#confirmPassword").value;
+  const termsAccepted = document.querySelector("#termsAccepted").checked;
+
+  if (password !== confirmPassword) {
+    msg.textContent = "Please make sure both password fields match.";
+    msg.className = "pmw-message error";
+    resetRecaptcha();
+    return;
+  }
+
+  if (!termsAccepted) {
+    msg.textContent = "Please agree to the terms and conditions before creating your account.";
+    msg.className = "pmw-message error";
+    resetRecaptcha();
+    return;
+  }
+
   if (!recaptchaToken()) {
     msg.textContent = "Please complete the reCAPTCHA before creating your account.";
     msg.className = "pmw-message error";
@@ -28,10 +49,6 @@ form.addEventListener("submit", async (e) => {
   msg.textContent = "Creating your account...";
   msg.className = "pmw-message";
 
-  const name = document.querySelector("#name").value.trim();
-  const email = document.querySelector("#email").value.trim();
-  const password = document.querySelector("#password").value;
-
   try {
     const userCredential = await createUserWithEmailAndPassword(auth, email, password);
     await updateProfile(userCredential.user, { displayName: name });
@@ -40,6 +57,7 @@ form.addEventListener("submit", async (e) => {
       email,
       email_lower: email.toLowerCase(),
       role: "member",
+      ...(mobile ? { mobile } : {}),
       createdAt: serverTimestamp()
     });
     msg.textContent = "Account created. Redirecting...";

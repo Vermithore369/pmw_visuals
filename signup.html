@@ -22,8 +22,17 @@
       <h2>Create account</h2><p class="pmw-sub">Your account will be created as a free member first.</p>
       <form id="signupForm">
         <div class="pmw-field"><label for="name">Display name</label><input id="name" type="text" required autocomplete="name"></div>
+        <div class="pmw-field"><label for="mobile">Mobile number <span>Optional</span></label><input id="mobile" type="tel" inputmode="tel" autocomplete="tel"></div>
         <div class="pmw-field"><label for="email">Email</label><input id="email" type="email" required autocomplete="email"></div>
         <div class="pmw-field"><label for="password">Password</label><input id="password" type="password" required minlength="6" autocomplete="new-password"></div>
+        <div class="pmw-field"><label for="confirmPassword">Confirm password</label><input id="confirmPassword" type="password" required minlength="6" autocomplete="new-password"></div>
+        <label class="pmw-check-field" for="termsAccepted">
+          <input id="termsAccepted" type="checkbox" required>
+          <span>
+            I agree to the
+            <a href="terms.html">terms and conditions</a>.
+          </span>
+        </label>
         <div class="pmw-recaptcha"><div class="g-recaptcha" data-sitekey="6LdMTlwtAAAAAIuv3umAk_cxJOFW8gXVOOyF7wv2" data-theme="dark"></div></div>
         <button class="pmw-btn" type="submit">Create Account</button>
         <p id="authMessage" class="pmw-message"></p>
