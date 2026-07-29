@@ -151,6 +151,58 @@
           <input id="wallpaperSearch" type="search" autocomplete="off" placeholder="Title, exact Cloudinary URL, public ID, or Firestore document ID" />
         </div>
 
+        <div class="admin-manage-controls" aria-label="Wallpaper list controls">
+          <div class="admin-field">
+            <label for="wallpaperScreenFilter">Screen type</label>
+            <select id="wallpaperScreenFilter">
+              <option value="all">All screen types</option>
+              <option value="mobile">Mobile only</option>
+              <option value="desktop">Desktop only</option>
+              <option value="both">Mobile and desktop</option>
+              <option value="unknown">No screen type</option>
+            </select>
+          </div>
+
+          <div class="admin-field">
+            <label for="wallpaperSourceFilter">Source</label>
+            <select id="wallpaperSourceFilter">
+              <option value="all">All sources</option>
+              <option value="firestore">Firestore records</option>
+              <option value="static-desktop">Static desktop not in Firestore</option>
+            </select>
+          </div>
+
+          <div class="admin-field">
+            <label for="wallpaperAccessFilter">Access</label>
+            <select id="wallpaperAccessFilter">
+              <option value="all">Free and Premium</option>
+              <option value="free">Free only</option>
+              <option value="premium">Premium only</option>
+            </select>
+          </div>
+
+          <div class="admin-field">
+            <label for="wallpaperVisibleFilter">Visibility</label>
+            <select id="wallpaperVisibleFilter">
+              <option value="all">Visible and Hidden</option>
+              <option value="visible">Visible only</option>
+              <option value="hidden">Hidden only</option>
+            </select>
+          </div>
+
+          <div class="admin-field">
+            <label for="wallpaperSort">Sort order</label>
+            <select id="wallpaperSort">
+              <option value="title-asc">Title A-Z</option>
+              <option value="title-desc">Title Z-A</option>
+              <option value="updated-desc">Recently updated</option>
+              <option value="updated-asc">Oldest updated</option>
+              <option value="category-asc">Category A-Z</option>
+              <option value="access-asc">Access</option>
+            </select>
+          </div>
+        </div>
+
         <p class="admin-message" id="manageWallpapersMessage" aria-live="polite"></p>
         <div class="admin-wallpaper-list" id="wallpapersList" aria-live="polite"></div>
       </div>

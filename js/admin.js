@@ -43,6 +43,11 @@ const reloadWallpapersButton = document.querySelector("#reloadWallpapersButton")
 const wallpaperSearchInput = document.querySelector("#wallpaperSearch");
 const manageMessage = document.querySelector("#manageWallpapersMessage");
 const wallpapersList = document.querySelector("#wallpapersList");
+const screenFilterInput = document.querySelector("#wallpaperScreenFilter");
+const sourceFilterInput = document.querySelector("#wallpaperSourceFilter");
+const accessFilterInput = document.querySelector("#wallpaperAccessFilter");
+const visibleFilterInput = document.querySelector("#wallpaperVisibleFilter");
+const sortInput = document.querySelector("#wallpaperSort");
 const editPanel = document.querySelector("#editWallpaperPanel");
 const editForm = document.querySelector("#editWallpaperForm");
 const editId = document.querySelector("#editWallpaperId");
@@ -376,6 +381,8 @@ function normalizeUrl(value) {
 
 function normalizeWallpaper(docSnap) {
   const data = docSnap.data() || {};
+  const createdAtMillis = typeof data.createdAt?.toMillis === "function" ? data.createdAt.toMillis() : 0;
+  const updatedAtMillis = typeof data.updatedAt?.toMillis === "function" ? data.updatedAt.toMillis() : createdAtMillis;
   return {
     id: docSnap.id,
     source: "firestore",
@@ -390,7 +397,9 @@ function normalizeWallpaper(docSnap) {
     visible: data.visible !== false,
     width: Number(data.width) || 0,
     height: Number(data.height) || 0,
-    format: String(data.format || "")
+    format: String(data.format || ""),
+    createdAtMillis,
+    updatedAtMillis
   };
 }
 
@@ -484,12 +493,76 @@ function matchesWallpaper(wallpaper, query) {
   return normalizeText(wallpaper.title).includes(lowered)
     || normalizeText(wallpaper.cloudinaryPublicId).includes(lowered)
     || normalizeText(wallpaper.id).includes(lowered)
-    || normalizeUrl(wallpaper.imageUrl) === exactUrl;
+    || normalizeUrl(wallpaper.imageUrl) === exactUrl
+    || (Array.isArray(wallpaper.staticUrls) && wallpaper.staticUrls.includes(exactUrl));
+}
+
+function hasDeviceType(wallpaper, type) {
+  return Array.isArray(wallpaper.deviceTypes) && wallpaper.deviceTypes.includes(type);
+}
+
+function getScreenGroup(wallpaper) {
+  const hasMobile = hasDeviceType(wallpaper, "mobile");
+  const hasDesktop = hasDeviceType(wallpaper, "desktop");
+  if (hasMobile && hasDesktop) return "both";
+  if (hasDesktop) return "desktop";
+  if (hasMobile) return "mobile";
+  return "unknown";
+}
+
+function matchesScreenFilter(wallpaper) {
+  const value = screenFilterInput.value;
+  if (value === "all") return true;
+  return getScreenGroup(wallpaper) === value;
+}
+
+function matchesSourceFilter(wallpaper) {
+  const value = sourceFilterInput.value;
+  if (value === "all") return true;
+  return wallpaper.source === value;
+}
+
+function matchesAccessFilter(wallpaper) {
+  const value = accessFilterInput.value;
+  if (value === "all") return true;
+  return wallpaper.access === value;
+}
+
+function matchesVisibleFilter(wallpaper) {
+  const value = visibleFilterInput.value;
+  if (value === "all") return true;
+  return value === "visible" ? wallpaper.visible : !wallpaper.visible;
+}
+
+function getUpdatedMillis(wallpaper) {
+  return Number(wallpaper.updatedAtMillis || wallpaper.createdAtMillis) || 0;
+}
+
+function sortWallpapers(items) {
+  const sorted = [...items];
+  const sortValue = sortInput.value;
+
+  sorted.sort((a, b) => {
+    if (sortValue === "title-desc") return b.title.localeCompare(a.title);
+    if (sortValue === "updated-desc") return getUpdatedMillis(b) - getUpdatedMillis(a) || a.title.localeCompare(b.title);
+    if (sortValue === "updated-asc") return getUpdatedMillis(a) - getUpdatedMillis(b) || a.title.localeCompare(b.title);
+    if (sortValue === "category-asc") return (a.types[0] || "").localeCompare(b.types[0] || "") || a.title.localeCompare(b.title);
+    if (sortValue === "access-asc") return a.access.localeCompare(b.access) || a.title.localeCompare(b.title);
+    return a.title.localeCompare(b.title);
+  });
+
+  return sorted;
 }
 
 function getFilteredWallpapers() {
   const query = wallpaperSearchInput.value;
-  return wallpapers.filter((wallpaper) => matchesWallpaper(wallpaper, query));
+  return sortWallpapers(wallpapers.filter((wallpaper) => (
+    matchesWallpaper(wallpaper, query)
+    && matchesScreenFilter(wallpaper)
+    && matchesSourceFilter(wallpaper)
+    && matchesAccessFilter(wallpaper)
+    && matchesVisibleFilter(wallpaper)
+  )));
 }
 
 function createPill(text, muted = false) {
@@ -509,6 +582,110 @@ function createActionButton(label, action, id, variant = "secondary") {
   return button;
 }
 
+function getScreenGroupLabel(group) {
+  if (group === "desktop") return "Desktop Wallpapers";
+  if (group === "mobile") return "Mobile Wallpapers";
+  if (group === "both") return "Mobile and Desktop";
+  return "No Screen Type";
+}
+
+function createWallpaperSection(group, count) {
+  const section = document.createElement("section");
+  section.className = "admin-wallpaper-group";
+  section.dataset.group = group;
+
+  const heading = document.createElement("div");
+  heading.className = "admin-wallpaper-group-heading";
+
+  const title = document.createElement("h3");
+  title.textContent = getScreenGroupLabel(group);
+
+  const countText = document.createElement("span");
+  countText.textContent = `${count} item${count === 1 ? "" : "s"}`;
+
+  heading.append(title, countText);
+  section.append(heading);
+  return section;
+}
+
+function createWallpaperItem(wallpaper) {
+  const item = document.createElement("article");
+  item.className = "admin-wallpaper-item";
+
+  const thumbnail = document.createElement("img");
+  thumbnail.className = "admin-wallpaper-thumb";
+  thumbnail.src = wallpaper.imageUrl;
+  thumbnail.alt = "";
+  thumbnail.loading = "lazy";
+
+  const details = document.createElement("div");
+  const title = document.createElement("p");
+  title.className = "admin-wallpaper-title";
+  title.textContent = wallpaper.title || "Untitled wallpaper";
+  const publicId = document.createElement("p");
+  publicId.className = "admin-wallpaper-meta";
+  publicId.textContent = wallpaper.cloudinaryPublicId
+    ? `Cloudinary: ${wallpaper.cloudinaryPublicId}`
+    : "Cloudinary public ID is empty";
+  const docId = document.createElement("p");
+  docId.className = "admin-wallpaper-id";
+  docId.textContent = wallpaper.source === "static-desktop"
+    ? `Static desktop ID: ${wallpaper.id}`
+    : `Doc: ${wallpaper.id}`;
+  details.append(title, publicId, docId);
+
+  const tags = document.createElement("div");
+  tags.className = "admin-wallpaper-tags";
+  const typeText = wallpaper.types.length ? wallpaper.types.join(", ") : "No type";
+  const deviceText = wallpaper.deviceTypes.length
+    ? wallpaper.deviceTypes.map((type) => type === "desktop" ? "Desktop" : "Mobile").join(", ")
+    : "No screen type";
+  tags.append(
+    createPill(typeText, !wallpaper.types.length),
+    createPill(deviceText, !wallpaper.deviceTypes.length),
+    wallpaper.source === "static-desktop" ? createPill("Not in Firestore", true) : createPill("Firestore"),
+    createPill(wallpaper.access === "premium" ? "Premium" : "Free"),
+    createPill(wallpaper.visible ? "Visible" : "Hidden", !wallpaper.visible)
+  );
+
+  const actions = document.createElement("div");
+  actions.className = "admin-wallpaper-actions";
+  if (wallpaper.source === "static-desktop") {
+    actions.append(
+      createActionButton("Add to Firestore", "import-static", wallpaper.id),
+      createActionButton("Make Premium", "import-static-premium", wallpaper.id)
+    );
+  } else {
+    actions.append(
+      createActionButton("Edit", "edit", wallpaper.id),
+      createActionButton(wallpaper.access === "premium" ? "Make Free" : "Make Premium", "toggle-access", wallpaper.id),
+      createActionButton(wallpaper.visible ? "Hide" : "Show", "toggle-visible", wallpaper.id),
+      createActionButton("Delete", "delete", wallpaper.id, "danger")
+    );
+  }
+
+  item.append(thumbnail, details, tags, actions);
+  return item;
+}
+
+function renderWallpaperItems(items) {
+  const shouldGroup = screenFilterInput.value === "all";
+  if (!shouldGroup) {
+    items.forEach((wallpaper) => wallpapersList.append(createWallpaperItem(wallpaper)));
+    return;
+  }
+
+  const groups = ["desktop", "mobile", "both", "unknown"];
+  groups.forEach((group) => {
+    const groupItems = items.filter((wallpaper) => getScreenGroup(wallpaper) === group);
+    if (!groupItems.length) return;
+
+    const section = createWallpaperSection(group, groupItems.length);
+    groupItems.forEach((wallpaper) => section.append(createWallpaperItem(wallpaper)));
+    wallpapersList.append(section);
+  });
+}
+
 function renderWallpapers() {
   wallpapersList.replaceChildren();
   const filtered = getFilteredWallpapers();
@@ -524,66 +701,7 @@ function renderWallpapers() {
   }
 
   setMessage(manageMessage, `Showing ${filtered.length} of ${wallpapers.length} wallpaper record${wallpapers.length === 1 ? "" : "s"}. Static desktop items must be added to Firestore before full editing.`);
-
-  filtered.forEach((wallpaper) => {
-    const item = document.createElement("article");
-    item.className = "admin-wallpaper-item";
-
-    const thumbnail = document.createElement("img");
-    thumbnail.className = "admin-wallpaper-thumb";
-    thumbnail.src = wallpaper.imageUrl;
-    thumbnail.alt = "";
-    thumbnail.loading = "lazy";
-
-    const details = document.createElement("div");
-    const title = document.createElement("p");
-    title.className = "admin-wallpaper-title";
-    title.textContent = wallpaper.title || "Untitled wallpaper";
-    const publicId = document.createElement("p");
-    publicId.className = "admin-wallpaper-meta";
-    publicId.textContent = wallpaper.cloudinaryPublicId
-      ? `Cloudinary: ${wallpaper.cloudinaryPublicId}`
-      : "Cloudinary public ID is empty";
-    const docId = document.createElement("p");
-    docId.className = "admin-wallpaper-id";
-    docId.textContent = wallpaper.source === "static-desktop"
-      ? `Static desktop ID: ${wallpaper.id}`
-      : `Doc: ${wallpaper.id}`;
-    details.append(title, publicId, docId);
-
-    const tags = document.createElement("div");
-    tags.className = "admin-wallpaper-tags";
-    const typeText = wallpaper.types.length ? wallpaper.types.join(", ") : "No type";
-    const deviceText = wallpaper.deviceTypes.length
-      ? wallpaper.deviceTypes.map((type) => type === "desktop" ? "Desktop" : "Mobile").join(", ")
-      : "No screen type";
-    tags.append(
-      createPill(typeText, !wallpaper.types.length),
-      createPill(deviceText, !wallpaper.deviceTypes.length),
-      wallpaper.source === "static-desktop" ? createPill("Not in Firestore", true) : createPill("Firestore"),
-      createPill(wallpaper.access === "premium" ? "Premium" : "Free"),
-      createPill(wallpaper.visible ? "Visible" : "Hidden", !wallpaper.visible)
-    );
-
-    const actions = document.createElement("div");
-    actions.className = "admin-wallpaper-actions";
-    if (wallpaper.source === "static-desktop") {
-      actions.append(
-        createActionButton("Add to Firestore", "import-static", wallpaper.id),
-        createActionButton("Make Premium", "import-static-premium", wallpaper.id)
-      );
-    } else {
-      actions.append(
-        createActionButton("Edit", "edit", wallpaper.id),
-        createActionButton(wallpaper.access === "premium" ? "Make Free" : "Make Premium", "toggle-access", wallpaper.id),
-        createActionButton(wallpaper.visible ? "Hide" : "Show", "toggle-visible", wallpaper.id),
-        createActionButton("Delete", "delete", wallpaper.id, "danger")
-      );
-    }
-
-    item.append(thumbnail, details, tags, actions);
-    wallpapersList.append(item);
-  });
+  renderWallpaperItems(filtered);
 }
 
 async function loadWallpapers(successText = "") {
@@ -810,6 +928,11 @@ imageUrlInput.addEventListener("input", () => {
 resetButton.addEventListener("click", resetForm);
 reloadWallpapersButton.addEventListener("click", loadWallpapers);
 wallpaperSearchInput.addEventListener("input", renderWallpapers);
+screenFilterInput.addEventListener("change", renderWallpapers);
+sourceFilterInput.addEventListener("change", renderWallpapers);
+accessFilterInput.addEventListener("change", renderWallpapers);
+visibleFilterInput.addEventListener("change", renderWallpapers);
+sortInput.addEventListener("change", renderWallpapers);
 wallpapersList.addEventListener("click", handleWallpaperAction);
 editImageUrlInput.addEventListener("input", updateEditPreview);
 cancelEditButton.addEventListener("click", closeEditWallpaper);
