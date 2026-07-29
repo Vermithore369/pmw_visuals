@@ -129,16 +129,26 @@ service cloud.firestore {
 
       allow create: if signedIn()
         && request.auth.uid == userId
-        && request.resource.data.keys().hasOnly(['name', 'email', 'role', 'createdAt'])
+        && request.resource.data.keys().hasOnly(['name', 'email', 'email_lower', 'mobile', 'role', 'createdAt'])
         && request.resource.data.role == 'member'
-        && request.resource.data.email == request.auth.token.email;
+        && request.resource.data.email == request.auth.token.email
+        && request.resource.data.email_lower is string
+        && (
+          !request.resource.data.keys().hasAny(['mobile'])
+          || request.resource.data.mobile is string
+        );
 
       allow update: if isAdmin()
         || (
           signedIn()
           && request.auth.uid == userId
-          && request.resource.data.keys().hasOnly(['name', 'email', 'role', 'createdAt'])
+          && request.resource.data.keys().hasOnly(['name', 'email', 'email_lower', 'mobile', 'role', 'createdAt'])
           && request.resource.data.email == resource.data.email
+          && request.resource.data.email_lower == resource.data.email_lower
+          && (
+            !request.resource.data.keys().hasAny(['mobile'])
+            || request.resource.data.mobile is string
+          )
           && request.resource.data.role == resource.data.role
         );
 
