@@ -3,29 +3,40 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Sign Up - PMW Visuals</title>
+  <title>Create Account - PMW Visuals</title>
+  <meta name="description" content="Create a PMW Visuals account to access wallpapers, creative tools, downloads, and premium features." />
   <link rel="stylesheet" href="css/pmw-auth.css" />
   <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body class="pmw-auth-page">
   <nav class="pmw-auth-nav">
     <a class="pmw-brand" href="index.html"><img class="pmw-brand-wordmark" src="pmw-wordmark.png" alt="PMW"><span>Visuals</span></a>
-    <div class="pmw-nav-links"><a href="index.html">Home</a><a href="login.html">Login</a></div>
+    <div class="pmw-nav-links"><a href="index.html">Home</a><a href="login.html">Sign In</a></div>
   </nav>
   <main class="pmw-auth-shell">
     <section class="pmw-hero-card">
-      <div><div class="pmw-kicker">Create Account</div><h1>Join PMW Visuals.</h1><p>Create a free account for PMW Visuals and keep your access simple across wallpapers, visuals, and future account tools.</p></div>
-      <div class="pmw-stats"><div class="pmw-stat"><strong>Free</strong><span>member access</span></div><div class="pmw-stat"><strong>Fast</strong><span>Firebase login</span></div><div class="pmw-stat"><strong>Secure</strong><span>account storage</span></div></div>
+      <div class="pmw-auth-depth" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div>
+        <div class="pmw-kicker">CREATE ACCOUNT</div>
+        <h1>Join PMW Visuals.</h1>
+        <p>Create a free account to access PMW wallpapers, creative tools, downloads, and future account features.</p>
+      </div>
+      <div class="pmw-benefit-grid" aria-label="PMW account benefits">
+        <article class="pmw-benefit-card"><strong>Wallpapers</strong><span>Access mobile, laptop, and desktop wallpaper collections.</span></article>
+        <article class="pmw-benefit-card"><strong>PMW Tools</strong><span>Use media converter, image resizer, and image compressor tools.</span></article>
+        <article class="pmw-benefit-card"><strong>Premium Access</strong><span>Manage premium features and higher limits when available.</span></article>
+        <article class="pmw-benefit-card"><strong>Creative Projects</strong><span>Stay connected with PMW Studio and future PMW projects.</span></article>
+      </div>
     </section>
     <section class="pmw-form-card">
       <span class="pmw-badge">Start Free</span>
-      <h2>Create account</h2><p class="pmw-sub">Your account will be created as a free member first.</p>
+      <h2>Create your account</h2><p class="pmw-sub">Start with a free PMW account. You can upgrade later if you need premium features.</p>
       <form id="signupForm">
         <div class="pmw-field"><label for="name">Display name</label><input id="name" type="text" required autocomplete="name"></div>
         <div class="pmw-field"><label for="mobile">Mobile number <span>Optional</span></label><input id="mobile" type="tel" inputmode="tel" autocomplete="tel"></div>
         <div class="pmw-field"><label for="email">Email</label><input id="email" type="email" required autocomplete="email"></div>
-        <div class="pmw-field"><label for="password">Password</label><input id="password" type="password" required minlength="6" autocomplete="new-password"></div>
-        <div class="pmw-field"><label for="confirmPassword">Confirm password</label><input id="confirmPassword" type="password" required minlength="6" autocomplete="new-password"></div>
+        <div class="pmw-field"><label for="password">Password</label><div class="pmw-password-wrap"><input id="password" type="password" required minlength="6" autocomplete="new-password"><button class="pmw-password-toggle" type="button" data-toggle-password="password" aria-label="Show password" aria-pressed="false">Show</button></div></div>
+        <div class="pmw-field"><label for="confirmPassword">Confirm password</label><div class="pmw-password-wrap"><input id="confirmPassword" type="password" required minlength="6" autocomplete="new-password"><button class="pmw-password-toggle" type="button" data-toggle-password="confirmPassword" aria-label="Show confirm password" aria-pressed="false">Show</button></div></div>
         <label class="pmw-check-field" for="termsAccepted">
           <input id="termsAccepted" type="checkbox" required>
           <span>
@@ -37,7 +48,7 @@
         <button class="pmw-btn" type="submit">Create Account</button>
         <p id="authMessage" class="pmw-message"></p>
       </form>
-      <p class="pmw-switch">Already have an account? <a href="login.html">Login</a></p>
+      <p class="pmw-switch">Already have an account? <a href="login.html">Sign in</a></p>
     </section>
   </main>
   <script type="module" src="js/signup.js"></script>

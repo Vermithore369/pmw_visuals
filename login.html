@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Login - PMW Visuals</title>
+  <title>Sign In - PMW Visuals</title>
+  <meta name="description" content="Sign in to your PMW Visuals account to manage your profile, tools, downloads, and premium access." />
   <link rel="stylesheet" href="css/pmw-auth.css" />
   <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
@@ -14,17 +15,27 @@
   </nav>
   <main class="pmw-auth-shell">
     <section class="pmw-hero-card">
-      <div><div class="pmw-kicker">Member Access</div><h1>Welcome back to your visual world.</h1><p>Sign in to manage your PMW Visuals account and keep your creative space ready across visits.</p></div>
-      <div class="pmw-stats"><div class="pmw-stat"><strong>1,103</strong><span>wallpapers</span></div><div class="pmw-stat"><strong>8</strong><span>collections</span></div><div class="pmw-stat"><strong>HD</strong><span>creative assets</span></div></div>
+      <div class="pmw-auth-depth" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div>
+        <div class="pmw-kicker">MEMBER ACCESS</div>
+        <h1>Welcome back to PMW Visuals.</h1>
+        <p>Sign in to manage your PMW account, access your tools, downloads, and premium features.</p>
+      </div>
+      <div class="pmw-benefit-grid" aria-label="PMW account benefits">
+        <article class="pmw-benefit-card"><strong>Wallpapers</strong><span>Access mobile, laptop, and desktop wallpaper collections.</span></article>
+        <article class="pmw-benefit-card"><strong>PMW Tools</strong><span>Use media converter, image resizer, and image compressor tools.</span></article>
+        <article class="pmw-benefit-card"><strong>Premium Access</strong><span>Manage premium features and higher limits when available.</span></article>
+        <article class="pmw-benefit-card"><strong>Creative Projects</strong><span>Stay connected with PMW Studio and future PMW projects.</span></article>
+      </div>
     </section>
     <section class="pmw-form-card">
       <span class="pmw-badge">PMW Account</span>
       <h2>Sign in</h2><p class="pmw-sub">Use the email and password you created for PMW Visuals.</p>
       <form id="loginForm">
         <div class="pmw-field"><label for="email">Email</label><input id="email" type="email" required autocomplete="email"></div>
-        <div class="pmw-field"><label for="password">Password</label><input id="password" type="password" required autocomplete="current-password"></div>
+        <div class="pmw-field"><label for="password">Password</label><div class="pmw-password-wrap"><input id="password" type="password" required autocomplete="current-password"><button class="pmw-password-toggle" type="button" data-toggle-password="password" aria-label="Show password" aria-pressed="false">Show</button></div></div>
         <div class="pmw-recaptcha"><div class="g-recaptcha" data-sitekey="6LdMTlwtAAAAAIuv3umAk_cxJOFW8gXVOOyF7wv2" data-theme="dark"></div></div>
-        <button class="pmw-btn" type="submit">Login</button>
+        <button class="pmw-btn" type="submit">Sign In</button>
         <p id="authMessage" class="pmw-message"></p>
       </form>
       <p class="pmw-switch">New here? <a href="signup.html">Create an account</a></p>

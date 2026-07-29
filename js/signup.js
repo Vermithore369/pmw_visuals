@@ -4,6 +4,8 @@ import { doc, setDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs
 
 const form = document.querySelector("#signupForm");
 const msg = document.querySelector("#authMessage");
+const submitButton = form.querySelector("button[type='submit']");
+const submitLabel = submitButton.textContent;
 
 function recaptchaToken() {
   if (!window.grecaptcha || typeof window.grecaptcha.getResponse !== "function") return "";
@@ -16,6 +18,35 @@ function resetRecaptcha() {
   } catch (_) {}
 }
 
+function setMessage(text, type = "") {
+  msg.textContent = text;
+  msg.className = type ? `pmw-message ${type}` : "pmw-message";
+}
+
+function friendlySignupError(error) {
+  if (error.code === "auth/email-already-in-use") return "This email is already registered.";
+  if (error.code === "auth/invalid-email") return "Please enter a valid email address.";
+  if (error.code === "auth/weak-password") return "Password should be at least 6 characters.";
+  return "An error occurred. Please try again.";
+}
+
+function bindPasswordToggles() {
+  document.querySelectorAll("[data-toggle-password]").forEach((button) => {
+    const input = document.querySelector(`#${button.dataset.togglePassword}`);
+    if (!input) return;
+
+    button.addEventListener("click", () => {
+      const showPassword = input.type === "password";
+      input.type = showPassword ? "text" : "password";
+      button.textContent = showPassword ? "Hide" : "Show";
+      button.setAttribute("aria-pressed", String(showPassword));
+      button.setAttribute("aria-label", `${showPassword ? "Hide" : "Show"} ${input.id === "confirmPassword" ? "confirm password" : "password"}`);
+    });
+  });
+}
+
+bindPasswordToggles();
+
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
 
@@ -27,27 +58,25 @@ form.addEventListener("submit", async (e) => {
   const termsAccepted = document.querySelector("#termsAccepted").checked;
 
   if (password !== confirmPassword) {
-    msg.textContent = "Please make sure both password fields match.";
-    msg.className = "pmw-message error";
+    setMessage("Passwords do not match.", "error");
     resetRecaptcha();
     return;
   }
 
   if (!termsAccepted) {
-    msg.textContent = "Please agree to the terms and conditions before creating your account.";
-    msg.className = "pmw-message error";
+    setMessage("Please agree to the terms and conditions.", "error");
     resetRecaptcha();
     return;
   }
 
   if (!recaptchaToken()) {
-    msg.textContent = "Please complete the reCAPTCHA before creating your account.";
-    msg.className = "pmw-message error";
+    setMessage("Please complete the security check.", "error");
     return;
   }
 
-  msg.textContent = "Creating your account...";
-  msg.className = "pmw-message";
+  setMessage("Creating account...");
+  submitButton.disabled = true;
+  submitButton.textContent = "Creating account...";
 
   try {
     const userCredential = await createUserWithEmailAndPassword(auth, email, password);
@@ -60,12 +89,12 @@ form.addEventListener("submit", async (e) => {
       ...(mobile ? { mobile } : {}),
       createdAt: serverTimestamp()
     });
-    msg.textContent = "Account created successfully.";
-    msg.className = "pmw-message success";
+    setMessage("Account created successfully.", "success");
     setTimeout(() => window.location.href = "account.html", 700);
   } catch (error) {
-    msg.textContent = "An error occurred. Please try again.";
-    msg.className = "pmw-message error";
+    setMessage(friendlySignupError(error), "error");
+    submitButton.disabled = false;
+    submitButton.textContent = submitLabel;
     resetRecaptcha();
   }
 });
