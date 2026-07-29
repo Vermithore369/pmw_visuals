@@ -1,10 +1,13 @@
 import { auth } from "./firebase.js";
 import { signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-auth.js";
+import { signInWithGoogle, friendlyGoogleError } from "./google-auth.js";
 
 const form = document.querySelector("#loginForm");
 const msg = document.querySelector("#authMessage");
 const submitButton = form.querySelector("button[type='submit']");
 const submitLabel = submitButton.textContent;
+const googleButton = document.querySelector("#googleSignIn");
+const googleLabel = googleButton.innerHTML;
 
 function recaptchaToken() {
   if (!window.grecaptcha || typeof window.grecaptcha.getResponse !== "function") return "";
@@ -44,6 +47,22 @@ function bindPasswordToggles() {
 }
 
 bindPasswordToggles();
+
+googleButton.addEventListener("click", async () => {
+  setMessage("Signing in...");
+  googleButton.disabled = true;
+  googleButton.querySelector("span:last-child").textContent = "Signing in...";
+
+  try {
+    await signInWithGoogle();
+    setMessage("Signed in successfully.", "success");
+    setTimeout(() => window.location.href = "account.html", 600);
+  } catch (error) {
+    setMessage(friendlyGoogleError(error), "error");
+    googleButton.disabled = false;
+    googleButton.innerHTML = googleLabel;
+  }
+});
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();

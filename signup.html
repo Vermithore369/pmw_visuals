@@ -31,6 +31,11 @@
     <section class="pmw-form-card">
       <span class="pmw-badge">Start Free</span>
       <h2>Create your account</h2><p class="pmw-sub">Start with a free PMW account. You can upgrade later if you need premium features.</p>
+      <button class="pmw-google-btn" id="googleSignIn" type="button">
+        <span class="pmw-google-icon" aria-hidden="true">G</span>
+        <span>Continue with Google</span>
+      </button>
+      <div class="pmw-auth-divider"><span>or create an account with email</span></div>
       <form id="signupForm">
         <div class="pmw-field"><label for="name">Display name</label><input id="name" type="text" required autocomplete="name"></div>
         <div class="pmw-field"><label for="mobile">Mobile number <span>Optional</span></label><input id="mobile" type="tel" inputmode="tel" autocomplete="tel"></div>
@@ -46,7 +51,7 @@
         </label>
         <div class="pmw-recaptcha"><div class="g-recaptcha" data-sitekey="6LdMTlwtAAAAAIuv3umAk_cxJOFW8gXVOOyF7wv2" data-theme="dark"></div></div>
         <button class="pmw-btn" type="submit">Create Account</button>
-        <p id="authMessage" class="pmw-message"></p>
+        <p id="authMessage" class="pmw-message" aria-live="polite"></p>
       </form>
       <p class="pmw-switch">Already have an account? <a href="login.html">Sign in</a></p>
     </section>

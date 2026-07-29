@@ -31,12 +31,17 @@
     <section class="pmw-form-card">
       <span class="pmw-badge">PMW Account</span>
       <h2>Sign in</h2><p class="pmw-sub">Use the email and password you created for PMW Visuals.</p>
+      <button class="pmw-google-btn" id="googleSignIn" type="button">
+        <span class="pmw-google-icon" aria-hidden="true">G</span>
+        <span>Continue with Google</span>
+      </button>
+      <div class="pmw-auth-divider"><span>or sign in with email</span></div>
       <form id="loginForm">
         <div class="pmw-field"><label for="email">Email</label><input id="email" type="email" required autocomplete="email"></div>
         <div class="pmw-field"><label for="password">Password</label><div class="pmw-password-wrap"><input id="password" type="password" required autocomplete="current-password"><button class="pmw-password-toggle" type="button" data-toggle-password="password" aria-label="Show password" aria-pressed="false">Show</button></div></div>
         <div class="pmw-recaptcha"><div class="g-recaptcha" data-sitekey="6LdMTlwtAAAAAIuv3umAk_cxJOFW8gXVOOyF7wv2" data-theme="dark"></div></div>
         <button class="pmw-btn" type="submit">Sign In</button>
-        <p id="authMessage" class="pmw-message"></p>
+        <p id="authMessage" class="pmw-message" aria-live="polite"></p>
       </form>
       <p class="pmw-switch">New here? <a href="signup.html">Create an account</a></p>
     </section>

@@ -1,11 +1,14 @@
 import { auth, db } from "./firebase.js";
 import { createUserWithEmailAndPassword, updateProfile } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-auth.js";
 import { doc, setDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-firestore.js";
+import { signInWithGoogle, friendlyGoogleError } from "./google-auth.js";
 
 const form = document.querySelector("#signupForm");
 const msg = document.querySelector("#authMessage");
 const submitButton = form.querySelector("button[type='submit']");
 const submitLabel = submitButton.textContent;
+const googleButton = document.querySelector("#googleSignIn");
+const googleLabel = googleButton.innerHTML;
 
 function recaptchaToken() {
   if (!window.grecaptcha || typeof window.grecaptcha.getResponse !== "function") return "";
@@ -46,6 +49,31 @@ function bindPasswordToggles() {
 }
 
 bindPasswordToggles();
+
+googleButton.addEventListener("click", async () => {
+  const termsAccepted = document.querySelector("#termsAccepted");
+
+  if (!termsAccepted.checked) {
+    setMessage("Please agree to the terms and conditions.", "error");
+    termsAccepted.focus();
+    termsAccepted.scrollIntoView({ behavior: "smooth", block: "center" });
+    return;
+  }
+
+  setMessage("Creating account...");
+  googleButton.disabled = true;
+  googleButton.querySelector("span:last-child").textContent = "Creating account...";
+
+  try {
+    await signInWithGoogle();
+    setMessage("Account created successfully.", "success");
+    setTimeout(() => window.location.href = "account.html", 700);
+  } catch (error) {
+    setMessage(friendlyGoogleError(error), "error");
+    googleButton.disabled = false;
+    googleButton.innerHTML = googleLabel;
+  }
+});
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
