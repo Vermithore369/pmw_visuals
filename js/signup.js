@@ -60,11 +60,11 @@ form.addEventListener("submit", async (e) => {
       ...(mobile ? { mobile } : {}),
       createdAt: serverTimestamp()
     });
-    msg.textContent = "Account created. Redirecting...";
+    msg.textContent = "Account created successfully.";
     msg.className = "pmw-message success";
     setTimeout(() => window.location.href = "account.html", 700);
   } catch (error) {
-    msg.textContent = error.message.replace("Firebase: ", "");
+    msg.textContent = "An error occurred. Please try again.";
     msg.className = "pmw-message error";
     resetRecaptcha();
   }

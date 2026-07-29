@@ -32,11 +32,11 @@ form.addEventListener("submit", async (e) => {
 
   try {
     await signInWithEmailAndPassword(auth, email, password);
-    msg.textContent = "Signed in. Redirecting...";
+    msg.textContent = "Signed in successfully.";
     msg.className = "pmw-message success";
     setTimeout(() => window.location.href = "account.html", 600);
   } catch (error) {
-    msg.textContent = error.message.replace("Firebase: ", "");
+    msg.textContent = "An error occurred. Please try again.";
     msg.className = "pmw-message error";
     resetRecaptcha();
   }
