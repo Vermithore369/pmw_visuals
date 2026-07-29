@@ -24,17 +24,17 @@
       gtag('config', 'G-KWF3JNMHNW');
     </script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PMW Visuals - Free 4K Wallpapers & Video Assets</title>
-    <meta name="description" content="Explore free mobile wallpapers, visual assets, and creative media from PMW Visuals. Download HD wallpapers for AMOLED, anime, nature, and more.">
+    <title>PMW Visuals - Online Media Tools, Wallpapers and Creative Projects</title>
+    <meta name="description" content="PMW Visuals is a creative platform for online media tools, image resizing, image compression, media conversion, wallpapers, and PMW Studio projects.">
     <link rel="canonical" href="https://pmwvisuals.com/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="PMW Visuals - Free 4K Wallpapers & Video Assets">
-    <meta property="og:description" content="Explore free mobile wallpapers, visual assets, and creative media from PMW Visuals. Download HD wallpapers for AMOLED, anime, nature, and more.">
+    <meta property="og:title" content="PMW Visuals - Online Media Tools, Wallpapers and Creative Projects">
+    <meta property="og:description" content="Use online media tools, resize and compress images, convert media, browse wallpapers, and discover PMW Studio projects.">
     <meta property="og:url" content="https://pmwvisuals.com/">
     <meta property="og:image" content="https://pmwvisuals.com/pmw-wordmark.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="PMW Visuals - Free 4K Wallpapers & Video Assets">
-    <meta name="twitter:description" content="Explore free mobile wallpapers, visual assets, and creative media from PMW Visuals. Download HD wallpapers for AMOLED, anime, nature, and more.">
+    <meta name="twitter:title" content="PMW Visuals - Online Media Tools, Wallpapers and Creative Projects">
+    <meta name="twitter:description" content="PMW Visuals is a creative platform for online tools, wallpapers, media conversion, image resizing, compression, and PMW Studio projects.">
     <meta name="twitter:image" content="https://pmwvisuals.com/pmw-wordmark.png">
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script type="application/ld+json" data-seo-schema>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://pmwvisuals.com/#organization","name":"PMW Visuals","url":"https://pmwvisuals.com/","logo":"https://pmwvisuals.com/pmw-wordmark.png","sameAs":["https://uk.pinterest.com/pmw_wallpapers/","https://www.instagram.com/pmw_wallpapers/","https://www.youtube.com/@PMW_Studio","https://www.facebook.com/people/Apollo-Sounds/61579450350429/"]},{"@type":"WebSite","@id":"https://pmwvisuals.com/#website","name":"PMW Visuals","url":"https://pmwvisuals.com/","publisher":{"@id":"https://pmwvisuals.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://pmwvisuals.com/pmw-wallpapers.html?q={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://pmwvisuals.com/#webpage","url":"https://pmwvisuals.com/","name":"PMW Visuals - Free 4K Wallpapers & Video Assets","isPartOf":{"@id":"https://pmwvisuals.com/#website"},"about":{"@id":"https://pmwvisuals.com/#organization"}}]}</script>
@@ -3255,6 +3255,7 @@
             display: none !important;
         }
     </style>
+    <link rel="stylesheet" href="css/pmw-home.css">
 </head>
 <body>
     <canvas id="canvas-bg"></canvas>
@@ -3268,13 +3269,11 @@
             </a>
             <div class="nav-links">
                 <button class="nav-link active" data-section="home" onclick="navigateTo('home')"><span>Home</span></button>
-                <button class="nav-link" data-section="studio" onclick="window.location.href='pmw-studio.html'"><span>PMW Studio</span></button>
-                <button class="nav-link" onclick="window.location.href='pmw-wallpapers.html'"><span>PMW Wallpapers</span></button>
-                <button class="nav-link" onclick="window.location.href='pmw-desktop-wallpapers.html'"><span>Desktop Wallpapers</span></button>
                 <button class="nav-link" onclick="window.location.href='tools/'"><span>PMW Tools</span></button>
-                
+                <button class="nav-link" onclick="window.location.href='pmw-wallpapers.html'"><span>PMW Wallpapers</span></button>
+                <button class="nav-link" data-section="studio" onclick="window.location.href='pmw-studio.html'"><span>PMW Studio</span></button>
             </div>
-            <div class="nav-links nav-links-right" aria-hidden="true"></div>
+            <div class="nav-links nav-links-right"></div>
                 <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Menu">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
                     <line x1="3" y1="6" x2="21" y2="6"></line>
@@ -3287,240 +3286,251 @@
 
     <div class="mobile-menu" id="mobileMenu">
         <button class="nav-link" onclick="navigateTo('home'); toggleMobileMenu();">Home</button>
-        <button class="nav-link" onclick="window.location.href='pmw-studio.html';">PMW Studio</button>
-        <button class="nav-link" onclick="window.location.href='pmw-wallpapers.html';">PMW Wallpapers</button>
-        <button class="nav-link" onclick="window.location.href='pmw-desktop-wallpapers.html';">Desktop Wallpapers</button>
         <button class="nav-link" onclick="window.location.href='tools/';">PMW Tools</button>
+        <button class="nav-link" onclick="window.location.href='pmw-wallpapers.html';">PMW Wallpapers</button>
+        <button class="nav-link" onclick="window.location.href='pmw-studio.html';">PMW Studio</button>
     </div>
 
     <!-- Main Content -->
     <main class="main-content">
         <!-- HOME -->
-        <section id="home" class="section active">
-            <section class="wallpaper-hero" aria-labelledby="wallpaperHeroTitle">
-                <img
-                    class="wallpaper-hero-backdrop"
-                    src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_1800,h_1000,q_auto,f_auto/v1780664533/ChatGPT_Image_Jun_1_2026_10_11_25_PM_qxdmxa.png"
-                    alt=""
-                    fetchpriority="high">
-                <div class="wallpaper-hero-shade" aria-hidden="true"></div>
-
-                <div class="wallpaper-hero-copy">
-                    <span class="wallpaper-eyebrow">Curated for mobile</span>
-                    <h1 class="wallpaper-hero-title" id="wallpaperHeroTitle"><span class="wallpaper-hero-brand"><img src="pmw-wordmark.png" alt="PMW"><em>Visuals</em></h1><h2></span><span>Made for every screen.</span></h2>
-                    <p>
-                        Discover high-detail mobile wallpapers across AMOLED, anime, nature, romance, dark fantasy, celestial art, and deep space.
-                    </p>
-                    <div class="wallpaper-hero-actions">
-                        <a class="wallpaper-action primary" href="pmw-wallpapers.html">
-                            Browse wallpapers
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                                <path d="M5 12h14"></path>
-                                <path d="m13 6 6 6-6 6"></path>
-                            </svg>
-                        </a>
-                        <a class="wallpaper-action" href="#homeCategories">
-                            Explore collections
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                                <path d="m6 9 6 6 6-6"></path>
-                            </svg>
-                        </a>
+        <section id="home" class="section active platform-home">
+            <section class="pmw-home-hero" aria-labelledby="pmwHomeTitle">
+                <div class="pmw-home-hero-copy" data-home-reveal>
+                    <p class="pmw-home-kicker"><span></span> PMW VISUALS <span></span></p>
+                    <h1 id="pmwHomeTitle">Visual tools, creative projects, and digital experiences.</h1>
+                    <p class="pmw-home-lead">Use online media tools, explore wallpaper collections, and discover PMW Studio releases from one growing creative platform.</p>
+                    <div class="pmw-home-actions" aria-label="Primary PMW Visuals actions">
+                        <a class="pmw-home-button pmw-home-button-outline" href="/tools/">Open PMW Tools <span aria-hidden="true">&rarr;</span></a>
+                        <a class="pmw-home-button pmw-home-button-gold" href="pmw-wallpapers.html">Browse Wallpapers <span aria-hidden="true">&rarr;</span></a>
+                        <a class="pmw-home-button pmw-home-button-outline" href="pmw-studio.html">Visit PMW Studio <span aria-hidden="true">&rarr;</span></a>
                     </div>
-                    <div class="wallpaper-hero-stats" aria-label="Collection statistics">
-                        <div class="wallpaper-hero-stat">
-                            <strong>1,103</strong>
-                            <span>Mobile wallpapers</span>
-                        </div>
-                        <div class="wallpaper-hero-stat">
-                            <strong>8</strong>
-                            <span>Curated collections</span>
-                        </div>
-                        <div class="wallpaper-hero-stat">
-                            <strong>Free</strong>
-                            <span>Direct downloads</span>
-                        </div>
+                    <div class="pmw-home-proof" aria-label="Platform qualities">
+                        <span>Fast and secure</span>
+                        <span>Browser based</span>
+                        <span>No installation</span>
+                        <span>Works everywhere</span>
                     </div>
                 </div>
 
-                <div class="phone-stage" aria-label="Featured mobile wallpapers">
-                    <div class="phone phone-left">
-                        <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555836/ChatGPT_Image_Jun_2_2026_10_08_01_PM_pq5uk0.png" alt="Sun rays over a green mountain valley wallpaper">
+                <div class="pmw-home-hero-visual" data-home-reveal>
+                    <div class="pmw-orbit pmw-orbit-one" aria-hidden="true"></div>
+                    <div class="pmw-orbit pmw-orbit-two" aria-hidden="true"></div>
+                    <div class="pmw-tools-dashboard" data-pmw-tilt>
+                        <div class="pmw-dashboard-topbar">
+                            <span class="pmw-dot"></span>
+                            <span class="pmw-dot"></span>
+                            <span class="pmw-dot"></span>
+                            <strong>PMW Tools</strong>
+                        </div>
+                        <div class="pmw-dashboard-body">
+                            <aside class="pmw-dashboard-menu" aria-label="Visual dashboard menu">
+                                <span>PMW Tools</span>
+                                <span>Tools</span>
+                                <span>Recent Activity</span>
+                            </aside>
+                            <div class="pmw-dashboard-main">
+                                <p>Welcome to PMW Tools</p>
+                                <h2>Simple online tools for everyday media and image workflow.</h2>
+                                <div class="pmw-dashboard-cards">
+                                    <div class="pmw-mini-tool-card"><strong>Media Converter</strong><span>Convert video, audio, and images</span></div>
+                                    <div class="pmw-mini-tool-card"><strong>Image Resizer</strong><span>Resize images for any purpose</span></div>
+                                    <div class="pmw-mini-tool-card"><strong>Image Compressor</strong><span>Compress images without losing clarity</span></div>
+                                </div>
+                                <div class="pmw-dashboard-list">
+                                    <span>video_edit.mp4 <b>Compressed</b> 2.4 MB</span>
+                                    <span>profile.png <b>Resized</b> 740 KB</span>
+                                    <span>cover.jpg <b>Converted</b> 1.2 MB</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="phone phone-main">
-                        <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_924,q_auto,f_auto/v1780373712/ChatGPT_Image_Jun_1_2026_03_39_05_PM_vlxhic.png" alt="Cosmic lion, dragon and lotus mobile wallpaper">
-                    </div>
-                    <div class="phone phone-right">
-                        <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780771055/ChatGPT_Image_Jun_6_2026_10_39_55_PM_ujmjne.png" alt="Celestial samurai beneath violet wisteria wallpaper">
-                    </div>
+                    <a class="pmw-hero-side-card pmw-wallpaper-card-float" href="pmw-wallpapers.html">
+                        <span>Wallpaper Collection</span>
+                        <strong>Explore mobile, laptop, desktop and aesthetic wallpapers</strong>
+                        <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/v1780135604/D.F.W_53_dlxavf.png" alt="PMW wallpaper preview" loading="lazy">
+                    </a>
+                    <a class="pmw-hero-side-card pmw-studio-card-float" href="pmw-studio.html">
+                        <span>PMW Studio</span>
+                        <strong>Discover PMW Studio releases and creative projects</strong>
+                        <div class="pmw-waveform" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+                    </a>
+                    <div class="pmw-eye-mark" aria-hidden="true"><img src="favicon.png" alt=""></div>
+                    <div class="pmw-floating-mini pmw-mini-one"><strong>Media Converter</strong><span>90%</span></div>
+                    <div class="pmw-floating-mini pmw-mini-two"><strong>Image Resizer</strong><span>1080&times;1920</span></div>
+                    <div class="pmw-floating-mini pmw-mini-three"><strong>Image Compressor</strong><span>77% smaller</span></div>
                 </div>
             </section>
 
-            <div class="home-catalog">
-                <section id="homeCategories" aria-labelledby="homeCategoriesTitle">
-                    <div class="catalog-head">
+            <div class="pmw-home-shell">
+                <section class="pmw-home-section pmw-section-centered" aria-labelledby="pmwExploreTitle">
+                    <p class="pmw-section-kicker">Explore PMW Visuals</p>
+                    <h2 id="pmwExploreTitle">Everything you need for tools, wallpapers, and creative PMW projects.</h2>
+                    <div class="pmw-platform-grid">
+                        <a class="pmw-platform-card pmw-platform-tools" href="/tools/" data-home-reveal>
+                            <span class="pmw-platform-icon">T</span>
+                            <h3>PMW Tools</h3>
+                            <p>Convert media, resize images, and compress files directly from your browser.</p>
+                            <strong>Open Tools <span aria-hidden="true">&rarr;</span></strong>
+                        </a>
+                        <a class="pmw-platform-card pmw-platform-wallpapers" href="pmw-wallpapers.html" data-home-reveal>
+                            <span class="pmw-platform-icon">W</span>
+                            <h3>PMW Wallpapers</h3>
+                            <p>Browse mobile, laptop, desktop, and aesthetic wallpapers from one dedicated section.</p>
+                            <strong>Browse Wallpapers <span aria-hidden="true">&rarr;</span></strong>
+                        </a>
+                        <a class="pmw-platform-card pmw-platform-studio" href="pmw-studio.html" data-home-reveal>
+                            <span class="pmw-platform-icon">S</span>
+                            <h3>PMW Studio</h3>
+                            <p>Discover PMW Studio music, releases, and creative media projects.</p>
+                            <strong>Visit Studio <span aria-hidden="true">&rarr;</span></strong>
+                        </a>
+                    </div>
+                </section>
+
+                <section class="pmw-home-section" aria-labelledby="pmwToolsTitle">
+                    <div class="pmw-section-heading">
                         <div>
-                            <p class="catalog-kicker">Featured collections</p>
-                            <h2 class="catalog-title" id="homeCategoriesTitle">Find your atmosphere.</h2>
-                            <p class="catalog-copy">Eight distinct worlds, organized for quick browsing and designed around the vertical mobile canvas.</p>
+                            <p class="pmw-section-kicker">Online Creative Tools</p>
+                            <h2 id="pmwToolsTitle">Simple browser-based tools for everyday media and visual work.</h2>
                         </div>
-                        <a class="catalog-link" href="pmw-wallpapers.html">View all wallpapers <span aria-hidden="true">→</span></a>
+                        <a href="/tools/">View All Tools <span aria-hidden="true">&rarr;</span></a>
                     </div>
-
-                    <div class="collection-grid">
-                        <a class="collection-tile" href="/wallpapers/amoled/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1780373712/ChatGPT_Image_Jun_1_2026_03_39_05_PM_vlxhic.png" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>AMOLED</strong><span>164 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
+                    <div class="pmw-tool-grid">
+                        <a class="pmw-tool-card" href="/tools/image-converter/" data-home-reveal>
+                            <div class="pmw-tool-card-copy">
+                                <span>Media Converter</span>
+                                <h3>Convert images, videos, and audio files in one focused workspace.</h3>
+                                <strong>Use Converter <span aria-hidden="true">&rarr;</span></strong>
+                            </div>
+                            <div class="pmw-tool-preview pmw-converter-preview" aria-hidden="true">
+                                <span>Convert to</span><b>MP4</b><b>PNG</b><i>60%</i>
+                            </div>
                         </a>
-                        <a class="collection-tile" href="/wallpapers/anime/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1781100545/ChatGPT_Image_Jun_10_2026_07_33_24_PM_qqonbv.png" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>Anime</strong><span>103 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
+                        <a class="pmw-tool-card" href="/tools/image-resizer/" data-home-reveal>
+                            <div class="pmw-tool-card-copy">
+                                <span>Image Resizer</span>
+                                <h3>Change image width and height for wallpapers, websites, and social media.</h3>
+                                <strong>Use Resizer <span aria-hidden="true">&rarr;</span></strong>
+                            </div>
+                            <div class="pmw-tool-preview pmw-resizer-preview" aria-hidden="true">
+                                <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/v1780135620/D.F.W_30_oxfk2m.png" alt="">
+                                <span>1920&times;1080</span><span>1080&times;1920</span>
+                            </div>
                         </a>
-                        <a class="collection-tile" href="/wallpapers/celestial-samurai/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1780771055/ChatGPT_Image_Jun_6_2026_10_39_55_PM_ujmjne.png" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>Celestial Samurai</strong><span>103 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
-                        </a>
-                        <a class="collection-tile" href="/wallpapers/dark-aesthetic/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1780373386/ChatGPT_Image_May_30_2026_06_35_10_PM_xulaok.png" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>Dark Aesthetic</strong><span>161 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
-                        </a>
-                        <a class="collection-tile" href="/wallpapers/dark-fantasy/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1780664533/ChatGPT_Image_Jun_1_2026_10_11_25_PM_qxdmxa.png" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>Dark Fantasy</strong><span>163 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
-                        </a>
-                        <a class="collection-tile" href="/wallpapers/nature/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1780555836/ChatGPT_Image_Jun_2_2026_10_08_01_PM_pq5uk0.png" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>Nature</strong><span>154 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
-                        </a>
-                        <a class="collection-tile" href="/wallpapers/romantic/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1780229693/R.D.W_1_es47sx.webp" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>Romantic</strong><span>155 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
-                        </a>
-                        <a class="collection-tile" href="/wallpapers/space-and-galaxy/">
-                            <img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_520,h_640,q_auto,f_auto/v1780663834/ChatGPT_Image_Jun_4_2026_06_08_53_PM_wyockh.png" alt="" loading="lazy">
-                            <span class="collection-label"><span><strong>Space &amp; Galaxy</strong><span>100 wallpapers</span></span><span class="collection-arrow" aria-hidden="true">→</span></span>
+                        <a class="pmw-tool-card" href="/tools/image-compressor/" data-home-reveal>
+                            <div class="pmw-tool-card-copy">
+                                <span>Image Compressor</span>
+                                <h3>Reduce image file size while keeping your workflow simple.</h3>
+                                <strong>Use Compressor <span aria-hidden="true">&rarr;</span></strong>
+                            </div>
+                            <div class="pmw-tool-preview pmw-compressor-preview" aria-hidden="true">
+                                <span>Original <b>2.8 MB</b></span><span>Compressed <b>640 KB</b></span><i>77% smaller</i>
+                            </div>
                         </a>
                     </div>
                 </section>
 
-                <section class="home-section" aria-labelledby="featuredWallpapersTitle">
-                    <div class="catalog-head">
+                <section class="pmw-home-section" aria-labelledby="pmwWallpaperTitle">
+                    <div class="pmw-section-heading">
                         <div>
-                            <p class="catalog-kicker">Editor's selection</p>
-                            <h2 class="catalog-title" id="featuredWallpapersTitle">Made to stop the scroll.</h2>
-                            <p class="catalog-copy">A cross-section of the collection, from deep black AMOLED art to vivid natural worlds.</p>
+                            <p class="pmw-section-kicker">Wallpaper Collections</p>
+                            <h2 id="pmwWallpaperTitle">Explore mobile, laptop, desktop, and aesthetic wallpapers on the dedicated PMW Wallpapers page.</h2>
                         </div>
-                        <a class="catalog-link" href="pmw-wallpapers.html">Open gallery <span aria-hidden="true">→</span></a>
+                        <a href="pmw-wallpapers.html">Browse All Wallpapers <span aria-hidden="true">&rarr;</span></a>
                     </div>
-
-                    <div class="featured-grid">
-                        <a class="featured-wallpaper" href="wallpapers/amoled/01/cosmic-lion-dragon-and-lotus-bowl.html">
-                            <div class="featured-image"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780373712/ChatGPT_Image_Jun_1_2026_03_39_05_PM_vlxhic.png" alt="Cosmic lion, dragon and lotus bowl wallpaper" loading="lazy"><span class="featured-hd">HD</span></div>
-                            <h3>Cosmic Lion, Dragon and Lotus Bowl</h3><p>AMOLED</p>
-                        </a>
-                        <a class="featured-wallpaper" href="wallpapers/anime/01/anime-boy-in-glowing-enchanted-forest.html">
-                            <div class="featured-image"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1781100545/ChatGPT_Image_Jun_10_2026_07_33_24_PM_qqonbv.png" alt="Anime boy in a glowing enchanted forest wallpaper" loading="lazy"><span class="featured-hd">HD</span></div>
-                            <h3>Anime Boy in Glowing Enchanted Forest</h3><p>Anime</p>
-                        </a>
-                        <a class="featured-wallpaper" href="wallpapers/celestial-samurai/01/samurai-beneath-violet-wisteria-and-lanterns.html">
-                            <div class="featured-image"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780771055/ChatGPT_Image_Jun_6_2026_10_39_55_PM_ujmjne.png" alt="Samurai beneath violet wisteria and lanterns wallpaper" loading="lazy"><span class="featured-hd">HD</span></div>
-                            <h3>Samurai Beneath Violet Wisteria and Lanterns</h3><p>Celestial Samurai</p>
-                        </a>
-                        <a class="featured-wallpaper" href="wallpapers/dark-fantasy/01/black-phoenix-under-moonlight.html">
-                            <div class="featured-image"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780664533/ChatGPT_Image_Jun_1_2026_10_11_25_PM_qxdmxa.png" alt="Black phoenix under moonlight wallpaper" loading="lazy"><span class="featured-hd">HD</span></div>
-                            <h3>Black Phoenix under Moonlight</h3><p>Dark Fantasy</p>
-                        </a>
-                        <a class="featured-wallpaper" href="wallpapers/nature/01/sun-rays-over-green-mountain-valley.html">
-                            <div class="featured-image"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780555836/ChatGPT_Image_Jun_2_2026_10_08_01_PM_pq5uk0.png" alt="Sun rays over a green mountain valley wallpaper" loading="lazy"><span class="featured-hd">HD</span></div>
-                            <h3>Sun Rays over Green Mountain Valley</h3><p>Nature</p>
-                        </a>
-                        <a class="featured-wallpaper" href="wallpapers/space-and-galaxy/01/white-cosmic-dragon-among-galaxies.html">
-                            <div class="featured-image"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/c_fill,g_auto,w_420,h_746,q_auto,f_auto/v1780663834/ChatGPT_Image_Jun_4_2026_06_08_53_PM_wyockh.png" alt="White cosmic dragon among galaxies wallpaper" loading="lazy"><span class="featured-hd">HD</span></div>
-                            <h3>White Cosmic Dragon among Galaxies</h3><p>Space &amp; Galaxy</p>
-                        </a>
+                    <div class="pmw-chip-row" aria-label="Wallpaper categories">
+                        <a href="pmw-wallpapers.html?category=anime">Anime</a>
+                        <a href="pmw-wallpapers.html?category=nature">Nature</a>
+                        <a href="pmw-wallpapers.html?category=galaxy">Galaxy</a>
+                        <a href="pmw-wallpapers.html?category=dark-aesthetic">Dark Aesthetic</a>
+                        <a href="pmw-wallpapers.html?category=minimal">Minimal</a>
+                        <a href="pmw-wallpapers.html?category=amoled">AMOLED</a>
+                        <a href="pmw-wallpapers.html?category=fantasy">Fantasy</a>
+                        <a href="pmw-wallpapers.html?device=desktop">Laptop</a>
+                        <a href="pmw-wallpapers.html?device=mobile">Mobile</a>
+                    </div>
+                    <div class="pmw-wallpaper-preview-grid" data-home-reveal>
+                        <a href="pmw-wallpapers.html?category=anime"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/v1780135604/D.F.W_56_cqvglb.png" alt="Anime wallpaper preview" loading="lazy"><span>Anime</span></a>
+                        <a href="pmw-wallpapers.html?category=nature"><img src="https://res.cloudinary.com/nhxfoykh/image/upload/v1784389702/ChatGPT_Image_Jul_16_2026_05_22_04_PM.png" alt="Nature and fantasy wallpaper preview" loading="lazy"><span>Nature</span></a>
+                        <a href="pmw-wallpapers.html?category=galaxy"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/v1780135620/D.F.W_30_oxfk2m.png" alt="Galaxy wallpaper preview" loading="lazy"><span>Galaxy</span></a>
+                        <a href="pmw-wallpapers.html?category=dark-aesthetic"><img src="https://res.cloudinary.com/dlmjetz3s/image/upload/v1780135604/D.F.W_53_dlxavf.png" alt="Dark aesthetic wallpaper preview" loading="lazy"><span>Dark Aesthetic</span></a>
                     </div>
                 </section>
 
-                <section class="home-motion" aria-labelledby="homeMotionTitle">
-                    <div class="catalog-head">
+                <section class="pmw-home-section pmw-info-grid-section" aria-labelledby="pmwCanDoTitle">
+                    <div class="pmw-section-heading pmw-section-heading-tight">
                         <div>
-                            <p class="catalog-kicker">PMW Studio motion</p>
-                            <h2 class="catalog-title" id="homeMotionTitle">Atmosphere, now in motion.</h2>
-                            <p class="catalog-copy">Cinematic vertical loops and background scenes for edits, reels, promos, and visual storytelling.</p>
+                            <p class="pmw-section-kicker">What Can You Do on PMW Visuals?</p>
+                            <h2 id="pmwCanDoTitle">A focused platform for everyday creative tasks.</h2>
                         </div>
-                        <a class="catalog-link" href="pmw-studio.html">Explore PMW Studio <span aria-hidden="true">&rarr;</span></a>
                     </div>
-
-                    <div class="home-motion-grid">
-                        <a class="home-motion-card" href="pmw-studio.html" aria-label="Explore Dark Misty Forest in PMW Studio">
-                            <div class="home-motion-media">
-                                <img class="home-motion-poster" src="https://drive.google.com/thumbnail?id=1BQrrbDcu-IRstento-14ufRRE5TT4jR7&sz=w800" alt="Dark misty forest motion preview" loading="lazy">
-                                <video muted loop playsinline preload="none" poster="https://drive.google.com/thumbnail?id=1BQrrbDcu-IRstento-14ufRRE5TT4jR7&sz=w800" data-src="https://drive.google.com/uc?export=download&id=1BQrrbDcu-IRstento-14ufRRE5TT4jR7"></video>
-                                <span class="home-motion-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg></span>
-                            </div>
-                            <div class="home-motion-copy"><h3>Dark Misty Forest</h3><p>Atmospheric motion</p></div>
-                        </a>
-                        <a class="home-motion-card" href="pmw-studio.html" aria-label="Explore Rainy Window in PMW Studio">
-                            <div class="home-motion-media">
-                                <img class="home-motion-poster" src="https://drive.google.com/thumbnail?id=1aYBAeOsUCgg39etnN6IvDzHAOWoSPGsi&sz=w800" alt="Rainy window motion preview" loading="lazy">
-                                <video muted loop playsinline preload="none" poster="https://drive.google.com/thumbnail?id=1aYBAeOsUCgg39etnN6IvDzHAOWoSPGsi&sz=w800" data-src="https://drive.google.com/uc?export=download&id=1aYBAeOsUCgg39etnN6IvDzHAOWoSPGsi"></video>
-                                <span class="home-motion-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg></span>
-                            </div>
-                            <div class="home-motion-copy"><h3>Rainy Window</h3><p>Reflective motion</p></div>
-                        </a>
-                        <a class="home-motion-card" href="pmw-studio.html" aria-label="Explore Lantern Sky in PMW Studio">
-                            <div class="home-motion-media">
-                                <img class="home-motion-poster" src="https://drive.google.com/thumbnail?id=1Sdbc2e4j5C5uQ5UlbEfSqtqFhd41UR7u&sz=w800" alt="Lantern sky motion preview" loading="lazy">
-                                <video muted loop playsinline preload="none" poster="https://drive.google.com/thumbnail?id=1Sdbc2e4j5C5uQ5UlbEfSqtqFhd41UR7u&sz=w800" data-src="https://drive.google.com/uc?export=download&id=1Sdbc2e4j5C5uQ5UlbEfSqtqFhd41UR7u"></video>
-                                <span class="home-motion-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg></span>
-                            </div>
-                            <div class="home-motion-copy"><h3>Lantern Sky</h3><p>Cinematic motion</p></div>
-                        </a>
-                        <a class="home-motion-card" href="pmw-studio.html" aria-label="Explore Black Horse Running in PMW Studio">
-                            <div class="home-motion-media">
-                                <img class="home-motion-poster" src="https://drive.google.com/thumbnail?id=1Ew3WrCMZiXmTc71fD4tSocRJHhuQJNqf&sz=w800" alt="Black horse running motion preview" loading="lazy">
-                                <video muted loop playsinline preload="none" poster="https://drive.google.com/thumbnail?id=1Ew3WrCMZiXmTc71fD4tSocRJHhuQJNqf&sz=w800" data-src="https://drive.google.com/uc?export=download&id=1Ew3WrCMZiXmTc71fD4tSocRJHhuQJNqf"></video>
-                                <span class="home-motion-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg></span>
-                            </div>
-                            <div class="home-motion-copy"><h3>Black Horse Running</h3><p>Dramatic motion</p></div>
-                        </a>
+                    <div class="pmw-info-grid five-up">
+                        <article><span>C</span><h3>Convert media files</h3><p>Change common image, video, and audio formats from one workspace.</p></article>
+                        <article><span>R</span><h3>Resize images</h3><p>Prepare images for wallpapers, websites, thumbnails, and social media.</p></article>
+                        <article><span>Z</span><h3>Compress images</h3><p>Reduce file size for faster sharing and lighter pages.</p></article>
+                        <article><span>W</span><h3>Browse wallpapers</h3><p>Find mobile, desktop, dark, anime, nature, and fantasy wallpapers.</p></article>
+                        <article><span>S</span><h3>Explore PMW Studio</h3><p>Follow PMW creative releases, audio projects, and visual media work.</p></article>
                     </div>
                 </section>
 
-                <section class="home-about-band" aria-labelledby="homeAboutTitle">
-                    <div>
-                        <p class="catalog-kicker">About PMW Visuals</p>
-                        <h2 id="homeAboutTitle">A growing library of visual worlds.</h2>
-                        <p>PMW Visuals brings mobile wallpapers and original media assets together in one focused creative hub. Every collection is organized to be easy to explore, inspect, and download.</p>
+                <section class="pmw-home-section" aria-labelledby="pmwAudienceTitle">
+                    <div class="pmw-section-heading pmw-section-heading-tight">
+                        <div>
+                            <p class="pmw-section-kicker">Made for Creators, Students, and Everyday Users</p>
+                            <h2 id="pmwAudienceTitle">Useful for simple daily work and creative projects.</h2>
+                        </div>
                     </div>
-                    <div class="about-number-list" aria-label="PMW Visuals highlights">
-                        <div class="about-number"><strong>1,103</strong><span>Mobile-first wallpapers</span></div>
-                        <div class="about-number"><strong>8</strong><span>Distinct visual collections</span></div>
-                        <div class="about-number"><strong>100%</strong><span>Free direct downloads</span></div>
+                    <div class="pmw-info-grid four-up">
+                        <article><span>CR</span><h3>Creators</h3><p>Prepare media for reels, thumbnails, edits, and portfolio visuals.</p></article>
+                        <article><span>ST</span><h3>Students</h3><p>Resize, compress, and convert files for assignments and projects.</p></article>
+                        <article><span>WB</span><h3>Website owners</h3><p>Make lighter images for faster pages and cleaner uploads.</p></article>
+                        <article><span>WL</span><h3>Wallpaper lovers</h3><p>Browse screen-ready wallpaper collections from one page.</p></article>
                     </div>
                 </section>
 
-                <section class="home-social-section" aria-labelledby="homeSocialTitle">
-                    <div class="home-section-head">
-                        <p class="home-kicker">Social Media</p>
-                        <h2 class="home-heading" id="homeSocialTitle">Connect With PMW Visuals</h2>
+                <section class="pmw-home-section" aria-labelledby="pmwPrivacyTitle">
+                    <div class="pmw-section-heading pmw-section-heading-tight">
+                        <div>
+                            <p class="pmw-section-kicker">Privacy-Friendly Browser Tools</p>
+                            <h2 id="pmwPrivacyTitle">Tools designed to keep common work on your device when possible.</h2>
+                        </div>
                     </div>
-                    <div class="home-social-grid">
-                        <a class="home-social-card" href="https://www.instagram.com/pmw_wallpapers/" target="_blank" rel="noopener noreferrer">
-                            <span><span class="home-social-name">Instagram</span><span class="home-social-handle">Follow updates</span></span>
-                            <span class="home-social-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1"></circle></svg></span>
-                        </a>
-                        <a class="home-social-card" href="https://uk.pinterest.com/pmw_wallpapers/" target="_blank" rel="noopener noreferrer">
-                            <span><span class="home-social-name">Pinterest</span><span class="home-social-handle">Wallpaper boards</span></span>
-                            <span class="home-social-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.1 2.3C6.7 2.3 3 5.8 3 10.3c0 3 1.7 4.8 2.7 4.8.4 0 .6-1.1.6-1.4 0-.4-1-.9-1-2.8 0-3.8 2.9-6.5 6.6-6.5 3.2 0 5.6 1.8 5.6 5.1 0 2.5-1 7.2-4.3 7.2-1.2 0-2.2-.9-1.9-2.1.4-1.4 1.1-2.9 1.1-4 0-.9-.5-1.7-1.5-1.7-1.2 0-2.1 1.2-2.1 2.8 0 1 .3 1.7.3 1.7s-1.1 4.5-1.3 5.3c-.4 1.6-.1 3.6 0 3.8.1.2.3.2.4.1.2-.2 2.4-3 2.8-4.6.1-.5.7-2.7.7-2.7.4.7 1.4 1.3 2.5 1.3 3.3 0 5.5-3 5.5-7 .1-3.1-2.6-6.3-7.2-6.3Z"></path></svg></span>
-                        </a>
-                        <a class="home-social-card" href="https://www.facebook.com/people/Apollo-Sounds/61579450350429/?sk=about" target="_blank" rel="noopener noreferrer">
-                            <span><span class="home-social-name">Facebook</span><span class="home-social-handle">Community posts</span></span>
-                            <span class="home-social-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 8.3V6.7c0-.8.5-1 1-1h2V2.4c-.9-.1-1.8-.2-2.7-.2-2.7 0-4.5 1.6-4.5 4.6v2.5h-3v3.7h3V22h4.2v-9h3l.5-3.7H14Z"></path></svg></span>
-                        </a>
-                        <a class="home-social-card" href="https://www.youtube.com/@PMW_Studio" target="_blank" rel="noopener noreferrer">
-                            <span><span class="home-social-name">YouTube</span><span class="home-social-handle">Media projects</span></span>
-                            <span class="home-social-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.6 7.1c-.2-.9-.9-1.5-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4c-.9.2-1.5.9-1.8 1.8C2 8.7 2 12 2 12s0 3.3.4 4.9c.2.9.9 1.5 1.8 1.8 1.6.4 7.8.4 7.8.4s6.2 0 7.8-.4c.9-.2 1.5-.9 1.8-1.8.4-1.6.4-4.9.4-4.9s0-3.3-.4-4.9ZM10 15.2V8.8l5.5 3.2-5.5 3.2Z"></path></svg></span>
-                        </a>
+                    <div class="pmw-info-grid three-up">
+                        <article><span>LP</span><h3>Local Processing</h3><p>Image resizing and compression are designed to run in the browser when possible.</p></article>
+                        <article><span>NU</span><h3>No Unnecessary Uploads</h3><p>Basic tool actions do not need manual review or unnecessary server uploads.</p></article>
+                        <article><span>CL</span><h3>Clear Tool Limits</h3><p>Free and premium limits are shown clearly in the tool experience.</p></article>
+                    </div>
+                </section>
+
+                <section class="pmw-home-section" aria-labelledby="pmwEcosystemTitle">
+                    <div class="pmw-section-heading pmw-section-heading-tight pmw-center-heading">
+                        <div>
+                            <p class="pmw-section-kicker">Explore the PMW Creative Ecosystem</p>
+                            <h2 id="pmwEcosystemTitle">PMW connects tools, wallpapers, music, and creative digital projects under one growing brand.</h2>
+                        </div>
+                    </div>
+                    <div class="pmw-ecosystem-grid">
+                        <a href="index.html"><span>PMW</span><h3>PMW Visuals</h3><p>The main platform for visual tools, wallpapers, and creative solutions.</p></a>
+                        <a href="/tools/"><span>TO</span><h3>PMW Tools</h3><p>Use browser-based tools to convert media, resize images, and compress files.</p></a>
+                        <a href="pmw-wallpapers.html"><span>WP</span><h3>PMW Wallpapers</h3><p>High-quality wallpapers for mobile, laptop, desktop, and more.</p></a>
+                        <a href="pmw-studio.html"><span>ST</span><h3>PMW Studio</h3><p>Discover PMW Studio music, releases, and creative projects.</p></a>
+                        <a href="https://www.youtube.com/@PMW_Studio" target="_blank" rel="noopener noreferrer"><span>YT</span><h3>PMW on YouTube</h3><p>Get updates on tools, YouTube, and PMW releases.</p></a>
+                    </div>
+                </section>
+
+                <section class="pmw-home-section" aria-labelledby="pmwWhyTitle">
+                    <div class="pmw-section-heading pmw-section-heading-tight">
+                        <div>
+                            <p class="pmw-section-kicker">Why Use PMW Visuals?</p>
+                            <h2 id="pmwWhyTitle">A lightweight platform built around practical creative workflows.</h2>
+                        </div>
+                    </div>
+                    <div class="pmw-info-grid four-up">
+                        <article><span>AI</span><h3>All in One Platform</h3><p>Tools, wallpapers, and PMW Studio projects are connected in one place.</p></article>
+                        <article><span>BR</span><h3>Browser-Based Workflow</h3><p>Use core image tools from the browser without installing software.</p></article>
+                        <article><span>FL</span><h3>Fast and Lightweight</h3><p>The homepage uses CSS visuals and simple interactions instead of heavy 3D libraries.</p></article>
+                        <article><span>EC</span><h3>For Every Creator</h3><p>Useful for creators, students, website owners, and everyday visual work.</p></article>
                     </div>
                 </section>
             </div>
@@ -3534,7 +3544,7 @@
                     <span class="breadcrumb-separator">/</span>
                     <span class="breadcrumb-current">About Us</span>
                 </div>
-                <h1 class="section-title">About Us</h1>
+                <h2 class="section-title">About Us</h2>
                 <p class="section-subtitle">
                     PMW Visuals is a creative digital hub focused on wallpapers, studio assets, and original media projects.
                 </p>
@@ -3623,7 +3633,7 @@
                     <span class="breadcrumb-separator">/</span>
                     <span class="breadcrumb-current">Contact</span>
                 </div>
-                <h1 class="section-title">Get in Touch</h1>
+                <h2 class="section-title">Get in Touch</h2>
                 <p class="section-subtitle">
                     Questions, feedback, or collab ideas. Send us a message and we will reply as soon as possible.
                 </p>
@@ -3731,7 +3741,7 @@
                 <div class="footer-brand">
                     <img class="footer-brand-image" src="pmw-wordmark.png" alt="PMW">
                     <div class="footer-brand-name">Visuals</div>
-                    <p class="footer-description">High-quality mobile wallpapers and creative visual assets, made for personal screens, editors, and visual storytellers.</p>
+                    <p class="footer-description">Tools, wallpapers, and creative PMW projects for better digital work, visual ideas, and everyday media tasks.</p>
                     <div class="footer-socials" aria-label="PMW Visuals social media">
                         <a class="footer-social-link" href="https://www.instagram.com/pmw_wallpapers/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
@@ -3751,7 +3761,6 @@
                     <h3>Explore</h3>
                     <a href="javascript:void(0)" onclick="navigateTo('home')">Home</a>
                     <a href="pmw-wallpapers.html">PMW Wallpapers</a>
-                    <a href="pmw-desktop-wallpapers.html">Desktop Wallpapers</a>
                     <a href="pmw-studio.html">PMW Studio</a>
                     <a href="tools/">PMW Tools</a>
                     <a href="javascript:void(0)" onclick="navigateTo('about')">About Us</a>
@@ -3781,7 +3790,7 @@
             </div>
             <div class="footer-bottom">
                 <p class="footer-copy">&copy; PMW Visuals. All rights reserved.</p>
-                <p class="footer-credit">Wallpapers, assets, and inspiration for every screen.</p>
+                <p class="footer-credit">Online tools, wallpapers, and creative projects for every digital workflow.</p>
             </div>
         </div>
     </footer>
@@ -5720,6 +5729,7 @@ function initContactForm() {
         });
     </script>
     <script src="consent.js" defer></script>
+    <script src="js/pmw-home.js" defer></script>
   <script src="./js/account-menu.js" defer></script>
 </body>
 </html>
