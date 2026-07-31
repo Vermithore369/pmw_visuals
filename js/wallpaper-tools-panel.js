@@ -1,4 +1,12 @@
 (function () {
+  const sourceScript = document.currentScript;
+  if (sourceScript?.src && !document.querySelector('script[data-pmw-platform-footer]')) {
+    const footerScript = document.createElement('script');
+    footerScript.src = new URL('platform-footer.js', sourceScript.src).href;
+    footerScript.dataset.pmwPlatformFooter = '';
+    document.body.appendChild(footerScript);
+  }
+
   const shuffleElements = (items) => {
     const shuffled = [...items];
     for (let index = shuffled.length - 1; index > 0; index -= 1) {
