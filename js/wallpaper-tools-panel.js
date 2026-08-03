@@ -1,5 +1,13 @@
 (function () {
   const sourceScript = document.currentScript;
+  if (sourceScript?.src && !document.querySelector('link[data-pmw-button-system]')) {
+    const buttonStyles = document.createElement('link');
+    buttonStyles.rel = 'stylesheet';
+    buttonStyles.href = new URL('../css/pmw-buttons.css', sourceScript.src).href;
+    buttonStyles.dataset.pmwButtonSystem = '';
+    document.head.appendChild(buttonStyles);
+  }
+
   if (sourceScript?.src && !document.querySelector('script[data-pmw-platform-footer]')) {
     const footerScript = document.createElement('script');
     footerScript.src = new URL('platform-footer.js', sourceScript.src).href;
@@ -28,6 +36,8 @@
   randomizeRelatedWallpapers();
 
   const actions = document.querySelector('.actions');
+  document.querySelector('.download-btn')?.classList.add('pmw-command-primary');
+  document.querySelector('.secondary-link')?.classList.add('pmw-command-secondary');
   const title = document.querySelector('h1')?.textContent?.trim() || 'PMW Wallpaper';
   const image = document.querySelector('.preview-card img')?.getAttribute('src') || '';
   const toolImage = image
@@ -53,6 +63,17 @@
     const depth = relativePath.split('/').filter(Boolean).length - 1;
     return '../'.repeat(Math.max(depth, 0));
   })();
+
+  const detailNav = document.querySelector('.nav-links');
+  if (detailNav) {
+    detailNav.innerHTML = `
+      <a href="${rootPrefix}index.html">Home Page</a>
+      <a href="${rootPrefix}pmw-wallpapers.html">Browse Wallpapers</a>
+    `;
+  }
+
+  const collectionLink = document.querySelector('.secondary-link');
+  if (collectionLink) collectionLink.textContent = 'Browse Wallpapers';
 
   const params = new URLSearchParams({
     source: toolImage || image,

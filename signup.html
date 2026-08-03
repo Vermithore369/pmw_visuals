@@ -7,11 +7,12 @@
   <meta name="description" content="Create a PMW Visuals account to access wallpapers, creative tools, downloads, and premium features." />
   <link rel="stylesheet" href="css/pmw-auth.css" />
   <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  <link rel="stylesheet" href="css/pmw-buttons.css">
 </head>
 <body class="pmw-auth-page">
   <nav class="pmw-auth-nav">
     <a class="pmw-brand" href="index.html"><img class="pmw-brand-wordmark" src="pmw-wordmark.png" alt="PMW"><span>Visuals</span></a>
-    <div class="pmw-nav-links"><a href="index.html">Home</a><a href="login.html">Sign In</a></div>
+    <div class="pmw-nav-links"><a class="pmw-nav-home pmw-command-secondary" href="index.html">Home Page</a></div>
   </nav>
   <main class="pmw-auth-shell">
     <section class="pmw-hero-card">
@@ -31,7 +32,7 @@
     <section class="pmw-form-card">
       <span class="pmw-badge">Start Free</span>
       <h2>Create your account</h2><p class="pmw-sub">Start with a free PMW account. You can upgrade later if you need premium features.</p>
-      <button class="pmw-google-btn" id="googleSignIn" type="button">
+      <button class="pmw-google-btn pmw-command-secondary" id="googleSignIn" type="button">
         <span class="pmw-google-icon" aria-hidden="true">G</span>
         <span>Continue with Google</span>
       </button>
@@ -50,7 +51,7 @@
           </span>
         </label>
         <div class="pmw-recaptcha"><div class="g-recaptcha" data-sitekey="6LdMTlwtAAAAAIuv3umAk_cxJOFW8gXVOOyF7wv2" data-theme="dark"></div></div>
-        <button class="pmw-btn" type="submit">Create Account</button>
+        <button class="pmw-btn pmw-command-primary" type="submit">Create Account</button>
         <p id="authMessage" class="pmw-message" aria-live="polite"></p>
       </form>
       <p class="pmw-switch">Already have an account? <a href="login.html">Sign in</a></p>

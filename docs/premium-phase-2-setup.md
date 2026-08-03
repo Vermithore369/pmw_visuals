@@ -12,17 +12,19 @@ The website now uses Paddle as the premium checkout provider.
 ## Required Paddle Setup
 
 1. Open your Paddle dashboard.
-2. Create the PMW Visuals premium product.
-3. Create a price for that product.
-4. Copy the Paddle price ID. It usually starts with `pri_`.
-5. Paste that price ID into `js/paddle-config.js`.
+2. Confirm the live products and prices listed in `docs/paddle-live-migration.md`.
+3. Confirm `js/paddle-config.js` uses the live client-side token, `production` environment, and live `pri_...` IDs.
+4. Confirm the live checkout domain is approved before opening checkout to real customers.
 
 ```js
 export const PADDLE_CONFIG = {
-  clientToken: "test_9462cd67818764d9e2dc77a8831",
-  environment: "sandbox",
-  priceId: "pri_your_paddle_price_id",
-  itemName: "PMW Visuals Premium"
+  clientToken: "live_...",
+  environment: "production",
+  prices: {
+    Pro: { monthly: "pri_...", yearly: "pri_..." },
+    Advance: { monthly: "pri_...", yearly: "pri_..." },
+    Elite: { monthly: "pri_...", yearly: "pri_..." }
+  }
 };
 ```
 
@@ -32,7 +34,7 @@ The client-side token is safe to keep in the public website. Do not put private 
 
 ## Premium Activation
 
-The checkout can open after the Paddle price ID is added. To activate premium automatically after payment, connect a secure backend or serverless function to Paddle webhooks and update the user's Firebase account record after a verified payment.
+Premium activation is handled by the verified Paddle webhook in Firebase Functions. The function mirrors customers, subscriptions, transactions, and webhook events into Firestore.
 
 The current premium check accepts either:
 
@@ -44,4 +46,4 @@ The current premium check accepts either:
 
 ## Testing
 
-Because the token starts with `test_`, the checkout is configured for Paddle sandbox mode. Change the token, environment, and price ID when you are ready to use a live Paddle product.
+Use sandbox only for testing. Use production only after Paddle business verification, domain approval, and live notification setup are complete.
