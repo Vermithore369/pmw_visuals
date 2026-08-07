@@ -71,12 +71,12 @@
   z-index: 1;
   display: grid;
   grid-template-columns: minmax(0, 0.92fr) minmax(520px, 1.08fr);
-  gap: clamp(36px, 5vw, 86px);
+  gap: clamp(30px, 4vw, 68px);
   align-items: center;
   width: min(1500px, calc(100% - 48px));
-  min-height: min(860px, calc(100vh - 70px));
+  min-height: min(760px, calc(100vh - 70px));
   margin: 0 auto;
-  padding: clamp(118px, 12vh, 170px) 0 clamp(58px, 9vh, 100px);
+  padding: clamp(104px, 10vh, 138px) 0 clamp(46px, 7vh, 72px);
 }
 
 .pmw-home-hero::before {
@@ -123,10 +123,10 @@
 }
 
 .pmw-home-hero h1 {
-  max-width: 780px;
+  max-width: 680px;
   margin: 0;
-  font-size: clamp(3.3rem, 6.6vw, 7.2rem);
-  line-height: 0.96;
+  font-size: clamp(3rem, 4.45vw, 4.65rem);
+  line-height: 1.02;
   letter-spacing: 0;
   font-weight: 950;
   color: var(--pmw-home-text);
@@ -138,29 +138,29 @@
 
 .pmw-home-lead {
   max-width: 680px;
-  margin: 26px 0 0;
+  margin: 20px 0 0;
   color: var(--pmw-home-muted);
-  font-size: clamp(1.04rem, 1.25vw, 1.32rem);
-  line-height: 1.75;
+  font-size: clamp(1rem, 1.05vw, 1.16rem);
+  line-height: 1.65;
 }
 
 .pmw-home-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
-  margin-top: 34px;
+  gap: 12px;
+  margin-top: 26px;
 }
 
 .pmw-home-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
-  min-height: 54px;
-  padding: 0 24px;
-  border-radius: 10px;
+  gap: 9px;
+  min-height: 50px;
+  padding: 0 20px;
+  border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.18);
-  font-size: 0.98rem;
+  font-size: 0.9rem;
   font-weight: 900;
   transition: transform 0.22s ease, border-color 0.22s ease, background 0.22s ease, color 0.22s ease;
 }
@@ -190,7 +190,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 12px 22px;
-  margin-top: 30px;
+  margin-top: 24px;
   color: var(--pmw-home-muted);
   font-size: 0.84rem;
 }
@@ -1056,7 +1056,7 @@
   .pmw-home-hero {
     grid-template-columns: 1fr;
     min-height: auto;
-    padding-top: 128px;
+    padding-top: 112px;
   }
 
   .pmw-home-hero-copy {
@@ -1123,12 +1123,13 @@
   }
 
   .pmw-home-hero {
-    padding-top: 104px;
+    padding-top: 94px;
     gap: 28px;
   }
 
   .pmw-home-hero h1 {
-    font-size: clamp(2.6rem, 14vw, 4.2rem);
+    font-size: clamp(2.35rem, 11vw, 3.65rem);
+    line-height: 1.04;
   }
 
   .pmw-home-actions,
@@ -1230,7 +1231,7 @@
 
 @media (max-width: 520px) {
   .pmw-home-hero {
-    padding-top: 94px;
+    padding-top: 86px;
   }
 
   .pmw-home-proof {

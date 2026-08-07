@@ -23,6 +23,9 @@ const downloadedWallpapersCount = document.querySelector("#downloadedWallpapersC
 const downloadedWallpaperPreviewStrip = document.querySelector("#downloadedWallpaperPreviewStrip");
 const viewedWallpapersCount = document.querySelector("#viewedWallpapersCount");
 const recentActivityEmpty = document.querySelector("#recentActivityEmpty");
+const themeToggle = document.querySelector("#themeToggle");
+const themePreferenceLabel = document.querySelector("#themePreferenceLabel");
+const themeModeIcon = document.querySelector("#themeModeIcon");
 const DOWNLOAD_STORAGE_KEY = "pmw_download_events_v1";
 const VIEW_STORAGE_KEY = "pmw_view_events_v1";
 const FUNCTIONS_BASE_URL =
@@ -33,6 +36,21 @@ const setText = (element, value) => {
     element.textContent = value;
   }
 };
+
+const syncThemeControl = (theme) => {
+  if (!themeToggle) return;
+  const isLight = theme === "light";
+  themeToggle.setAttribute("aria-checked", String(isLight));
+  themeToggle.setAttribute("aria-label", isLight ? "Switch to dark mode" : "Switch to light mode");
+  setText(themePreferenceLabel, isLight ? "Light mode" : "Dark mode");
+  setText(themeModeIcon, isLight ? "LM" : "DM");
+};
+
+if (themeToggle && window.PMWTheme) {
+  syncThemeControl(window.PMWTheme.get());
+  themeToggle.addEventListener("click", () => syncThemeControl(window.PMWTheme.toggle()));
+  window.addEventListener("pmw:themechange", (event) => syncThemeControl(event.detail.theme));
+}
 
 const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
   "&": "&amp;",

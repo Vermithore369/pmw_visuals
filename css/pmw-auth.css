@@ -1177,7 +1177,7 @@ a {
   background: rgba(255, 255, 255, 0.035);
 }
 
-.pmw-theme-placeholder {
+.pmw-theme-control {
   min-height: 50px;
   display: flex;
   align-items: center;
@@ -1189,20 +1189,57 @@ a {
   background: rgba(255, 255, 255, 0.035);
 }
 
-.pmw-theme-placeholder > span {
+.pmw-theme-control > span {
   color: var(--gold);
   font-size: 0.78rem;
   font-weight: 900;
 }
 
-.pmw-theme-placeholder button {
-  width: 40px;
-  height: 24px;
+.pmw-theme-control > div {
+  display: grid;
+  gap: 2px;
+}
+
+.pmw-theme-control small {
+  color: #929292;
+  font-size: 0.72rem;
+}
+
+.pmw-theme-control button {
+  position: relative;
+  width: 44px;
+  height: 26px;
   margin-left: auto;
   border: 1px solid rgba(216, 173, 76, 0.35);
   border-radius: 999px;
+  background: #242424;
+  cursor: pointer;
+  transition: background 180ms ease, border-color 180ms ease;
+}
+
+.pmw-theme-control button span {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #f7f7f7;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  transition: transform 180ms ease;
+}
+
+.pmw-theme-control button[aria-checked="true"] {
   background: linear-gradient(135deg, #d8ad4c, #ffe7a0);
-  opacity: 0.85;
+}
+
+.pmw-theme-control button[aria-checked="true"] span {
+  transform: translateX(18px);
+}
+
+.pmw-theme-control button:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
 }
 
 .pmw-dashboard-main {
@@ -1588,8 +1625,8 @@ a {
   }
 
   .pmw-sidebar-upgrade,
-  .pmw-theme-placeholder {
-    display: none;
+  .pmw-theme-control {
+    display: flex;
   }
 
   .pmw-dashboard-main,

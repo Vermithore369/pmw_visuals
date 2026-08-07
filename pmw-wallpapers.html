@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script src="js/pmw-theme.js"></script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5405757257681205"
      crossorigin="anonymous"></script>
     <link rel="icon" type="image/png" href="/favicon.png">
@@ -826,9 +827,13 @@
         .download-btn svg { width: 18px; height: 18px; }
         .empty-state {
             column-span: all;
+            width: min(100%, 620px);
+            margin: 0 auto;
             padding: 70px 20px;
             text-align: center;
             color: var(--text-muted);
+            font-size: clamp(0.95rem, 1.4vw, 1.08rem);
+            line-height: 1.65;
         }
 
         @media (max-width: 900px) {
@@ -901,6 +906,7 @@
         }
     </style>
   <link rel="stylesheet" href="css/pmw-buttons.css">
+  <link rel="stylesheet" href="css/pmw-theme.css">
 </head>
 <body>
     <canvas id="canvas-bg"></canvas>
@@ -1580,8 +1586,8 @@
 
             if (!items.length) {
                 const message = wallpapers.length
-                    ? 'No wallpapers found. Try another search or category.'
-                    : 'No wallpapers loaded yet. Firestore is empty and the static fallback has no visible free wallpapers.';
+                    ? 'No wallpapers match these filters. Try a different search or category.'
+                    : 'The wallpaper collection is taking a little longer to load. Please refresh the page in a moment.';
                 grid.innerHTML = `<div class="empty-state">${escapeHtml(message)}</div>`;
                 renderFilters();
                 return;

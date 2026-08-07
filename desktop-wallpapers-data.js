@@ -5551,5 +5551,15639 @@ window.PMW_DESKTOP_WALLPAPERS = [
     "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:pmw-desktop-wallpaper-0188/v1784520891/ChatGPT_Image_Jul_20_2026_09_41_47_AM.png",
     "slug": "moonrise-above-cloud-kingdom",
     "publicId": "ChatGPT_Image_Jul_20_2026_09_41_47_AM"
+  },
+  {
+    "id": "desktop-velvet-waves-in-jewel-tones-189",
+    "title": "Velvet Waves in Jewel Tones",
+    "description": "Download Velvet Waves in Jewel Tones, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1987109,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "velvet",
+      "waves",
+      "jewel",
+      "tones"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943139/ChatGPT_Image_Aug_4_2026_09_16_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943139/ChatGPT_Image_Aug_4_2026_09_16_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943139/ChatGPT_Image_Aug_4_2026_09_16_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00189/v1785943139/ChatGPT_Image_Aug_4_2026_09_16_27_PM.png",
+    "slug": "velvet-waves-in-jewel-tones",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_27_PM",
+    "pageUrl": "wallpapers/desktop/abstract/velvet-waves-in-jewel-tones.html",
+    "createdAt": "2026-08-05T15:18:59Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-endless-golden-archway-reflection-190",
+    "title": "Endless Golden Archway Reflection",
+    "description": "Download Endless Golden Archway Reflection, 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2118916,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "endless",
+      "golden",
+      "archway",
+      "reflection"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943129/ChatGPT_Image_Aug_4_2026_09_16_31_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943129/ChatGPT_Image_Aug_4_2026_09_16_31_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943129/ChatGPT_Image_Aug_4_2026_09_16_31_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00190/v1785943129/ChatGPT_Image_Aug_4_2026_09_16_31_PM.png",
+    "slug": "endless-golden-archway-reflection",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_31_PM",
+    "pageUrl": "wallpapers/desktop/abstract/endless-golden-archway-reflection.html",
+    "createdAt": "2026-08-05T15:18:49Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-marble-spheres-on-black-191",
+    "title": "Floating Marble Spheres on Black",
+    "description": "Download Floating Marble Spheres on Black, 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1747018,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "floating",
+      "marble",
+      "spheres",
+      "black"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943076/ChatGPT_Image_Aug_4_2026_09_16_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943076/ChatGPT_Image_Aug_4_2026_09_16_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943076/ChatGPT_Image_Aug_4_2026_09_16_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00191/v1785943076/ChatGPT_Image_Aug_4_2026_09_16_34_PM.png",
+    "slug": "floating-marble-spheres-on-black",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_34_PM",
+    "pageUrl": "wallpapers/desktop/abstract/floating-marble-spheres-on-black.html",
+    "createdAt": "2026-08-05T15:17:56Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-rings-above-mirror-water-192",
+    "title": "White Rings Above Mirror Water",
+    "description": "Download White Rings Above Mirror Water, 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1930753,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "white",
+      "rings",
+      "mirror",
+      "water"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943070/ChatGPT_Image_Aug_4_2026_09_16_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943070/ChatGPT_Image_Aug_4_2026_09_16_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943070/ChatGPT_Image_Aug_4_2026_09_16_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00192/v1785943070/ChatGPT_Image_Aug_4_2026_09_16_37_PM.png",
+    "slug": "white-rings-above-mirror-water",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_37_PM",
+    "pageUrl": "wallpapers/desktop/abstract/white-rings-above-mirror-water.html",
+    "createdAt": "2026-08-05T15:17:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crystal-lotus-mandala-193",
+    "title": "Crystal Lotus Mandala",
+    "description": "Download Crystal Lotus Mandala, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3227439,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "crystal",
+      "lotus",
+      "mandala"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943147/ChatGPT_Image_Aug_4_2026_09_17_42_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943147/ChatGPT_Image_Aug_4_2026_09_17_42_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943147/ChatGPT_Image_Aug_4_2026_09_17_42_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00193/v1785943147/ChatGPT_Image_Aug_4_2026_09_17_42_PM.png",
+    "slug": "crystal-lotus-mandala",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_42_PM",
+    "pageUrl": "wallpapers/desktop/abstract/crystal-lotus-mandala.html",
+    "createdAt": "2026-08-05T15:19:07Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-liquid-glass-flower-splash-194",
+    "title": "Liquid Glass Flower Splash",
+    "description": "Download Liquid Glass Flower Splash, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2076794,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "liquid",
+      "glass",
+      "flower",
+      "splash"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943048/ChatGPT_Image_Aug_4_2026_09_17_49_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943048/ChatGPT_Image_Aug_4_2026_09_17_49_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943048/ChatGPT_Image_Aug_4_2026_09_17_49_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00194/v1785943048/ChatGPT_Image_Aug_4_2026_09_17_49_PM.png",
+    "slug": "liquid-glass-flower-splash",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_49_PM",
+    "pageUrl": "wallpapers/desktop/abstract/liquid-glass-flower-splash.html",
+    "createdAt": "2026-08-05T15:17:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-infinite-prismatic-mirror-tunnel-195",
+    "title": "Infinite Prismatic Mirror Tunnel",
+    "description": "Download Infinite Prismatic Mirror Tunnel, 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2937226,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "infinite",
+      "prismatic",
+      "mirror",
+      "tunnel"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943062/ChatGPT_Image_Aug_4_2026_09_19_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943062/ChatGPT_Image_Aug_4_2026_09_19_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943062/ChatGPT_Image_Aug_4_2026_09_19_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00195/v1785943062/ChatGPT_Image_Aug_4_2026_09_19_02_PM.png",
+    "slug": "infinite-prismatic-mirror-tunnel",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_02_PM",
+    "pageUrl": "wallpapers/desktop/abstract/infinite-prismatic-mirror-tunnel.html",
+    "createdAt": "2026-08-05T15:17:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-flowing-aurora-ribbons-196",
+    "title": "Flowing Aurora Ribbons",
+    "description": "Download Flowing Aurora Ribbons, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2291864,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "flowing",
+      "aurora",
+      "ribbons"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943057/ChatGPT_Image_Aug_4_2026_09_19_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943057/ChatGPT_Image_Aug_4_2026_09_19_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943057/ChatGPT_Image_Aug_4_2026_09_19_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00196/v1785943057/ChatGPT_Image_Aug_4_2026_09_19_05_PM.png",
+    "slug": "flowing-aurora-ribbons",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_05_PM",
+    "pageUrl": "wallpapers/desktop/abstract/flowing-aurora-ribbons.html",
+    "createdAt": "2026-08-05T15:17:37Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hanging-crystal-prism-drops-197",
+    "title": "Hanging Crystal Prism Drops",
+    "description": "Download Hanging Crystal Prism Drops, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2043097,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "hanging",
+      "crystal",
+      "prism",
+      "drops"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943147/ChatGPT_Image_Aug_4_2026_09_19_08_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943147/ChatGPT_Image_Aug_4_2026_09_19_08_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943147/ChatGPT_Image_Aug_4_2026_09_19_08_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00197/v1785943147/ChatGPT_Image_Aug_4_2026_09_19_08_PM.png",
+    "slug": "hanging-crystal-prism-drops",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_08_PM",
+    "pageUrl": "wallpapers/desktop/abstract/hanging-crystal-prism-drops.html",
+    "createdAt": "2026-08-05T15:19:07Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-colorful-ink-clouds-198",
+    "title": "Colorful Ink Clouds",
+    "description": "Download Colorful Ink Clouds, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2808939,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "colorful",
+      "ink",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943164/ChatGPT_Image_Aug_4_2026_09_20_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943164/ChatGPT_Image_Aug_4_2026_09_20_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943164/ChatGPT_Image_Aug_4_2026_09_20_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00198/v1785943164/ChatGPT_Image_Aug_4_2026_09_20_02_PM.png",
+    "slug": "colorful-ink-clouds",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_02_PM",
+    "pageUrl": "wallpapers/desktop/abstract/colorful-ink-clouds.html",
+    "createdAt": "2026-08-05T15:19:24Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-neon-glass-geometric-tunnel-199",
+    "title": "Neon Glass Geometric Tunnel",
+    "description": "Download Neon Glass Geometric Tunnel, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2661097,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "neon",
+      "glass",
+      "geometric",
+      "tunnel"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943167/ChatGPT_Image_Aug_4_2026_09_20_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943167/ChatGPT_Image_Aug_4_2026_09_20_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943167/ChatGPT_Image_Aug_4_2026_09_20_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00199/v1785943167/ChatGPT_Image_Aug_4_2026_09_20_05_PM.png",
+    "slug": "neon-glass-geometric-tunnel",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_05_PM",
+    "pageUrl": "wallpapers/desktop/abstract/neon-glass-geometric-tunnel.html",
+    "createdAt": "2026-08-05T15:19:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-pastel-crystal-fragments-200",
+    "title": "Pastel Crystal Fragments",
+    "description": "Download Pastel Crystal Fragments, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2322550,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "pastel",
+      "crystal",
+      "fragments"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943162/ChatGPT_Image_Aug_4_2026_09_20_08_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943162/ChatGPT_Image_Aug_4_2026_09_20_08_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943162/ChatGPT_Image_Aug_4_2026_09_20_08_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00200/v1785943162/ChatGPT_Image_Aug_4_2026_09_20_08_PM.png",
+    "slug": "pastel-crystal-fragments",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_08_PM",
+    "pageUrl": "wallpapers/desktop/abstract/pastel-crystal-fragments.html",
+    "createdAt": "2026-08-05T15:19:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-iridescent-satin-waves-201",
+    "title": "Iridescent Satin Waves",
+    "description": "Download Iridescent Satin Waves, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1883163,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "iridescent",
+      "satin",
+      "waves"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943062/ChatGPT_Image_Aug_4_2026_09_20_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943062/ChatGPT_Image_Aug_4_2026_09_20_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943062/ChatGPT_Image_Aug_4_2026_09_20_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00201/v1785943062/ChatGPT_Image_Aug_4_2026_09_20_13_PM.png",
+    "slug": "iridescent-satin-waves",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_13_PM",
+    "pageUrl": "wallpapers/desktop/abstract/iridescent-satin-waves.html",
+    "createdAt": "2026-08-05T15:17:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-clear-glass-rings-in-white-hall-202",
+    "title": "Clear Glass Rings in White Hall",
+    "description": "Download Clear Glass Rings in White Hall, 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2112611,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "clear",
+      "glass",
+      "rings",
+      "white",
+      "hall"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943152/ChatGPT_Image_Aug_4_2026_09_22_46_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943152/ChatGPT_Image_Aug_4_2026_09_22_46_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943152/ChatGPT_Image_Aug_4_2026_09_22_46_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00202/v1785943152/ChatGPT_Image_Aug_4_2026_09_22_46_PM.png",
+    "slug": "clear-glass-rings-in-white-hall",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_22_46_PM",
+    "pageUrl": "wallpapers/desktop/abstract/clear-glass-rings-in-white-hall.html",
+    "createdAt": "2026-08-05T15:19:12Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-ivory-ribbon-sculpture-203",
+    "title": "Ivory Ribbon Sculpture",
+    "description": "Download Ivory Ribbon Sculpture, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1833766,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "ivory",
+      "ribbon",
+      "sculpture"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943062/ChatGPT_Image_Aug_4_2026_09_23_16_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943062/ChatGPT_Image_Aug_4_2026_09_23_16_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943062/ChatGPT_Image_Aug_4_2026_09_23_16_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00203/v1785943062/ChatGPT_Image_Aug_4_2026_09_23_16_PM.png",
+    "slug": "ivory-ribbon-sculpture",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_23_16_PM",
+    "pageUrl": "wallpapers/desktop/abstract/ivory-ribbon-sculpture.html",
+    "createdAt": "2026-08-05T15:17:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-ocean-wave-sculpture-204",
+    "title": "Glass Ocean Wave Sculpture",
+    "description": "Download Glass Ocean Wave Sculpture, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2403188,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "glass",
+      "ocean",
+      "wave",
+      "sculpture"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943148/ChatGPT_Image_Aug_4_2026_09_24_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943148/ChatGPT_Image_Aug_4_2026_09_24_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943148/ChatGPT_Image_Aug_4_2026_09_24_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00204/v1785943148/ChatGPT_Image_Aug_4_2026_09_24_05_PM.png",
+    "slug": "glass-ocean-wave-sculpture",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_24_05_PM",
+    "pageUrl": "wallpapers/desktop/abstract/glass-ocean-wave-sculpture.html",
+    "createdAt": "2026-08-05T15:19:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-emerald-gold-marble-swirls-205",
+    "title": "Emerald Gold Marble Swirls",
+    "description": "Download Emerald Gold Marble Swirls, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3147829,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "emerald",
+      "gold",
+      "marble",
+      "swirls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943156/ChatGPT_Image_Aug_4_2026_09_24_56_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943156/ChatGPT_Image_Aug_4_2026_09_24_56_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943156/ChatGPT_Image_Aug_4_2026_09_24_56_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00205/v1785943156/ChatGPT_Image_Aug_4_2026_09_24_56_PM.png",
+    "slug": "emerald-gold-marble-swirls",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_24_56_PM",
+    "pageUrl": "wallpapers/desktop/abstract/emerald-gold-marble-swirls.html",
+    "createdAt": "2026-08-05T15:19:16Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-metallic-spiral-vortex-206",
+    "title": "Metallic Spiral Vortex",
+    "description": "Download Metallic Spiral Vortex, a free 1672x941 abstract desktop wallpaper featuring polished forms, rich color, and a modern wide-screen composition.",
+    "category": "Abstract",
+    "categories": [
+      "Abstract"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2219166,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "abstract wallpaper",
+      "modern wallpaper",
+      "colorful wallpaper",
+      "metallic",
+      "spiral",
+      "vortex"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943139/ChatGPT_Image_Aug_4_2026_09_25_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943139/ChatGPT_Image_Aug_4_2026_09_25_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943139/ChatGPT_Image_Aug_4_2026_09_25_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00206/v1785943139/ChatGPT_Image_Aug_4_2026_09_25_05_PM.png",
+    "slug": "metallic-spiral-vortex",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_05_PM",
+    "pageUrl": "wallpapers/desktop/abstract/metallic-spiral-vortex.html",
+    "createdAt": "2026-08-05T15:18:59Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crystal-garden-palace-207",
+    "title": "Crystal Garden Palace",
+    "description": "Download Crystal Garden Palace, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3058210,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "crystal",
+      "garden",
+      "palace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738719/ChatGPT_Image_Jul_28_2026_06_55_19_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738719/ChatGPT_Image_Jul_28_2026_06_55_19_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738719/ChatGPT_Image_Jul_28_2026_06_55_19_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00207/v1785738719/ChatGPT_Image_Jul_28_2026_06_55_19_PM.png",
+    "slug": "crystal-garden-palace",
+    "publicId": "ChatGPT_Image_Jul_28_2026_06_55_19_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/crystal-garden-palace.html",
+    "createdAt": "2026-08-03T06:31:59Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-pink-cloud-terrace-garden-208",
+    "title": "Pink Cloud Terrace Garden",
+    "description": "Download Pink Cloud Terrace Garden, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2694208,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "pink",
+      "cloud",
+      "terrace",
+      "garden"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738721/ChatGPT_Image_Jul_28_2026_06_55_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738721/ChatGPT_Image_Jul_28_2026_06_55_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738721/ChatGPT_Image_Jul_28_2026_06_55_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00208/v1785738721/ChatGPT_Image_Jul_28_2026_06_55_22_PM.png",
+    "slug": "pink-cloud-terrace-garden",
+    "publicId": "ChatGPT_Image_Jul_28_2026_06_55_22_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/pink-cloud-terrace-garden.html",
+    "createdAt": "2026-08-03T06:32:01Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-cliffside-cove-at-sunrise-209",
+    "title": "White Cliffside Cove at Sunrise",
+    "description": "Download White Cliffside Cove at Sunrise, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2828861,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "white",
+      "cliffside",
+      "cove",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738720/ChatGPT_Image_Jul_28_2026_06_55_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738720/ChatGPT_Image_Jul_28_2026_06_55_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738720/ChatGPT_Image_Jul_28_2026_06_55_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00209/v1785738720/ChatGPT_Image_Jul_28_2026_06_55_27_PM.png",
+    "slug": "white-cliffside-cove-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_28_2026_06_55_27_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/white-cliffside-cove-at-sunrise.html",
+    "createdAt": "2026-08-03T06:32:00Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-japanese-teahouse-garden-in-rain-210",
+    "title": "Japanese Teahouse Garden in Rain",
+    "description": "Download Japanese Teahouse Garden in Rain, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3134306,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "japanese",
+      "teahouse",
+      "garden",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738723/ChatGPT_Image_Jul_28_2026_06_59_10_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738723/ChatGPT_Image_Jul_28_2026_06_59_10_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738723/ChatGPT_Image_Jul_28_2026_06_59_10_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00210/v1785738723/ChatGPT_Image_Jul_28_2026_06_59_10_PM.png",
+    "slug": "japanese-teahouse-garden-in-rain",
+    "publicId": "ChatGPT_Image_Jul_28_2026_06_59_10_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/japanese-teahouse-garden-in-rain.html",
+    "createdAt": "2026-08-03T06:32:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-alpine-balcony-above-turquoise-lake-211",
+    "title": "Alpine Balcony Above Turquoise Lake",
+    "description": "Download Alpine Balcony Above Turquoise Lake, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2790265,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "alpine",
+      "balcony",
+      "turquoise",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738720/ChatGPT_Image_Jul_28_2026_07_02_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738720/ChatGPT_Image_Jul_28_2026_07_02_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738720/ChatGPT_Image_Jul_28_2026_07_02_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00211/v1785738720/ChatGPT_Image_Jul_28_2026_07_02_12_PM.png",
+    "slug": "alpine-balcony-above-turquoise-lake",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_02_12_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/alpine-balcony-above-turquoise-lake.html",
+    "createdAt": "2026-08-03T06:32:00Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-dome-lodge-in-snowy-mountains-212",
+    "title": "Glass Dome Lodge in Snowy Mountains",
+    "description": "Download Glass Dome Lodge in Snowy Mountains, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3068330,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "glass",
+      "dome",
+      "lodge",
+      "snowy",
+      "mountains"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738722/ChatGPT_Image_Jul_28_2026_07_02_19_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738722/ChatGPT_Image_Jul_28_2026_07_02_19_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738722/ChatGPT_Image_Jul_28_2026_07_02_19_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00212/v1785738722/ChatGPT_Image_Jul_28_2026_07_02_19_PM_1.png",
+    "slug": "glass-dome-lodge-in-snowy-mountains",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_02_19_PM_1",
+    "pageUrl": "wallpapers/desktop/aesthetic/glass-dome-lodge-in-snowy-mountains.html",
+    "createdAt": "2026-08-03T06:32:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-illuminated-glass-dome-on-winter-lake-213",
+    "title": "Illuminated Glass Dome on Winter Lake",
+    "description": "Download Illuminated Glass Dome on Winter Lake, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3349349,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "illuminated",
+      "glass",
+      "dome",
+      "winter",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738725/ChatGPT_Image_Jul_28_2026_07_02_19_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738725/ChatGPT_Image_Jul_28_2026_07_02_19_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738725/ChatGPT_Image_Jul_28_2026_07_02_19_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00213/v1785738725/ChatGPT_Image_Jul_28_2026_07_02_19_PM_2.png",
+    "slug": "illuminated-glass-dome-on-winter-lake",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_02_19_PM_2",
+    "pageUrl": "wallpapers/desktop/aesthetic/illuminated-glass-dome-on-winter-lake.html",
+    "createdAt": "2026-08-03T06:32:05Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-vineyard-estate-above-clouds-214",
+    "title": "Floating Vineyard Estate Above Clouds",
+    "description": "Download Floating Vineyard Estate Above Clouds, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2491093,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "floating",
+      "vineyard",
+      "estate",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738724/ChatGPT_Image_Jul_28_2026_07_02_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738724/ChatGPT_Image_Jul_28_2026_07_02_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738724/ChatGPT_Image_Jul_28_2026_07_02_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00214/v1785738724/ChatGPT_Image_Jul_28_2026_07_02_30_PM.png",
+    "slug": "floating-vineyard-estate-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_02_30_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/floating-vineyard-estate-above-clouds.html",
+    "createdAt": "2026-08-03T06:32:04Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-bougainvillea-palace-on-sea-cliff-215",
+    "title": "Bougainvillea Palace on Sea Cliff",
+    "description": "Download Bougainvillea Palace on Sea Cliff, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2732106,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "bougainvillea",
+      "palace",
+      "sea",
+      "cliff"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738724/ChatGPT_Image_Jul_28_2026_07_04_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738724/ChatGPT_Image_Jul_28_2026_07_04_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738724/ChatGPT_Image_Jul_28_2026_07_04_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00215/v1785738724/ChatGPT_Image_Jul_28_2026_07_04_12_PM.png",
+    "slug": "bougainvillea-palace-on-sea-cliff",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_04_12_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/bougainvillea-palace-on-sea-cliff.html",
+    "createdAt": "2026-08-03T06:32:04Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-mountain-temple-at-golden-sunrise-216",
+    "title": "Mountain Temple at Golden Sunrise",
+    "description": "Download Mountain Temple at Golden Sunrise, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2577397,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "mountain",
+      "temple",
+      "golden",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738725/ChatGPT_Image_Jul_28_2026_07_04_47_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738725/ChatGPT_Image_Jul_28_2026_07_04_47_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738725/ChatGPT_Image_Jul_28_2026_07_04_47_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00216/v1785738725/ChatGPT_Image_Jul_28_2026_07_04_47_PM.png",
+    "slug": "mountain-temple-at-golden-sunrise",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_04_47_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/mountain-temple-at-golden-sunrise.html",
+    "createdAt": "2026-08-03T06:32:05Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-grand-white-palace-garden-217",
+    "title": "Grand White Palace Garden",
+    "description": "Download Grand White Palace Garden, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3188332,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "grand",
+      "white",
+      "palace",
+      "garden"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738727/ChatGPT_Image_Jul_28_2026_07_04_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738727/ChatGPT_Image_Jul_28_2026_07_04_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738727/ChatGPT_Image_Jul_28_2026_07_04_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00217/v1785738727/ChatGPT_Image_Jul_28_2026_07_04_50_PM.png",
+    "slug": "grand-white-palace-garden",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_04_50_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/grand-white-palace-garden.html",
+    "createdAt": "2026-08-03T06:32:07Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-ocean-pavilion-218",
+    "title": "White Ocean Pavilion",
+    "description": "Download White Ocean Pavilion, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2640786,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "white",
+      "ocean",
+      "pavilion"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00218/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_13_PM.png",
+    "slug": "white-ocean-pavilion",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_05_13_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/white-ocean-pavilion.html",
+    "createdAt": "2026-08-03T06:32:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-desert-palace-pool-at-sunset-219",
+    "title": "Desert Palace Pool at Sunset",
+    "description": "Download Desert Palace Pool at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2651191,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "desert",
+      "palace",
+      "pool",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00219/v1785738728/ChatGPT_Image_Jul_28_2026_07_05_57_PM.png",
+    "slug": "desert-palace-pool-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_05_57_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/desert-palace-pool-at-sunset.html",
+    "createdAt": "2026-08-03T06:32:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-vineyard-terrace-at-golden-hour-220",
+    "title": "Vineyard Terrace at Golden Hour",
+    "description": "Download Vineyard Terrace at Golden Hour, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2806813,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "vineyard",
+      "terrace",
+      "golden",
+      "hour"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738729/ChatGPT_Image_Jul_28_2026_07_13_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738729/ChatGPT_Image_Jul_28_2026_07_13_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738729/ChatGPT_Image_Jul_28_2026_07_13_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00220/v1785738729/ChatGPT_Image_Jul_28_2026_07_13_34_PM.png",
+    "slug": "vineyard-terrace-at-golden-hour",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_13_34_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/vineyard-terrace-at-golden-hour.html",
+    "createdAt": "2026-08-03T06:32:09Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-palace-courtyard-221",
+    "title": "Moonlit Palace Courtyard",
+    "description": "Download Moonlit Palace Courtyard, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3219069,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "palace",
+      "courtyard"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_14_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_14_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_14_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00221/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_14_PM.png",
+    "slug": "moonlit-palace-courtyard",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_14_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-palace-courtyard.html",
+    "createdAt": "2026-08-03T06:32:10Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-ornate-garden-fountain-222",
+    "title": "Moonlit Ornate Garden Fountain",
+    "description": "Download Moonlit Ornate Garden Fountain, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3094202,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "ornate",
+      "garden",
+      "fountain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00222/v1785738730/ChatGPT_Image_Jul_28_2026_07_23_17_PM.png",
+    "slug": "moonlit-ornate-garden-fountain",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_17_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-ornate-garden-fountain.html",
+    "createdAt": "2026-08-03T06:32:10Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lavender-villa-above-blue-sea-223",
+    "title": "Lavender Villa Above Blue Sea",
+    "description": "Download Lavender Villa Above Blue Sea, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3047409,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lavender",
+      "villa",
+      "blue",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738731/ChatGPT_Image_Jul_28_2026_07_23_20_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738731/ChatGPT_Image_Jul_28_2026_07_23_20_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738731/ChatGPT_Image_Jul_28_2026_07_23_20_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00223/v1785738731/ChatGPT_Image_Jul_28_2026_07_23_20_PM.png",
+    "slug": "lavender-villa-above-blue-sea",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_20_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lavender-villa-above-blue-sea.html",
+    "createdAt": "2026-08-03T06:32:11Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-house-in-pink-desert-224",
+    "title": "Glass House in Pink Desert",
+    "description": "Download Glass House in Pink Desert, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1937432,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "glass",
+      "house",
+      "pink",
+      "desert"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738750/ChatGPT_Image_Jul_28_2026_07_23_23_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738750/ChatGPT_Image_Jul_28_2026_07_23_23_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738750/ChatGPT_Image_Jul_28_2026_07_23_23_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00224/v1785738750/ChatGPT_Image_Jul_28_2026_07_23_23_PM.png",
+    "slug": "glass-house-in-pink-desert",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_23_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/glass-house-in-pink-desert.html",
+    "createdAt": "2026-08-03T06:32:30Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-lagoon-between-limestone-cliffs-225",
+    "title": "Tropical Lagoon Between Limestone Cliffs",
+    "description": "Download Tropical Lagoon Between Limestone Cliffs, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-scr.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3194188,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tropical",
+      "lagoon",
+      "limestone",
+      "cliffs"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738777/ChatGPT_Image_Jul_28_2026_07_23_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738777/ChatGPT_Image_Jul_28_2026_07_23_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738777/ChatGPT_Image_Jul_28_2026_07_23_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00225/v1785738777/ChatGPT_Image_Jul_28_2026_07_23_27_PM.png",
+    "slug": "tropical-lagoon-between-limestone-cliffs",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_27_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tropical-lagoon-between-limestone-cliffs.html",
+    "createdAt": "2026-08-03T06:32:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wisteria-forest-garden-path-226",
+    "title": "Wisteria Forest Garden Path",
+    "description": "Download Wisteria Forest Garden Path, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3114608,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "wisteria",
+      "forest",
+      "garden",
+      "path"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738871/ChatGPT_Image_Jul_28_2026_07_23_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738871/ChatGPT_Image_Jul_28_2026_07_23_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738871/ChatGPT_Image_Jul_28_2026_07_23_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00226/v1785738871/ChatGPT_Image_Jul_28_2026_07_23_30_PM.png",
+    "slug": "wisteria-forest-garden-path",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_30_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/wisteria-forest-garden-path.html",
+    "createdAt": "2026-08-03T06:34:31Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hot-air-balloons-at-sunset-valley-227",
+    "title": "Hot Air Balloons at Sunset Valley",
+    "description": "Download Hot Air Balloons at Sunset Valley, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2131527,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "hot",
+      "air",
+      "balloons",
+      "sunset",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738870/ChatGPT_Image_Jul_28_2026_07_23_33_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738870/ChatGPT_Image_Jul_28_2026_07_23_33_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738870/ChatGPT_Image_Jul_28_2026_07_23_33_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00227/v1785738870/ChatGPT_Image_Jul_28_2026_07_23_33_PM.png",
+    "slug": "hot-air-balloons-at-sunset-valley",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_33_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/hot-air-balloons-at-sunset-valley.html",
+    "createdAt": "2026-08-03T06:34:30Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-steam-train-through-sunlit-forest-228",
+    "title": "Steam Train Through Sunlit Forest",
+    "description": "Download Steam Train Through Sunlit Forest, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2821922,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "steam",
+      "train",
+      "sunlit",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738872/ChatGPT_Image_Jul_28_2026_07_23_36_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738872/ChatGPT_Image_Jul_28_2026_07_23_36_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738872/ChatGPT_Image_Jul_28_2026_07_23_36_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00228/v1785738872/ChatGPT_Image_Jul_28_2026_07_23_36_PM.png",
+    "slug": "steam-train-through-sunlit-forest",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_23_36_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/steam-train-through-sunlit-forest.html",
+    "createdAt": "2026-08-03T06:34:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-victorian-conservatory-koi-garden-229",
+    "title": "Victorian Conservatory Koi Garden",
+    "description": "Download Victorian Conservatory Koi Garden, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3342117,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "victorian",
+      "conservatory",
+      "koi",
+      "garden"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00229/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_22_PM.png",
+    "slug": "victorian-conservatory-koi-garden",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_24_22_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/victorian-conservatory-koi-garden.html",
+    "createdAt": "2026-08-03T06:34:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cliffside-cafe-at-ocean-sunset-230",
+    "title": "Cliffside Cafe at Ocean Sunset",
+    "description": "Download Cliffside Cafe at Ocean Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2495615,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "cliffside",
+      "cafe",
+      "ocean",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738872/ChatGPT_Image_Jul_28_2026_07_24_25_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738872/ChatGPT_Image_Jul_28_2026_07_24_25_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738872/ChatGPT_Image_Jul_28_2026_07_24_25_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00230/v1785738872/ChatGPT_Image_Jul_28_2026_07_24_25_PM.png",
+    "slug": "cliffside-cafe-at-ocean-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_24_25_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/cliffside-cafe-at-ocean-sunset.html",
+    "createdAt": "2026-08-03T06:34:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-street-in-rain-231",
+    "title": "Cherry Blossom Street in Rain",
+    "description": "Download Cherry Blossom Street in Rain, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2856036,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "cherry",
+      "blossom",
+      "street",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738865/ChatGPT_Image_Jul_28_2026_07_24_34_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738865/ChatGPT_Image_Jul_28_2026_07_24_34_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738865/ChatGPT_Image_Jul_28_2026_07_24_34_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00231/v1785738865/ChatGPT_Image_Jul_28_2026_07_24_34_PM_1.png",
+    "slug": "cherry-blossom-street-in-rain",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_24_34_PM_1",
+    "pageUrl": "wallpapers/desktop/aesthetic/cherry-blossom-street-in-rain.html",
+    "createdAt": "2026-08-03T06:34:25Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-kyoto-street-at-cherry-blossom-sunset-232",
+    "title": "Kyoto Street at Cherry Blossom Sunset",
+    "description": "Download Kyoto Street at Cherry Blossom Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3089636,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "kyoto",
+      "street",
+      "cherry",
+      "blossom",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_34_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_34_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_34_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00232/v1785738873/ChatGPT_Image_Jul_28_2026_07_24_34_PM_2.png",
+    "slug": "kyoto-street-at-cherry-blossom-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_24_34_PM_2",
+    "pageUrl": "wallpapers/desktop/aesthetic/kyoto-street-at-cherry-blossom-sunset.html",
+    "createdAt": "2026-08-03T06:34:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-glasshouse-above-city-233",
+    "title": "Moonlit Glasshouse Above City",
+    "description": "Download Moonlit Glasshouse Above City, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2722397,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "glasshouse",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738877/ChatGPT_Image_Jul_28_2026_07_28_09_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738877/ChatGPT_Image_Jul_28_2026_07_28_09_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738877/ChatGPT_Image_Jul_28_2026_07_28_09_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00233/v1785738877/ChatGPT_Image_Jul_28_2026_07_28_09_PM.png",
+    "slug": "moonlit-glasshouse-above-city",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_09_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-glasshouse-above-city.html",
+    "createdAt": "2026-08-03T06:34:37Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-alpine-mansion-beside-mirror-lake-234",
+    "title": "Alpine Mansion Beside Mirror Lake",
+    "description": "Download Alpine Mansion Beside Mirror Lake, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2770041,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "alpine",
+      "mansion",
+      "beside",
+      "mirror",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00234/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_13_PM.png",
+    "slug": "alpine-mansion-beside-mirror-lake",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_13_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/alpine-mansion-beside-mirror-lake.html",
+    "createdAt": "2026-08-03T06:34:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunlit-indoor-tropical-water-garden-235",
+    "title": "Sunlit Indoor Tropical Water Garden",
+    "description": "Download Sunlit Indoor Tropical Water Garden, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3141723,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "sunlit",
+      "indoor",
+      "tropical",
+      "water",
+      "garden"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_19_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_19_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_19_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00235/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_19_PM.png",
+    "slug": "sunlit-indoor-tropical-water-garden",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_19_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/sunlit-indoor-tropical-water-garden.html",
+    "createdAt": "2026-08-03T06:34:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-coastal-vineyard-at-sunset-236",
+    "title": "Coastal Vineyard at Sunset",
+    "description": "Download Coastal Vineyard at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2732336,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "coastal",
+      "vineyard",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00236/v1785738879/ChatGPT_Image_Jul_28_2026_07_28_22_PM.png",
+    "slug": "coastal-vineyard-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_22_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/coastal-vineyard-at-sunset.html",
+    "createdAt": "2026-08-03T06:34:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-willow-garden-palace-at-sunset-237",
+    "title": "Willow Garden Palace at Sunset",
+    "description": "Download Willow Garden Palace at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2847401,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "willow",
+      "garden",
+      "palace",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00237/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_29_PM.png",
+    "slug": "willow-garden-palace-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_29_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/willow-garden-palace-at-sunset.html",
+    "createdAt": "2026-08-03T06:34:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-celestial-library-under-stars-238",
+    "title": "Celestial Library Under Stars",
+    "description": "Download Celestial Library Under Stars, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2740232,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "celestial",
+      "library",
+      "stars"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00238/v1785738880/ChatGPT_Image_Jul_28_2026_07_28_34_PM.png",
+    "slug": "celestial-library-under-stars",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_34_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/celestial-library-under-stars.html",
+    "createdAt": "2026-08-03T06:34:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lavender-spa-terrace-at-sunset-239",
+    "title": "Lavender Spa Terrace at Sunset",
+    "description": "Download Lavender Spa Terrace at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2542833,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lavender",
+      "spa",
+      "terrace",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738884/ChatGPT_Image_Jul_28_2026_07_28_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738884/ChatGPT_Image_Jul_28_2026_07_28_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738884/ChatGPT_Image_Jul_28_2026_07_28_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00239/v1785738884/ChatGPT_Image_Jul_28_2026_07_28_37_PM.png",
+    "slug": "lavender-spa-terrace-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_37_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lavender-spa-terrace-at-sunset.html",
+    "createdAt": "2026-08-03T06:34:44Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-indoor-garden-waterfall-courtyard-240",
+    "title": "Indoor Garden Waterfall Courtyard",
+    "description": "Download Indoor Garden Waterfall Courtyard, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2989753,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "indoor",
+      "garden",
+      "waterfall",
+      "courtyard"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00240/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_41_PM.png",
+    "slug": "indoor-garden-waterfall-courtyard",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_41_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/indoor-garden-waterfall-courtyard.html",
+    "createdAt": "2026-08-03T06:34:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lemon-garden-above-mediterranean-coast-241",
+    "title": "Lemon Garden Above Mediterranean Coast",
+    "description": "Download Lemon Garden Above Mediterranean Coast, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-scree.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2928272,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lemon",
+      "garden",
+      "mediterranean",
+      "coast"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_44_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_44_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_44_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00241/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_44_PM.png",
+    "slug": "lemon-garden-above-mediterranean-coast",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_44_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lemon-garden-above-mediterranean-coast.html",
+    "createdAt": "2026-08-03T06:34:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tuscan-country-road-at-sunset-242",
+    "title": "Tuscan Country Road at Sunset",
+    "description": "Download Tuscan Country Road at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2833542,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tuscan",
+      "country",
+      "road",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_50_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_50_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_50_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00242/v1785738886/ChatGPT_Image_Jul_28_2026_07_28_50_PM_1.png",
+    "slug": "tuscan-country-road-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_50_PM_1",
+    "pageUrl": "wallpapers/desktop/aesthetic/tuscan-country-road-at-sunset.html",
+    "createdAt": "2026-08-03T06:34:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-flower-road-through-lavender-hills-243",
+    "title": "Flower Road Through Lavender Hills",
+    "description": "Download Flower Road Through Lavender Hills, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3284547,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "flower",
+      "road",
+      "lavender",
+      "hills"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738888/ChatGPT_Image_Jul_28_2026_07_28_51_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738888/ChatGPT_Image_Jul_28_2026_07_28_51_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738888/ChatGPT_Image_Jul_28_2026_07_28_51_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00243/v1785738888/ChatGPT_Image_Jul_28_2026_07_28_51_PM_2.png",
+    "slug": "flower-road-through-lavender-hills",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_51_PM_2",
+    "pageUrl": "wallpapers/desktop/aesthetic/flower-road-through-lavender-hills.html",
+    "createdAt": "2026-08-03T06:34:48Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-jungle-waterfall-lodge-244",
+    "title": "Jungle Waterfall Lodge",
+    "description": "Download Jungle Waterfall Lodge, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2879058,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "jungle",
+      "waterfall",
+      "lodge"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738887/ChatGPT_Image_Jul_28_2026_07_28_54_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738887/ChatGPT_Image_Jul_28_2026_07_28_54_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738887/ChatGPT_Image_Jul_28_2026_07_28_54_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00244/v1785738887/ChatGPT_Image_Jul_28_2026_07_28_54_PM.png",
+    "slug": "jungle-waterfall-lodge",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_54_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/jungle-waterfall-lodge.html",
+    "createdAt": "2026-08-03T06:34:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-villa-pool-at-pink-sunset-245",
+    "title": "Tropical Villa Pool at Pink Sunset",
+    "description": "Download Tropical Villa Pool at Pink Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2559273,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tropical",
+      "villa",
+      "pool",
+      "pink",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738890/ChatGPT_Image_Jul_28_2026_07_28_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738890/ChatGPT_Image_Jul_28_2026_07_28_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738890/ChatGPT_Image_Jul_28_2026_07_28_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00245/v1785738890/ChatGPT_Image_Jul_28_2026_07_28_57_PM.png",
+    "slug": "tropical-villa-pool-at-pink-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_28_57_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tropical-villa-pool-at-pink-sunset.html",
+    "createdAt": "2026-08-03T06:34:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-sky-villa-above-clouds-246",
+    "title": "Glass Sky Villa Above Clouds",
+    "description": "Download Glass Sky Villa Above Clouds, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2026225,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "glass",
+      "sky",
+      "villa",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738893/ChatGPT_Image_Jul_28_2026_07_29_01_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738893/ChatGPT_Image_Jul_28_2026_07_29_01_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738893/ChatGPT_Image_Jul_28_2026_07_29_01_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00246/v1785738893/ChatGPT_Image_Jul_28_2026_07_29_01_PM.png",
+    "slug": "glass-sky-villa-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_01_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/glass-sky-villa-above-clouds.html",
+    "createdAt": "2026-08-03T06:34:53Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lotus-garden-bridge-at-sunrise-247",
+    "title": "Lotus Garden Bridge at Sunrise",
+    "description": "Download Lotus Garden Bridge at Sunrise, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2843156,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lotus",
+      "garden",
+      "bridge",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_04_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_04_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_04_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00247/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_04_PM.png",
+    "slug": "lotus-garden-bridge-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_04_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lotus-garden-bridge-at-sunrise.html",
+    "createdAt": "2026-08-03T06:34:55Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-chapel-beneath-alpine-sunrise-248",
+    "title": "Glass Chapel Beneath Alpine Sunrise",
+    "description": "Download Glass Chapel Beneath Alpine Sunrise, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2798221,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "glass",
+      "chapel",
+      "alpine",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_06_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_06_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_06_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00248/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_06_PM.png",
+    "slug": "glass-chapel-beneath-alpine-sunrise",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_06_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/glass-chapel-beneath-alpine-sunrise.html",
+    "createdAt": "2026-08-03T06:34:55Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lakeside-glass-cabin-in-autumn-rain-249",
+    "title": "Lakeside Glass Cabin in Autumn Rain",
+    "description": "Download Lakeside Glass Cabin in Autumn Rain, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2702325,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lakeside",
+      "glass",
+      "cabin",
+      "autumn",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_09_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_09_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_09_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00249/v1785738895/ChatGPT_Image_Jul_28_2026_07_29_09_PM.png",
+    "slug": "lakeside-glass-cabin-in-autumn-rain",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_09_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lakeside-glass-cabin-in-autumn-rain.html",
+    "createdAt": "2026-08-03T06:34:55Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wildflower-cliffs-above-blue-ocean-250",
+    "title": "Wildflower Cliffs Above Blue Ocean",
+    "description": "Download Wildflower Cliffs Above Blue Ocean, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3000362,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "wildflower",
+      "cliffs",
+      "blue",
+      "ocean"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738896/ChatGPT_Image_Jul_28_2026_07_29_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738896/ChatGPT_Image_Jul_28_2026_07_29_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738896/ChatGPT_Image_Jul_28_2026_07_29_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00250/v1785738896/ChatGPT_Image_Jul_28_2026_07_29_12_PM.png",
+    "slug": "wildflower-cliffs-above-blue-ocean",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_12_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/wildflower-cliffs-above-blue-ocean.html",
+    "createdAt": "2026-08-03T06:34:56Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-cliff-palace-water-garden-251",
+    "title": "White Cliff Palace Water Garden",
+    "description": "Download White Cliff Palace Water Garden, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2999422,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "white",
+      "cliff",
+      "palace",
+      "water",
+      "garden"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738898/ChatGPT_Image_Jul_28_2026_07_29_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738898/ChatGPT_Image_Jul_28_2026_07_29_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738898/ChatGPT_Image_Jul_28_2026_07_29_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00251/v1785738898/ChatGPT_Image_Jul_28_2026_07_29_17_PM.png",
+    "slug": "white-cliff-palace-water-garden",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_17_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/white-cliff-palace-water-garden.html",
+    "createdAt": "2026-08-03T06:34:58Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lighthouse-on-flowered-coast-at-sunset-252",
+    "title": "Lighthouse on Flowered Coast at Sunset",
+    "description": "Download Lighthouse on Flowered Coast at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-scree.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2655175,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lighthouse",
+      "flowered",
+      "coast",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_20_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_20_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_20_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00252/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_20_PM.png",
+    "slug": "lighthouse-on-flowered-coast-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_20_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lighthouse-on-flowered-coast-at-sunset.html",
+    "createdAt": "2026-08-03T06:35:01Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rooftop-garden-over-sunset-city-253",
+    "title": "Rooftop Garden Over Sunset City",
+    "description": "Download Rooftop Garden Over Sunset City, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2690301,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "rooftop",
+      "garden",
+      "sunset",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738908/ChatGPT_Image_Jul_28_2026_07_29_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738908/ChatGPT_Image_Jul_28_2026_07_29_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738908/ChatGPT_Image_Jul_28_2026_07_29_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00253/v1785738908/ChatGPT_Image_Jul_28_2026_07_29_24_PM.png",
+    "slug": "rooftop-garden-over-sunset-city",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_24_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/rooftop-garden-over-sunset-city.html",
+    "createdAt": "2026-08-03T06:35:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-walkway-above-sunrise-clouds-254",
+    "title": "Glass Walkway Above Sunrise Clouds",
+    "description": "Download Glass Walkway Above Sunrise Clouds, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1885333,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "glass",
+      "walkway",
+      "sunrise",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00254/v1785738901/ChatGPT_Image_Jul_28_2026_07_29_27_PM.png",
+    "slug": "glass-walkway-above-sunrise-clouds",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_27_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/glass-walkway-above-sunrise-clouds.html",
+    "createdAt": "2026-08-03T06:35:01Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-grand-seaside-staircase-at-sunset-255",
+    "title": "Grand Seaside Staircase at Sunset",
+    "description": "Download Grand Seaside Staircase at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2791176,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "grand",
+      "seaside",
+      "staircase",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00255/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_30_PM.png",
+    "slug": "grand-seaside-staircase-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_30_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/grand-seaside-staircase-at-sunset.html",
+    "createdAt": "2026-08-03T06:35:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-infinity-pool-above-pink-clouds-256",
+    "title": "Infinity Pool Above Pink Clouds",
+    "description": "Download Infinity Pool Above Pink Clouds, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2370398,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "infinity",
+      "pool",
+      "pink",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_33_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_33_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_33_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00256/v1785738914/ChatGPT_Image_Jul_28_2026_07_29_33_PM.png",
+    "slug": "infinity-pool-above-pink-clouds",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_33_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/infinity-pool-above-pink-clouds.html",
+    "createdAt": "2026-08-03T06:35:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-mountain-trail-above-sunrise-clouds-257",
+    "title": "Mountain Trail Above Sunrise Clouds",
+    "description": "Download Mountain Trail Above Sunrise Clouds, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2111327,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "mountain",
+      "trail",
+      "sunrise",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738927/ChatGPT_Image_Jul_28_2026_07_29_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738927/ChatGPT_Image_Jul_28_2026_07_29_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738927/ChatGPT_Image_Jul_28_2026_07_29_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00257/v1785738927/ChatGPT_Image_Jul_28_2026_07_29_37_PM.png",
+    "slug": "mountain-trail-above-sunrise-clouds",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_37_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/mountain-trail-above-sunrise-clouds.html",
+    "createdAt": "2026-08-03T06:35:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-olive-courtyard-fountain-258",
+    "title": "Olive Courtyard Fountain",
+    "description": "Download Olive Courtyard Fountain, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3165712,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "olive",
+      "courtyard",
+      "fountain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738993/ChatGPT_Image_Jul_28_2026_07_29_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738993/ChatGPT_Image_Jul_28_2026_07_29_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738993/ChatGPT_Image_Jul_28_2026_07_29_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00258/v1785738993/ChatGPT_Image_Jul_28_2026_07_29_39_PM.png",
+    "slug": "olive-courtyard-fountain",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_39_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/olive-courtyard-fountain.html",
+    "createdAt": "2026-08-03T06:36:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lavender-field-at-pink-sunset-259",
+    "title": "Lavender Field at Pink Sunset",
+    "description": "Download Lavender Field at Pink Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2565228,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lavender",
+      "field",
+      "pink",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739002/ChatGPT_Image_Jul_28_2026_07_29_52_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739002/ChatGPT_Image_Jul_28_2026_07_29_52_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739002/ChatGPT_Image_Jul_28_2026_07_29_52_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00259/v1785739002/ChatGPT_Image_Jul_28_2026_07_29_52_PM.png",
+    "slug": "lavender-field-at-pink-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_29_52_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lavender-field-at-pink-sunset.html",
+    "createdAt": "2026-08-03T06:36:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-rose-palace-courtyard-260",
+    "title": "White Rose Palace Courtyard",
+    "description": "Download White Rose Palace Courtyard, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3082244,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "white",
+      "rose",
+      "palace",
+      "courtyard"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738944/ChatGPT_Image_Jul_28_2026_07_35_28_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738944/ChatGPT_Image_Jul_28_2026_07_35_28_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738944/ChatGPT_Image_Jul_28_2026_07_35_28_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00260/v1785738944/ChatGPT_Image_Jul_28_2026_07_35_28_PM.png",
+    "slug": "white-rose-palace-courtyard",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_28_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/white-rose-palace-courtyard.html",
+    "createdAt": "2026-08-03T06:35:44Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-grand-floral-palace-plaza-261",
+    "title": "Grand Floral Palace Plaza",
+    "description": "Download Grand Floral Palace Plaza, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2891425,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "grand",
+      "floral",
+      "palace",
+      "plaza"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738945/ChatGPT_Image_Jul_28_2026_07_35_33_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738945/ChatGPT_Image_Jul_28_2026_07_35_33_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738945/ChatGPT_Image_Jul_28_2026_07_35_33_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00261/v1785738945/ChatGPT_Image_Jul_28_2026_07_35_33_PM.png",
+    "slug": "grand-floral-palace-plaza",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_33_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/grand-floral-palace-plaza.html",
+    "createdAt": "2026-08-03T06:35:45Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-coastal-lighthouse-terrace-262",
+    "title": "Coastal Lighthouse Terrace",
+    "description": "Download Coastal Lighthouse Terrace, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2858456,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "coastal",
+      "lighthouse",
+      "terrace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_36_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_36_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_36_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00262/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_36_PM.png",
+    "slug": "coastal-lighthouse-terrace",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_36_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/coastal-lighthouse-terrace.html",
+    "createdAt": "2026-08-03T06:35:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-modern-zen-courtyard-home-263",
+    "title": "Modern Zen Courtyard Home",
+    "description": "Download Modern Zen Courtyard Home, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2949984,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "modern",
+      "zen",
+      "courtyard",
+      "home"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00263/v1785738946/ChatGPT_Image_Jul_28_2026_07_35_39_PM.png",
+    "slug": "modern-zen-courtyard-home",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_39_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/modern-zen-courtyard-home.html",
+    "createdAt": "2026-08-03T06:35:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-flower-stairway-to-cloud-palace-264",
+    "title": "Flower Stairway to Cloud Palace",
+    "description": "Download Flower Stairway to Cloud Palace, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2713029,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "flower",
+      "stairway",
+      "cloud",
+      "palace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738990/ChatGPT_Image_Jul_28_2026_07_35_42_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738990/ChatGPT_Image_Jul_28_2026_07_35_42_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738990/ChatGPT_Image_Jul_28_2026_07_35_42_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00264/v1785738990/ChatGPT_Image_Jul_28_2026_07_35_42_PM.png",
+    "slug": "flower-stairway-to-cloud-palace",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_42_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/flower-stairway-to-cloud-palace.html",
+    "createdAt": "2026-08-03T06:36:30Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-vineyard-dinner-at-golden-sunset-265",
+    "title": "Vineyard Dinner at Golden Sunset",
+    "description": "Download Vineyard Dinner at Golden Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2743651,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "vineyard",
+      "dinner",
+      "golden",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739034/ChatGPT_Image_Jul_28_2026_07_35_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739034/ChatGPT_Image_Jul_28_2026_07_35_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739034/ChatGPT_Image_Jul_28_2026_07_35_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00265/v1785739034/ChatGPT_Image_Jul_28_2026_07_35_45_PM.png",
+    "slug": "vineyard-dinner-at-golden-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_45_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/vineyard-dinner-at-golden-sunset.html",
+    "createdAt": "2026-08-03T06:37:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-overwater-pavilion-266",
+    "title": "Tropical Overwater Pavilion",
+    "description": "Download Tropical Overwater Pavilion, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3008882,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tropical",
+      "overwater",
+      "pavilion"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739054/ChatGPT_Image_Jul_28_2026_07_35_48_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739054/ChatGPT_Image_Jul_28_2026_07_35_48_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739054/ChatGPT_Image_Jul_28_2026_07_35_48_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00266/v1785739054/ChatGPT_Image_Jul_28_2026_07_35_48_PM.png",
+    "slug": "tropical-overwater-pavilion",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_48_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tropical-overwater-pavilion.html",
+    "createdAt": "2026-08-03T06:37:34Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-lakeside-palace-terrace-267",
+    "title": "Moonlit Lakeside Palace Terrace",
+    "description": "Download Moonlit Lakeside Palace Terrace, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2626171,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "lakeside",
+      "palace",
+      "terrace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739017/ChatGPT_Image_Jul_28_2026_07_35_52_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739017/ChatGPT_Image_Jul_28_2026_07_35_52_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739017/ChatGPT_Image_Jul_28_2026_07_35_52_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00267/v1785739017/ChatGPT_Image_Jul_28_2026_07_35_52_PM.png",
+    "slug": "moonlit-lakeside-palace-terrace",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_52_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-lakeside-palace-terrace.html",
+    "createdAt": "2026-08-03T06:36:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-candlelit-glass-conservatory-268",
+    "title": "Candlelit Glass Conservatory",
+    "description": "Download Candlelit Glass Conservatory, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3094724,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "candlelit",
+      "glass",
+      "conservatory"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739011/ChatGPT_Image_Jul_28_2026_07_35_58_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739011/ChatGPT_Image_Jul_28_2026_07_35_58_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739011/ChatGPT_Image_Jul_28_2026_07_35_58_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00268/v1785739011/ChatGPT_Image_Jul_28_2026_07_35_58_PM_1.png",
+    "slug": "candlelit-glass-conservatory",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_58_PM_1",
+    "pageUrl": "wallpapers/desktop/aesthetic/candlelit-glass-conservatory.html",
+    "createdAt": "2026-08-03T06:36:51Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-candlelit-glass-palace-conservatory-269",
+    "title": "Candlelit Glass Palace Conservatory",
+    "description": "Download Candlelit Glass Palace Conservatory, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3324332,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "candlelit",
+      "glass",
+      "palace",
+      "conservatory"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739013/ChatGPT_Image_Jul_28_2026_07_35_59_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739013/ChatGPT_Image_Jul_28_2026_07_35_59_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739013/ChatGPT_Image_Jul_28_2026_07_35_59_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00269/v1785739013/ChatGPT_Image_Jul_28_2026_07_35_59_PM_2.png",
+    "slug": "candlelit-glass-palace-conservatory",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_35_59_PM_2",
+    "pageUrl": "wallpapers/desktop/aesthetic/candlelit-glass-palace-conservatory.html",
+    "createdAt": "2026-08-03T06:36:53Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-misty-marble-fountain-terrace-270",
+    "title": "Misty Marble Fountain Terrace",
+    "description": "Download Misty Marble Fountain Terrace, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2683781,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "misty",
+      "marble",
+      "fountain",
+      "terrace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739017/ChatGPT_Image_Jul_28_2026_07_36_03_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739017/ChatGPT_Image_Jul_28_2026_07_36_03_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739017/ChatGPT_Image_Jul_28_2026_07_36_03_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00270/v1785739017/ChatGPT_Image_Jul_28_2026_07_36_03_PM.png",
+    "slug": "misty-marble-fountain-terrace",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_03_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/misty-marble-fountain-terrace.html",
+    "createdAt": "2026-08-03T06:36:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-lavender-garden-walk-271",
+    "title": "Moonlit Lavender Garden Walk",
+    "description": "Download Moonlit Lavender Garden Walk, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2805038,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "lavender",
+      "garden",
+      "walk"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739022/ChatGPT_Image_Jul_28_2026_07_36_07_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739022/ChatGPT_Image_Jul_28_2026_07_36_07_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739022/ChatGPT_Image_Jul_28_2026_07_36_07_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00271/v1785739022/ChatGPT_Image_Jul_28_2026_07_36_07_PM.png",
+    "slug": "moonlit-lavender-garden-walk",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_07_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-lavender-garden-walk.html",
+    "createdAt": "2026-08-03T06:37:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-amalfi-lemon-grove-at-sunset-272",
+    "title": "Amalfi Lemon Grove at Sunset",
+    "description": "Download Amalfi Lemon Grove at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3008413,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "amalfi",
+      "lemon",
+      "grove",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739023/ChatGPT_Image_Jul_28_2026_07_36_15_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739023/ChatGPT_Image_Jul_28_2026_07_36_15_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739023/ChatGPT_Image_Jul_28_2026_07_36_15_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00272/v1785739023/ChatGPT_Image_Jul_28_2026_07_36_15_PM.png",
+    "slug": "amalfi-lemon-grove-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_15_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/amalfi-lemon-grove-at-sunset.html",
+    "createdAt": "2026-08-03T06:37:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-garden-courtyard-pool-273",
+    "title": "White Garden Courtyard Pool",
+    "description": "Download White Garden Courtyard Pool, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3049840,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "white",
+      "garden",
+      "courtyard",
+      "pool"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_19_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_19_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_19_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00273/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_19_PM.png",
+    "slug": "white-garden-courtyard-pool",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_19_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/white-garden-courtyard-pool.html",
+    "createdAt": "2026-08-03T06:37:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-alpine-cafe-at-christmas-274",
+    "title": "Snowy Alpine Cafe at Christmas",
+    "description": "Download Snowy Alpine Cafe at Christmas, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3231553,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "snowy",
+      "alpine",
+      "cafe",
+      "christmas"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739029/ChatGPT_Image_Jul_28_2026_07_36_23_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739029/ChatGPT_Image_Jul_28_2026_07_36_23_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739029/ChatGPT_Image_Jul_28_2026_07_36_23_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00274/v1785739029/ChatGPT_Image_Jul_28_2026_07_36_23_PM.png",
+    "slug": "snowy-alpine-cafe-at-christmas",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_23_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/snowy-alpine-cafe-at-christmas.html",
+    "createdAt": "2026-08-03T06:37:09Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-willow-canal-promenade-at-sunset-275",
+    "title": "Willow Canal Promenade at Sunset",
+    "description": "Download Willow Canal Promenade at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3128419,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "willow",
+      "canal",
+      "promenade",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739030/ChatGPT_Image_Jul_28_2026_07_36_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739030/ChatGPT_Image_Jul_28_2026_07_36_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739030/ChatGPT_Image_Jul_28_2026_07_36_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00275/v1785739030/ChatGPT_Image_Jul_28_2026_07_36_26_PM.png",
+    "slug": "willow-canal-promenade-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_26_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/willow-canal-promenade-at-sunset.html",
+    "createdAt": "2026-08-03T06:37:10Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cloudtop-glass-pavilion-276",
+    "title": "Cloudtop Glass Pavilion",
+    "description": "Download Cloudtop Glass Pavilion, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2567116,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "cloudtop",
+      "glass",
+      "pavilion"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739031/ChatGPT_Image_Jul_28_2026_07_36_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739031/ChatGPT_Image_Jul_28_2026_07_36_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739031/ChatGPT_Image_Jul_28_2026_07_36_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00276/v1785739031/ChatGPT_Image_Jul_28_2026_07_36_29_PM.png",
+    "slug": "cloudtop-glass-pavilion",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_29_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/cloudtop-glass-pavilion.html",
+    "createdAt": "2026-08-03T06:37:11Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hydrangea-garden-bridge-at-dusk-277",
+    "title": "Hydrangea Garden Bridge at Dusk",
+    "description": "Download Hydrangea Garden Bridge at Dusk, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3255623,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "hydrangea",
+      "garden",
+      "bridge",
+      "dusk"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_32_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_32_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_32_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00277/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_32_PM.png",
+    "slug": "hydrangea-garden-bridge-at-dusk",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_32_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/hydrangea-garden-bridge-at-dusk.html",
+    "createdAt": "2026-08-03T06:37:16Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-terrace-above-mountain-lake-278",
+    "title": "Moonlit Terrace Above Mountain Lake",
+    "description": "Download Moonlit Terrace Above Mountain Lake, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2755687,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "terrace",
+      "mountain",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_36_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_36_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_36_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00278/v1785739036/ChatGPT_Image_Jul_28_2026_07_36_36_PM.png",
+    "slug": "moonlit-terrace-above-mountain-lake",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_36_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-terrace-above-mountain-lake.html",
+    "createdAt": "2026-08-03T06:37:16Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-bamboo-garden-teahouse-279",
+    "title": "Bamboo Garden Teahouse",
+    "description": "Download Bamboo Garden Teahouse, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3005357,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "bamboo",
+      "garden",
+      "teahouse"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00279/v1785739037/ChatGPT_Image_Jul_28_2026_07_36_39_PM.png",
+    "slug": "bamboo-garden-teahouse",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_39_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/bamboo-garden-teahouse.html",
+    "createdAt": "2026-08-03T06:37:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-bougainvillea-terrace-above-golden-sea-280",
+    "title": "Bougainvillea Terrace Above Golden Sea",
+    "description": "Download Bougainvillea Terrace Above Golden Sea, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-scree.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2621475,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "bougainvillea",
+      "terrace",
+      "golden",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_42_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_42_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_42_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00280/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_42_PM.png",
+    "slug": "bougainvillea-terrace-above-golden-sea",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_42_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/bougainvillea-terrace-above-golden-sea.html",
+    "createdAt": "2026-08-03T06:37:20Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cozy-alpine-balcony-at-sunrise-281",
+    "title": "Cozy Alpine Balcony at Sunrise",
+    "description": "Download Cozy Alpine Balcony at Sunrise, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2513530,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "cozy",
+      "alpine",
+      "balcony",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_46_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_46_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_46_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00281/v1785739040/ChatGPT_Image_Jul_28_2026_07_36_46_PM.png",
+    "slug": "cozy-alpine-balcony-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_46_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/cozy-alpine-balcony-at-sunrise.html",
+    "createdAt": "2026-08-03T06:37:20Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tulip-fields-and-windmill-at-sunset-282",
+    "title": "Tulip Fields and Windmill at Sunset",
+    "description": "Download Tulip Fields and Windmill at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2502624,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tulip",
+      "fields",
+      "windmill",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739041/ChatGPT_Image_Jul_28_2026_07_36_49_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739041/ChatGPT_Image_Jul_28_2026_07_36_49_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739041/ChatGPT_Image_Jul_28_2026_07_36_49_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00282/v1785739041/ChatGPT_Image_Jul_28_2026_07_36_49_PM.png",
+    "slug": "tulip-fields-and-windmill-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_36_49_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tulip-fields-and-windmill-at-sunset.html",
+    "createdAt": "2026-08-03T06:37:21Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-autumn-library-with-mountain-view-283",
+    "title": "Autumn Library with Mountain View",
+    "description": "Download Autumn Library with Mountain View, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2555241,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "autumn",
+      "library",
+      "mountain",
+      "view"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_04_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_04_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_04_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00283/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_04_PM.png",
+    "slug": "autumn-library-with-mountain-view",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_37_04_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/autumn-library-with-mountain-view.html",
+    "createdAt": "2026-08-03T06:37:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lakeside-cabin-beneath-misty-peaks-284",
+    "title": "Lakeside Cabin Beneath Misty Peaks",
+    "description": "Download Lakeside Cabin Beneath Misty Peaks, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2787137,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lakeside",
+      "cabin",
+      "misty",
+      "peaks"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_08_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_08_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_08_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00284/v1785739042/ChatGPT_Image_Jul_28_2026_07_37_08_PM.png",
+    "slug": "lakeside-cabin-beneath-misty-peaks",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_37_08_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lakeside-cabin-beneath-misty-peaks.html",
+    "createdAt": "2026-08-03T06:37:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cozy-apartment-above-night-city-285",
+    "title": "Cozy Apartment Above Night City",
+    "description": "Download Cozy Apartment Above Night City, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2458330,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "cozy",
+      "apartment",
+      "night",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739045/ChatGPT_Image_Jul_28_2026_07_37_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739045/ChatGPT_Image_Jul_28_2026_07_37_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739045/ChatGPT_Image_Jul_28_2026_07_37_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00285/v1785739045/ChatGPT_Image_Jul_28_2026_07_37_13_PM.png",
+    "slug": "cozy-apartment-above-night-city",
+    "publicId": "ChatGPT_Image_Jul_28_2026_07_37_13_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/cozy-apartment-above-night-city.html",
+    "createdAt": "2026-08-03T06:37:25Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-elevator-on-sunset-coast-286",
+    "title": "Glass Elevator on Sunset Coast",
+    "description": "Download Glass Elevator on Sunset Coast, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2835523,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "glass",
+      "elevator",
+      "sunset",
+      "coast"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739046/ChatGPT_Image_Jul_28_2026_09_03_10_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739046/ChatGPT_Image_Jul_28_2026_09_03_10_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739046/ChatGPT_Image_Jul_28_2026_09_03_10_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00286/v1785739046/ChatGPT_Image_Jul_28_2026_09_03_10_PM.png",
+    "slug": "glass-elevator-on-sunset-coast",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_03_10_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/glass-elevator-on-sunset-coast.html",
+    "createdAt": "2026-08-03T06:37:26Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-flower-train-crossing-palace-bridge-287",
+    "title": "Flower Train Crossing Palace Bridge",
+    "description": "Download Flower Train Crossing Palace Bridge, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2898282,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "flower",
+      "train",
+      "crossing",
+      "palace",
+      "bridge"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_14_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_14_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_14_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00287/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_14_PM.png",
+    "slug": "flower-train-crossing-palace-bridge",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_03_14_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/flower-train-crossing-palace-bridge.html",
+    "createdAt": "2026-08-03T06:37:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-cliff-house-above-turquoise-sea-288",
+    "title": "Tropical Cliff House Above Turquoise Sea",
+    "description": "Download Tropical Cliff House Above Turquoise Sea, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-scr.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2906967,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tropical",
+      "cliff",
+      "house",
+      "turquoise",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_25_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_25_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_25_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00288/v1785739048/ChatGPT_Image_Jul_28_2026_09_03_25_PM.png",
+    "slug": "tropical-cliff-house-above-turquoise-sea",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_03_25_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tropical-cliff-house-above-turquoise-sea.html",
+    "createdAt": "2026-08-03T06:37:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tuscan-vineyard-estate-at-golden-hour-289",
+    "title": "Tuscan Vineyard Estate at Golden Hour",
+    "description": "Download Tuscan Vineyard Estate at Golden Hour, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3046543,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tuscan",
+      "vineyard",
+      "estate",
+      "golden",
+      "hour"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739049/ChatGPT_Image_Jul_28_2026_09_03_28_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739049/ChatGPT_Image_Jul_28_2026_09_03_28_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739049/ChatGPT_Image_Jul_28_2026_09_03_28_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00289/v1785739049/ChatGPT_Image_Jul_28_2026_09_03_28_PM.png",
+    "slug": "tuscan-vineyard-estate-at-golden-hour",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_03_28_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tuscan-vineyard-estate-at-golden-hour.html",
+    "createdAt": "2026-08-03T06:37:29Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunlit-rose-palace-conservatory-290",
+    "title": "Sunlit Rose Palace Conservatory",
+    "description": "Download Sunlit Rose Palace Conservatory, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3392011,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "sunlit",
+      "rose",
+      "palace",
+      "conservatory"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_32_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_32_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_32_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00290/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_32_PM.png",
+    "slug": "sunlit-rose-palace-conservatory",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_03_32_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/sunlit-rose-palace-conservatory.html",
+    "createdAt": "2026-08-03T06:37:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-turquoise-palace-bath-under-sunbeams-291",
+    "title": "Turquoise Palace Bath Under Sunbeams",
+    "description": "Download Turquoise Palace Bath Under Sunbeams, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3084001,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "turquoise",
+      "palace",
+      "bath",
+      "sunbeams"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00291/v1785739053/ChatGPT_Image_Jul_28_2026_09_03_41_PM.png",
+    "slug": "turquoise-palace-bath-under-sunbeams",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_03_41_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/turquoise-palace-bath-under-sunbeams.html",
+    "createdAt": "2026-08-03T06:37:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-ancient-olive-courtyard-fountain-292",
+    "title": "Ancient Olive Courtyard Fountain",
+    "description": "Download Ancient Olive Courtyard Fountain, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3309700,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "ancient",
+      "olive",
+      "courtyard",
+      "fountain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00292/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_30_PM.png",
+    "slug": "ancient-olive-courtyard-fountain",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_04_30_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/ancient-olive-courtyard-fountain.html",
+    "createdAt": "2026-08-03T06:37:35Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lotus-palace-at-pink-sunrise-293",
+    "title": "Lotus Palace at Pink Sunrise",
+    "description": "Download Lotus Palace at Pink Sunrise, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2954957,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lotus",
+      "palace",
+      "pink",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00293/v1785739055/ChatGPT_Image_Jul_28_2026_09_04_34_PM.png",
+    "slug": "lotus-palace-at-pink-sunrise",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_04_34_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lotus-palace-at-pink-sunrise.html",
+    "createdAt": "2026-08-03T06:37:35Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-emerald-fountain-cloister-294",
+    "title": "Emerald Fountain Cloister",
+    "description": "Download Emerald Fountain Cloister, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3195202,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "emerald",
+      "fountain",
+      "cloister"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739057/ChatGPT_Image_Jul_28_2026_09_04_36_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739057/ChatGPT_Image_Jul_28_2026_09_04_36_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739057/ChatGPT_Image_Jul_28_2026_09_04_36_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00294/v1785739057/ChatGPT_Image_Jul_28_2026_09_04_36_PM.png",
+    "slug": "emerald-fountain-cloister",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_04_36_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/emerald-fountain-cloister.html",
+    "createdAt": "2026-08-03T06:37:37Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunlit-tropical-glass-corridor-295",
+    "title": "Sunlit Tropical Glass Corridor",
+    "description": "Download Sunlit Tropical Glass Corridor, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3300648,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "sunlit",
+      "tropical",
+      "glass",
+      "corridor"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00295/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_39_PM.png",
+    "slug": "sunlit-tropical-glass-corridor",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_04_39_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/sunlit-tropical-glass-corridor.html",
+    "createdAt": "2026-08-03T06:37:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-natural-stone-arch-above-turquoise-cove-296",
+    "title": "Natural Stone Arch Above Turquoise Cove",
+    "description": "Download Natural Stone Arch Above Turquoise Cove, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-scre.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3300976,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "natural",
+      "stone",
+      "arch",
+      "turquoise",
+      "cove"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_43_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_43_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_43_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00296/v1785739060/ChatGPT_Image_Jul_28_2026_09_04_43_PM.png",
+    "slug": "natural-stone-arch-above-turquoise-cove",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_04_43_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/natural-stone-arch-above-turquoise-cove.html",
+    "createdAt": "2026-08-03T06:37:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-lakehouse-beneath-alpine-peaks-297",
+    "title": "Glass Lakehouse Beneath Alpine Peaks",
+    "description": "Download Glass Lakehouse Beneath Alpine Peaks, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2713194,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "glass",
+      "lakehouse",
+      "alpine",
+      "peaks"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739060/ChatGPT_Image_Jul_28_2026_09_05_01_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739060/ChatGPT_Image_Jul_28_2026_09_05_01_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739060/ChatGPT_Image_Jul_28_2026_09_05_01_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00297/v1785739060/ChatGPT_Image_Jul_28_2026_09_05_01_PM.png",
+    "slug": "glass-lakehouse-beneath-alpine-peaks",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_05_01_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/glass-lakehouse-beneath-alpine-peaks.html",
+    "createdAt": "2026-08-03T06:37:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-orchid-conservatory-298",
+    "title": "Moonlit Orchid Conservatory",
+    "description": "Download Moonlit Orchid Conservatory, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3275191,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "orchid",
+      "conservatory"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739061/ChatGPT_Image_Jul_28_2026_09_06_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739061/ChatGPT_Image_Jul_28_2026_09_06_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739061/ChatGPT_Image_Jul_28_2026_09_06_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00298/v1785739061/ChatGPT_Image_Jul_28_2026_09_06_05_PM.png",
+    "slug": "moonlit-orchid-conservatory",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_06_05_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-orchid-conservatory.html",
+    "createdAt": "2026-08-03T06:37:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-olive-grove-path-at-sunset-299",
+    "title": "Olive Grove Path at Sunset",
+    "description": "Download Olive Grove Path at Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3232597,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "olive",
+      "grove",
+      "path",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738693/ChatGPT_Image_Jul_28_2026_09_06_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738693/ChatGPT_Image_Jul_28_2026_09_06_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738693/ChatGPT_Image_Jul_28_2026_09_06_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00299/v1785738693/ChatGPT_Image_Jul_28_2026_09_06_17_PM.png",
+    "slug": "olive-grove-path-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_06_17_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/olive-grove-path-at-sunset.html",
+    "createdAt": "2026-08-03T06:31:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-canal-village-300",
+    "title": "Cherry Blossom Canal Village",
+    "description": "Download Cherry Blossom Canal Village, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3203078,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "cherry",
+      "blossom",
+      "canal",
+      "village"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738691/ChatGPT_Image_Jul_28_2026_09_06_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738691/ChatGPT_Image_Jul_28_2026_09_06_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738691/ChatGPT_Image_Jul_28_2026_09_06_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00300/v1785738691/ChatGPT_Image_Jul_28_2026_09_06_24_PM.png",
+    "slug": "cherry-blossom-canal-village",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_06_24_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/cherry-blossom-canal-village.html",
+    "createdAt": "2026-08-03T06:31:31Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wildflower-coastal-trail-301",
+    "title": "Wildflower Coastal Trail",
+    "description": "Download Wildflower Coastal Trail, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2990129,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "wildflower",
+      "coastal",
+      "trail"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738690/ChatGPT_Image_Jul_28_2026_09_06_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738690/ChatGPT_Image_Jul_28_2026_09_06_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738690/ChatGPT_Image_Jul_28_2026_09_06_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00301/v1785738690/ChatGPT_Image_Jul_28_2026_09_06_37_PM.png",
+    "slug": "wildflower-coastal-trail",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_06_37_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/wildflower-coastal-trail.html",
+    "createdAt": "2026-08-03T06:31:30Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tea-hills-at-golden-sunrise-302",
+    "title": "Tea Hills at Golden Sunrise",
+    "description": "Download Tea Hills at Golden Sunrise, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2649931,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tea",
+      "hills",
+      "golden",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738689/ChatGPT_Image_Jul_28_2026_09_06_42_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738689/ChatGPT_Image_Jul_28_2026_09_06_42_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738689/ChatGPT_Image_Jul_28_2026_09_06_42_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00302/v1785738689/ChatGPT_Image_Jul_28_2026_09_06_42_PM.png",
+    "slug": "tea-hills-at-golden-sunrise",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_06_42_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tea-hills-at-golden-sunrise.html",
+    "createdAt": "2026-08-03T06:31:29Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lotus-lake-temple-at-dawn-303",
+    "title": "Lotus Lake Temple at Dawn",
+    "description": "Download Lotus Lake Temple at Dawn, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2516514,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lotus",
+      "lake",
+      "temple",
+      "dawn"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738688/ChatGPT_Image_Jul_28_2026_09_06_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738688/ChatGPT_Image_Jul_28_2026_09_06_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738688/ChatGPT_Image_Jul_28_2026_09_06_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00303/v1785738688/ChatGPT_Image_Jul_28_2026_09_06_57_PM.png",
+    "slug": "lotus-lake-temple-at-dawn",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_06_57_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lotus-lake-temple-at-dawn.html",
+    "createdAt": "2026-08-03T06:31:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainy-paris-cafe-street-304",
+    "title": "Rainy Paris Cafe Street",
+    "description": "Download Rainy Paris Cafe Street, a free 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3120085,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "rainy",
+      "paris",
+      "cafe",
+      "street"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00304/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_17_PM.png",
+    "slug": "rainy-paris-cafe-street",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_07_17_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/rainy-paris-cafe-street.html",
+    "createdAt": "2026-08-03T06:31:45Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-breakfast-terrace-above-alpine-lake-305",
+    "title": "Breakfast Terrace Above Alpine Lake",
+    "description": "Download Breakfast Terrace Above Alpine Lake, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen m.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2921787,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "breakfast",
+      "terrace",
+      "alpine",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738711/ChatGPT_Image_Jul_28_2026_09_07_20_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738711/ChatGPT_Image_Jul_28_2026_09_07_20_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738711/ChatGPT_Image_Jul_28_2026_09_07_20_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00305/v1785738711/ChatGPT_Image_Jul_28_2026_09_07_20_PM.png",
+    "slug": "breakfast-terrace-above-alpine-lake",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_07_20_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/breakfast-terrace-above-alpine-lake.html",
+    "createdAt": "2026-08-03T06:31:51Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-lagoon-at-purple-sunset-306",
+    "title": "Tropical Lagoon at Purple Sunset",
+    "description": "Download Tropical Lagoon at Purple Sunset, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2432135,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "tropical",
+      "lagoon",
+      "purple",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738704/ChatGPT_Image_Jul_28_2026_09_07_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738704/ChatGPT_Image_Jul_28_2026_09_07_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738704/ChatGPT_Image_Jul_28_2026_09_07_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00306/v1785738704/ChatGPT_Image_Jul_28_2026_09_07_24_PM.png",
+    "slug": "tropical-lagoon-at-purple-sunset",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_07_24_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/tropical-lagoon-at-purple-sunset.html",
+    "createdAt": "2026-08-03T06:31:44Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-pavilion-beneath-mount-fuji-307",
+    "title": "Cherry Blossom Pavilion Beneath Mount Fuji",
+    "description": "Download Cherry Blossom Pavilion Beneath Mount Fuji, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-s.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2802727,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "cherry",
+      "blossom",
+      "pavilion",
+      "mount",
+      "fuji"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738706/ChatGPT_Image_Jul_28_2026_09_07_30_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738706/ChatGPT_Image_Jul_28_2026_09_07_30_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738706/ChatGPT_Image_Jul_28_2026_09_07_30_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00307/v1785738706/ChatGPT_Image_Jul_28_2026_09_07_30_PM.png",
+    "slug": "cherry-blossom-pavilion-beneath-mount-fuji",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_07_30_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/cherry-blossom-pavilion-beneath-mount-fuji.html",
+    "createdAt": "2026-08-03T06:31:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lantern-lit-european-alley-308",
+    "title": "Lantern Lit European Alley",
+    "description": "Download Lantern Lit European Alley, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3021525,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "lantern",
+      "lit",
+      "european",
+      "alley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738691/ChatGPT_Image_Jul_28_2026_09_07_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738691/ChatGPT_Image_Jul_28_2026_09_07_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738691/ChatGPT_Image_Jul_28_2026_09_07_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00308/v1785738691/ChatGPT_Image_Jul_28_2026_09_07_34_PM.png",
+    "slug": "lantern-lit-european-alley",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_07_34_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/lantern-lit-european-alley.html",
+    "createdAt": "2026-08-03T06:31:31Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunlit-tropical-botanical-conservatory-309",
+    "title": "Sunlit Tropical Botanical Conservatory",
+    "description": "Download Sunlit Tropical Botanical Conservatory, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-scree.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3404170,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "sunlit",
+      "tropical",
+      "botanical",
+      "conservatory"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00309/v1785738705/ChatGPT_Image_Jul_28_2026_09_07_41_PM.png",
+    "slug": "sunlit-tropical-botanical-conservatory",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_07_41_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/sunlit-tropical-botanical-conservatory.html",
+    "createdAt": "2026-08-03T06:31:45Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-bluebell-mountain-meadow-310",
+    "title": "Moonlit Bluebell Mountain Meadow",
+    "description": "Download Moonlit Bluebell Mountain Meadow, 1672x941 aesthetic desktop wallpaper featuring atmospheric color, elegant detail, and a cinematic wide-screen mood.",
+    "category": "Aesthetic",
+    "categories": [
+      "Aesthetic"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2434589,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "aesthetic wallpaper",
+      "cinematic wallpaper",
+      "moody wallpaper",
+      "moonlit",
+      "bluebell",
+      "mountain",
+      "meadow"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785738701/ChatGPT_Image_Jul_28_2026_09_07_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785738701/ChatGPT_Image_Jul_28_2026_09_07_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785738701/ChatGPT_Image_Jul_28_2026_09_07_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00310/v1785738701/ChatGPT_Image_Jul_28_2026_09_07_45_PM.png",
+    "slug": "moonlit-bluebell-mountain-meadow",
+    "publicId": "ChatGPT_Image_Jul_28_2026_09_07_45_PM",
+    "pageUrl": "wallpapers/desktop/aesthetic/moonlit-bluebell-mountain-meadow.html",
+    "createdAt": "2026-08-03T06:31:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wisteria-temple-stairway-at-sunrise-311",
+    "title": "Wisteria Temple Stairway at Sunrise",
+    "description": "Download Wisteria Temple Stairway at Sunrise, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3102968,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "wisteria",
+      "temple",
+      "stairway",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074948/ChatGPT_Image_Jul_25_2026_11_52_29_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074948/ChatGPT_Image_Jul_25_2026_11_52_29_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074948/ChatGPT_Image_Jul_25_2026_11_52_29_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00311/v1785074948/ChatGPT_Image_Jul_25_2026_11_52_29_AM.png",
+    "slug": "wisteria-temple-stairway-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_29_AM",
+    "pageUrl": "wallpapers/desktop/anime/wisteria-temple-stairway-at-sunrise.html",
+    "createdAt": "2026-07-26T14:09:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cosmic-torii-gate-between-galaxies-312",
+    "title": "Cosmic Torii Gate Between Galaxies",
+    "description": "Download Cosmic Torii Gate Between Galaxies, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3078991,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cosmic",
+      "torii",
+      "gate",
+      "galaxies"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074928/ChatGPT_Image_Jul_25_2026_11_52_32_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074928/ChatGPT_Image_Jul_25_2026_11_52_32_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074928/ChatGPT_Image_Jul_25_2026_11_52_32_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00312/v1785074928/ChatGPT_Image_Jul_25_2026_11_52_32_AM.png",
+    "slug": "cosmic-torii-gate-between-galaxies",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_32_AM",
+    "pageUrl": "wallpapers/desktop/anime/cosmic-torii-gate-between-galaxies.html",
+    "createdAt": "2026-07-26T14:08:48Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wisteria-crystal-garden-palace-313",
+    "title": "Wisteria Crystal Garden Palace",
+    "description": "Download Wisteria Crystal Garden Palace, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compos.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3452526,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "wisteria",
+      "crystal",
+      "garden",
+      "palace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074926/ChatGPT_Image_Jul_25_2026_11_52_34_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074926/ChatGPT_Image_Jul_25_2026_11_52_34_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074926/ChatGPT_Image_Jul_25_2026_11_52_34_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00313/v1785074926/ChatGPT_Image_Jul_25_2026_11_52_34_AM.png",
+    "slug": "wisteria-crystal-garden-palace",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_34_AM",
+    "pageUrl": "wallpapers/desktop/anime/wisteria-crystal-garden-palace.html",
+    "createdAt": "2026-07-26T14:08:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cliffside-monastery-at-ocean-sunset-314",
+    "title": "Cliffside Monastery at Ocean Sunset",
+    "description": "Download Cliffside Monastery at Ocean Sunset, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2918982,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cliffside",
+      "monastery",
+      "ocean",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074927/ChatGPT_Image_Jul_25_2026_11_52_37_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074927/ChatGPT_Image_Jul_25_2026_11_52_37_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074927/ChatGPT_Image_Jul_25_2026_11_52_37_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00314/v1785074927/ChatGPT_Image_Jul_25_2026_11_52_37_AM.png",
+    "slug": "cliffside-monastery-at-ocean-sunset",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_37_AM",
+    "pageUrl": "wallpapers/desktop/anime/cliffside-monastery-at-ocean-sunset.html",
+    "createdAt": "2026-07-26T14:08:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-stained-glass-celestial-library-315",
+    "title": "Stained Glass Celestial Library",
+    "description": "Download Stained Glass Celestial Library, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3283539,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "stained",
+      "glass",
+      "celestial",
+      "library"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074943/ChatGPT_Image_Jul_25_2026_11_52_41_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074943/ChatGPT_Image_Jul_25_2026_11_52_41_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074943/ChatGPT_Image_Jul_25_2026_11_52_41_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00315/v1785074943/ChatGPT_Image_Jul_25_2026_11_52_41_AM.png",
+    "slug": "stained-glass-celestial-library",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_41_AM",
+    "pageUrl": "wallpapers/desktop/anime/stained-glass-celestial-library.html",
+    "createdAt": "2026-07-26T14:09:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moon-palace-under-cherry-blossoms-316",
+    "title": "Moon Palace Under Cherry Blossoms",
+    "description": "Download Moon Palace Under Cherry Blossoms, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape com.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3249975,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moon",
+      "palace",
+      "cherry",
+      "blossoms"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074942/ChatGPT_Image_Jul_25_2026_11_52_44_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074942/ChatGPT_Image_Jul_25_2026_11_52_44_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074942/ChatGPT_Image_Jul_25_2026_11_52_44_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00316/v1785074942/ChatGPT_Image_Jul_25_2026_11_52_44_AM.png",
+    "slug": "moon-palace-under-cherry-blossoms",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_44_AM",
+    "pageUrl": "wallpapers/desktop/anime/moon-palace-under-cherry-blossoms.html",
+    "createdAt": "2026-07-26T14:09:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-canal-at-twilight-317",
+    "title": "Cherry Blossom Canal at Twilight",
+    "description": "Download Cherry Blossom Canal at Twilight, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3186803,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cherry",
+      "blossom",
+      "canal",
+      "twilight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075317/ChatGPT_Image_Jul_25_2026_11_52_46_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075317/ChatGPT_Image_Jul_25_2026_11_52_46_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075317/ChatGPT_Image_Jul_25_2026_11_52_46_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00317/v1785075317/ChatGPT_Image_Jul_25_2026_11_52_46_AM.png",
+    "slug": "cherry-blossom-canal-at-twilight",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_46_AM",
+    "pageUrl": "wallpapers/desktop/anime/cherry-blossom-canal-at-twilight.html",
+    "createdAt": "2026-07-26T14:15:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-samurai-walking-through-autumn-village-318",
+    "title": "Samurai Walking Through Autumn Village",
+    "description": "Download Samurai Walking Through Autumn Village, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscap.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2988968,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "samurai",
+      "walking",
+      "autumn",
+      "village"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075314/ChatGPT_Image_Jul_25_2026_11_52_49_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075314/ChatGPT_Image_Jul_25_2026_11_52_49_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075314/ChatGPT_Image_Jul_25_2026_11_52_49_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00318/v1785075314/ChatGPT_Image_Jul_25_2026_11_52_49_AM.png",
+    "slug": "samurai-walking-through-autumn-village",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_49_AM",
+    "pageUrl": "wallpapers/desktop/anime/samurai-walking-through-autumn-village.html",
+    "createdAt": "2026-07-26T14:15:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crystal-sky-kingdom-above-waterfalls-319",
+    "title": "Crystal Sky Kingdom Above Waterfalls",
+    "description": "Download Crystal Sky Kingdom Above Waterfalls, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3073486,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "crystal",
+      "sky",
+      "kingdom",
+      "waterfalls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075324/ChatGPT_Image_Jul_25_2026_11_52_51_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075324/ChatGPT_Image_Jul_25_2026_11_52_51_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075324/ChatGPT_Image_Jul_25_2026_11_52_51_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00319/v1785075324/ChatGPT_Image_Jul_25_2026_11_52_51_AM.png",
+    "slug": "crystal-sky-kingdom-above-waterfalls",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_51_AM",
+    "pageUrl": "wallpapers/desktop/anime/crystal-sky-kingdom-above-waterfalls.html",
+    "createdAt": "2026-07-26T14:15:24Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-swan-palace-garden-320",
+    "title": "Moonlit Swan Palace Garden",
+    "description": "Download Moonlit Swan Palace Garden, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3550218,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "swan",
+      "palace",
+      "garden"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075318/ChatGPT_Image_Jul_25_2026_11_52_54_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075318/ChatGPT_Image_Jul_25_2026_11_52_54_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075318/ChatGPT_Image_Jul_25_2026_11_52_54_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00320/v1785075318/ChatGPT_Image_Jul_25_2026_11_52_54_AM.png",
+    "slug": "moonlit-swan-palace-garden",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_54_AM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-swan-palace-garden.html",
+    "createdAt": "2026-07-26T14:15:18Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lantern-festival-over-anime-city-321",
+    "title": "Lantern Festival Over Anime City",
+    "description": "Download Lantern Festival Over Anime City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3247233,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "lantern",
+      "festival",
+      "anime",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075322/ChatGPT_Image_Jul_25_2026_11_52_57_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075322/ChatGPT_Image_Jul_25_2026_11_52_57_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075322/ChatGPT_Image_Jul_25_2026_11_52_57_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00321/v1785075322/ChatGPT_Image_Jul_25_2026_11_52_57_AM.png",
+    "slug": "lantern-festival-over-anime-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_52_57_AM",
+    "pageUrl": "wallpapers/desktop/anime/lantern-festival-over-anime-city.html",
+    "createdAt": "2026-07-26T14:15:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-forest-train-through-waterfall-valley-322",
+    "title": "Forest Train Through Waterfall Valley",
+    "description": "Download Forest Train Through Waterfall Valley, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3393946,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "forest",
+      "train",
+      "waterfall",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075302/ChatGPT_Image_Jul_25_2026_11_53_00_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075302/ChatGPT_Image_Jul_25_2026_11_53_00_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075302/ChatGPT_Image_Jul_25_2026_11_53_00_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00322/v1785075302/ChatGPT_Image_Jul_25_2026_11_53_00_AM.png",
+    "slug": "forest-train-through-waterfall-valley",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_00_AM",
+    "pageUrl": "wallpapers/desktop/anime/forest-train-through-waterfall-valley.html",
+    "createdAt": "2026-07-26T14:15:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sakura-galaxy-garden-above-waterfalls-323",
+    "title": "Sakura Galaxy Garden Above Waterfalls",
+    "description": "Download Sakura Galaxy Garden Above Waterfalls, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3467714,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "sakura",
+      "galaxy",
+      "garden",
+      "waterfalls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075331/ChatGPT_Image_Jul_25_2026_11_53_26_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075331/ChatGPT_Image_Jul_25_2026_11_53_26_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075331/ChatGPT_Image_Jul_25_2026_11_53_26_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00323/v1785075331/ChatGPT_Image_Jul_25_2026_11_53_26_AM.png",
+    "slug": "sakura-galaxy-garden-above-waterfalls",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_26_AM",
+    "pageUrl": "wallpapers/desktop/anime/sakura-galaxy-garden-above-waterfalls.html",
+    "createdAt": "2026-07-26T14:15:31Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-shrine-with-spirit-fox-324",
+    "title": "Aurora Shrine with Spirit Fox",
+    "description": "Download Aurora Shrine with Spirit Fox, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composi.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3230884,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "aurora",
+      "shrine",
+      "spirit",
+      "fox"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075297/ChatGPT_Image_Jul_25_2026_11_53_28_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075297/ChatGPT_Image_Jul_25_2026_11_53_28_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075297/ChatGPT_Image_Jul_25_2026_11_53_28_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00324/v1785075297/ChatGPT_Image_Jul_25_2026_11_53_28_AM.png",
+    "slug": "aurora-shrine-with-spirit-fox",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_28_AM",
+    "pageUrl": "wallpapers/desktop/anime/aurora-shrine-with-spirit-fox.html",
+    "createdAt": "2026-07-26T14:14:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-waterfall-kingdom-in-spring-325",
+    "title": "Waterfall Kingdom in Spring",
+    "description": "Download Waterfall Kingdom in Spring, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3047006,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "waterfall",
+      "kingdom",
+      "spring"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075287/ChatGPT_Image_Jul_25_2026_11_53_31_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075287/ChatGPT_Image_Jul_25_2026_11_53_31_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075287/ChatGPT_Image_Jul_25_2026_11_53_31_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00325/v1785075287/ChatGPT_Image_Jul_25_2026_11_53_31_AM.png",
+    "slug": "waterfall-kingdom-in-spring",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_31_AM",
+    "pageUrl": "wallpapers/desktop/anime/waterfall-kingdom-in-spring.html",
+    "createdAt": "2026-07-26T14:14:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cyclist-in-sunflower-fields-at-sunset-326",
+    "title": "Cyclist in Sunflower Fields at Sunset",
+    "description": "Download Cyclist in Sunflower Fields at Sunset, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2719716,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cyclist",
+      "sunflower",
+      "fields",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075290/ChatGPT_Image_Jul_25_2026_11_53_35_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075290/ChatGPT_Image_Jul_25_2026_11_53_35_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075290/ChatGPT_Image_Jul_25_2026_11_53_35_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00326/v1785075290/ChatGPT_Image_Jul_25_2026_11_53_35_AM.png",
+    "slug": "cyclist-in-sunflower-fields-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_35_AM",
+    "pageUrl": "wallpapers/desktop/anime/cyclist-in-sunflower-fields-at-sunset.html",
+    "createdAt": "2026-07-26T14:14:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blue-crystal-cavern-city-327",
+    "title": "Blue Crystal Cavern City",
+    "description": "Download Blue Crystal Cavern City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3027753,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "blue",
+      "crystal",
+      "cavern",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075313/ChatGPT_Image_Jul_25_2026_11_53_39_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075313/ChatGPT_Image_Jul_25_2026_11_53_39_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075313/ChatGPT_Image_Jul_25_2026_11_53_39_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00327/v1785075313/ChatGPT_Image_Jul_25_2026_11_53_39_AM.png",
+    "slug": "blue-crystal-cavern-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_39_AM",
+    "pageUrl": "wallpapers/desktop/anime/blue-crystal-cavern-city.html",
+    "createdAt": "2026-07-26T14:15:13Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-astronaut-watching-earthrise-and-milky-way-328",
+    "title": "Astronaut Watching Earthrise and Milky Way",
+    "description": "Download Astronaut Watching Earthrise and Milky Way, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic land.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2847389,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "astronaut",
+      "watching",
+      "earthrise",
+      "milky",
+      "way"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_48_AM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_48_AM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_48_AM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00328/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_48_AM_1.png",
+    "slug": "astronaut-watching-earthrise-and-milky-way",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_48_AM_1",
+    "pageUrl": "wallpapers/desktop/anime/astronaut-watching-earthrise-and-milky-way.html",
+    "createdAt": "2026-07-26T14:14:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-astronaut-resting-above-earth-329",
+    "title": "Astronaut Resting Above Earth",
+    "description": "Download Astronaut Resting Above Earth, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composi.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2810256,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "astronaut",
+      "resting",
+      "earth"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_49_AM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_49_AM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_49_AM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00329/v1785075272/ChatGPT_Image_Jul_25_2026_11_53_49_AM_2.png",
+    "slug": "astronaut-resting-above-earth",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_53_49_AM_2",
+    "pageUrl": "wallpapers/desktop/anime/astronaut-resting-above-earth.html",
+    "createdAt": "2026-07-26T14:14:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-lantern-festival-city-330",
+    "title": "Floating Lantern Festival City",
+    "description": "Download Floating Lantern Festival City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compos.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3022481,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "floating",
+      "lantern",
+      "festival",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075278/ChatGPT_Image_Jul_25_2026_11_54_12_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075278/ChatGPT_Image_Jul_25_2026_11_54_12_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075278/ChatGPT_Image_Jul_25_2026_11_54_12_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00330/v1785075278/ChatGPT_Image_Jul_25_2026_11_54_12_AM.png",
+    "slug": "floating-lantern-festival-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_54_12_AM",
+    "pageUrl": "wallpapers/desktop/anime/floating-lantern-festival-city.html",
+    "createdAt": "2026-07-26T14:14:38Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-anime-astronomer-on-celestial-balcony-331",
+    "title": "Anime Astronomer on Celestial Balcony",
+    "description": "Download Anime Astronomer on Celestial Balcony, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3023111,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "anime",
+      "astronomer",
+      "celestial",
+      "balcony"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075279/ChatGPT_Image_Jul_25_2026_11_54_41_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075279/ChatGPT_Image_Jul_25_2026_11_54_41_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075279/ChatGPT_Image_Jul_25_2026_11_54_41_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00331/v1785075279/ChatGPT_Image_Jul_25_2026_11_54_41_AM.png",
+    "slug": "anime-astronomer-on-celestial-balcony",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_54_41_AM",
+    "pageUrl": "wallpapers/desktop/anime/anime-astronomer-on-celestial-balcony.html",
+    "createdAt": "2026-07-26T14:14:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-canal-village-at-dusk-332",
+    "title": "Cherry Blossom Canal Village at Dusk",
+    "description": "Download Cherry Blossom Canal Village at Dusk, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3242919,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cherry",
+      "blossom",
+      "canal",
+      "village",
+      "dusk"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075272/ChatGPT_Image_Jul_25_2026_11_54_45_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075272/ChatGPT_Image_Jul_25_2026_11_54_45_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075272/ChatGPT_Image_Jul_25_2026_11_54_45_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00332/v1785075272/ChatGPT_Image_Jul_25_2026_11_54_45_AM.png",
+    "slug": "cherry-blossom-canal-village-at-dusk",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_54_45_AM",
+    "pageUrl": "wallpapers/desktop/anime/cherry-blossom-canal-village-at-dusk.html",
+    "createdAt": "2026-07-26T14:14:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-boy-riding-blue-whale-above-clouds-333",
+    "title": "Boy Riding Blue Whale Above Clouds",
+    "description": "Download Boy Riding Blue Whale Above Clouds, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2573152,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "boy",
+      "riding",
+      "blue",
+      "whale",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075287/ChatGPT_Image_Jul_25_2026_11_54_49_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075287/ChatGPT_Image_Jul_25_2026_11_54_49_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075287/ChatGPT_Image_Jul_25_2026_11_54_49_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00333/v1785075287/ChatGPT_Image_Jul_25_2026_11_54_49_AM.png",
+    "slug": "boy-riding-blue-whale-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_54_49_AM",
+    "pageUrl": "wallpapers/desktop/anime/boy-riding-blue-whale-above-clouds.html",
+    "createdAt": "2026-07-26T14:14:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cyberpunk-samurai-in-neon-rain-334",
+    "title": "Cyberpunk Samurai in Neon Rain",
+    "description": "Download Cyberpunk Samurai in Neon Rain, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compos.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2636620,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cyberpunk",
+      "samurai",
+      "neon",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075255/ChatGPT_Image_Jul_25_2026_11_54_51_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075255/ChatGPT_Image_Jul_25_2026_11_54_51_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075255/ChatGPT_Image_Jul_25_2026_11_54_51_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00334/v1785075255/ChatGPT_Image_Jul_25_2026_11_54_51_AM.png",
+    "slug": "cyberpunk-samurai-in-neon-rain",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_54_51_AM",
+    "pageUrl": "wallpapers/desktop/anime/cyberpunk-samurai-in-neon-rain.html",
+    "createdAt": "2026-07-26T14:14:15Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-waterfall-palace-with-swans-335",
+    "title": "White Waterfall Palace with Swans",
+    "description": "Download White Waterfall Palace with Swans, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape com.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3085128,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "white",
+      "waterfall",
+      "palace",
+      "swans"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075246/ChatGPT_Image_Jul_25_2026_11_55_52_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075246/ChatGPT_Image_Jul_25_2026_11_55_52_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075246/ChatGPT_Image_Jul_25_2026_11_55_52_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00335/v1785075246/ChatGPT_Image_Jul_25_2026_11_55_52_AM.png",
+    "slug": "white-waterfall-palace-with-swans",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_55_52_AM",
+    "pageUrl": "wallpapers/desktop/anime/white-waterfall-palace-with-swans.html",
+    "createdAt": "2026-07-26T14:14:06Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crystal-castle-between-autumn-mountains-336",
+    "title": "Crystal Castle Between Autumn Mountains",
+    "description": "Download Crystal Castle Between Autumn Mountains, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landsca.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3426627,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "crystal",
+      "castle",
+      "autumn",
+      "mountains"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075255/ChatGPT_Image_Jul_25_2026_11_56_04_AM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075255/ChatGPT_Image_Jul_25_2026_11_56_04_AM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075255/ChatGPT_Image_Jul_25_2026_11_56_04_AM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00336/v1785075255/ChatGPT_Image_Jul_25_2026_11_56_04_AM_1.png",
+    "slug": "crystal-castle-between-autumn-mountains",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_04_AM_1",
+    "pageUrl": "wallpapers/desktop/anime/crystal-castle-between-autumn-mountains.html",
+    "createdAt": "2026-07-26T14:14:15Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crystal-tower-above-sakura-valley-337",
+    "title": "Crystal Tower Above Sakura Valley",
+    "description": "Download Crystal Tower Above Sakura Valley, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape com.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3318003,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "crystal",
+      "tower",
+      "sakura",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075254/ChatGPT_Image_Jul_25_2026_11_56_06_AM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075254/ChatGPT_Image_Jul_25_2026_11_56_06_AM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075254/ChatGPT_Image_Jul_25_2026_11_56_06_AM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00337/v1785075254/ChatGPT_Image_Jul_25_2026_11_56_06_AM_2.png",
+    "slug": "crystal-tower-above-sakura-valley",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_06_AM_2",
+    "pageUrl": "wallpapers/desktop/anime/crystal-tower-above-sakura-valley.html",
+    "createdAt": "2026-07-26T14:14:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-dragon-castle-under-crescent-moon-338",
+    "title": "Dragon Castle Under Crescent Moon",
+    "description": "Download Dragon Castle Under Crescent Moon, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape com.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2706782,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "dragon",
+      "castle",
+      "crescent",
+      "moon"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075240/ChatGPT_Image_Jul_25_2026_11_56_08_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075240/ChatGPT_Image_Jul_25_2026_11_56_08_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075240/ChatGPT_Image_Jul_25_2026_11_56_08_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00338/v1785075240/ChatGPT_Image_Jul_25_2026_11_56_08_AM.png",
+    "slug": "dragon-castle-under-crescent-moon",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_08_AM",
+    "pageUrl": "wallpapers/desktop/anime/dragon-castle-under-crescent-moon.html",
+    "createdAt": "2026-07-26T14:14:00Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-underwater-palace-with-manta-rays-339",
+    "title": "Underwater Palace with Manta Rays",
+    "description": "Download Underwater Palace with Manta Rays, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape com.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3054477,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "underwater",
+      "palace",
+      "manta",
+      "rays"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075237/ChatGPT_Image_Jul_25_2026_11_56_11_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075237/ChatGPT_Image_Jul_25_2026_11_56_11_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075237/ChatGPT_Image_Jul_25_2026_11_56_11_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00339/v1785075237/ChatGPT_Image_Jul_25_2026_11_56_11_AM.png",
+    "slug": "underwater-palace-with-manta-rays",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_11_AM",
+    "pageUrl": "wallpapers/desktop/anime/underwater-palace-with-manta-rays.html",
+    "createdAt": "2026-07-26T14:13:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-alpine-wildflower-path-and-windmill-340",
+    "title": "Alpine Wildflower Path and Windmill",
+    "description": "Download Alpine Wildflower Path and Windmill, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3241012,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "alpine",
+      "wildflower",
+      "path",
+      "windmill"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075227/ChatGPT_Image_Jul_25_2026_11_56_48_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075227/ChatGPT_Image_Jul_25_2026_11_56_48_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075227/ChatGPT_Image_Jul_25_2026_11_56_48_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00340/v1785075227/ChatGPT_Image_Jul_25_2026_11_56_48_AM.png",
+    "slug": "alpine-wildflower-path-and-windmill",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_48_AM",
+    "pageUrl": "wallpapers/desktop/anime/alpine-wildflower-path-and-windmill.html",
+    "createdAt": "2026-07-26T14:13:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hidden-forest-shrine-by-waterfalls-341",
+    "title": "Hidden Forest Shrine by Waterfalls",
+    "description": "Download Hidden Forest Shrine by Waterfalls, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2970881,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "hidden",
+      "forest",
+      "shrine",
+      "waterfalls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075225/ChatGPT_Image_Jul_25_2026_11_56_51_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075225/ChatGPT_Image_Jul_25_2026_11_56_51_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075225/ChatGPT_Image_Jul_25_2026_11_56_51_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00341/v1785075225/ChatGPT_Image_Jul_25_2026_11_56_51_AM.png",
+    "slug": "hidden-forest-shrine-by-waterfalls",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_51_AM",
+    "pageUrl": "wallpapers/desktop/anime/hidden-forest-shrine-by-waterfalls.html",
+    "createdAt": "2026-07-26T14:13:45Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sakura-river-town-at-sunrise-342",
+    "title": "Sakura River Town at Sunrise",
+    "description": "Download Sakura River Town at Sunrise, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3314432,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "sakura",
+      "river",
+      "town",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075221/ChatGPT_Image_Jul_25_2026_11_56_54_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075221/ChatGPT_Image_Jul_25_2026_11_56_54_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075221/ChatGPT_Image_Jul_25_2026_11_56_54_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00342/v1785075221/ChatGPT_Image_Jul_25_2026_11_56_54_AM.png",
+    "slug": "sakura-river-town-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_54_AM",
+    "pageUrl": "wallpapers/desktop/anime/sakura-river-town-at-sunrise.html",
+    "createdAt": "2026-07-26T14:13:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-sky-palace-with-flying-whales-343",
+    "title": "White Sky Palace with Flying Whales",
+    "description": "Download White Sky Palace with Flying Whales, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3149319,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "white",
+      "sky",
+      "palace",
+      "flying",
+      "whales"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075253/ChatGPT_Image_Jul_25_2026_11_56_58_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075253/ChatGPT_Image_Jul_25_2026_11_56_58_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075253/ChatGPT_Image_Jul_25_2026_11_56_58_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00343/v1785075253/ChatGPT_Image_Jul_25_2026_11_56_58_AM.png",
+    "slug": "white-sky-palace-with-flying-whales",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_56_58_AM",
+    "pageUrl": "wallpapers/desktop/anime/white-sky-palace-with-flying-whales.html",
+    "createdAt": "2026-07-26T14:14:13Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-girl-standing-in-galaxy-lotus-lake-344",
+    "title": "Girl Standing in Galaxy Lotus Lake",
+    "description": "Download Girl Standing in Galaxy Lotus Lake, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3252004,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "girl",
+      "standing",
+      "galaxy",
+      "lotus",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075213/ChatGPT_Image_Jul_25_2026_11_57_02_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075213/ChatGPT_Image_Jul_25_2026_11_57_02_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075213/ChatGPT_Image_Jul_25_2026_11_57_02_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00344/v1785075213/ChatGPT_Image_Jul_25_2026_11_57_02_AM.png",
+    "slug": "girl-standing-in-galaxy-lotus-lake",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_02_AM",
+    "pageUrl": "wallpapers/desktop/anime/girl-standing-in-galaxy-lotus-lake.html",
+    "createdAt": "2026-07-26T14:13:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-tree-kingdom-above-waterfalls-345",
+    "title": "White Tree Kingdom Above Waterfalls",
+    "description": "Download White Tree Kingdom Above Waterfalls, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3288060,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "white",
+      "tree",
+      "kingdom",
+      "waterfalls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075208/ChatGPT_Image_Jul_25_2026_11_57_05_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075208/ChatGPT_Image_Jul_25_2026_11_57_05_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075208/ChatGPT_Image_Jul_25_2026_11_57_05_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00345/v1785075208/ChatGPT_Image_Jul_25_2026_11_57_05_AM.png",
+    "slug": "white-tree-kingdom-above-waterfalls",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_05_AM",
+    "pageUrl": "wallpapers/desktop/anime/white-tree-kingdom-above-waterfalls.html",
+    "createdAt": "2026-07-26T14:13:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-traveler-in-golden-bamboo-forest-346",
+    "title": "Traveler in Golden Bamboo Forest",
+    "description": "Download Traveler in Golden Bamboo Forest, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2795863,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "traveler",
+      "golden",
+      "bamboo",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075228/ChatGPT_Image_Jul_25_2026_11_57_09_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075228/ChatGPT_Image_Jul_25_2026_11_57_09_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075228/ChatGPT_Image_Jul_25_2026_11_57_09_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00346/v1785075228/ChatGPT_Image_Jul_25_2026_11_57_09_AM.png",
+    "slug": "traveler-in-golden-bamboo-forest",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_09_AM",
+    "pageUrl": "wallpapers/desktop/anime/traveler-in-golden-bamboo-forest.html",
+    "createdAt": "2026-07-26T14:13:48Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-ice-princess-kingdom-347",
+    "title": "Moonlit Ice Princess Kingdom",
+    "description": "Download Moonlit Ice Princess Kingdom, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3229273,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "ice",
+      "princess",
+      "kingdom"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075204/ChatGPT_Image_Jul_25_2026_11_57_13_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075204/ChatGPT_Image_Jul_25_2026_11_57_13_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075204/ChatGPT_Image_Jul_25_2026_11_57_13_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00347/v1785075204/ChatGPT_Image_Jul_25_2026_11_57_13_AM.png",
+    "slug": "moonlit-ice-princess-kingdom",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_13_AM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-ice-princess-kingdom.html",
+    "createdAt": "2026-07-26T14:13:24Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-warrior-facing-burning-dragon-citadel-348",
+    "title": "Warrior Facing Burning Dragon Citadel",
+    "description": "Download Warrior Facing Burning Dragon Citadel, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2764354,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "warrior",
+      "facing",
+      "burning",
+      "dragon",
+      "citadel"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075193/ChatGPT_Image_Jul_25_2026_11_57_16_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075193/ChatGPT_Image_Jul_25_2026_11_57_16_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075193/ChatGPT_Image_Jul_25_2026_11_57_16_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00348/v1785075193/ChatGPT_Image_Jul_25_2026_11_57_16_AM.png",
+    "slug": "warrior-facing-burning-dragon-citadel",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_16_AM",
+    "pageUrl": "wallpapers/desktop/anime/warrior-facing-burning-dragon-citadel.html",
+    "createdAt": "2026-07-26T14:13:13Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cosmic-library-of-floating-books-349",
+    "title": "Cosmic Library of Floating Books",
+    "description": "Download Cosmic Library of Floating Books, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3223075,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cosmic",
+      "library",
+      "floating",
+      "books"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075197/ChatGPT_Image_Jul_25_2026_11_57_19_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075197/ChatGPT_Image_Jul_25_2026_11_57_19_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075197/ChatGPT_Image_Jul_25_2026_11_57_19_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00349/v1785075197/ChatGPT_Image_Jul_25_2026_11_57_19_AM.png",
+    "slug": "cosmic-library-of-floating-books",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_19_AM",
+    "pageUrl": "wallpapers/desktop/anime/cosmic-library-of-floating-books.html",
+    "createdAt": "2026-07-26T14:13:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lantern-kingdom-beneath-giant-planet-350",
+    "title": "Lantern Kingdom Beneath Giant Planet",
+    "description": "Download Lantern Kingdom Beneath Giant Planet, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2947240,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "lantern",
+      "kingdom",
+      "giant",
+      "planet"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075179/ChatGPT_Image_Jul_25_2026_11_57_22_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075179/ChatGPT_Image_Jul_25_2026_11_57_22_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075179/ChatGPT_Image_Jul_25_2026_11_57_22_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00350/v1785075179/ChatGPT_Image_Jul_25_2026_11_57_22_AM.png",
+    "slug": "lantern-kingdom-beneath-giant-planet",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_22_AM",
+    "pageUrl": "wallpapers/desktop/anime/lantern-kingdom-beneath-giant-planet.html",
+    "createdAt": "2026-07-26T14:12:59Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-neon-tokyo-skyline-at-twilight-351",
+    "title": "Neon Tokyo Skyline at Twilight",
+    "description": "Download Neon Tokyo Skyline at Twilight, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compos.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2923910,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "neon",
+      "tokyo",
+      "skyline",
+      "twilight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075186/ChatGPT_Image_Jul_25_2026_11_57_25_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075186/ChatGPT_Image_Jul_25_2026_11_57_25_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075186/ChatGPT_Image_Jul_25_2026_11_57_25_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00351/v1785075186/ChatGPT_Image_Jul_25_2026_11_57_25_AM.png",
+    "slug": "neon-tokyo-skyline-at-twilight",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_25_AM",
+    "pageUrl": "wallpapers/desktop/anime/neon-tokyo-skyline-at-twilight.html",
+    "createdAt": "2026-07-26T14:13:06Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-dragon-flying-over-sunset-sky-kingdom-352",
+    "title": "Dragon Flying Over Sunset Sky Kingdom",
+    "description": "Download Dragon Flying Over Sunset Sky Kingdom, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2920420,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "dragon",
+      "flying",
+      "sunset",
+      "sky",
+      "kingdom"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075199/ChatGPT_Image_Jul_25_2026_11_57_28_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075199/ChatGPT_Image_Jul_25_2026_11_57_28_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075199/ChatGPT_Image_Jul_25_2026_11_57_28_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00352/v1785075199/ChatGPT_Image_Jul_25_2026_11_57_28_AM.png",
+    "slug": "dragon-flying-over-sunset-sky-kingdom",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_28_AM",
+    "pageUrl": "wallpapers/desktop/anime/dragon-flying-over-sunset-sky-kingdom.html",
+    "createdAt": "2026-07-26T14:13:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-galaxy-train-across-the-stars-353",
+    "title": "Galaxy Train Across the Stars",
+    "description": "Download Galaxy Train Across the Stars, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composi.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3169985,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "galaxy",
+      "train",
+      "across",
+      "stars"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075176/ChatGPT_Image_Jul_25_2026_11_57_32_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075176/ChatGPT_Image_Jul_25_2026_11_57_32_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075176/ChatGPT_Image_Jul_25_2026_11_57_32_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00353/v1785075176/ChatGPT_Image_Jul_25_2026_11_57_32_AM.png",
+    "slug": "galaxy-train-across-the-stars",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_32_AM",
+    "pageUrl": "wallpapers/desktop/anime/galaxy-train-across-the-stars.html",
+    "createdAt": "2026-07-26T14:12:56Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-golden-palace-city-at-sunset-354",
+    "title": "Golden Palace City at Sunset",
+    "description": "Download Golden Palace City at Sunset, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2973029,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "golden",
+      "palace",
+      "city",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075173/ChatGPT_Image_Jul_25_2026_11_57_34_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075173/ChatGPT_Image_Jul_25_2026_11_57_34_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075173/ChatGPT_Image_Jul_25_2026_11_57_34_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00354/v1785075173/ChatGPT_Image_Jul_25_2026_11_57_34_AM.png",
+    "slug": "golden-palace-city-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_34_AM",
+    "pageUrl": "wallpapers/desktop/anime/golden-palace-city-at-sunset.html",
+    "createdAt": "2026-07-26T14:12:53Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-bamboo-river-village-in-morning-light-355",
+    "title": "Bamboo River Village in Morning Light",
+    "description": "Download Bamboo River Village in Morning Light, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3063092,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "bamboo",
+      "river",
+      "village",
+      "morning",
+      "light"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075240/ChatGPT_Image_Jul_25_2026_11_57_38_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075240/ChatGPT_Image_Jul_25_2026_11_57_38_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075240/ChatGPT_Image_Jul_25_2026_11_57_38_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00355/v1785075240/ChatGPT_Image_Jul_25_2026_11_57_38_AM.png",
+    "slug": "bamboo-river-village-in-morning-light",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_38_AM",
+    "pageUrl": "wallpapers/desktop/anime/bamboo-river-village-in-morning-light.html",
+    "createdAt": "2026-07-26T14:14:00Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-ice-palace-reflection-356",
+    "title": "Aurora Ice Palace Reflection",
+    "description": "Download Aurora Ice Palace Reflection, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2785629,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "aurora",
+      "ice",
+      "palace",
+      "reflection"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075163/ChatGPT_Image_Jul_25_2026_11_57_41_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075163/ChatGPT_Image_Jul_25_2026_11_57_41_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075163/ChatGPT_Image_Jul_25_2026_11_57_41_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00356/v1785075163/ChatGPT_Image_Jul_25_2026_11_57_41_AM.png",
+    "slug": "aurora-ice-palace-reflection",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_41_AM",
+    "pageUrl": "wallpapers/desktop/anime/aurora-ice-palace-reflection.html",
+    "createdAt": "2026-07-26T14:12:43Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-mountain-shrine-under-aurora-357",
+    "title": "Snowy Mountain Shrine Under Aurora",
+    "description": "Download Snowy Mountain Shrine Under Aurora, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2893834,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "snowy",
+      "mountain",
+      "shrine",
+      "aurora"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075160/ChatGPT_Image_Jul_25_2026_11_57_55_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075160/ChatGPT_Image_Jul_25_2026_11_57_55_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075160/ChatGPT_Image_Jul_25_2026_11_57_55_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00357/v1785075160/ChatGPT_Image_Jul_25_2026_11_57_55_AM.png",
+    "slug": "snowy-mountain-shrine-under-aurora",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_55_AM",
+    "pageUrl": "wallpapers/desktop/anime/snowy-mountain-shrine-under-aurora.html",
+    "createdAt": "2026-07-26T14:12:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sakura-castle-above-sunrise-clouds-358",
+    "title": "Sakura Castle Above Sunrise Clouds",
+    "description": "Download Sakura Castle Above Sunrise Clouds, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2860772,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "sakura",
+      "castle",
+      "sunrise",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075156/ChatGPT_Image_Jul_25_2026_11_57_58_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075156/ChatGPT_Image_Jul_25_2026_11_57_58_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075156/ChatGPT_Image_Jul_25_2026_11_57_58_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00358/v1785075156/ChatGPT_Image_Jul_25_2026_11_57_58_AM.png",
+    "slug": "sakura-castle-above-sunrise-clouds",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_57_58_AM",
+    "pageUrl": "wallpapers/desktop/anime/sakura-castle-above-sunrise-clouds.html",
+    "createdAt": "2026-07-26T14:12:36Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blue-crystal-cathedral-hall-359",
+    "title": "Blue Crystal Cathedral Hall",
+    "description": "Download Blue Crystal Cathedral Hall, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3197025,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "blue",
+      "crystal",
+      "cathedral",
+      "hall"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075149/ChatGPT_Image_Jul_25_2026_11_59_46_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075149/ChatGPT_Image_Jul_25_2026_11_59_46_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075149/ChatGPT_Image_Jul_25_2026_11_59_46_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00359/v1785075149/ChatGPT_Image_Jul_25_2026_11_59_46_AM.png",
+    "slug": "blue-crystal-cathedral-hall",
+    "publicId": "ChatGPT_Image_Jul_25_2026_11_59_46_AM",
+    "pageUrl": "wallpapers/desktop/anime/blue-crystal-cathedral-hall.html",
+    "createdAt": "2026-07-26T14:12:29Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-girl-in-infinite-celestial-library-360",
+    "title": "Girl in Infinite Celestial Library",
+    "description": "Download Girl in Infinite Celestial Library, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3186044,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "girl",
+      "infinite",
+      "celestial",
+      "library"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075192/ChatGPT_Image_Jul_25_2026_12_00_38_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075192/ChatGPT_Image_Jul_25_2026_12_00_38_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075192/ChatGPT_Image_Jul_25_2026_12_00_38_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00360/v1785075192/ChatGPT_Image_Jul_25_2026_12_00_38_PM.png",
+    "slug": "girl-in-infinite-celestial-library",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_00_38_PM",
+    "pageUrl": "wallpapers/desktop/anime/girl-in-infinite-celestial-library.html",
+    "createdAt": "2026-07-26T14:13:12Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-space-train-through-orbiting-planets-361",
+    "title": "Space Train Through Orbiting Planets",
+    "description": "Download Space Train Through Orbiting Planets, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2784185,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "space",
+      "train",
+      "orbiting",
+      "planets"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075150/ChatGPT_Image_Jul_25_2026_12_00_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075150/ChatGPT_Image_Jul_25_2026_12_00_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075150/ChatGPT_Image_Jul_25_2026_12_00_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00361/v1785075150/ChatGPT_Image_Jul_25_2026_12_00_41_PM.png",
+    "slug": "space-train-through-orbiting-planets",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_00_41_PM",
+    "pageUrl": "wallpapers/desktop/anime/space-train-through-orbiting-planets.html",
+    "createdAt": "2026-07-26T14:12:30Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-girl-in-glowing-blue-forest-362",
+    "title": "Girl in Glowing Blue Forest",
+    "description": "Download Girl in Glowing Blue Forest, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3032441,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "girl",
+      "glowing",
+      "blue",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075161/ChatGPT_Image_Jul_25_2026_12_00_46_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075161/ChatGPT_Image_Jul_25_2026_12_00_46_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075161/ChatGPT_Image_Jul_25_2026_12_00_46_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00362/v1785075161/ChatGPT_Image_Jul_25_2026_12_00_46_PM.png",
+    "slug": "girl-in-glowing-blue-forest",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_00_46_PM",
+    "pageUrl": "wallpapers/desktop/anime/girl-in-glowing-blue-forest.html",
+    "createdAt": "2026-07-26T14:12:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hooded-figure-in-neon-anime-city-363",
+    "title": "Hooded Figure in Neon Anime City",
+    "description": "Download Hooded Figure in Neon Anime City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3020021,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "hooded",
+      "figure",
+      "neon",
+      "anime",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075147/ChatGPT_Image_Jul_25_2026_12_00_52_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075147/ChatGPT_Image_Jul_25_2026_12_00_52_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075147/ChatGPT_Image_Jul_25_2026_12_00_52_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00363/v1785075147/ChatGPT_Image_Jul_25_2026_12_00_52_PM.png",
+    "slug": "hooded-figure-in-neon-anime-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_00_52_PM",
+    "pageUrl": "wallpapers/desktop/anime/hooded-figure-in-neon-anime-city.html",
+    "createdAt": "2026-07-26T14:12:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-boy-overlooking-futuristic-tokyo-sunset-364",
+    "title": "Boy Overlooking Futuristic Tokyo Sunset",
+    "description": "Download Boy Overlooking Futuristic Tokyo Sunset, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landsca.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2874522,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "boy",
+      "overlooking",
+      "futuristic",
+      "tokyo",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075137/ChatGPT_Image_Jul_25_2026_12_01_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075137/ChatGPT_Image_Jul_25_2026_12_01_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075137/ChatGPT_Image_Jul_25_2026_12_01_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00364/v1785075137/ChatGPT_Image_Jul_25_2026_12_01_57_PM.png",
+    "slug": "boy-overlooking-futuristic-tokyo-sunset",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_01_57_PM",
+    "pageUrl": "wallpapers/desktop/anime/boy-overlooking-futuristic-tokyo-sunset.html",
+    "createdAt": "2026-07-26T14:12:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-airship-sailing-above-sunset-kingdom-365",
+    "title": "Airship Sailing Above Sunset Kingdom",
+    "description": "Download Airship Sailing Above Sunset Kingdom, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2764019,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "airship",
+      "sailing",
+      "sunset",
+      "kingdom"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075123/ChatGPT_Image_Jul_25_2026_12_02_00_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075123/ChatGPT_Image_Jul_25_2026_12_02_00_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075123/ChatGPT_Image_Jul_25_2026_12_02_00_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00365/v1785075123/ChatGPT_Image_Jul_25_2026_12_02_00_PM.png",
+    "slug": "airship-sailing-above-sunset-kingdom",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_00_PM",
+    "pageUrl": "wallpapers/desktop/anime/airship-sailing-above-sunset-kingdom.html",
+    "createdAt": "2026-07-26T14:12:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-temple-beside-mountain-lake-366",
+    "title": "Moonlit Temple Beside Mountain Lake",
+    "description": "Download Moonlit Temple Beside Mountain Lake, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2733424,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "temple",
+      "beside",
+      "mountain",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075127/ChatGPT_Image_Jul_25_2026_12_02_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075127/ChatGPT_Image_Jul_25_2026_12_02_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075127/ChatGPT_Image_Jul_25_2026_12_02_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00366/v1785075127/ChatGPT_Image_Jul_25_2026_12_02_02_PM.png",
+    "slug": "moonlit-temple-beside-mountain-lake",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_02_PM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-temple-beside-mountain-lake.html",
+    "createdAt": "2026-07-26T14:12:07Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-balloon-kingdom-floating-above-clouds-367",
+    "title": "Balloon Kingdom Floating Above Clouds",
+    "description": "Download Balloon Kingdom Floating Above Clouds, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2839166,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "balloon",
+      "kingdom",
+      "floating",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075135/ChatGPT_Image_Jul_25_2026_12_02_05_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075135/ChatGPT_Image_Jul_25_2026_12_02_05_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075135/ChatGPT_Image_Jul_25_2026_12_02_05_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00367/v1785075135/ChatGPT_Image_Jul_25_2026_12_02_05_PM.png",
+    "slug": "balloon-kingdom-floating-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_05_PM",
+    "pageUrl": "wallpapers/desktop/anime/balloon-kingdom-floating-above-clouds.html",
+    "createdAt": "2026-07-26T14:12:15Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-samurai-beneath-sunset-cherry-tree-368",
+    "title": "Samurai Beneath Sunset Cherry Tree",
+    "description": "Download Samurai Beneath Sunset Cherry Tree, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2739918,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "samurai",
+      "sunset",
+      "cherry",
+      "tree"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075116/ChatGPT_Image_Jul_25_2026_12_02_21_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075116/ChatGPT_Image_Jul_25_2026_12_02_21_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075116/ChatGPT_Image_Jul_25_2026_12_02_21_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00368/v1785075116/ChatGPT_Image_Jul_25_2026_12_02_21_PM.png",
+    "slug": "samurai-beneath-sunset-cherry-tree",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_21_PM",
+    "pageUrl": "wallpapers/desktop/anime/samurai-beneath-sunset-cherry-tree.html",
+    "createdAt": "2026-07-26T14:11:56Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-pagoda-kingdom-at-autumn-sunrise-369",
+    "title": "Pagoda Kingdom at Autumn Sunrise",
+    "description": "Download Pagoda Kingdom at Autumn Sunrise, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2802618,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "pagoda",
+      "kingdom",
+      "autumn",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075131/ChatGPT_Image_Jul_25_2026_12_02_31_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075131/ChatGPT_Image_Jul_25_2026_12_02_31_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075131/ChatGPT_Image_Jul_25_2026_12_02_31_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00369/v1785075131/ChatGPT_Image_Jul_25_2026_12_02_31_PM.png",
+    "slug": "pagoda-kingdom-at-autumn-sunrise",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_31_PM",
+    "pageUrl": "wallpapers/desktop/anime/pagoda-kingdom-at-autumn-sunrise.html",
+    "createdAt": "2026-07-26T14:12:11Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-airship-harbor-above-clouds-370",
+    "title": "Airship Harbor Above Clouds",
+    "description": "Download Airship Harbor Above Clouds, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2979838,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "airship",
+      "harbor",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075102/ChatGPT_Image_Jul_25_2026_12_02_35_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075102/ChatGPT_Image_Jul_25_2026_12_02_35_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075102/ChatGPT_Image_Jul_25_2026_12_02_35_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00370/v1785075102/ChatGPT_Image_Jul_25_2026_12_02_35_PM.png",
+    "slug": "airship-harbor-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_35_PM",
+    "pageUrl": "wallpapers/desktop/anime/airship-harbor-above-clouds.html",
+    "createdAt": "2026-07-26T14:11:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-crystal-rose-palace-371",
+    "title": "Moonlit Crystal Rose Palace",
+    "description": "Download Moonlit Crystal Rose Palace, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3299259,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "crystal",
+      "rose",
+      "palace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075111/ChatGPT_Image_Jul_25_2026_12_02_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075111/ChatGPT_Image_Jul_25_2026_12_02_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075111/ChatGPT_Image_Jul_25_2026_12_02_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00371/v1785075111/ChatGPT_Image_Jul_25_2026_12_02_39_PM.png",
+    "slug": "moonlit-crystal-rose-palace",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_39_PM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-crystal-rose-palace.html",
+    "createdAt": "2026-07-26T14:11:51Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-spirit-foxes-in-waterfall-forest-372",
+    "title": "Spirit Foxes in Waterfall Forest",
+    "description": "Download Spirit Foxes in Waterfall Forest, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3255411,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "spirit",
+      "foxes",
+      "waterfall",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075107/ChatGPT_Image_Jul_25_2026_12_02_44_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075107/ChatGPT_Image_Jul_25_2026_12_02_44_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075107/ChatGPT_Image_Jul_25_2026_12_02_44_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00372/v1785075107/ChatGPT_Image_Jul_25_2026_12_02_44_PM.png",
+    "slug": "spirit-foxes-in-waterfall-forest",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_44_PM",
+    "pageUrl": "wallpapers/desktop/anime/spirit-foxes-in-waterfall-forest.html",
+    "createdAt": "2026-07-26T14:11:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-lake-beneath-cherry-blossoms-373",
+    "title": "Aurora Lake Beneath Cherry Blossoms",
+    "description": "Download Aurora Lake Beneath Cherry Blossoms, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3108429,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "aurora",
+      "lake",
+      "cherry",
+      "blossoms"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075088/ChatGPT_Image_Jul_25_2026_12_02_48_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075088/ChatGPT_Image_Jul_25_2026_12_02_48_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075088/ChatGPT_Image_Jul_25_2026_12_02_48_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00373/v1785075088/ChatGPT_Image_Jul_25_2026_12_02_48_PM.png",
+    "slug": "aurora-lake-beneath-cherry-blossoms",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_48_PM",
+    "pageUrl": "wallpapers/desktop/anime/aurora-lake-beneath-cherry-blossoms.html",
+    "createdAt": "2026-07-26T14:11:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sky-aquarium-glass-domes-374",
+    "title": "Sky Aquarium Glass Domes",
+    "description": "Download Sky Aquarium Glass Domes, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3258899,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "sky",
+      "aquarium",
+      "glass",
+      "domes"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075093/ChatGPT_Image_Jul_25_2026_12_02_53_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075093/ChatGPT_Image_Jul_25_2026_12_02_53_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075093/ChatGPT_Image_Jul_25_2026_12_02_53_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00374/v1785075093/ChatGPT_Image_Jul_25_2026_12_02_53_PM.png",
+    "slug": "sky-aquarium-glass-domes",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_53_PM",
+    "pageUrl": "wallpapers/desktop/anime/sky-aquarium-glass-domes.html",
+    "createdAt": "2026-07-26T14:11:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crystal-dragon-valley-at-sunset-375",
+    "title": "Crystal Dragon Valley at Sunset",
+    "description": "Download Crystal Dragon Valley at Sunset, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3138939,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "crystal",
+      "dragon",
+      "valley",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075106/ChatGPT_Image_Jul_25_2026_12_02_58_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075106/ChatGPT_Image_Jul_25_2026_12_02_58_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075106/ChatGPT_Image_Jul_25_2026_12_02_58_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00375/v1785075106/ChatGPT_Image_Jul_25_2026_12_02_58_PM.png",
+    "slug": "crystal-dragon-valley-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_02_58_PM",
+    "pageUrl": "wallpapers/desktop/anime/crystal-dragon-valley-at-sunset.html",
+    "createdAt": "2026-07-26T14:11:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-harbor-with-tall-ships-376",
+    "title": "Aurora Harbor with Tall Ships",
+    "description": "Download Aurora Harbor with Tall Ships, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composi.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3072014,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "aurora",
+      "harbor",
+      "tall",
+      "ships"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075089/ChatGPT_Image_Jul_25_2026_12_03_03_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075089/ChatGPT_Image_Jul_25_2026_12_03_03_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075089/ChatGPT_Image_Jul_25_2026_12_03_03_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00376/v1785075089/ChatGPT_Image_Jul_25_2026_12_03_03_PM.png",
+    "slug": "aurora-harbor-with-tall-ships",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_03_PM",
+    "pageUrl": "wallpapers/desktop/anime/aurora-harbor-with-tall-ships.html",
+    "createdAt": "2026-07-26T14:11:29Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-stardust-express-at-cosmic-station-377",
+    "title": "Stardust Express at Cosmic Station",
+    "description": "Download Stardust Express at Cosmic Station, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3148365,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "stardust",
+      "express",
+      "cosmic",
+      "station"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_09_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_09_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_09_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00377/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_09_PM.png",
+    "slug": "stardust-express-at-cosmic-station",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_09_PM",
+    "pageUrl": "wallpapers/desktop/anime/stardust-express-at-cosmic-station.html",
+    "createdAt": "2026-07-26T14:12:07Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-ancient-blue-spirit-tree-village-378",
+    "title": "Ancient Blue Spirit Tree Village",
+    "description": "Download Ancient Blue Spirit Tree Village, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3146643,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "ancient",
+      "blue",
+      "spirit",
+      "tree",
+      "village"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075077/ChatGPT_Image_Jul_25_2026_12_03_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075077/ChatGPT_Image_Jul_25_2026_12_03_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075077/ChatGPT_Image_Jul_25_2026_12_03_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00378/v1785075077/ChatGPT_Image_Jul_25_2026_12_03_13_PM.png",
+    "slug": "ancient-blue-spirit-tree-village",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_13_PM",
+    "pageUrl": "wallpapers/desktop/anime/ancient-blue-spirit-tree-village.html",
+    "createdAt": "2026-07-26T14:11:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-fox-spirit-festival-at-torii-gate-379",
+    "title": "Fox Spirit Festival at Torii Gate",
+    "description": "Download Fox Spirit Festival at Torii Gate, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape com.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3047067,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "fox",
+      "spirit",
+      "festival",
+      "torii",
+      "gate"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075068/ChatGPT_Image_Jul_25_2026_12_03_19_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075068/ChatGPT_Image_Jul_25_2026_12_03_19_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075068/ChatGPT_Image_Jul_25_2026_12_03_19_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00379/v1785075068/ChatGPT_Image_Jul_25_2026_12_03_19_PM.png",
+    "slug": "fox-spirit-festival-at-torii-gate",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_19_PM",
+    "pageUrl": "wallpapers/desktop/anime/fox-spirit-festival-at-torii-gate.html",
+    "createdAt": "2026-07-26T14:11:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-boy-watching-cosmic-whales-380",
+    "title": "Boy Watching Cosmic Whales",
+    "description": "Download Boy Watching Cosmic Whales, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2904214,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "boy",
+      "watching",
+      "cosmic",
+      "whales"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075070/ChatGPT_Image_Jul_25_2026_12_03_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075070/ChatGPT_Image_Jul_25_2026_12_03_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075070/ChatGPT_Image_Jul_25_2026_12_03_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00380/v1785075070/ChatGPT_Image_Jul_25_2026_12_03_26_PM.png",
+    "slug": "boy-watching-cosmic-whales",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_26_PM",
+    "pageUrl": "wallpapers/desktop/anime/boy-watching-cosmic-whales.html",
+    "createdAt": "2026-07-26T14:11:10Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-clockwork-city-above-clouds-381",
+    "title": "Clockwork City Above Clouds",
+    "description": "Download Clockwork City Above Clouds, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3117013,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "clockwork",
+      "city",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075069/ChatGPT_Image_Jul_25_2026_12_03_33_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075069/ChatGPT_Image_Jul_25_2026_12_03_33_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075069/ChatGPT_Image_Jul_25_2026_12_03_33_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00381/v1785075069/ChatGPT_Image_Jul_25_2026_12_03_33_PM.png",
+    "slug": "clockwork-city-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_33_PM",
+    "pageUrl": "wallpapers/desktop/anime/clockwork-city-above-clouds.html",
+    "createdAt": "2026-07-26T14:11:09Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-spirit-deer-beneath-northern-lights-382",
+    "title": "Spirit Deer Beneath Northern Lights",
+    "description": "Download Spirit Deer Beneath Northern Lights, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3030002,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "spirit",
+      "deer",
+      "northern",
+      "lights"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_55_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_55_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_55_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00382/v1785075127/ChatGPT_Image_Jul_25_2026_12_03_55_PM.png",
+    "slug": "spirit-deer-beneath-northern-lights",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_55_PM",
+    "pageUrl": "wallpapers/desktop/anime/spirit-deer-beneath-northern-lights.html",
+    "createdAt": "2026-07-26T14:12:07Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-swan-palace-garden-reflections-383",
+    "title": "Moonlit Swan Palace Garden Reflections",
+    "description": "Download Moonlit Swan Palace Garden Reflections, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscap.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3294431,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "swan",
+      "palace",
+      "garden",
+      "reflections"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075058/ChatGPT_Image_Jul_25_2026_12_03_59_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075058/ChatGPT_Image_Jul_25_2026_12_03_59_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075058/ChatGPT_Image_Jul_25_2026_12_03_59_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00383/v1785075058/ChatGPT_Image_Jul_25_2026_12_03_59_PM.png",
+    "slug": "moonlit-swan-palace-garden-reflections",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_03_59_PM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-swan-palace-garden-reflections.html",
+    "createdAt": "2026-07-26T14:10:58Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-observatory-above-galaxies-384",
+    "title": "Floating Observatory Above Galaxies",
+    "description": "Download Floating Observatory Above Galaxies, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3048945,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "floating",
+      "observatory",
+      "galaxies"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_04_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_04_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_04_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00384/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_04_PM.png",
+    "slug": "floating-observatory-above-galaxies",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_04_PM",
+    "pageUrl": "wallpapers/desktop/anime/floating-observatory-above-galaxies.html",
+    "createdAt": "2026-07-26T14:10:48Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-ice-castle-385",
+    "title": "Aurora Ice Castle",
+    "description": "Download Aurora Ice Castle, a free 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3025817,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "aurora",
+      "ice",
+      "castle"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075054/ChatGPT_Image_Jul_25_2026_12_04_06_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075054/ChatGPT_Image_Jul_25_2026_12_04_06_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075054/ChatGPT_Image_Jul_25_2026_12_04_06_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00385/v1785075054/ChatGPT_Image_Jul_25_2026_12_04_06_PM.png",
+    "slug": "aurora-ice-castle",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_06_PM",
+    "pageUrl": "wallpapers/desktop/anime/aurora-ice-castle.html",
+    "createdAt": "2026-07-26T14:10:54Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-koi-valley-temple-at-sunrise-386",
+    "title": "Koi Valley Temple at Sunrise",
+    "description": "Download Koi Valley Temple at Sunrise, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2986154,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "koi",
+      "valley",
+      "temple",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075036/ChatGPT_Image_Jul_25_2026_12_04_10_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075036/ChatGPT_Image_Jul_25_2026_12_04_10_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075036/ChatGPT_Image_Jul_25_2026_12_04_10_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00386/v1785075036/ChatGPT_Image_Jul_25_2026_12_04_10_PM.png",
+    "slug": "koi-valley-temple-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_10_PM",
+    "pageUrl": "wallpapers/desktop/anime/koi-valley-temple-at-sunrise.html",
+    "createdAt": "2026-07-26T14:10:36Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-boy-in-clockwork-sky-city-387",
+    "title": "Boy in Clockwork Sky City",
+    "description": "Download Boy in Clockwork Sky City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3064009,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "boy",
+      "clockwork",
+      "sky",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075033/ChatGPT_Image_Jul_25_2026_12_04_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075033/ChatGPT_Image_Jul_25_2026_12_04_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075033/ChatGPT_Image_Jul_25_2026_12_04_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00387/v1785075033/ChatGPT_Image_Jul_25_2026_12_04_13_PM.png",
+    "slug": "boy-in-clockwork-sky-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_13_PM",
+    "pageUrl": "wallpapers/desktop/anime/boy-in-clockwork-sky-city.html",
+    "createdAt": "2026-07-26T14:10:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-spirit-foxes-at-aurora-shrine-388",
+    "title": "Spirit Foxes at Aurora Shrine",
+    "description": "Download Spirit Foxes at Aurora Shrine, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composi.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3062902,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "spirit",
+      "foxes",
+      "aurora",
+      "shrine"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_16_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_16_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_16_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00388/v1785075048/ChatGPT_Image_Jul_25_2026_12_04_16_PM.png",
+    "slug": "spirit-foxes-at-aurora-shrine",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_16_PM",
+    "pageUrl": "wallpapers/desktop/anime/spirit-foxes-at-aurora-shrine.html",
+    "createdAt": "2026-07-26T14:10:48Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glass-sky-garden-with-flying-whales-389",
+    "title": "Glass Sky Garden with Flying Whales",
+    "description": "Download Glass Sky Garden with Flying Whales, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape c.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3045259,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "glass",
+      "sky",
+      "garden",
+      "flying",
+      "whales"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075065/ChatGPT_Image_Jul_25_2026_12_04_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075065/ChatGPT_Image_Jul_25_2026_12_04_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075065/ChatGPT_Image_Jul_25_2026_12_04_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00389/v1785075065/ChatGPT_Image_Jul_25_2026_12_04_22_PM.png",
+    "slug": "glass-sky-garden-with-flying-whales",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_22_PM",
+    "pageUrl": "wallpapers/desktop/anime/glass-sky-garden-with-flying-whales.html",
+    "createdAt": "2026-07-26T14:11:05Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-pink-moon-torii-above-clouds-390",
+    "title": "Pink Moon Torii Above Clouds",
+    "description": "Download Pink Moon Torii Above Clouds, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2795426,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "pink",
+      "moon",
+      "torii",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075032/ChatGPT_Image_Jul_25_2026_12_04_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075032/ChatGPT_Image_Jul_25_2026_12_04_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075032/ChatGPT_Image_Jul_25_2026_12_04_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00390/v1785075032/ChatGPT_Image_Jul_25_2026_12_04_27_PM.png",
+    "slug": "pink-moon-torii-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_27_PM",
+    "pageUrl": "wallpapers/desktop/anime/pink-moon-torii-above-clouds.html",
+    "createdAt": "2026-07-26T14:10:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-monks-watching-mountain-sunrise-391",
+    "title": "Monks Watching Mountain Sunrise",
+    "description": "Download Monks Watching Mountain Sunrise, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2825105,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "monks",
+      "watching",
+      "mountain",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075019/ChatGPT_Image_Jul_25_2026_12_04_43_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075019/ChatGPT_Image_Jul_25_2026_12_04_43_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075019/ChatGPT_Image_Jul_25_2026_12_04_43_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00391/v1785075019/ChatGPT_Image_Jul_25_2026_12_04_43_PM.png",
+    "slug": "monks-watching-mountain-sunrise",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_43_PM",
+    "pageUrl": "wallpapers/desktop/anime/monks-watching-mountain-sunrise.html",
+    "createdAt": "2026-07-26T14:10:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-astronaut-beside-blue-planet-392",
+    "title": "Astronaut Beside Blue Planet",
+    "description": "Download Astronaut Beside Blue Planet, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3001112,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "astronaut",
+      "beside",
+      "blue",
+      "planet"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00392/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_50_PM.png",
+    "slug": "astronaut-beside-blue-planet",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_50_PM",
+    "pageUrl": "wallpapers/desktop/anime/astronaut-beside-blue-planet.html",
+    "createdAt": "2026-07-26T14:10:18Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunken-palace-under-clear-ocean-393",
+    "title": "Sunken Palace Under Clear Ocean",
+    "description": "Download Sunken Palace Under Clear Ocean, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3093468,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "sunken",
+      "palace",
+      "clear",
+      "ocean"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_54_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_54_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_54_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00393/v1785075018/ChatGPT_Image_Jul_25_2026_12_04_54_PM.png",
+    "slug": "sunken-palace-under-clear-ocean",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_04_54_PM",
+    "pageUrl": "wallpapers/desktop/anime/sunken-palace-under-clear-ocean.html",
+    "createdAt": "2026-07-26T14:10:18Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-book-palace-in-sunlight-394",
+    "title": "Floating Book Palace in Sunlight",
+    "description": "Download Floating Book Palace in Sunlight, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2969461,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "floating",
+      "book",
+      "palace",
+      "sunlight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075003/ChatGPT_Image_Jul_25_2026_12_05_04_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075003/ChatGPT_Image_Jul_25_2026_12_05_04_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075003/ChatGPT_Image_Jul_25_2026_12_05_04_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00394/v1785075003/ChatGPT_Image_Jul_25_2026_12_05_04_PM.png",
+    "slug": "floating-book-palace-in-sunlight",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_05_04_PM",
+    "pageUrl": "wallpapers/desktop/anime/floating-book-palace-in-sunlight.html",
+    "createdAt": "2026-07-26T14:10:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crystal-dragon-beneath-aurora-395",
+    "title": "Crystal Dragon Beneath Aurora",
+    "description": "Download Crystal Dragon Beneath Aurora, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composi.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3190098,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "crystal",
+      "dragon",
+      "aurora"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075040/ChatGPT_Image_Jul_25_2026_12_05_07_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075040/ChatGPT_Image_Jul_25_2026_12_05_07_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075040/ChatGPT_Image_Jul_25_2026_12_05_07_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00395/v1785075040/ChatGPT_Image_Jul_25_2026_12_05_07_PM.png",
+    "slug": "crystal-dragon-beneath-aurora",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_05_07_PM",
+    "pageUrl": "wallpapers/desktop/anime/crystal-dragon-beneath-aurora.html",
+    "createdAt": "2026-07-26T14:10:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-spirit-forest-waterfalls-396",
+    "title": "Moonlit Spirit Forest Waterfalls",
+    "description": "Download Moonlit Spirit Forest Waterfalls, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape comp.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2948776,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "spirit",
+      "forest",
+      "waterfalls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075004/ChatGPT_Image_Jul_25_2026_12_05_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075004/ChatGPT_Image_Jul_25_2026_12_05_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075004/ChatGPT_Image_Jul_25_2026_12_05_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00396/v1785075004/ChatGPT_Image_Jul_25_2026_12_05_12_PM.png",
+    "slug": "moonlit-spirit-forest-waterfalls",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_05_12_PM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-spirit-forest-waterfalls.html",
+    "createdAt": "2026-07-26T14:10:04Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lotus-palace-on-turquoise-lake-397",
+    "title": "Lotus Palace on Turquoise Lake",
+    "description": "Download Lotus Palace on Turquoise Lake, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compos.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3084600,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "lotus",
+      "palace",
+      "turquoise",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075018/ChatGPT_Image_Jul_25_2026_12_13_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075018/ChatGPT_Image_Jul_25_2026_12_13_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075018/ChatGPT_Image_Jul_25_2026_12_13_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00397/v1785075018/ChatGPT_Image_Jul_25_2026_12_13_12_PM.png",
+    "slug": "lotus-palace-on-turquoise-lake",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_13_12_PM",
+    "pageUrl": "wallpapers/desktop/anime/lotus-palace-on-turquoise-lake.html",
+    "createdAt": "2026-07-26T14:10:18Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cosmic-torii-island-at-twilight-398",
+    "title": "Cosmic Torii Island at Twilight",
+    "description": "Download Cosmic Torii Island at Twilight, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2937290,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "cosmic",
+      "torii",
+      "island",
+      "twilight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074990/ChatGPT_Image_Jul_25_2026_12_13_23_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074990/ChatGPT_Image_Jul_25_2026_12_13_23_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074990/ChatGPT_Image_Jul_25_2026_12_13_23_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00398/v1785074990/ChatGPT_Image_Jul_25_2026_12_13_23_PM.png",
+    "slug": "cosmic-torii-island-at-twilight",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_13_23_PM",
+    "pageUrl": "wallpapers/desktop/anime/cosmic-torii-island-at-twilight.html",
+    "createdAt": "2026-07-26T14:09:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-spirit-deer-in-crystal-waterfall-village-399",
+    "title": "Spirit Deer in Crystal Waterfall Village",
+    "description": "Download Spirit Deer in Crystal Waterfall Village, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landsc.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3390003,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "spirit",
+      "deer",
+      "crystal",
+      "waterfall",
+      "village"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074988/ChatGPT_Image_Jul_25_2026_12_13_41_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074988/ChatGPT_Image_Jul_25_2026_12_13_41_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074988/ChatGPT_Image_Jul_25_2026_12_13_41_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00399/v1785074988/ChatGPT_Image_Jul_25_2026_12_13_41_PM_1.png",
+    "slug": "spirit-deer-in-crystal-waterfall-village",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_13_41_PM_1",
+    "pageUrl": "wallpapers/desktop/anime/spirit-deer-in-crystal-waterfall-village.html",
+    "createdAt": "2026-07-26T14:09:48Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-crystal-deer-forest-400",
+    "title": "Moonlit Crystal Deer Forest",
+    "description": "Download Moonlit Crystal Deer Forest, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3536893,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "crystal",
+      "deer",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785075015/ChatGPT_Image_Jul_25_2026_12_13_41_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785075015/ChatGPT_Image_Jul_25_2026_12_13_41_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785075015/ChatGPT_Image_Jul_25_2026_12_13_41_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00400/v1785075015/ChatGPT_Image_Jul_25_2026_12_13_41_PM_2.png",
+    "slug": "moonlit-crystal-deer-forest",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_13_41_PM_2",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-crystal-deer-forest.html",
+    "createdAt": "2026-07-26T14:10:15Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainbow-waterfall-kingdom-401",
+    "title": "Rainbow Waterfall Kingdom",
+    "description": "Download Rainbow Waterfall Kingdom, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3149911,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "rainbow",
+      "waterfall",
+      "kingdom"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074972/ChatGPT_Image_Jul_25_2026_12_13_48_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074972/ChatGPT_Image_Jul_25_2026_12_13_48_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074972/ChatGPT_Image_Jul_25_2026_12_13_48_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00401/v1785074972/ChatGPT_Image_Jul_25_2026_12_13_48_PM.png",
+    "slug": "rainbow-waterfall-kingdom",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_13_48_PM",
+    "pageUrl": "wallpapers/desktop/anime/rainbow-waterfall-kingdom.html",
+    "createdAt": "2026-07-26T14:09:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-butterfly-palace-above-waterfalls-402",
+    "title": "White Butterfly Palace Above Waterfalls",
+    "description": "Download White Butterfly Palace Above Waterfalls, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landsca.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3248656,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "white",
+      "butterfly",
+      "palace",
+      "waterfalls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074968/ChatGPT_Image_Jul_25_2026_12_14_36_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074968/ChatGPT_Image_Jul_25_2026_12_14_36_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074968/ChatGPT_Image_Jul_25_2026_12_14_36_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00402/v1785074968/ChatGPT_Image_Jul_25_2026_12_14_36_PM.png",
+    "slug": "white-butterfly-palace-above-waterfalls",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_14_36_PM",
+    "pageUrl": "wallpapers/desktop/anime/white-butterfly-palace-above-waterfalls.html",
+    "createdAt": "2026-07-26T14:09:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-golden-dragon-over-lantern-city-403",
+    "title": "Golden Dragon Over Lantern City",
+    "description": "Download Golden Dragon Over Lantern City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2937975,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "golden",
+      "dragon",
+      "lantern",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074981/ChatGPT_Image_Jul_25_2026_12_18_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074981/ChatGPT_Image_Jul_25_2026_12_18_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074981/ChatGPT_Image_Jul_25_2026_12_18_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00403/v1785074981/ChatGPT_Image_Jul_25_2026_12_18_41_PM.png",
+    "slug": "golden-dragon-over-lantern-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_18_41_PM",
+    "pageUrl": "wallpapers/desktop/anime/golden-dragon-over-lantern-city.html",
+    "createdAt": "2026-07-26T14:09:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-bamboo-village-alley-404",
+    "title": "Moonlit Bamboo Village Alley",
+    "description": "Download Moonlit Bamboo Village Alley, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composit.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2679138,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "bamboo",
+      "village",
+      "alley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074952/ChatGPT_Image_Jul_25_2026_12_20_49_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074952/ChatGPT_Image_Jul_25_2026_12_20_49_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074952/ChatGPT_Image_Jul_25_2026_12_20_49_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00404/v1785074952/ChatGPT_Image_Jul_25_2026_12_20_49_PM.png",
+    "slug": "moonlit-bamboo-village-alley",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_20_49_PM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-bamboo-village-alley.html",
+    "createdAt": "2026-07-26T14:09:12Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sakura-pagoda-valley-at-sunset-405",
+    "title": "Sakura Pagoda Valley at Sunset",
+    "description": "Download Sakura Pagoda Valley at Sunset, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compos.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3021796,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "sakura",
+      "pagoda",
+      "valley",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074967/ChatGPT_Image_Jul_25_2026_12_21_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074967/ChatGPT_Image_Jul_25_2026_12_21_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074967/ChatGPT_Image_Jul_25_2026_12_21_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00405/v1785074967/ChatGPT_Image_Jul_25_2026_12_21_50_PM.png",
+    "slug": "sakura-pagoda-valley-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_21_50_PM",
+    "pageUrl": "wallpapers/desktop/anime/sakura-pagoda-valley-at-sunset.html",
+    "createdAt": "2026-07-26T14:09:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-torii-gate-above-pink-cloud-sea-406",
+    "title": "Torii Gate Above Pink Cloud Sea",
+    "description": "Download Torii Gate Above Pink Cloud Sea, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2772796,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "torii",
+      "gate",
+      "pink",
+      "cloud",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074992/ChatGPT_Image_Jul_25_2026_12_25_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074992/ChatGPT_Image_Jul_25_2026_12_25_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074992/ChatGPT_Image_Jul_25_2026_12_25_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00406/v1785074992/ChatGPT_Image_Jul_25_2026_12_25_37_PM.png",
+    "slug": "torii-gate-above-pink-cloud-sea",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_25_37_PM",
+    "pageUrl": "wallpapers/desktop/anime/torii-gate-above-pink-cloud-sea.html",
+    "createdAt": "2026-07-26T14:09:52Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-anime-airship-market-city-407",
+    "title": "Anime Airship Market City",
+    "description": "Download Anime Airship Market City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape composition.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3150358,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "anime",
+      "airship",
+      "market",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074937/ChatGPT_Image_Jul_25_2026_12_25_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074937/ChatGPT_Image_Jul_25_2026_12_25_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074937/ChatGPT_Image_Jul_25_2026_12_25_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00407/v1785074937/ChatGPT_Image_Jul_25_2026_12_25_45_PM.png",
+    "slug": "anime-airship-market-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_25_45_PM",
+    "pageUrl": "wallpapers/desktop/anime/anime-airship-market-city.html",
+    "createdAt": "2026-07-26T14:08:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-blue-crystal-gorge-city-408",
+    "title": "Moonlit Blue Crystal Gorge City",
+    "description": "Download Moonlit Blue Crystal Gorge City, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape compo.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3013928,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "moonlit",
+      "blue",
+      "crystal",
+      "gorge",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074919/ChatGPT_Image_Jul_25_2026_12_25_56_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074919/ChatGPT_Image_Jul_25_2026_12_25_56_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074919/ChatGPT_Image_Jul_25_2026_12_25_56_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00408/v1785074919/ChatGPT_Image_Jul_25_2026_12_25_56_PM.png",
+    "slug": "moonlit-blue-crystal-gorge-city",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_25_56_PM",
+    "pageUrl": "wallpapers/desktop/anime/moonlit-blue-crystal-gorge-city.html",
+    "createdAt": "2026-07-26T14:08:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-celestial-observatory-beneath-galaxies-409",
+    "title": "Celestial Observatory Beneath Galaxies",
+    "description": "Download Celestial Observatory Beneath Galaxies, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscap.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3054521,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "celestial",
+      "observatory",
+      "galaxies"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074981/ChatGPT_Image_Jul_25_2026_12_26_06_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074981/ChatGPT_Image_Jul_25_2026_12_26_06_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074981/ChatGPT_Image_Jul_25_2026_12_26_06_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00409/v1785074981/ChatGPT_Image_Jul_25_2026_12_26_06_PM.png",
+    "slug": "celestial-observatory-beneath-galaxies",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_26_06_PM",
+    "pageUrl": "wallpapers/desktop/anime/celestial-observatory-beneath-galaxies.html",
+    "createdAt": "2026-07-26T14:09:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sakura-waterfall-garden-at-sunrise-410",
+    "title": "Sakura Waterfall Garden at Sunrise",
+    "description": "Download Sakura Waterfall Garden at Sunrise, 1672x941 anime desktop wallpaper featuring detailed anime art, expressive lighting, and a cinematic landscape co.",
+    "category": "Anime",
+    "categories": [
+      "Anime"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3146955,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "anime wallpaper",
+      "anime landscape",
+      "digital art wallpaper",
+      "sakura",
+      "waterfall",
+      "garden",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785074926/ChatGPT_Image_Jul_25_2026_12_26_21_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785074926/ChatGPT_Image_Jul_25_2026_12_26_21_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785074926/ChatGPT_Image_Jul_25_2026_12_26_21_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00410/v1785074926/ChatGPT_Image_Jul_25_2026_12_26_21_PM.png",
+    "slug": "sakura-waterfall-garden-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_25_2026_12_26_21_PM",
+    "pageUrl": "wallpapers/desktop/anime/sakura-waterfall-garden-at-sunrise.html",
+    "createdAt": "2026-07-26T14:08:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-dubai-marina-at-golden-sunset-411",
+    "title": "Dubai Marina at Golden Sunset",
+    "description": "Download Dubai Marina at Golden Sunset, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosp.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2957376,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "dubai",
+      "marina",
+      "golden",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942992/ChatGPT_Image_Aug_4_2026_09_25_18_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942992/ChatGPT_Image_Aug_4_2026_09_25_18_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942992/ChatGPT_Image_Aug_4_2026_09_25_18_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00411/v1785942992/ChatGPT_Image_Aug_4_2026_09_25_18_PM.png",
+    "slug": "dubai-marina-at-golden-sunset",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_18_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/dubai-marina-at-golden-sunset.html",
+    "createdAt": "2026-08-05T15:16:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-alpine-village-at-twilight-412",
+    "title": "Snowy Alpine Village at Twilight",
+    "description": "Download Snowy Alpine Village at Twilight, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atm.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3330987,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "snowy",
+      "alpine",
+      "village",
+      "twilight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943012/ChatGPT_Image_Aug_4_2026_09_25_21_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943012/ChatGPT_Image_Aug_4_2026_09_25_21_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943012/ChatGPT_Image_Aug_4_2026_09_25_21_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00412/v1785943012/ChatGPT_Image_Aug_4_2026_09_25_21_PM.png",
+    "slug": "snowy-alpine-village-at-twilight",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_21_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/snowy-alpine-village-at-twilight.html",
+    "createdAt": "2026-08-05T15:16:52Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-central-park-autumn-skyline-413",
+    "title": "Central Park Autumn Skyline",
+    "description": "Download Central Park Autumn Skyline, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosphere.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2835977,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "central",
+      "park",
+      "autumn",
+      "skyline"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942940/ChatGPT_Image_Aug_4_2026_09_25_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942940/ChatGPT_Image_Aug_4_2026_09_25_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942940/ChatGPT_Image_Aug_4_2026_09_25_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00413/v1785942940/ChatGPT_Image_Aug_4_2026_09_25_24_PM.png",
+    "slug": "central-park-autumn-skyline",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_24_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/central-park-autumn-skyline.html",
+    "createdAt": "2026-08-05T15:15:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-green-futuristic-city-with-skyways-414",
+    "title": "Green Futuristic City with Skyways",
+    "description": "Download Green Futuristic City with Skyways, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban a.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3308083,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "green",
+      "futuristic",
+      "city",
+      "skyways"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942987/ChatGPT_Image_Aug_4_2026_09_25_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942987/ChatGPT_Image_Aug_4_2026_09_25_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942987/ChatGPT_Image_Aug_4_2026_09_25_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00414/v1785942987/ChatGPT_Image_Aug_4_2026_09_25_27_PM.png",
+    "slug": "green-futuristic-city-with-skyways",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_27_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/green-futuristic-city-with-skyways.html",
+    "createdAt": "2026-08-05T15:16:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-manhattan-skyline-and-bridges-415",
+    "title": "Snowy Manhattan Skyline and Bridges",
+    "description": "Download Snowy Manhattan Skyline and Bridges, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2774444,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "snowy",
+      "manhattan",
+      "skyline",
+      "bridges"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942963/ChatGPT_Image_Aug_4_2026_09_25_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942963/ChatGPT_Image_Aug_4_2026_09_25_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942963/ChatGPT_Image_Aug_4_2026_09_25_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00415/v1785942963/ChatGPT_Image_Aug_4_2026_09_25_29_PM.png",
+    "slug": "snowy-manhattan-skyline-and-bridges",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_29_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/snowy-manhattan-skyline-and-bridges.html",
+    "createdAt": "2026-08-05T15:16:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-neon-times-square-in-rain-416",
+    "title": "Neon Times Square in Rain",
+    "description": "Download Neon Times Square in Rain, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosphere.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3346889,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "neon",
+      "times",
+      "square",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942848/ChatGPT_Image_Aug_4_2026_09_25_38_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942848/ChatGPT_Image_Aug_4_2026_09_25_38_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942848/ChatGPT_Image_Aug_4_2026_09_25_38_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00416/v1785942848/ChatGPT_Image_Aug_4_2026_09_25_38_PM.png",
+    "slug": "neon-times-square-in-rain",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_38_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/neon-times-square-in-rain.html",
+    "createdAt": "2026-08-05T15:14:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rooftop-infinity-pool-over-sunset-city-417",
+    "title": "Rooftop Infinity Pool Over Sunset City",
+    "description": "Download Rooftop Infinity Pool Over Sunset City, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urb.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2636614,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "rooftop",
+      "infinity",
+      "pool",
+      "sunset",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942914/ChatGPT_Image_Aug_4_2026_09_25_43_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942914/ChatGPT_Image_Aug_4_2026_09_25_43_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942914/ChatGPT_Image_Aug_4_2026_09_25_43_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00417/v1785942914/ChatGPT_Image_Aug_4_2026_09_25_43_PM.png",
+    "slug": "rooftop-infinity-pool-over-sunset-city",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_43_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/rooftop-infinity-pool-over-sunset-city.html",
+    "createdAt": "2026-08-05T15:15:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-singapore-marina-bay-at-blue-hour-418",
+    "title": "Singapore Marina Bay at Blue Hour",
+    "description": "Download Singapore Marina Bay at Blue Hour, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban at.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2602842,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "singapore",
+      "marina",
+      "bay",
+      "blue",
+      "hour"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942871/ChatGPT_Image_Aug_4_2026_09_25_55_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942871/ChatGPT_Image_Aug_4_2026_09_25_55_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942871/ChatGPT_Image_Aug_4_2026_09_25_55_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00418/v1785942871/ChatGPT_Image_Aug_4_2026_09_25_55_PM.png",
+    "slug": "singapore-marina-bay-at-blue-hour",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_55_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/singapore-marina-bay-at-blue-hour.html",
+    "createdAt": "2026-08-05T15:14:31Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-dubai-marina-towers-at-sunset-419",
+    "title": "Dubai Marina Towers at Sunset",
+    "description": "Download Dubai Marina Towers at Sunset, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosp.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2665960,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "dubai",
+      "marina",
+      "towers",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942864/ChatGPT_Image_Aug_4_2026_09_25_58_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942864/ChatGPT_Image_Aug_4_2026_09_25_58_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942864/ChatGPT_Image_Aug_4_2026_09_25_58_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00419/v1785942864/ChatGPT_Image_Aug_4_2026_09_25_58_PM.png",
+    "slug": "dubai-marina-towers-at-sunset",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_25_58_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/dubai-marina-towers-at-sunset.html",
+    "createdAt": "2026-08-05T15:14:24Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-futuristic-desert-city-oasis-420",
+    "title": "Futuristic Desert City Oasis",
+    "description": "Download Futuristic Desert City Oasis, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosph.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2725014,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "futuristic",
+      "desert",
+      "city",
+      "oasis"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942953/ChatGPT_Image_Aug_4_2026_09_33_35_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942953/ChatGPT_Image_Aug_4_2026_09_33_35_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942953/ChatGPT_Image_Aug_4_2026_09_33_35_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00420/v1785942953/ChatGPT_Image_Aug_4_2026_09_33_35_PM.png",
+    "slug": "futuristic-desert-city-oasis",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_33_35_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/futuristic-desert-city-oasis.html",
+    "createdAt": "2026-08-05T15:15:53Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-paris-boulevard-skyline-at-twilight-421",
+    "title": "Paris Boulevard Skyline at Twilight",
+    "description": "Download Paris Boulevard Skyline at Twilight, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2731203,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "paris",
+      "boulevard",
+      "skyline",
+      "twilight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942934/ChatGPT_Image_Aug_4_2026_09_33_42_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942934/ChatGPT_Image_Aug_4_2026_09_33_42_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942934/ChatGPT_Image_Aug_4_2026_09_33_42_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00421/v1785942934/ChatGPT_Image_Aug_4_2026_09_33_42_PM.png",
+    "slug": "paris-boulevard-skyline-at-twilight",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_33_42_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/paris-boulevard-skyline-at-twilight.html",
+    "createdAt": "2026-08-05T15:15:34Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-city-canal-422",
+    "title": "Cherry Blossom City Canal",
+    "description": "Download Cherry Blossom City Canal, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosphere.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3323411,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "cherry",
+      "blossom",
+      "city",
+      "canal"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943007/ChatGPT_Image_Aug_4_2026_09_33_46_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943007/ChatGPT_Image_Aug_4_2026_09_33_46_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943007/ChatGPT_Image_Aug_4_2026_09_33_46_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00422/v1785943007/ChatGPT_Image_Aug_4_2026_09_33_46_PM.png",
+    "slug": "cherry-blossom-city-canal",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_33_46_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/cherry-blossom-city-canal.html",
+    "createdAt": "2026-08-05T15:16:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-dubai-marina-skyline-at-night-423",
+    "title": "Dubai Marina Skyline at Night",
+    "description": "Download Dubai Marina Skyline at Night, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosp.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2748254,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "dubai",
+      "marina",
+      "skyline",
+      "night"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942917/ChatGPT_Image_Aug_4_2026_09_33_48_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942917/ChatGPT_Image_Aug_4_2026_09_33_48_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942917/ChatGPT_Image_Aug_4_2026_09_33_48_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00423/v1785942917/ChatGPT_Image_Aug_4_2026_09_33_48_PM.png",
+    "slug": "dubai-marina-skyline-at-night",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_33_48_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/dubai-marina-skyline-at-night.html",
+    "createdAt": "2026-08-05T15:15:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-futuristic-mountain-valley-city-424",
+    "title": "Futuristic Mountain Valley City",
+    "description": "Download Futuristic Mountain Valley City, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmo.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2806826,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "futuristic",
+      "mountain",
+      "valley",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942940/ChatGPT_Image_Aug_4_2026_09_33_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942940/ChatGPT_Image_Aug_4_2026_09_33_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942940/ChatGPT_Image_Aug_4_2026_09_33_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00424/v1785942940/ChatGPT_Image_Aug_4_2026_09_33_50_PM.png",
+    "slug": "futuristic-mountain-valley-city",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_33_50_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/futuristic-mountain-valley-city.html",
+    "createdAt": "2026-08-05T15:15:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-waterfall-metropolis-at-sunrise-425",
+    "title": "White Waterfall Metropolis at Sunrise",
+    "description": "Download White Waterfall Metropolis at Sunrise, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urba.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2880146,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "white",
+      "waterfall",
+      "metropolis",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942981/ChatGPT_Image_Aug_4_2026_09_33_54_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942981/ChatGPT_Image_Aug_4_2026_09_33_54_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942981/ChatGPT_Image_Aug_4_2026_09_33_54_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00425/v1785942981/ChatGPT_Image_Aug_4_2026_09_33_54_PM.png",
+    "slug": "white-waterfall-metropolis-at-sunrise",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_33_54_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/white-waterfall-metropolis-at-sunrise.html",
+    "createdAt": "2026-08-05T15:16:21Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-prague-bridges-at-night-426",
+    "title": "Prague Bridges at Night",
+    "description": "Download Prague Bridges at Night, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosphere.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2590058,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "prague",
+      "bridges",
+      "night"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942913/ChatGPT_Image_Aug_4_2026_09_33_58_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942913/ChatGPT_Image_Aug_4_2026_09_33_58_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942913/ChatGPT_Image_Aug_4_2026_09_33_58_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00426/v1785942913/ChatGPT_Image_Aug_4_2026_09_33_58_PM.png",
+    "slug": "prague-bridges-at-night",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_33_58_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/prague-bridges-at-night.html",
+    "createdAt": "2026-08-05T15:15:13Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hong-kong-harbor-skyline-at-night-427",
+    "title": "Hong Kong Harbor Skyline at Night",
+    "description": "Download Hong Kong Harbor Skyline at Night, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban at.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2603205,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "hong",
+      "kong",
+      "harbor",
+      "skyline",
+      "night"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942822/ChatGPT_Image_Aug_4_2026_09_34_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942822/ChatGPT_Image_Aug_4_2026_09_34_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942822/ChatGPT_Image_Aug_4_2026_09_34_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00427/v1785942822/ChatGPT_Image_Aug_4_2026_09_34_02_PM.png",
+    "slug": "hong-kong-harbor-skyline-at-night",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_34_02_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/hong-kong-harbor-skyline-at-night.html",
+    "createdAt": "2026-08-05T15:13:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-amalfi-coast-town-above-turquoise-sea-428",
+    "title": "Amalfi Coast Town Above Turquoise Sea",
+    "description": "Download Amalfi Coast Town Above Turquoise Sea, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urba.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3182954,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "amalfi",
+      "coast",
+      "town",
+      "turquoise",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942981/ChatGPT_Image_Aug_4_2026_09_34_07_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942981/ChatGPT_Image_Aug_4_2026_09_34_07_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942981/ChatGPT_Image_Aug_4_2026_09_34_07_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00428/v1785942981/ChatGPT_Image_Aug_4_2026_09_34_07_PM.png",
+    "slug": "amalfi-coast-town-above-turquoise-sea",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_34_07_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/amalfi-coast-town-above-turquoise-sea.html",
+    "createdAt": "2026-08-05T15:16:21Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-garden-megacity-at-sunrise-429",
+    "title": "Floating Garden Megacity at Sunrise",
+    "description": "Download Floating Garden Megacity at Sunrise, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2905595,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "floating",
+      "garden",
+      "megacity",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942905/ChatGPT_Image_Aug_4_2026_09_34_10_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942905/ChatGPT_Image_Aug_4_2026_09_34_10_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942905/ChatGPT_Image_Aug_4_2026_09_34_10_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00429/v1785942905/ChatGPT_Image_Aug_4_2026_09_34_10_PM.png",
+    "slug": "floating-garden-megacity-at-sunrise",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_34_10_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/floating-garden-megacity-at-sunrise.html",
+    "createdAt": "2026-08-05T15:15:05Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-skyscrapers-above-pink-clouds-430",
+    "title": "Skyscrapers Above Pink Clouds",
+    "description": "Download Skyscrapers Above Pink Clouds, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosp.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2098374,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "skyscrapers",
+      "pink",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942869/ChatGPT_Image_Aug_4_2026_09_34_46_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942869/ChatGPT_Image_Aug_4_2026_09_34_46_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942869/ChatGPT_Image_Aug_4_2026_09_34_46_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00430/v1785942869/ChatGPT_Image_Aug_4_2026_09_34_46_PM.png",
+    "slug": "skyscrapers-above-pink-clouds",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_34_46_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/skyscrapers-above-pink-clouds.html",
+    "createdAt": "2026-08-05T15:14:29Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lantern-festival-river-city-at-night-431",
+    "title": "Lantern Festival River City at Night",
+    "description": "Download Lantern Festival River City at Night, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2865964,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "lantern",
+      "festival",
+      "river",
+      "city",
+      "night"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942845/ChatGPT_Image_Aug_4_2026_09_35_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942845/ChatGPT_Image_Aug_4_2026_09_35_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942845/ChatGPT_Image_Aug_4_2026_09_35_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00431/v1785942845/ChatGPT_Image_Aug_4_2026_09_35_24_PM.png",
+    "slug": "lantern-festival-river-city-at-night",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_35_24_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/lantern-festival-river-city-at-night.html",
+    "createdAt": "2026-08-05T15:14:05Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-palace-city-at-golden-hour-432",
+    "title": "Floating Palace City at Golden Hour",
+    "description": "Download Floating Palace City at Golden Hour, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2922935,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "floating",
+      "palace",
+      "city",
+      "golden",
+      "hour"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942892/ChatGPT_Image_Aug_4_2026_09_35_28_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942892/ChatGPT_Image_Aug_4_2026_09_35_28_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942892/ChatGPT_Image_Aug_4_2026_09_35_28_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00432/v1785942892/ChatGPT_Image_Aug_4_2026_09_35_28_PM.png",
+    "slug": "floating-palace-city-at-golden-hour",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_35_28_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/floating-palace-city-at-golden-hour.html",
+    "createdAt": "2026-08-05T15:14:52Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-venice-grand-canal-at-sunset-433",
+    "title": "Venice Grand Canal at Sunset",
+    "description": "Download Venice Grand Canal at Sunset, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosph.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2905733,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "venice",
+      "grand",
+      "canal",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942878/ChatGPT_Image_Aug_4_2026_09_35_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942878/ChatGPT_Image_Aug_4_2026_09_35_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942878/ChatGPT_Image_Aug_4_2026_09_35_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00433/v1785942878/ChatGPT_Image_Aug_4_2026_09_35_50_PM.png",
+    "slug": "venice-grand-canal-at-sunset",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_35_50_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/venice-grand-canal-at-sunset.html",
+    "createdAt": "2026-08-05T15:14:38Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainy-modern-business-district-434",
+    "title": "Rainy Modern Business District",
+    "description": "Download Rainy Modern Business District, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmos.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2768673,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "rainy",
+      "modern",
+      "business",
+      "district"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942844/ChatGPT_Image_Aug_4_2026_09_35_53_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942844/ChatGPT_Image_Aug_4_2026_09_35_53_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942844/ChatGPT_Image_Aug_4_2026_09_35_53_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00434/v1785942844/ChatGPT_Image_Aug_4_2026_09_35_53_PM.png",
+    "slug": "rainy-modern-business-district",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_35_53_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/rainy-modern-business-district.html",
+    "createdAt": "2026-08-05T15:14:04Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-shanghai-skyline-reflection-435",
+    "title": "Moonlit Shanghai Skyline Reflection",
+    "description": "Download Moonlit Shanghai Skyline Reflection, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2641649,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "moonlit",
+      "shanghai",
+      "skyline",
+      "reflection"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942882/ChatGPT_Image_Aug_4_2026_09_35_56_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942882/ChatGPT_Image_Aug_4_2026_09_35_56_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942882/ChatGPT_Image_Aug_4_2026_09_35_56_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00435/v1785942882/ChatGPT_Image_Aug_4_2026_09_35_56_PM.png",
+    "slug": "moonlit-shanghai-skyline-reflection",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_35_56_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/moonlit-shanghai-skyline-reflection.html",
+    "createdAt": "2026-08-05T15:14:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-golden-futuristic-city-at-sunset-436",
+    "title": "Golden Futuristic City at Sunset",
+    "description": "Download Golden Futuristic City at Sunset, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atm.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2714266,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "golden",
+      "futuristic",
+      "city",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942836/ChatGPT_Image_Aug_4_2026_09_36_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942836/ChatGPT_Image_Aug_4_2026_09_36_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942836/ChatGPT_Image_Aug_4_2026_09_36_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00436/v1785942836/ChatGPT_Image_Aug_4_2026_09_36_26_PM.png",
+    "slug": "golden-futuristic-city-at-sunset",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_36_26_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/golden-futuristic-city-at-sunset.html",
+    "createdAt": "2026-08-05T15:13:56Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-fifth-avenue-at-night-437",
+    "title": "Snowy Fifth Avenue at Night",
+    "description": "Download Snowy Fifth Avenue at Night, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosphere.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3233696,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "snowy",
+      "fifth",
+      "avenue",
+      "night"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942879/ChatGPT_Image_Aug_5_2026_08_33_51_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942879/ChatGPT_Image_Aug_5_2026_08_33_51_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942879/ChatGPT_Image_Aug_5_2026_08_33_51_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00437/v1785942879/ChatGPT_Image_Aug_5_2026_08_33_51_PM_1.png",
+    "slug": "snowy-fifth-avenue-at-night",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_33_51_PM_1",
+    "pageUrl": "wallpapers/desktop/cityscape/snowy-fifth-avenue-at-night.html",
+    "createdAt": "2026-08-05T15:14:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainy-manhattan-street-with-taxis-438",
+    "title": "Rainy Manhattan Street with Taxis",
+    "description": "Download Rainy Manhattan Street with Taxis, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban at.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3314074,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "rainy",
+      "manhattan",
+      "street",
+      "taxis"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942963/ChatGPT_Image_Aug_5_2026_08_33_52_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942963/ChatGPT_Image_Aug_5_2026_08_33_52_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942963/ChatGPT_Image_Aug_5_2026_08_33_52_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00438/v1785942963/ChatGPT_Image_Aug_5_2026_08_33_52_PM_2.png",
+    "slug": "rainy-manhattan-street-with-taxis",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_33_52_PM_2",
+    "pageUrl": "wallpapers/desktop/cityscape/rainy-manhattan-street-with-taxis.html",
+    "createdAt": "2026-08-05T15:16:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-venice-rialto-canal-at-blue-hour-439",
+    "title": "Venice Rialto Canal at Blue Hour",
+    "description": "Download Venice Rialto Canal at Blue Hour, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atm.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2898672,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "venice",
+      "rialto",
+      "canal",
+      "blue",
+      "hour"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942852/ChatGPT_Image_Aug_5_2026_08_34_06_PM_1.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942852/ChatGPT_Image_Aug_5_2026_08_34_06_PM_1.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942852/ChatGPT_Image_Aug_5_2026_08_34_06_PM_1.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00439/v1785942852/ChatGPT_Image_Aug_5_2026_08_34_06_PM_1.png",
+    "slug": "venice-rialto-canal-at-blue-hour",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_34_06_PM_1",
+    "pageUrl": "wallpapers/desktop/cityscape/venice-rialto-canal-at-blue-hour.html",
+    "createdAt": "2026-08-05T15:14:12Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-gondola-beneath-venetian-moonlight-440",
+    "title": "Gondola Beneath Venetian Moonlight",
+    "description": "Download Gondola Beneath Venetian Moonlight, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban a.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2591105,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "gondola",
+      "venetian",
+      "moonlight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942903/ChatGPT_Image_Aug_5_2026_08_34_07_PM_2.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942903/ChatGPT_Image_Aug_5_2026_08_34_07_PM_2.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942903/ChatGPT_Image_Aug_5_2026_08_34_07_PM_2.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00440/v1785942903/ChatGPT_Image_Aug_5_2026_08_34_07_PM_2.png",
+    "slug": "gondola-beneath-venetian-moonlight",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_34_07_PM_2",
+    "pageUrl": "wallpapers/desktop/cityscape/gondola-beneath-venetian-moonlight.html",
+    "createdAt": "2026-08-05T15:15:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-neon-tokyo-crossing-in-rain-441",
+    "title": "Neon Tokyo Crossing in Rain",
+    "description": "Download Neon Tokyo Crossing in Rain, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmosphere.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3082393,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "neon",
+      "tokyo",
+      "crossing",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942830/ChatGPT_Image_Aug_5_2026_08_34_09_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942830/ChatGPT_Image_Aug_5_2026_08_34_09_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942830/ChatGPT_Image_Aug_5_2026_08_34_09_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00441/v1785942830/ChatGPT_Image_Aug_5_2026_08_34_09_PM.png",
+    "slug": "neon-tokyo-crossing-in-rain",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_34_09_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/neon-tokyo-crossing-in-rain.html",
+    "createdAt": "2026-08-05T15:13:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-turquoise-canal-city-from-above-442",
+    "title": "Turquoise Canal City from Above",
+    "description": "Download Turquoise Canal City from Above, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmo.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3189407,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "turquoise",
+      "canal",
+      "city",
+      "from"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942876/ChatGPT_Image_Aug_5_2026_08_38_47_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942876/ChatGPT_Image_Aug_5_2026_08_38_47_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942876/ChatGPT_Image_Aug_5_2026_08_38_47_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00442/v1785942876/ChatGPT_Image_Aug_5_2026_08_38_47_PM.png",
+    "slug": "turquoise-canal-city-from-above",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_38_47_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/turquoise-canal-city-from-above.html",
+    "createdAt": "2026-08-05T15:14:36Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-futuristic-palace-at-sunrise-443",
+    "title": "White Futuristic Palace at Sunrise",
+    "description": "Download White Futuristic Palace at Sunrise, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban a.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2948829,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "white",
+      "futuristic",
+      "palace",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942827/ChatGPT_Image_Aug_5_2026_08_38_50_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942827/ChatGPT_Image_Aug_5_2026_08_38_50_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942827/ChatGPT_Image_Aug_5_2026_08_38_50_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00443/v1785942827/ChatGPT_Image_Aug_5_2026_08_38_50_PM.png",
+    "slug": "white-futuristic-palace-at-sunrise",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_38_50_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/white-futuristic-palace-at-sunrise.html",
+    "createdAt": "2026-08-05T15:13:47Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-bangkok-temple-skyline-at-sunset-444",
+    "title": "Bangkok Temple Skyline at Sunset",
+    "description": "Download Bangkok Temple Skyline at Sunset, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atm.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2793704,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "bangkok",
+      "temple",
+      "skyline",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942831/ChatGPT_Image_Aug_5_2026_08_38_54_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942831/ChatGPT_Image_Aug_5_2026_08_38_54_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942831/ChatGPT_Image_Aug_5_2026_08_38_54_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00444/v1785942831/ChatGPT_Image_Aug_5_2026_08_38_54_PM.png",
+    "slug": "bangkok-temple-skyline-at-sunset",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_38_54_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/bangkok-temple-skyline-at-sunset.html",
+    "createdAt": "2026-08-05T15:13:51Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-white-cliff-city-above-blue-bay-445",
+    "title": "White Cliff City Above Blue Bay",
+    "description": "Download White Cliff City Above Blue Bay, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmo.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2981162,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "white",
+      "cliff",
+      "city",
+      "blue",
+      "bay"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942975/ChatGPT_Image_Aug_5_2026_08_38_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942975/ChatGPT_Image_Aug_5_2026_08_38_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942975/ChatGPT_Image_Aug_5_2026_08_38_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00445/v1785942975/ChatGPT_Image_Aug_5_2026_08_38_57_PM.png",
+    "slug": "white-cliff-city-above-blue-bay",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_38_57_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/white-cliff-city-above-blue-bay.html",
+    "createdAt": "2026-08-05T15:16:15Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-amsterdam-canal-at-golden-hour-446",
+    "title": "Amsterdam Canal at Golden Hour",
+    "description": "Download Amsterdam Canal at Golden Hour, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmos.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3220220,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "amsterdam",
+      "canal",
+      "golden",
+      "hour"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943006/ChatGPT_Image_Aug_5_2026_08_38_59_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943006/ChatGPT_Image_Aug_5_2026_08_38_59_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943006/ChatGPT_Image_Aug_5_2026_08_38_59_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00446/v1785943006/ChatGPT_Image_Aug_5_2026_08_38_59_PM.png",
+    "slug": "amsterdam-canal-at-golden-hour",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_38_59_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/amsterdam-canal-at-golden-hour.html",
+    "createdAt": "2026-08-05T15:16:46Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rooftop-infinity-pool-over-dubai-447",
+    "title": "Rooftop Infinity Pool Over Dubai",
+    "description": "Download Rooftop Infinity Pool Over Dubai, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atm.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2780878,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "rooftop",
+      "infinity",
+      "pool",
+      "dubai"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942944/ChatGPT_Image_Aug_5_2026_08_39_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942944/ChatGPT_Image_Aug_5_2026_08_39_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942944/ChatGPT_Image_Aug_5_2026_08_39_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00447/v1785942944/ChatGPT_Image_Aug_5_2026_08_39_02_PM.png",
+    "slug": "rooftop-infinity-pool-over-dubai",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_39_02_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/rooftop-infinity-pool-over-dubai.html",
+    "createdAt": "2026-08-05T15:15:44Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hong-kong-harbor-neon-reflection-448",
+    "title": "Hong Kong Harbor Neon Reflection",
+    "description": "Download Hong Kong Harbor Neon Reflection, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atm.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2918351,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "hong",
+      "kong",
+      "harbor",
+      "neon",
+      "reflection"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942919/ChatGPT_Image_Aug_5_2026_08_39_06_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942919/ChatGPT_Image_Aug_5_2026_08_39_06_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942919/ChatGPT_Image_Aug_5_2026_08_39_06_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00448/v1785942919/ChatGPT_Image_Aug_5_2026_08_39_06_PM.png",
+    "slug": "hong-kong-harbor-neon-reflection",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_39_06_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/hong-kong-harbor-neon-reflection.html",
+    "createdAt": "2026-08-05T15:15:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-paris-rooftops-beneath-pink-sky-449",
+    "title": "Paris Rooftops Beneath Pink Sky",
+    "description": "Download Paris Rooftops Beneath Pink Sky, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmo.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2809947,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "paris",
+      "rooftops",
+      "pink",
+      "sky"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942926/ChatGPT_Image_Aug_5_2026_08_39_09_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942926/ChatGPT_Image_Aug_5_2026_08_39_09_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942926/ChatGPT_Image_Aug_5_2026_08_39_09_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00449/v1785942926/ChatGPT_Image_Aug_5_2026_08_39_09_PM.png",
+    "slug": "paris-rooftops-beneath-pink-sky",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_39_09_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/paris-rooftops-beneath-pink-sky.html",
+    "createdAt": "2026-08-05T15:15:26Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunny-european-old-town-square-450",
+    "title": "Sunny European Old Town Square",
+    "description": "Download Sunny European Old Town Square, 1672x941 cityscape desktop wallpaper featuring architectural detail, dramatic city light, and a polished urban atmos.",
+    "category": "Cityscape",
+    "categories": [
+      "Cityscape"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3067569,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "cityscape wallpaper",
+      "urban wallpaper",
+      "city wallpaper",
+      "sunny",
+      "european",
+      "old",
+      "town",
+      "square"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785942987/ChatGPT_Image_Aug_5_2026_08_39_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785942987/ChatGPT_Image_Aug_5_2026_08_39_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785942987/ChatGPT_Image_Aug_5_2026_08_39_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00450/v1785942987/ChatGPT_Image_Aug_5_2026_08_39_12_PM.png",
+    "slug": "sunny-european-old-town-square",
+    "publicId": "ChatGPT_Image_Aug_5_2026_08_39_12_PM",
+    "pageUrl": "wallpapers/desktop/cityscape/sunny-european-old-town-square.html",
+    "createdAt": "2026-08-05T15:16:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-infinite-purple-cosmic-library-451",
+    "title": "Infinite Purple Cosmic Library",
+    "description": "Download Infinite Purple Cosmic Library, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2897588,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "infinite",
+      "purple",
+      "cosmic",
+      "library"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943216/ChatGPT_Image_Aug_4_2026_09_15_25_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943216/ChatGPT_Image_Aug_4_2026_09_15_25_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943216/ChatGPT_Image_Aug_4_2026_09_15_25_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00451/v1785943216/ChatGPT_Image_Aug_4_2026_09_15_25_PM.png",
+    "slug": "infinite-purple-cosmic-library",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_15_25_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/infinite-purple-cosmic-library.html",
+    "createdAt": "2026-08-05T15:20:16Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-ice-citadel-452",
+    "title": "Aurora Ice Citadel",
+    "description": "Download Aurora Ice Citadel, a free 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and richly detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2770841,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "aurora",
+      "ice",
+      "citadel"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943220/ChatGPT_Image_Aug_4_2026_09_15_31_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943220/ChatGPT_Image_Aug_4_2026_09_15_31_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943220/ChatGPT_Image_Aug_4_2026_09_15_31_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00452/v1785943220/ChatGPT_Image_Aug_4_2026_09_15_31_PM.png",
+    "slug": "aurora-ice-citadel",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_15_31_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/aurora-ice-citadel.html",
+    "createdAt": "2026-08-05T15:20:20Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-starlit-silver-forest-river-453",
+    "title": "Starlit Silver Forest River",
+    "description": "Download Starlit Silver Forest River, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2865049,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "starlit",
+      "silver",
+      "forest",
+      "river"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943223/ChatGPT_Image_Aug_4_2026_09_16_00_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943223/ChatGPT_Image_Aug_4_2026_09_16_00_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943223/ChatGPT_Image_Aug_4_2026_09_16_00_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00453/v1785943223/ChatGPT_Image_Aug_4_2026_09_16_00_PM.png",
+    "slug": "starlit-silver-forest-river",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_00_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/starlit-silver-forest-river.html",
+    "createdAt": "2026-08-05T15:20:23Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crimson-lightning-fortress-454",
+    "title": "Crimson Lightning Fortress",
+    "description": "Download Crimson Lightning Fortress, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2398875,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "crimson",
+      "lightning",
+      "fortress"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943200/ChatGPT_Image_Aug_4_2026_09_16_03_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943200/ChatGPT_Image_Aug_4_2026_09_16_03_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943200/ChatGPT_Image_Aug_4_2026_09_16_03_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00454/v1785943200/ChatGPT_Image_Aug_4_2026_09_16_03_PM.png",
+    "slug": "crimson-lightning-fortress",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_03_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/crimson-lightning-fortress.html",
+    "createdAt": "2026-08-05T15:20:00Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-black-lotus-palace-455",
+    "title": "Moonlit Black Lotus Palace",
+    "description": "Download Moonlit Black Lotus Palace, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2823582,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "moonlit",
+      "black",
+      "lotus",
+      "palace"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943233/ChatGPT_Image_Aug_4_2026_09_16_06_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943233/ChatGPT_Image_Aug_4_2026_09_16_06_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943233/ChatGPT_Image_Aug_4_2026_09_16_06_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00455/v1785943233/ChatGPT_Image_Aug_4_2026_09_16_06_PM.png",
+    "slug": "moonlit-black-lotus-palace",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_06_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/moonlit-black-lotus-palace.html",
+    "createdAt": "2026-08-05T15:20:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-purple-crystal-castle-under-red-sky-456",
+    "title": "Purple Crystal Castle Under Red Sky",
+    "description": "Download Purple Crystal Castle Under Red Sky, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2524395,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "purple",
+      "crystal",
+      "castle",
+      "red",
+      "sky"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943310/ChatGPT_Image_Aug_4_2026_09_16_08_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943310/ChatGPT_Image_Aug_4_2026_09_16_08_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943310/ChatGPT_Image_Aug_4_2026_09_16_08_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00456/v1785943310/ChatGPT_Image_Aug_4_2026_09_16_08_PM.png",
+    "slug": "purple-crystal-castle-under-red-sky",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_08_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/purple-crystal-castle-under-red-sky.html",
+    "createdAt": "2026-08-05T15:21:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-violet-lantern-city-457",
+    "title": "Violet Lantern City",
+    "description": "Download Violet Lantern City, a free 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and richly detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2554598,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "violet",
+      "lantern",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943392/ChatGPT_Image_Aug_4_2026_09_16_11_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943392/ChatGPT_Image_Aug_4_2026_09_16_11_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943392/ChatGPT_Image_Aug_4_2026_09_16_11_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00457/v1785943392/ChatGPT_Image_Aug_4_2026_09_16_11_PM.png",
+    "slug": "violet-lantern-city",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_11_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/violet-lantern-city.html",
+    "createdAt": "2026-08-05T15:23:12Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-gothic-bridge-above-purple-clouds-458",
+    "title": "Gothic Bridge Above Purple Clouds",
+    "description": "Download Gothic Bridge Above Purple Clouds, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2416122,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "gothic",
+      "bridge",
+      "purple",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943304/ChatGPT_Image_Aug_4_2026_09_16_14_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943304/ChatGPT_Image_Aug_4_2026_09_16_14_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943304/ChatGPT_Image_Aug_4_2026_09_16_14_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00458/v1785943304/ChatGPT_Image_Aug_4_2026_09_16_14_PM.png",
+    "slug": "gothic-bridge-above-purple-clouds",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_14_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/gothic-bridge-above-purple-clouds.html",
+    "createdAt": "2026-08-05T15:21:44Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cosmic-cathedral-in-silver-rain-459",
+    "title": "Cosmic Cathedral in Silver Rain",
+    "description": "Download Cosmic Cathedral in Silver Rain, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2785238,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "cosmic",
+      "cathedral",
+      "silver",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943369/ChatGPT_Image_Aug_4_2026_09_16_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943369/ChatGPT_Image_Aug_4_2026_09_16_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943369/ChatGPT_Image_Aug_4_2026_09_16_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00459/v1785943369/ChatGPT_Image_Aug_4_2026_09_16_17_PM.png",
+    "slug": "cosmic-cathedral-in-silver-rain",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_17_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/cosmic-cathedral-in-silver-rain.html",
+    "createdAt": "2026-08-05T15:22:49Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-storm-castle-above-dark-sea-460",
+    "title": "Storm Castle Above Dark Sea",
+    "description": "Download Storm Castle Above Dark Sea, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2217341,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "storm",
+      "castle",
+      "dark",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943277/ChatGPT_Image_Aug_4_2026_09_16_21_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943277/ChatGPT_Image_Aug_4_2026_09_16_21_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943277/ChatGPT_Image_Aug_4_2026_09_16_21_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00460/v1785943277/ChatGPT_Image_Aug_4_2026_09_16_21_PM.png",
+    "slug": "storm-castle-above-dark-sea",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_21_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/storm-castle-above-dark-sea.html",
+    "createdAt": "2026-08-05T15:21:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blood-moon-citadel-461",
+    "title": "Blood Moon Citadel",
+    "description": "Download Blood Moon Citadel, a free 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and richly detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2172608,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "blood",
+      "moon",
+      "citadel"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943274/ChatGPT_Image_Aug_4_2026_09_16_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943274/ChatGPT_Image_Aug_4_2026_09_16_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943274/ChatGPT_Image_Aug_4_2026_09_16_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00461/v1785943274/ChatGPT_Image_Aug_4_2026_09_16_24_PM.png",
+    "slug": "blood-moon-citadel",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_24_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/blood-moon-citadel.html",
+    "createdAt": "2026-08-05T15:21:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-flowing-neon-glass-ribbons-462",
+    "title": "Flowing Neon Glass Ribbons",
+    "description": "Download Flowing Neon Glass Ribbons, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2062188,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "flowing",
+      "neon",
+      "glass",
+      "ribbons"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943221/ChatGPT_Image_Aug_4_2026_09_16_40_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943221/ChatGPT_Image_Aug_4_2026_09_16_40_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943221/ChatGPT_Image_Aug_4_2026_09_16_40_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00462/v1785943221/ChatGPT_Image_Aug_4_2026_09_16_40_PM.png",
+    "slug": "flowing-neon-glass-ribbons",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_40_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/flowing-neon-glass-ribbons.html",
+    "createdAt": "2026-08-05T15:20:21Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-eclipse-palace-with-crimson-lights-463",
+    "title": "Eclipse Palace with Crimson Lights",
+    "description": "Download Eclipse Palace with Crimson Lights, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2308258,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "eclipse",
+      "palace",
+      "crimson",
+      "lights"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943287/ChatGPT_Image_Aug_4_2026_09_16_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943287/ChatGPT_Image_Aug_4_2026_09_16_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943287/ChatGPT_Image_Aug_4_2026_09_16_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00463/v1785943287/ChatGPT_Image_Aug_4_2026_09_16_57_PM.png",
+    "slug": "eclipse-palace-with-crimson-lights",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_16_57_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/eclipse-palace-with-crimson-lights.html",
+    "createdAt": "2026-08-05T15:21:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-rose-cathedral-garden-464",
+    "title": "Moonlit Rose Cathedral Garden",
+    "description": "Download Moonlit Rose Cathedral Garden, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2829732,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "moonlit",
+      "rose",
+      "cathedral",
+      "garden"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943350/ChatGPT_Image_Aug_4_2026_09_17_00_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943350/ChatGPT_Image_Aug_4_2026_09_17_00_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943350/ChatGPT_Image_Aug_4_2026_09_17_00_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00464/v1785943350/ChatGPT_Image_Aug_4_2026_09_17_00_PM.png",
+    "slug": "moonlit-rose-cathedral-garden",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_00_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/moonlit-rose-cathedral-garden.html",
+    "createdAt": "2026-08-05T15:22:30Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-purple-eclipse-gothic-city-465",
+    "title": "Purple Eclipse Gothic City",
+    "description": "Download Purple Eclipse Gothic City, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2634344,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "purple",
+      "eclipse",
+      "gothic",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943325/ChatGPT_Image_Aug_4_2026_09_17_04_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943325/ChatGPT_Image_Aug_4_2026_09_17_04_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943325/ChatGPT_Image_Aug_4_2026_09_17_04_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00465/v1785943325/ChatGPT_Image_Aug_4_2026_09_17_04_PM.png",
+    "slug": "purple-eclipse-gothic-city",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_04_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/purple-eclipse-gothic-city.html",
+    "createdAt": "2026-08-05T15:22:05Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cosmic-clocktower-kingdom-466",
+    "title": "Cosmic Clocktower Kingdom",
+    "description": "Download Cosmic Clocktower Kingdom, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2934583,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "cosmic",
+      "clocktower",
+      "kingdom"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943357/ChatGPT_Image_Aug_4_2026_09_17_07_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943357/ChatGPT_Image_Aug_4_2026_09_17_07_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943357/ChatGPT_Image_Aug_4_2026_09_17_07_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00466/v1785943357/ChatGPT_Image_Aug_4_2026_09_17_07_PM.png",
+    "slug": "cosmic-clocktower-kingdom",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_07_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/cosmic-clocktower-kingdom.html",
+    "createdAt": "2026-08-05T15:22:37Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-violet-castle-isles-467",
+    "title": "Floating Violet Castle Isles",
+    "description": "Download Floating Violet Castle Isles, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2725396,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "floating",
+      "violet",
+      "castle",
+      "isles"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943353/ChatGPT_Image_Aug_4_2026_09_17_11_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943353/ChatGPT_Image_Aug_4_2026_09_17_11_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943353/ChatGPT_Image_Aug_4_2026_09_17_11_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00467/v1785943353/ChatGPT_Image_Aug_4_2026_09_17_11_PM.png",
+    "slug": "floating-violet-castle-isles",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_11_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/floating-violet-castle-isles.html",
+    "createdAt": "2026-08-05T15:22:33Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-waterfall-fortress-468",
+    "title": "Moonlit Waterfall Fortress",
+    "description": "Download Moonlit Waterfall Fortress, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2567211,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "moonlit",
+      "waterfall",
+      "fortress"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943328/ChatGPT_Image_Aug_4_2026_09_17_13_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943328/ChatGPT_Image_Aug_4_2026_09_17_13_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943328/ChatGPT_Image_Aug_4_2026_09_17_13_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00468/v1785943328/ChatGPT_Image_Aug_4_2026_09_17_13_PM.png",
+    "slug": "moonlit-waterfall-fortress",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_13_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/moonlit-waterfall-fortress.html",
+    "createdAt": "2026-08-05T15:22:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lightning-castle-in-black-forest-469",
+    "title": "Lightning Castle in Black Forest",
+    "description": "Download Lightning Castle in Black Forest, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2334394,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "lightning",
+      "castle",
+      "black",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943268/ChatGPT_Image_Aug_4_2026_09_17_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943268/ChatGPT_Image_Aug_4_2026_09_17_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943268/ChatGPT_Image_Aug_4_2026_09_17_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00469/v1785943268/ChatGPT_Image_Aug_4_2026_09_17_17_PM.png",
+    "slug": "lightning-castle-in-black-forest",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_17_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/lightning-castle-in-black-forest.html",
+    "createdAt": "2026-08-05T15:21:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-purple-eclipse-crystal-bridge-470",
+    "title": "Purple Eclipse Crystal Bridge",
+    "description": "Download Purple Eclipse Crystal Bridge, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2750717,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "purple",
+      "eclipse",
+      "crystal",
+      "bridge"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943348/ChatGPT_Image_Aug_4_2026_09_17_20_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943348/ChatGPT_Image_Aug_4_2026_09_17_20_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943348/ChatGPT_Image_Aug_4_2026_09_17_20_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00470/v1785943348/ChatGPT_Image_Aug_4_2026_09_17_20_PM.png",
+    "slug": "purple-eclipse-crystal-bridge",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_20_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/purple-eclipse-crystal-bridge.html",
+    "createdAt": "2026-08-05T15:22:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-ghost-fleet-in-moonlit-harbor-471",
+    "title": "Ghost Fleet in Moonlit Harbor",
+    "description": "Download Ghost Fleet in Moonlit Harbor, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2358075,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "ghost",
+      "fleet",
+      "moonlit",
+      "harbor"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943299/ChatGPT_Image_Aug_4_2026_09_17_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943299/ChatGPT_Image_Aug_4_2026_09_17_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943299/ChatGPT_Image_Aug_4_2026_09_17_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00471/v1785943299/ChatGPT_Image_Aug_4_2026_09_17_22_PM.png",
+    "slug": "ghost-fleet-in-moonlit-harbor",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_22_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/ghost-fleet-in-moonlit-harbor.html",
+    "createdAt": "2026-08-05T15:21:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blood-moon-waterfall-abyss-472",
+    "title": "Blood Moon Waterfall Abyss",
+    "description": "Download Blood Moon Waterfall Abyss, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2171850,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "blood",
+      "moon",
+      "waterfall",
+      "abyss"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943252/ChatGPT_Image_Aug_4_2026_09_17_25_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943252/ChatGPT_Image_Aug_4_2026_09_17_25_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943252/ChatGPT_Image_Aug_4_2026_09_17_25_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00472/v1785943252/ChatGPT_Image_Aug_4_2026_09_17_25_PM.png",
+    "slug": "blood-moon-waterfall-abyss",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_25_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/blood-moon-waterfall-abyss.html",
+    "createdAt": "2026-08-05T15:20:52Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-eclipse-fortress-above-crimson-clouds-473",
+    "title": "Eclipse Fortress Above Crimson Clouds",
+    "description": "Download Eclipse Fortress Above Crimson Clouds, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosp.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2228224,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "eclipse",
+      "fortress",
+      "crimson",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943238/ChatGPT_Image_Aug_4_2026_09_17_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943238/ChatGPT_Image_Aug_4_2026_09_17_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943238/ChatGPT_Image_Aug_4_2026_09_17_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00473/v1785943238/ChatGPT_Image_Aug_4_2026_09_17_29_PM.png",
+    "slug": "eclipse-fortress-above-crimson-clouds",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_29_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/eclipse-fortress-above-crimson-clouds.html",
+    "createdAt": "2026-08-05T15:20:38Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-red-eclipse-lava-valley-474",
+    "title": "Red Eclipse Lava Valley",
+    "description": "Download Red Eclipse Lava Valley, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2296931,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "red",
+      "eclipse",
+      "lava",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943245/ChatGPT_Image_Aug_4_2026_09_17_33_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943245/ChatGPT_Image_Aug_4_2026_09_17_33_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943245/ChatGPT_Image_Aug_4_2026_09_17_33_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00474/v1785943245/ChatGPT_Image_Aug_4_2026_09_17_33_PM.png",
+    "slug": "red-eclipse-lava-valley",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_33_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/red-eclipse-lava-valley.html",
+    "createdAt": "2026-08-05T15:20:45Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-enchanted-purple-ancient-tree-475",
+    "title": "Enchanted Purple Ancient Tree",
+    "description": "Download Enchanted Purple Ancient Tree, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2839454,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "enchanted",
+      "purple",
+      "ancient",
+      "tree"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943360/ChatGPT_Image_Aug_4_2026_09_17_35_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943360/ChatGPT_Image_Aug_4_2026_09_17_35_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943360/ChatGPT_Image_Aug_4_2026_09_17_35_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00475/v1785943360/ChatGPT_Image_Aug_4_2026_09_17_35_PM.png",
+    "slug": "enchanted-purple-ancient-tree",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_17_35_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/enchanted-purple-ancient-tree.html",
+    "createdAt": "2026-08-05T15:22:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-kingdom-across-frozen-lake-476",
+    "title": "Aurora Kingdom Across Frozen Lake",
+    "description": "Download Aurora Kingdom Across Frozen Lake, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2749266,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "aurora",
+      "kingdom",
+      "across",
+      "frozen",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943339/ChatGPT_Image_Aug_4_2026_09_19_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943339/ChatGPT_Image_Aug_4_2026_09_19_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943339/ChatGPT_Image_Aug_4_2026_09_19_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00476/v1785943339/ChatGPT_Image_Aug_4_2026_09_19_17_PM.png",
+    "slug": "aurora-kingdom-across-frozen-lake",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_17_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/aurora-kingdom-across-frozen-lake.html",
+    "createdAt": "2026-08-05T15:22:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blue-crystal-gate-in-storm-477",
+    "title": "Blue Crystal Gate in Storm",
+    "description": "Download Blue Crystal Gate in Storm, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2617080,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "blue",
+      "crystal",
+      "gate",
+      "storm"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943301/ChatGPT_Image_Aug_4_2026_09_19_20_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943301/ChatGPT_Image_Aug_4_2026_09_19_20_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943301/ChatGPT_Image_Aug_4_2026_09_19_20_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00477/v1785943301/ChatGPT_Image_Aug_4_2026_09_19_20_PM.png",
+    "slug": "blue-crystal-gate-in-storm",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_20_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/blue-crystal-gate-in-storm.html",
+    "createdAt": "2026-08-05T15:21:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-violet-palace-above-clouds-478",
+    "title": "Violet Palace Above Clouds",
+    "description": "Download Violet Palace Above Clouds, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2795768,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "violet",
+      "palace",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943333/ChatGPT_Image_Aug_4_2026_09_19_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943333/ChatGPT_Image_Aug_4_2026_09_19_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943333/ChatGPT_Image_Aug_4_2026_09_19_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00478/v1785943333/ChatGPT_Image_Aug_4_2026_09_19_24_PM.png",
+    "slug": "violet-palace-above-clouds",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_24_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/violet-palace-above-clouds.html",
+    "createdAt": "2026-08-05T15:22:13Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crescent-moon-gothic-sky-city-479",
+    "title": "Crescent Moon Gothic Sky City",
+    "description": "Download Crescent Moon Gothic Sky City, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2405277,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "crescent",
+      "moon",
+      "gothic",
+      "sky",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943262/ChatGPT_Image_Aug_4_2026_09_19_28_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943262/ChatGPT_Image_Aug_4_2026_09_19_28_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943262/ChatGPT_Image_Aug_4_2026_09_19_28_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00479/v1785943262/ChatGPT_Image_Aug_4_2026_09_19_28_PM.png",
+    "slug": "crescent-moon-gothic-sky-city",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_28_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/crescent-moon-gothic-sky-city.html",
+    "createdAt": "2026-08-05T15:21:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-starry-purple-cathedral-city-480",
+    "title": "Starry Purple Cathedral City",
+    "description": "Download Starry Purple Cathedral City, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2555196,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "starry",
+      "purple",
+      "cathedral",
+      "city"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943294/ChatGPT_Image_Aug_4_2026_09_19_31_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943294/ChatGPT_Image_Aug_4_2026_09_19_31_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943294/ChatGPT_Image_Aug_4_2026_09_19_31_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00480/v1785943294/ChatGPT_Image_Aug_4_2026_09_19_31_PM.png",
+    "slug": "starry-purple-cathedral-city",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_31_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/starry-purple-cathedral-city.html",
+    "createdAt": "2026-08-05T15:21:34Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-blue-gothic-citadel-481",
+    "title": "Moonlit Blue Gothic Citadel",
+    "description": "Download Moonlit Blue Gothic Citadel, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2585363,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "moonlit",
+      "blue",
+      "gothic",
+      "citadel"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943292/ChatGPT_Image_Aug_4_2026_09_19_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943292/ChatGPT_Image_Aug_4_2026_09_19_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943292/ChatGPT_Image_Aug_4_2026_09_19_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00481/v1785943292/ChatGPT_Image_Aug_4_2026_09_19_34_PM.png",
+    "slug": "moonlit-blue-gothic-citadel",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_34_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/moonlit-blue-gothic-citadel.html",
+    "createdAt": "2026-08-05T15:21:32Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blue-lantern-underground-kingdom-482",
+    "title": "Blue Lantern Underground Kingdom",
+    "description": "Download Blue Lantern Underground Kingdom, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2828771,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "blue",
+      "lantern",
+      "underground",
+      "kingdom"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943342/ChatGPT_Image_Aug_4_2026_09_19_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943342/ChatGPT_Image_Aug_4_2026_09_19_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943342/ChatGPT_Image_Aug_4_2026_09_19_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00482/v1785943342/ChatGPT_Image_Aug_4_2026_09_19_37_PM.png",
+    "slug": "blue-lantern-underground-kingdom",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_37_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/blue-lantern-underground-kingdom.html",
+    "createdAt": "2026-08-05T15:22:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-storm-bridge-to-dark-castle-483",
+    "title": "Storm Bridge to Dark Castle",
+    "description": "Download Storm Bridge to Dark Castle, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2289105,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "storm",
+      "bridge",
+      "dark",
+      "castle"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943244/ChatGPT_Image_Aug_4_2026_09_19_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943244/ChatGPT_Image_Aug_4_2026_09_19_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943244/ChatGPT_Image_Aug_4_2026_09_19_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00483/v1785943244/ChatGPT_Image_Aug_4_2026_09_19_41_PM.png",
+    "slug": "storm-bridge-to-dark-castle",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_41_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/storm-bridge-to-dark-castle.html",
+    "createdAt": "2026-08-05T15:20:44Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-purple-eclipse-enchanted-forest-484",
+    "title": "Purple Eclipse Enchanted Forest",
+    "description": "Download Purple Eclipse Enchanted Forest, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2825225,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "purple",
+      "eclipse",
+      "enchanted",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943359/ChatGPT_Image_Aug_4_2026_09_19_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943359/ChatGPT_Image_Aug_4_2026_09_19_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943359/ChatGPT_Image_Aug_4_2026_09_19_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00484/v1785943359/ChatGPT_Image_Aug_4_2026_09_19_45_PM.png",
+    "slug": "purple-eclipse-enchanted-forest",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_45_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/purple-eclipse-enchanted-forest.html",
+    "createdAt": "2026-08-05T15:22:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blue-flame-gothic-library-485",
+    "title": "Blue Flame Gothic Library",
+    "description": "Download Blue Flame Gothic Library, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2708975,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "blue",
+      "flame",
+      "gothic",
+      "library"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943303/ChatGPT_Image_Aug_4_2026_09_19_48_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943303/ChatGPT_Image_Aug_4_2026_09_19_48_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943303/ChatGPT_Image_Aug_4_2026_09_19_48_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00485/v1785943303/ChatGPT_Image_Aug_4_2026_09_19_48_PM.png",
+    "slug": "blue-flame-gothic-library",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_48_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/blue-flame-gothic-library.html",
+    "createdAt": "2026-08-05T15:21:43Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-stone-guardian-in-moonlit-forest-486",
+    "title": "Stone Guardian in Moonlit Forest",
+    "description": "Download Stone Guardian in Moonlit Forest, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2747766,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "stone",
+      "guardian",
+      "moonlit",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943322/ChatGPT_Image_Aug_4_2026_09_19_51_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943322/ChatGPT_Image_Aug_4_2026_09_19_51_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943322/ChatGPT_Image_Aug_4_2026_09_19_51_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00486/v1785943322/ChatGPT_Image_Aug_4_2026_09_19_51_PM.png",
+    "slug": "stone-guardian-in-moonlit-forest",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_51_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/stone-guardian-in-moonlit-forest.html",
+    "createdAt": "2026-08-05T15:22:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-violet-crystal-cavern-realm-487",
+    "title": "Violet Crystal Cavern Realm",
+    "description": "Download Violet Crystal Cavern Realm, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2589618,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "violet",
+      "crystal",
+      "cavern",
+      "realm"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943239/ChatGPT_Image_Aug_4_2026_09_19_55_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943239/ChatGPT_Image_Aug_4_2026_09_19_55_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943239/ChatGPT_Image_Aug_4_2026_09_19_55_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00487/v1785943239/ChatGPT_Image_Aug_4_2026_09_19_55_PM.png",
+    "slug": "violet-crystal-cavern-realm",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_55_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/violet-crystal-cavern-realm.html",
+    "createdAt": "2026-08-05T15:20:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-dark-knight-on-gothic-throne-488",
+    "title": "Dark Knight on Gothic Throne",
+    "description": "Download Dark Knight on Gothic Throne, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2448762,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "dark",
+      "knight",
+      "gothic",
+      "throne"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943279/ChatGPT_Image_Aug_4_2026_09_19_59_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943279/ChatGPT_Image_Aug_4_2026_09_19_59_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943279/ChatGPT_Image_Aug_4_2026_09_19_59_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00488/v1785943279/ChatGPT_Image_Aug_4_2026_09_19_59_PM.png",
+    "slug": "dark-knight-on-gothic-throne",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_19_59_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/dark-knight-on-gothic-throne.html",
+    "createdAt": "2026-08-05T15:21:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blue-flame-path-to-storm-castle-489",
+    "title": "Blue Flame Path to Storm Castle",
+    "description": "Download Blue Flame Path to Storm Castle, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2659757,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "blue",
+      "flame",
+      "path",
+      "storm",
+      "castle"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943312/ChatGPT_Image_Aug_4_2026_09_20_23_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943312/ChatGPT_Image_Aug_4_2026_09_20_23_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943312/ChatGPT_Image_Aug_4_2026_09_20_23_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00489/v1785943312/ChatGPT_Image_Aug_4_2026_09_20_23_PM.png",
+    "slug": "blue-flame-path-to-storm-castle",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_23_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/blue-flame-path-to-storm-castle.html",
+    "createdAt": "2026-08-05T15:21:52Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-crescent-moon-ancient-ruins-490",
+    "title": "Crescent Moon Ancient Ruins",
+    "description": "Download Crescent Moon Ancient Ruins, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2740661,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "crescent",
+      "moon",
+      "ancient",
+      "ruins"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943269/ChatGPT_Image_Aug_4_2026_09_20_27_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943269/ChatGPT_Image_Aug_4_2026_09_20_27_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943269/ChatGPT_Image_Aug_4_2026_09_20_27_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00490/v1785943269/ChatGPT_Image_Aug_4_2026_09_20_27_PM.png",
+    "slug": "crescent-moon-ancient-ruins",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_27_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/crescent-moon-ancient-ruins.html",
+    "createdAt": "2026-08-05T15:21:09Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-red-moon-obelisk-wasteland-491",
+    "title": "Red Moon Obelisk Wasteland",
+    "description": "Download Red Moon Obelisk Wasteland, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2210676,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "red",
+      "moon",
+      "obelisk",
+      "wasteland"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943390/ChatGPT_Image_Aug_4_2026_09_20_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943390/ChatGPT_Image_Aug_4_2026_09_20_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943390/ChatGPT_Image_Aug_4_2026_09_20_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00491/v1785943390/ChatGPT_Image_Aug_4_2026_09_20_34_PM.png",
+    "slug": "red-moon-obelisk-wasteland",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_34_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/red-moon-obelisk-wasteland.html",
+    "createdAt": "2026-08-05T15:23:10Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-purple-eclipse-castle-reflection-492",
+    "title": "Purple Eclipse Castle Reflection",
+    "description": "Download Purple Eclipse Castle Reflection, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2574601,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "purple",
+      "eclipse",
+      "castle",
+      "reflection"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943401/ChatGPT_Image_Aug_4_2026_09_20_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943401/ChatGPT_Image_Aug_4_2026_09_20_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943401/ChatGPT_Image_Aug_4_2026_09_20_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00492/v1785943401/ChatGPT_Image_Aug_4_2026_09_20_39_PM.png",
+    "slug": "purple-eclipse-castle-reflection",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_39_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/purple-eclipse-castle-reflection.html",
+    "createdAt": "2026-08-05T15:23:21Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-statue-bridge-over-crimson-abyss-493",
+    "title": "Statue Bridge Over Crimson Abyss",
+    "description": "Download Statue Bridge Over Crimson Abyss, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2456772,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "statue",
+      "bridge",
+      "crimson",
+      "abyss"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943394/ChatGPT_Image_Aug_4_2026_09_20_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943394/ChatGPT_Image_Aug_4_2026_09_20_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943394/ChatGPT_Image_Aug_4_2026_09_20_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00493/v1785943394/ChatGPT_Image_Aug_4_2026_09_20_45_PM.png",
+    "slug": "statue-bridge-over-crimson-abyss",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_45_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/statue-bridge-over-crimson-abyss.html",
+    "createdAt": "2026-08-05T15:23:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blood-eclipse-gothic-cathedral-494",
+    "title": "Blood Eclipse Gothic Cathedral",
+    "description": "Download Blood Eclipse Gothic Cathedral, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2530866,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "blood",
+      "eclipse",
+      "gothic",
+      "cathedral"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943377/ChatGPT_Image_Aug_4_2026_09_20_48_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943377/ChatGPT_Image_Aug_4_2026_09_20_48_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943377/ChatGPT_Image_Aug_4_2026_09_20_48_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00494/v1785943377/ChatGPT_Image_Aug_4_2026_09_20_48_PM.png",
+    "slug": "blood-eclipse-gothic-cathedral",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_48_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/blood-eclipse-gothic-cathedral.html",
+    "createdAt": "2026-08-05T15:22:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-mountain-temple-village-495",
+    "title": "Moonlit Mountain Temple Village",
+    "description": "Download Moonlit Mountain Temple Village, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2341223,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "moonlit",
+      "mountain",
+      "temple",
+      "village"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943380/ChatGPT_Image_Aug_4_2026_09_20_55_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943380/ChatGPT_Image_Aug_4_2026_09_20_55_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943380/ChatGPT_Image_Aug_4_2026_09_20_55_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00495/v1785943380/ChatGPT_Image_Aug_4_2026_09_20_55_PM.png",
+    "slug": "moonlit-mountain-temple-village",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_55_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/moonlit-mountain-temple-village.html",
+    "createdAt": "2026-08-05T15:23:00Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-dark-rose-garden-fountain-496",
+    "title": "Dark Rose Garden Fountain",
+    "description": "Download Dark Rose Garden Fountain, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2554386,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "dark",
+      "rose",
+      "garden",
+      "fountain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943379/ChatGPT_Image_Aug_4_2026_09_20_58_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943379/ChatGPT_Image_Aug_4_2026_09_20_58_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943379/ChatGPT_Image_Aug_4_2026_09_20_58_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00496/v1785943379/ChatGPT_Image_Aug_4_2026_09_20_58_PM.png",
+    "slug": "dark-rose-garden-fountain",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_20_58_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/dark-rose-garden-fountain.html",
+    "createdAt": "2026-08-05T15:22:59Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-starlit-black-crystal-cathedral-497",
+    "title": "Starlit Black Crystal Cathedral",
+    "description": "Download Starlit Black Crystal Cathedral, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2878207,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "starlit",
+      "black",
+      "crystal",
+      "cathedral"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943399/ChatGPT_Image_Aug_4_2026_09_21_03_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943399/ChatGPT_Image_Aug_4_2026_09_21_03_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943399/ChatGPT_Image_Aug_4_2026_09_21_03_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00497/v1785943399/ChatGPT_Image_Aug_4_2026_09_21_03_PM.png",
+    "slug": "starlit-black-crystal-cathedral",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_21_03_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/starlit-black-crystal-cathedral.html",
+    "createdAt": "2026-08-05T15:23:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-aurora-kingdom-beyond-the-frozen-lake-498",
+    "title": "Aurora Kingdom Beyond the Frozen Lake",
+    "description": "Download Aurora Kingdom Beyond the Frozen Lake, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosp.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2615629,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "aurora",
+      "kingdom",
+      "frozen",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943382/ChatGPT_Image_Aug_4_2026_09_21_07_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943382/ChatGPT_Image_Aug_4_2026_09_21_07_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943382/ChatGPT_Image_Aug_4_2026_09_21_07_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00498/v1785943382/ChatGPT_Image_Aug_4_2026_09_21_07_PM.png",
+    "slug": "aurora-kingdom-beyond-the-frozen-lake",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_21_07_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/aurora-kingdom-beyond-the-frozen-lake.html",
+    "createdAt": "2026-08-05T15:23:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lava-fortress-in-volcanic-storm-499",
+    "title": "Lava Fortress in Volcanic Storm",
+    "description": "Download Lava Fortress in Volcanic Storm, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2166728,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "lava",
+      "fortress",
+      "volcanic",
+      "storm"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943318/ChatGPT_Image_Aug_4_2026_09_21_11_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943318/ChatGPT_Image_Aug_4_2026_09_21_11_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943318/ChatGPT_Image_Aug_4_2026_09_21_11_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00499/v1785943318/ChatGPT_Image_Aug_4_2026_09_21_11_PM.png",
+    "slug": "lava-fortress-in-volcanic-storm",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_21_11_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/lava-fortress-in-volcanic-storm.html",
+    "createdAt": "2026-08-05T15:21:58Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-starry-black-cathedral-hall-500",
+    "title": "Starry Black Cathedral Hall",
+    "description": "Download Starry Black Cathedral Hall, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmosphere.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2693138,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "starry",
+      "black",
+      "cathedral",
+      "hall"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943323/ChatGPT_Image_Aug_4_2026_09_21_42_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943323/ChatGPT_Image_Aug_4_2026_09_21_42_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943323/ChatGPT_Image_Aug_4_2026_09_21_42_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00500/v1785943323/ChatGPT_Image_Aug_4_2026_09_21_42_PM.png",
+    "slug": "starry-black-cathedral-hall",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_21_42_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/starry-black-cathedral-hall.html",
+    "createdAt": "2026-08-05T15:22:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-gothic-kingdom-at-violet-dusk-501",
+    "title": "Floating Gothic Kingdom at Violet Dusk",
+    "description": "Download Floating Gothic Kingdom at Violet Dusk, 1672x941 fantasy desktop wallpaper featuring imaginative scenery, dramatic light, and detailed fantasy atmos.",
+    "category": "Fantasy",
+    "categories": [
+      "Fantasy"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2393212,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "fantasy wallpaper",
+      "fantasy landscape",
+      "cinematic wallpaper",
+      "floating",
+      "gothic",
+      "kingdom",
+      "violet",
+      "dusk"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785943204/ChatGPT_Image_Aug_4_2026_09_22_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785943204/ChatGPT_Image_Aug_4_2026_09_22_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785943204/ChatGPT_Image_Aug_4_2026_09_22_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00501/v1785943204/ChatGPT_Image_Aug_4_2026_09_22_17_PM.png",
+    "slug": "floating-gothic-kingdom-at-violet-dusk",
+    "publicId": "ChatGPT_Image_Aug_4_2026_09_22_17_PM",
+    "pageUrl": "wallpapers/desktop/fantasy/floating-gothic-kingdom-at-violet-dusk.html",
+    "createdAt": "2026-08-05T15:20:04Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cypress-swamp-at-golden-sunrise-502",
+    "title": "Cypress Swamp at Golden Sunrise",
+    "description": "Download Cypress Swamp at Golden Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3137304,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "cypress",
+      "swamp",
+      "golden",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739339/ChatGPT_Image_Jul_24_2026_02_21_53_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739339/ChatGPT_Image_Jul_24_2026_02_21_53_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739339/ChatGPT_Image_Jul_24_2026_02_21_53_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00502/v1785739339/ChatGPT_Image_Jul_24_2026_02_21_53_PM.png",
+    "slug": "cypress-swamp-at-golden-sunrise",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_21_53_PM",
+    "pageUrl": "wallpapers/desktop/nature/cypress-swamp-at-golden-sunrise.html",
+    "createdAt": "2026-08-03T06:42:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-redwood-forest-stream-sunbeams-503",
+    "title": "Redwood Forest Stream Sunbeams",
+    "description": "Download Redwood Forest Stream Sunbeams, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3128207,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "redwood",
+      "forest",
+      "stream",
+      "sunbeams"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739341/ChatGPT_Image_Jul_24_2026_02_22_49_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739341/ChatGPT_Image_Jul_24_2026_02_22_49_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739341/ChatGPT_Image_Jul_24_2026_02_22_49_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00503/v1785739341/ChatGPT_Image_Jul_24_2026_02_22_49_PM.png",
+    "slug": "redwood-forest-stream-sunbeams",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_22_49_PM",
+    "pageUrl": "wallpapers/desktop/nature/redwood-forest-stream-sunbeams.html",
+    "createdAt": "2026-08-03T06:42:21Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wildflower-coast-at-sunset-504",
+    "title": "Wildflower Coast at Sunset",
+    "description": "Download Wildflower Coast at Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2790841,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "wildflower",
+      "coast",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739342/ChatGPT_Image_Jul_24_2026_02_22_54_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739342/ChatGPT_Image_Jul_24_2026_02_22_54_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739342/ChatGPT_Image_Jul_24_2026_02_22_54_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00504/v1785739342/ChatGPT_Image_Jul_24_2026_02_22_54_PM.png",
+    "slug": "wildflower-coast-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_22_54_PM",
+    "pageUrl": "wallpapers/desktop/nature/wildflower-coast-at-sunset.html",
+    "createdAt": "2026-08-03T06:42:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-desert-wildflowers-beneath-red-cliffs-505",
+    "title": "Desert Wildflowers Beneath Red Cliffs",
+    "description": "Download Desert Wildflowers Beneath Red Cliffs, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3053824,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "desert",
+      "wildflowers",
+      "red",
+      "cliffs"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739344/ChatGPT_Image_Jul_24_2026_02_22_57_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739344/ChatGPT_Image_Jul_24_2026_02_22_57_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739344/ChatGPT_Image_Jul_24_2026_02_22_57_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00505/v1785739344/ChatGPT_Image_Jul_24_2026_02_22_57_PM.png",
+    "slug": "desert-wildflowers-beneath-red-cliffs",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_22_57_PM",
+    "pageUrl": "wallpapers/desktop/nature/desert-wildflowers-beneath-red-cliffs.html",
+    "createdAt": "2026-08-03T06:42:24Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-stone-bridge-in-sunlit-forest-506",
+    "title": "Stone Bridge in Sunlit Forest",
+    "description": "Download Stone Bridge in Sunlit Forest, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3203214,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "stone",
+      "bridge",
+      "sunlit",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739346/ChatGPT_Image_Jul_24_2026_02_22_59_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739346/ChatGPT_Image_Jul_24_2026_02_22_59_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739346/ChatGPT_Image_Jul_24_2026_02_22_59_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00506/v1785739346/ChatGPT_Image_Jul_24_2026_02_22_59_PM.png",
+    "slug": "stone-bridge-in-sunlit-forest",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_22_59_PM",
+    "pageUrl": "wallpapers/desktop/nature/stone-bridge-in-sunlit-forest.html",
+    "createdAt": "2026-08-03T06:42:26Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wetland-river-at-fiery-sunset-507",
+    "title": "Wetland River at Fiery Sunset",
+    "description": "Download Wetland River at Fiery Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2644883,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "wetland",
+      "river",
+      "fiery",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739347/ChatGPT_Image_Jul_24_2026_02_23_02_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739347/ChatGPT_Image_Jul_24_2026_02_23_02_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739347/ChatGPT_Image_Jul_24_2026_02_23_02_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00507/v1785739347/ChatGPT_Image_Jul_24_2026_02_23_02_PM.png",
+    "slug": "wetland-river-at-fiery-sunset",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_02_PM",
+    "pageUrl": "wallpapers/desktop/nature/wetland-river-at-fiery-sunset.html",
+    "createdAt": "2026-08-03T06:42:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rolling-clover-hills-under-blue-sky-508",
+    "title": "Rolling Clover Hills Under Blue Sky",
+    "description": "Download Rolling Clover Hills Under Blue Sky, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2957036,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "rolling",
+      "clover",
+      "hills",
+      "blue",
+      "sky"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739348/ChatGPT_Image_Jul_24_2026_02_23_04_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739348/ChatGPT_Image_Jul_24_2026_02_23_04_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739348/ChatGPT_Image_Jul_24_2026_02_23_04_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00508/v1785739348/ChatGPT_Image_Jul_24_2026_02_23_04_PM.png",
+    "slug": "rolling-clover-hills-under-blue-sky",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_04_PM",
+    "pageUrl": "wallpapers/desktop/nature/rolling-clover-hills-under-blue-sky.html",
+    "createdAt": "2026-08-03T06:42:28Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sea-arches-on-turquoise-coast-509",
+    "title": "Sea Arches on Turquoise Coast",
+    "description": "Download Sea Arches on Turquoise Coast, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2771406,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "sea",
+      "arches",
+      "turquoise",
+      "coast"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739349/ChatGPT_Image_Jul_24_2026_02_23_07_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739349/ChatGPT_Image_Jul_24_2026_02_23_07_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739349/ChatGPT_Image_Jul_24_2026_02_23_07_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00509/v1785739349/ChatGPT_Image_Jul_24_2026_02_23_07_PM.png",
+    "slug": "sea-arches-on-turquoise-coast",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_07_PM",
+    "pageUrl": "wallpapers/desktop/nature/sea-arches-on-turquoise-coast.html",
+    "createdAt": "2026-08-03T06:42:29Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-alpine-lake-at-golden-sunrise-510",
+    "title": "Alpine Lake at Golden Sunrise",
+    "description": "Download Alpine Lake at Golden Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2428201,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "alpine",
+      "lake",
+      "golden",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739372/ChatGPT_Image_Jul_24_2026_02_23_09_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739372/ChatGPT_Image_Jul_24_2026_02_23_09_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739372/ChatGPT_Image_Jul_24_2026_02_23_09_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00510/v1785739372/ChatGPT_Image_Jul_24_2026_02_23_09_PM.png",
+    "slug": "alpine-lake-at-golden-sunrise",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_09_PM",
+    "pageUrl": "wallpapers/desktop/nature/alpine-lake-at-golden-sunrise.html",
+    "createdAt": "2026-08-03T06:42:52Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-white-flower-meadow-511",
+    "title": "Moonlit White Flower Meadow",
+    "description": "Download Moonlit White Flower Meadow, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2826878,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "moonlit",
+      "white",
+      "flower",
+      "meadow"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739375/ChatGPT_Image_Jul_24_2026_02_23_12_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739375/ChatGPT_Image_Jul_24_2026_02_23_12_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739375/ChatGPT_Image_Jul_24_2026_02_23_12_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00511/v1785739375/ChatGPT_Image_Jul_24_2026_02_23_12_PM.png",
+    "slug": "moonlit-white-flower-meadow",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_12_PM",
+    "pageUrl": "wallpapers/desktop/nature/moonlit-white-flower-meadow.html",
+    "createdAt": "2026-08-03T06:42:55Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-forest-cliffs-above-sunset-ocean-512",
+    "title": "Forest Cliffs Above Sunset Ocean",
+    "description": "Download Forest Cliffs Above Sunset Ocean, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3030760,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "forest",
+      "cliffs",
+      "sunset",
+      "ocean"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_15_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_15_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_15_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00512/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_15_PM.png",
+    "slug": "forest-cliffs-above-sunset-ocean",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_15_PM",
+    "pageUrl": "wallpapers/desktop/nature/forest-cliffs-above-sunset-ocean.html",
+    "createdAt": "2026-08-03T06:42:54Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-wildflower-meadow-at-sunrise-513",
+    "title": "Wildflower Meadow at Sunrise",
+    "description": "Download Wildflower Meadow at Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2453738,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "wildflower",
+      "meadow",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_18_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_18_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_18_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00513/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_18_PM.png",
+    "slug": "wildflower-meadow-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_18_PM",
+    "pageUrl": "wallpapers/desktop/nature/wildflower-meadow-at-sunrise.html",
+    "createdAt": "2026-08-03T06:42:54Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-acacia-tree-on-golden-savanna-514",
+    "title": "Acacia Tree on Golden Savanna",
+    "description": "Download Acacia Tree on Golden Savanna, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2671164,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "acacia",
+      "tree",
+      "golden",
+      "savanna"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_24_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_24_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_24_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00514/v1785739374/ChatGPT_Image_Jul_24_2026_02_23_24_PM.png",
+    "slug": "acacia-tree-on-golden-savanna",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_23_24_PM",
+    "pageUrl": "wallpapers/desktop/nature/acacia-tree-on-golden-savanna.html",
+    "createdAt": "2026-08-03T06:42:54Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-pine-cove-with-turquoise-water-515",
+    "title": "Pine Cove with Turquoise Water",
+    "description": "Download Pine Cove with Turquoise Water, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3169284,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "pine",
+      "cove",
+      "turquoise",
+      "water"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739378/ChatGPT_Image_Jul_24_2026_02_25_21_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739378/ChatGPT_Image_Jul_24_2026_02_25_21_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739378/ChatGPT_Image_Jul_24_2026_02_25_21_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00515/v1785739378/ChatGPT_Image_Jul_24_2026_02_25_21_PM.png",
+    "slug": "pine-cove-with-turquoise-water",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_25_21_PM",
+    "pageUrl": "wallpapers/desktop/nature/pine-cove-with-turquoise-water.html",
+    "createdAt": "2026-08-03T06:42:58Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-autumn-canyon-river-516",
+    "title": "Autumn Canyon River",
+    "description": "Download Autumn Canyon River, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2722151,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "autumn",
+      "canyon",
+      "river"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739586/ChatGPT_Image_Jul_24_2026_02_25_23_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739586/ChatGPT_Image_Jul_24_2026_02_25_23_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739586/ChatGPT_Image_Jul_24_2026_02_25_23_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00516/v1785739586/ChatGPT_Image_Jul_24_2026_02_25_23_PM.png",
+    "slug": "autumn-canyon-river",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_25_23_PM",
+    "pageUrl": "wallpapers/desktop/nature/autumn-canyon-river.html",
+    "createdAt": "2026-08-03T06:46:26Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-jagged-mountain-lake-at-dawn-517",
+    "title": "Jagged Mountain Lake at Dawn",
+    "description": "Download Jagged Mountain Lake at Dawn, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2926948,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "jagged",
+      "mountain",
+      "lake",
+      "dawn"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739600/ChatGPT_Image_Jul_24_2026_02_25_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739600/ChatGPT_Image_Jul_24_2026_02_25_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739600/ChatGPT_Image_Jul_24_2026_02_25_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00517/v1785739600/ChatGPT_Image_Jul_24_2026_02_25_26_PM.png",
+    "slug": "jagged-mountain-lake-at-dawn",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_25_26_PM",
+    "pageUrl": "wallpapers/desktop/nature/jagged-mountain-lake-at-dawn.html",
+    "createdAt": "2026-08-03T06:46:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-emerald-waterfall-lakes-518",
+    "title": "Emerald Waterfall Lakes",
+    "description": "Download Emerald Waterfall Lakes, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2846822,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "emerald",
+      "waterfall",
+      "lakes"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739701/ChatGPT_Image_Jul_24_2026_02_25_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739701/ChatGPT_Image_Jul_24_2026_02_25_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739701/ChatGPT_Image_Jul_24_2026_02_25_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00518/v1785739701/ChatGPT_Image_Jul_24_2026_02_25_29_PM.png",
+    "slug": "emerald-waterfall-lakes",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_25_29_PM",
+    "pageUrl": "wallpapers/desktop/nature/emerald-waterfall-lakes.html",
+    "createdAt": "2026-08-03T06:48:21Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-mountain-reflection-in-turquoise-lake-519",
+    "title": "Snowy Mountain Reflection in Turquoise Lake",
+    "description": "Download Snowy Mountain Reflection in Turquoise Lake, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3107790,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "snowy",
+      "mountain",
+      "reflection",
+      "turquoise",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739702/ChatGPT_Image_Jul_24_2026_02_25_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739702/ChatGPT_Image_Jul_24_2026_02_25_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739702/ChatGPT_Image_Jul_24_2026_02_25_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00519/v1785739702/ChatGPT_Image_Jul_24_2026_02_25_34_PM.png",
+    "slug": "snowy-mountain-reflection-in-turquoise-lake",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_25_34_PM",
+    "pageUrl": "wallpapers/desktop/nature/snowy-mountain-reflection-in-turquoise-lake.html",
+    "createdAt": "2026-08-03T06:48:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-ancient-baobab-at-fiery-sunset-520",
+    "title": "Ancient Baobab at Fiery Sunset",
+    "description": "Download Ancient Baobab at Fiery Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2484510,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "ancient",
+      "baobab",
+      "fiery",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739703/ChatGPT_Image_Jul_24_2026_02_25_37_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739703/ChatGPT_Image_Jul_24_2026_02_25_37_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739703/ChatGPT_Image_Jul_24_2026_02_25_37_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00520/v1785739703/ChatGPT_Image_Jul_24_2026_02_25_37_PM.png",
+    "slug": "ancient-baobab-at-fiery-sunset",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_25_37_PM",
+    "pageUrl": "wallpapers/desktop/nature/ancient-baobab-at-fiery-sunset.html",
+    "createdAt": "2026-08-03T06:48:23Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hidden-tropical-crater-lagoon-521",
+    "title": "Hidden Tropical Crater Lagoon",
+    "description": "Download Hidden Tropical Crater Lagoon, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3058107,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "hidden",
+      "tropical",
+      "crater",
+      "lagoon"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739705/ChatGPT_Image_Jul_24_2026_02_26_17_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739705/ChatGPT_Image_Jul_24_2026_02_26_17_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739705/ChatGPT_Image_Jul_24_2026_02_26_17_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00521/v1785739705/ChatGPT_Image_Jul_24_2026_02_26_17_PM.png",
+    "slug": "hidden-tropical-crater-lagoon",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_17_PM",
+    "pageUrl": "wallpapers/desktop/nature/hidden-tropical-crater-lagoon.html",
+    "createdAt": "2026-08-03T06:48:25Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainbow-waterfall-valley-522",
+    "title": "Rainbow Waterfall Valley",
+    "description": "Download Rainbow Waterfall Valley, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3004632,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "rainbow",
+      "waterfall",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739706/ChatGPT_Image_Jul_24_2026_02_26_26_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739706/ChatGPT_Image_Jul_24_2026_02_26_26_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739706/ChatGPT_Image_Jul_24_2026_02_26_26_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00522/v1785739706/ChatGPT_Image_Jul_24_2026_02_26_26_PM.png",
+    "slug": "rainbow-waterfall-valley",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_26_PM",
+    "pageUrl": "wallpapers/desktop/nature/rainbow-waterfall-valley.html",
+    "createdAt": "2026-08-03T06:48:26Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tiered-emerald-forest-lakes-523",
+    "title": "Tiered Emerald Forest Lakes",
+    "description": "Download Tiered Emerald Forest Lakes, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3479122,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "tiered",
+      "emerald",
+      "forest",
+      "lakes"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00523/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_29_PM.png",
+    "slug": "tiered-emerald-forest-lakes",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_29_PM",
+    "pageUrl": "wallpapers/desktop/nature/tiered-emerald-forest-lakes.html",
+    "createdAt": "2026-08-03T06:47:34Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunlit-enchanted-forest-clearing-524",
+    "title": "Sunlit Enchanted Forest Clearing",
+    "description": "Download Sunlit Enchanted Forest Clearing, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3248127,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "sunlit",
+      "enchanted",
+      "forest",
+      "clearing"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739660/ChatGPT_Image_Jul_24_2026_02_26_31_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739660/ChatGPT_Image_Jul_24_2026_02_26_31_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739660/ChatGPT_Image_Jul_24_2026_02_26_31_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00524/v1785739660/ChatGPT_Image_Jul_24_2026_02_26_31_PM.png",
+    "slug": "sunlit-enchanted-forest-clearing",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_31_PM",
+    "pageUrl": "wallpapers/desktop/nature/sunlit-enchanted-forest-clearing.html",
+    "createdAt": "2026-08-03T06:47:40Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-misty-pine-lake-at-sunrise-525",
+    "title": "Misty Pine Lake at Sunrise",
+    "description": "Download Misty Pine Lake at Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2990035,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "misty",
+      "pine",
+      "lake",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_34_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_34_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_34_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00525/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_34_PM.png",
+    "slug": "misty-pine-lake-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_34_PM",
+    "pageUrl": "wallpapers/desktop/nature/misty-pine-lake-at-sunrise.html",
+    "createdAt": "2026-08-03T06:47:34Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lupine-valley-beneath-alpine-peaks-526",
+    "title": "Lupine Valley Beneath Alpine Peaks",
+    "description": "Download Lupine Valley Beneath Alpine Peaks, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3112072,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "lupine",
+      "valley",
+      "alpine",
+      "peaks"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00526/v1785739654/ChatGPT_Image_Jul_24_2026_02_26_39_PM.png",
+    "slug": "lupine-valley-beneath-alpine-peaks",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_39_PM",
+    "pageUrl": "wallpapers/desktop/nature/lupine-valley-beneath-alpine-peaks.html",
+    "createdAt": "2026-08-03T06:47:34Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-floating-meadow-above-mountain-lake-527",
+    "title": "Floating Meadow Above Mountain Lake",
+    "description": "Download Floating Meadow Above Mountain Lake, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2635108,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "floating",
+      "meadow",
+      "mountain",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_43_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_43_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_43_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00527/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_43_PM.png",
+    "slug": "floating-meadow-above-mountain-lake",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_43_PM",
+    "pageUrl": "wallpapers/desktop/nature/floating-meadow-above-mountain-lake.html",
+    "createdAt": "2026-08-03T06:47:37Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-horseshoe-river-valley-at-sunrise-528",
+    "title": "Horseshoe River Valley at Sunrise",
+    "description": "Download Horseshoe River Valley at Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3053833,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "horseshoe",
+      "river",
+      "valley",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_51_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_51_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_51_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00528/v1785739657/ChatGPT_Image_Jul_24_2026_02_26_51_PM.png",
+    "slug": "horseshoe-river-valley-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_51_PM",
+    "pageUrl": "wallpapers/desktop/nature/horseshoe-river-valley-at-sunrise.html",
+    "createdAt": "2026-08-03T06:47:37Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-fern-forest-stream-in-morning-light-529",
+    "title": "Fern Forest Stream in Morning Light",
+    "description": "Download Fern Forest Stream in Morning Light, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3037447,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "fern",
+      "forest",
+      "stream",
+      "morning",
+      "light"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_53_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_53_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_53_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00529/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_53_PM.png",
+    "slug": "fern-forest-stream-in-morning-light",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_53_PM",
+    "pageUrl": "wallpapers/desktop/nature/fern-forest-stream-in-morning-light.html",
+    "createdAt": "2026-08-03T06:47:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cliff-meadow-above-sunrise-clouds-530",
+    "title": "Cliff Meadow Above Sunrise Clouds",
+    "description": "Download Cliff Meadow Above Sunrise Clouds, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2481515,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "cliff",
+      "meadow",
+      "sunrise",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_56_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_56_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_56_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00530/v1785739659/ChatGPT_Image_Jul_24_2026_02_26_56_PM.png",
+    "slug": "cliff-meadow-above-sunrise-clouds",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_26_56_PM",
+    "pageUrl": "wallpapers/desktop/nature/cliff-meadow-above-sunrise-clouds.html",
+    "createdAt": "2026-08-03T06:47:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-hidden-oasis-between-desert-dunes-531",
+    "title": "Hidden Oasis Between Desert Dunes",
+    "description": "Download Hidden Oasis Between Desert Dunes, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2435014,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "hidden",
+      "oasis",
+      "desert",
+      "dunes"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739659/ChatGPT_Image_Jul_24_2026_02_27_00_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739659/ChatGPT_Image_Jul_24_2026_02_27_00_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739659/ChatGPT_Image_Jul_24_2026_02_27_00_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00531/v1785739659/ChatGPT_Image_Jul_24_2026_02_27_00_PM.png",
+    "slug": "hidden-oasis-between-desert-dunes",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_27_00_PM",
+    "pageUrl": "wallpapers/desktop/nature/hidden-oasis-between-desert-dunes.html",
+    "createdAt": "2026-08-03T06:47:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-alpine-wildflower-stream-532",
+    "title": "Alpine Wildflower Stream",
+    "description": "Download Alpine Wildflower Stream, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3371053,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "alpine",
+      "wildflower",
+      "stream"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739663/ChatGPT_Image_Jul_24_2026_02_27_03_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739663/ChatGPT_Image_Jul_24_2026_02_27_03_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739663/ChatGPT_Image_Jul_24_2026_02_27_03_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00532/v1785739663/ChatGPT_Image_Jul_24_2026_02_27_03_PM.png",
+    "slug": "alpine-wildflower-stream",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_27_03_PM",
+    "pageUrl": "wallpapers/desktop/nature/alpine-wildflower-stream.html",
+    "createdAt": "2026-08-03T06:47:43Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-heather-cliffs-at-ocean-sunset-533",
+    "title": "Heather Cliffs at Ocean Sunset",
+    "description": "Download Heather Cliffs at Ocean Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2964186,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "heather",
+      "cliffs",
+      "ocean",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739670/ChatGPT_Image_Jul_24_2026_02_27_41_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739670/ChatGPT_Image_Jul_24_2026_02_27_41_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739670/ChatGPT_Image_Jul_24_2026_02_27_41_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00533/v1785739670/ChatGPT_Image_Jul_24_2026_02_27_41_PM.png",
+    "slug": "heather-cliffs-at-ocean-sunset",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_27_41_PM",
+    "pageUrl": "wallpapers/desktop/nature/heather-cliffs-at-ocean-sunset.html",
+    "createdAt": "2026-08-03T06:47:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-emerald-karst-lake-at-sunrise-534",
+    "title": "Emerald Karst Lake at Sunrise",
+    "description": "Download Emerald Karst Lake at Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2834123,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "emerald",
+      "karst",
+      "lake",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739671/ChatGPT_Image_Jul_24_2026_02_27_47_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739671/ChatGPT_Image_Jul_24_2026_02_27_47_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739671/ChatGPT_Image_Jul_24_2026_02_27_47_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00534/v1785739671/ChatGPT_Image_Jul_24_2026_02_27_47_PM.png",
+    "slug": "emerald-karst-lake-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_27_47_PM",
+    "pageUrl": "wallpapers/desktop/nature/emerald-karst-lake-at-sunrise.html",
+    "createdAt": "2026-08-03T06:47:51Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-tiered-waterfall-pools-535",
+    "title": "Tropical Tiered Waterfall Pools",
+    "description": "Download Tropical Tiered Waterfall Pools, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3155392,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "tropical",
+      "tiered",
+      "waterfall",
+      "pools"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739674/ChatGPT_Image_Jul_24_2026_02_27_51_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739674/ChatGPT_Image_Jul_24_2026_02_27_51_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739674/ChatGPT_Image_Jul_24_2026_02_27_51_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00535/v1785739674/ChatGPT_Image_Jul_24_2026_02_27_51_PM.png",
+    "slug": "tropical-tiered-waterfall-pools",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_27_51_PM",
+    "pageUrl": "wallpapers/desktop/nature/tropical-tiered-waterfall-pools.html",
+    "createdAt": "2026-08-03T06:47:54Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glacial-river-through-mountain-valley-536",
+    "title": "Glacial River Through Mountain Valley",
+    "description": "Download Glacial River Through Mountain Valley, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3175785,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "glacial",
+      "river",
+      "mountain",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739675/ChatGPT_Image_Jul_24_2026_02_27_56_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739675/ChatGPT_Image_Jul_24_2026_02_27_56_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739675/ChatGPT_Image_Jul_24_2026_02_27_56_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00536/v1785739675/ChatGPT_Image_Jul_24_2026_02_27_56_PM.png",
+    "slug": "glacial-river-through-mountain-valley",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_27_56_PM",
+    "pageUrl": "wallpapers/desktop/nature/glacial-river-through-mountain-valley.html",
+    "createdAt": "2026-08-03T06:47:55Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-turquoise-pine-beach-537",
+    "title": "Turquoise Pine Beach",
+    "description": "Download Turquoise Pine Beach, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3031839,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "turquoise",
+      "pine",
+      "beach"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739677/ChatGPT_Image_Jul_24_2026_02_28_00_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739677/ChatGPT_Image_Jul_24_2026_02_28_00_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739677/ChatGPT_Image_Jul_24_2026_02_28_00_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00537/v1785739677/ChatGPT_Image_Jul_24_2026_02_28_00_PM.png",
+    "slug": "turquoise-pine-beach",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_00_PM",
+    "pageUrl": "wallpapers/desktop/nature/turquoise-pine-beach.html",
+    "createdAt": "2026-08-03T06:47:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-waterfall-into-blue-sea-538",
+    "title": "Tropical Waterfall into Blue Sea",
+    "description": "Download Tropical Waterfall into Blue Sea, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3044655,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "tropical",
+      "waterfall",
+      "blue",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_03_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_03_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_03_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00538/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_03_PM.png",
+    "slug": "tropical-waterfall-into-blue-sea",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_03_PM",
+    "pageUrl": "wallpapers/desktop/nature/tropical-waterfall-into-blue-sea.html",
+    "createdAt": "2026-08-03T06:47:58Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunrise-above-foggy-pine-mountains-539",
+    "title": "Sunrise Above Foggy Pine Mountains",
+    "description": "Download Sunrise Above Foggy Pine Mountains, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2211769,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "sunrise",
+      "foggy",
+      "pine",
+      "mountains"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_06_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_06_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_06_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00539/v1785739678/ChatGPT_Image_Jul_24_2026_02_28_06_PM.png",
+    "slug": "sunrise-above-foggy-pine-mountains",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_06_PM",
+    "pageUrl": "wallpapers/desktop/nature/sunrise-above-foggy-pine-mountains.html",
+    "createdAt": "2026-08-03T06:47:58Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-horses-grazing-in-alpine-valley-540",
+    "title": "Horses Grazing in Alpine Valley",
+    "description": "Download Horses Grazing in Alpine Valley, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3258950,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "horses",
+      "grazing",
+      "alpine",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739681/ChatGPT_Image_Jul_24_2026_02_28_10_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739681/ChatGPT_Image_Jul_24_2026_02_28_10_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739681/ChatGPT_Image_Jul_24_2026_02_28_10_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00540/v1785739681/ChatGPT_Image_Jul_24_2026_02_28_10_PM.png",
+    "slug": "horses-grazing-in-alpine-valley",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_10_PM",
+    "pageUrl": "wallpapers/desktop/nature/horses-grazing-in-alpine-valley.html",
+    "createdAt": "2026-08-03T06:48:01Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-giant-lily-pads-in-jungle-lagoon-541",
+    "title": "Giant Lily Pads in Jungle Lagoon",
+    "description": "Download Giant Lily Pads in Jungle Lagoon, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3082441,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "giant",
+      "lily",
+      "pads",
+      "jungle",
+      "lagoon"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739682/ChatGPT_Image_Jul_24_2026_02_28_16_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739682/ChatGPT_Image_Jul_24_2026_02_28_16_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739682/ChatGPT_Image_Jul_24_2026_02_28_16_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00541/v1785739682/ChatGPT_Image_Jul_24_2026_02_28_16_PM.png",
+    "slug": "giant-lily-pads-in-jungle-lagoon",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_16_PM",
+    "pageUrl": "wallpapers/desktop/nature/giant-lily-pads-in-jungle-lagoon.html",
+    "createdAt": "2026-08-03T06:48:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainbow-waterfall-in-tropical-valley-542",
+    "title": "Rainbow Waterfall in Tropical Valley",
+    "description": "Download Rainbow Waterfall in Tropical Valley, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3233514,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "rainbow",
+      "waterfall",
+      "tropical",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739683/ChatGPT_Image_Jul_24_2026_02_28_19_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739683/ChatGPT_Image_Jul_24_2026_02_28_19_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739683/ChatGPT_Image_Jul_24_2026_02_28_19_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00542/v1785739683/ChatGPT_Image_Jul_24_2026_02_28_19_PM.png",
+    "slug": "rainbow-waterfall-in-tropical-valley",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_19_PM",
+    "pageUrl": "wallpapers/desktop/nature/rainbow-waterfall-in-tropical-valley.html",
+    "createdAt": "2026-08-03T06:48:03Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-mangrove-river-delta-from-above-543",
+    "title": "Mangrove River Delta from Above",
+    "description": "Download Mangrove River Delta from Above, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2906353,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "mangrove",
+      "river",
+      "delta",
+      "from"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739333/ChatGPT_Image_Jul_24_2026_02_28_22_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739333/ChatGPT_Image_Jul_24_2026_02_28_22_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739333/ChatGPT_Image_Jul_24_2026_02_28_22_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00543/v1785739333/ChatGPT_Image_Jul_24_2026_02_28_22_PM.png",
+    "slug": "mangrove-river-delta-from-above",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_22_PM",
+    "pageUrl": "wallpapers/desktop/nature/mangrove-river-delta-from-above.html",
+    "createdAt": "2026-08-03T06:42:13Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunrise-over-dolomite-mountain-road-544",
+    "title": "Sunrise Over Dolomite Mountain Road",
+    "description": "Download Sunrise Over Dolomite Mountain Road, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3056075,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "sunrise",
+      "dolomite",
+      "mountain",
+      "road"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_25_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_25_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_25_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00544/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_25_PM.png",
+    "slug": "sunrise-over-dolomite-mountain-road",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_25_PM",
+    "pageUrl": "wallpapers/desktop/nature/sunrise-over-dolomite-mountain-road.html",
+    "createdAt": "2026-08-03T06:42:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-golden-vineyard-hills-at-dawn-545",
+    "title": "Golden Vineyard Hills at Dawn",
+    "description": "Download Golden Vineyard Hills at Dawn, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2684422,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "golden",
+      "vineyard",
+      "hills",
+      "dawn"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739334/ChatGPT_Image_Jul_24_2026_02_28_29_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739334/ChatGPT_Image_Jul_24_2026_02_28_29_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739334/ChatGPT_Image_Jul_24_2026_02_28_29_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00545/v1785739334/ChatGPT_Image_Jul_24_2026_02_28_29_PM.png",
+    "slug": "golden-vineyard-hills-at-dawn",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_29_PM",
+    "pageUrl": "wallpapers/desktop/nature/golden-vineyard-hills-at-dawn.html",
+    "createdAt": "2026-08-03T06:42:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-desert-canyon-river-at-sunset-546",
+    "title": "Desert Canyon River at Sunset",
+    "description": "Download Desert Canyon River at Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3049833,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "desert",
+      "canyon",
+      "river",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_32_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_32_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_32_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00546/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_32_PM.png",
+    "slug": "desert-canyon-river-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_32_PM",
+    "pageUrl": "wallpapers/desktop/nature/desert-canyon-river-at-sunset.html",
+    "createdAt": "2026-08-03T06:42:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-ancient-olive-grove-in-sunlight-547",
+    "title": "Ancient Olive Grove in Sunlight",
+    "description": "Download Ancient Olive Grove in Sunlight, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3391443,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "ancient",
+      "olive",
+      "grove",
+      "sunlight"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_35_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_35_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_35_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00547/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_35_PM.png",
+    "slug": "ancient-olive-grove-in-sunlight",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_35_PM",
+    "pageUrl": "wallpapers/desktop/nature/ancient-olive-grove-in-sunlight.html",
+    "createdAt": "2026-08-03T06:42:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-golden-sunbeams-in-pine-forest-548",
+    "title": "Golden Sunbeams in Pine Forest",
+    "description": "Download Golden Sunbeams in Pine Forest, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2941474,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "golden",
+      "sunbeams",
+      "pine",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_39_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_39_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_39_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00548/v1785739337/ChatGPT_Image_Jul_24_2026_02_28_39_PM.png",
+    "slug": "golden-sunbeams-in-pine-forest",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_39_PM",
+    "pageUrl": "wallpapers/desktop/nature/golden-sunbeams-in-pine-forest.html",
+    "createdAt": "2026-08-03T06:42:17Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-highland-stream-at-sunrise-549",
+    "title": "Highland Stream at Sunrise",
+    "description": "Download Highland Stream at Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3158418,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "highland",
+      "stream",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739338/ChatGPT_Image_Jul_24_2026_02_28_45_PM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739338/ChatGPT_Image_Jul_24_2026_02_28_45_PM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739338/ChatGPT_Image_Jul_24_2026_02_28_45_PM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00549/v1785739338/ChatGPT_Image_Jul_24_2026_02_28_45_PM.png",
+    "slug": "highland-stream-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_24_2026_02_28_45_PM",
+    "pageUrl": "wallpapers/desktop/nature/highland-stream-at-sunrise.html",
+    "createdAt": "2026-08-03T06:42:18Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-storm-clouds-above-wheat-field-550",
+    "title": "Storm Clouds Above Wheat Field",
+    "description": "Download Storm Clouds Above Wheat Field, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2407789,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "storm",
+      "clouds",
+      "wheat",
+      "field"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739814/ChatGPT_Image_Jul_27_2026_08_49_37_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739814/ChatGPT_Image_Jul_27_2026_08_49_37_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739814/ChatGPT_Image_Jul_27_2026_08_49_37_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00550/v1785739814/ChatGPT_Image_Jul_27_2026_08_49_37_AM.png",
+    "slug": "storm-clouds-above-wheat-field",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_49_37_AM",
+    "pageUrl": "wallpapers/desktop/nature/storm-clouds-above-wheat-field.html",
+    "createdAt": "2026-08-03T06:50:14Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-forest-path-at-sunrise-551",
+    "title": "Snowy Forest Path at Sunrise",
+    "description": "Download Snowy Forest Path at Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3431885,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "snowy",
+      "forest",
+      "path",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739861/ChatGPT_Image_Jul_27_2026_08_49_40_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739861/ChatGPT_Image_Jul_27_2026_08_49_40_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739861/ChatGPT_Image_Jul_27_2026_08_49_40_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00551/v1785739861/ChatGPT_Image_Jul_27_2026_08_49_40_AM.png",
+    "slug": "snowy-forest-path-at-sunrise",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_49_40_AM",
+    "pageUrl": "wallpapers/desktop/nature/snowy-forest-path-at-sunrise.html",
+    "createdAt": "2026-08-03T06:51:01Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-misty-rainforest-canopy-at-golden-hour-552",
+    "title": "Misty Rainforest Canopy at Golden Hour",
+    "description": "Download Misty Rainforest Canopy at Golden Hour, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2590289,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "misty",
+      "rainforest",
+      "canopy",
+      "golden",
+      "hour"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739823/ChatGPT_Image_Jul_27_2026_08_49_51_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739823/ChatGPT_Image_Jul_27_2026_08_49_51_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739823/ChatGPT_Image_Jul_27_2026_08_49_51_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00552/v1785739823/ChatGPT_Image_Jul_27_2026_08_49_51_AM.png",
+    "slug": "misty-rainforest-canopy-at-golden-hour",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_49_51_AM",
+    "pageUrl": "wallpapers/desktop/nature/misty-rainforest-canopy-at-golden-hour.html",
+    "createdAt": "2026-08-03T06:50:23Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-iguazu-falls-with-double-rainbow-553",
+    "title": "Iguazu Falls with Double Rainbow",
+    "description": "Download Iguazu Falls with Double Rainbow, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2519096,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "iguazu",
+      "falls",
+      "double",
+      "rainbow"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739822/ChatGPT_Image_Jul_27_2026_08_49_54_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739822/ChatGPT_Image_Jul_27_2026_08_49_54_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739822/ChatGPT_Image_Jul_27_2026_08_49_54_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00553/v1785739822/ChatGPT_Image_Jul_27_2026_08_49_54_AM.png",
+    "slug": "iguazu-falls-with-double-rainbow",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_49_54_AM",
+    "pageUrl": "wallpapers/desktop/nature/iguazu-falls-with-double-rainbow.html",
+    "createdAt": "2026-08-03T06:50:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-fiery-mammatus-clouds-at-sunset-554",
+    "title": "Fiery Mammatus Clouds at Sunset",
+    "description": "Download Fiery Mammatus Clouds at Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2154148,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "fiery",
+      "mammatus",
+      "clouds",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739827/ChatGPT_Image_Jul_27_2026_08_49_57_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739827/ChatGPT_Image_Jul_27_2026_08_49_57_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739827/ChatGPT_Image_Jul_27_2026_08_49_57_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00554/v1785739827/ChatGPT_Image_Jul_27_2026_08_49_57_AM.png",
+    "slug": "fiery-mammatus-clouds-at-sunset",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_49_57_AM",
+    "pageUrl": "wallpapers/desktop/nature/fiery-mammatus-clouds-at-sunset.html",
+    "createdAt": "2026-08-03T06:50:27Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lightning-storm-over-dark-ocean-555",
+    "title": "Lightning Storm Over Dark Ocean",
+    "description": "Download Lightning Storm Over Dark Ocean, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2562255,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "lightning",
+      "storm",
+      "dark",
+      "ocean"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739854/ChatGPT_Image_Jul_27_2026_08_50_00_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739854/ChatGPT_Image_Jul_27_2026_08_50_00_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739854/ChatGPT_Image_Jul_27_2026_08_50_00_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00555/v1785739854/ChatGPT_Image_Jul_27_2026_08_50_00_AM.png",
+    "slug": "lightning-storm-over-dark-ocean",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_00_AM",
+    "pageUrl": "wallpapers/desktop/nature/lightning-storm-over-dark-ocean.html",
+    "createdAt": "2026-08-03T06:50:54Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-frozen-lighthouse-coast-556",
+    "title": "Frozen Lighthouse Coast",
+    "description": "Download Frozen Lighthouse Coast, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2622334,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "frozen",
+      "lighthouse",
+      "coast"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739851/ChatGPT_Image_Jul_27_2026_08_50_02_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739851/ChatGPT_Image_Jul_27_2026_08_50_02_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739851/ChatGPT_Image_Jul_27_2026_08_50_02_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00556/v1785739851/ChatGPT_Image_Jul_27_2026_08_50_02_AM.png",
+    "slug": "frozen-lighthouse-coast",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_02_AM",
+    "pageUrl": "wallpapers/desktop/nature/frozen-lighthouse-coast.html",
+    "createdAt": "2026-08-03T06:50:51Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-supercell-thunderstorm-over-plains-557",
+    "title": "Supercell Thunderstorm Over Plains",
+    "description": "Download Supercell Thunderstorm Over Plains, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1921846,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "supercell",
+      "thunderstorm",
+      "plains"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739869/ChatGPT_Image_Jul_27_2026_08_50_06_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739869/ChatGPT_Image_Jul_27_2026_08_50_06_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739869/ChatGPT_Image_Jul_27_2026_08_50_06_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00557/v1785739869/ChatGPT_Image_Jul_27_2026_08_50_06_AM.png",
+    "slug": "supercell-thunderstorm-over-plains",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_06_AM",
+    "pageUrl": "wallpapers/desktop/nature/supercell-thunderstorm-over-plains.html",
+    "createdAt": "2026-08-03T06:51:09Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-hurricane-coast-558",
+    "title": "Tropical Hurricane Coast",
+    "description": "Download Tropical Hurricane Coast, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2477803,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "tropical",
+      "hurricane",
+      "coast"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739886/ChatGPT_Image_Jul_27_2026_08_50_17_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739886/ChatGPT_Image_Jul_27_2026_08_50_17_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739886/ChatGPT_Image_Jul_27_2026_08_50_17_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00558/v1785739886/ChatGPT_Image_Jul_27_2026_08_50_17_AM.png",
+    "slug": "tropical-hurricane-coast",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_17_AM",
+    "pageUrl": "wallpapers/desktop/nature/tropical-hurricane-coast.html",
+    "createdAt": "2026-08-03T06:51:26Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lightning-above-mountain-lake-559",
+    "title": "Lightning Above Mountain Lake",
+    "description": "Download Lightning Above Mountain Lake, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2551656,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "lightning",
+      "mountain",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739875/ChatGPT_Image_Jul_27_2026_08_50_20_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739875/ChatGPT_Image_Jul_27_2026_08_50_20_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739875/ChatGPT_Image_Jul_27_2026_08_50_20_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00559/v1785739875/ChatGPT_Image_Jul_27_2026_08_50_20_AM.png",
+    "slug": "lightning-above-mountain-lake",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_20_AM",
+    "pageUrl": "wallpapers/desktop/nature/lightning-above-mountain-lake.html",
+    "createdAt": "2026-08-03T06:51:15Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-northern-lights-over-arctic-village-560",
+    "title": "Northern Lights Over Arctic Village",
+    "description": "Download Northern Lights Over Arctic Village, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2971458,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "northern",
+      "lights",
+      "arctic",
+      "village"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739883/ChatGPT_Image_Jul_27_2026_08_50_28_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739883/ChatGPT_Image_Jul_27_2026_08_50_28_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739883/ChatGPT_Image_Jul_27_2026_08_50_28_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00560/v1785739883/ChatGPT_Image_Jul_27_2026_08_50_28_AM.png",
+    "slug": "northern-lights-over-arctic-village",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_28_AM",
+    "pageUrl": "wallpapers/desktop/nature/northern-lights-over-arctic-village.html",
+    "createdAt": "2026-08-03T06:51:23Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lightning-storm-over-monument-valley-561",
+    "title": "Lightning Storm Over Monument Valley",
+    "description": "Download Lightning Storm Over Monument Valley, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2237318,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "lightning",
+      "storm",
+      "monument",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739880/ChatGPT_Image_Jul_27_2026_08_50_31_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739880/ChatGPT_Image_Jul_27_2026_08_50_31_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739880/ChatGPT_Image_Jul_27_2026_08_50_31_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00561/v1785739880/ChatGPT_Image_Jul_27_2026_08_50_31_AM.png",
+    "slug": "lightning-storm-over-monument-valley",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_31_AM",
+    "pageUrl": "wallpapers/desktop/nature/lightning-storm-over-monument-valley.html",
+    "createdAt": "2026-08-03T06:51:20Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lightning-clouds-above-the-horizon-562",
+    "title": "Lightning Clouds Above the Horizon",
+    "description": "Download Lightning Clouds Above the Horizon, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2097773,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "lightning",
+      "clouds",
+      "horizon"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739889/ChatGPT_Image_Jul_27_2026_08_50_33_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739889/ChatGPT_Image_Jul_27_2026_08_50_33_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739889/ChatGPT_Image_Jul_27_2026_08_50_33_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00562/v1785739889/ChatGPT_Image_Jul_27_2026_08_50_33_AM.png",
+    "slug": "lightning-clouds-above-the-horizon",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_33_AM",
+    "pageUrl": "wallpapers/desktop/nature/lightning-clouds-above-the-horizon.html",
+    "createdAt": "2026-08-03T06:51:29Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-icy-lighthouse-in-winter-storm-563",
+    "title": "Icy Lighthouse in Winter Storm",
+    "description": "Download Icy Lighthouse in Winter Storm, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2471883,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "icy",
+      "lighthouse",
+      "winter",
+      "storm"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739879/ChatGPT_Image_Jul_27_2026_08_50_36_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739879/ChatGPT_Image_Jul_27_2026_08_50_36_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739879/ChatGPT_Image_Jul_27_2026_08_50_36_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00563/v1785739879/ChatGPT_Image_Jul_27_2026_08_50_36_AM.png",
+    "slug": "icy-lighthouse-in-winter-storm",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_36_AM",
+    "pageUrl": "wallpapers/desktop/nature/icy-lighthouse-in-winter-storm.html",
+    "createdAt": "2026-08-03T06:51:19Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-moonlit-alpine-village-in-snow-564",
+    "title": "Moonlit Alpine Village in Snow",
+    "description": "Download Moonlit Alpine Village in Snow, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3189078,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "moonlit",
+      "alpine",
+      "village",
+      "snow"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_39_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_39_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_39_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00564/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_39_AM.png",
+    "slug": "moonlit-alpine-village-in-snow",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_39_AM",
+    "pageUrl": "wallpapers/desktop/nature/moonlit-alpine-village-in-snow.html",
+    "createdAt": "2026-08-03T06:51:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tornado-beneath-storm-sunbeams-565",
+    "title": "Tornado Beneath Storm Sunbeams",
+    "description": "Download Tornado Beneath Storm Sunbeams, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 1954382,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "tornado",
+      "storm",
+      "sunbeams"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_41_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_41_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_41_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00565/v1785739882/ChatGPT_Image_Jul_27_2026_08_50_41_AM.png",
+    "slug": "tornado-beneath-storm-sunbeams",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_41_AM",
+    "pageUrl": "wallpapers/desktop/nature/tornado-beneath-storm-sunbeams.html",
+    "createdAt": "2026-08-03T06:51:22Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-double-rainbow-over-alpine-stream-566",
+    "title": "Double Rainbow Over Alpine Stream",
+    "description": "Download Double Rainbow Over Alpine Stream, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2627399,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "double",
+      "rainbow",
+      "alpine",
+      "stream"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_44_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_44_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_44_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00566/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_44_AM.png",
+    "slug": "double-rainbow-over-alpine-stream",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_44_AM",
+    "pageUrl": "wallpapers/desktop/nature/double-rainbow-over-alpine-stream.html",
+    "createdAt": "2026-08-03T06:54:24Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainbow-above-vast-waterfalls-567",
+    "title": "Rainbow Above Vast Waterfalls",
+    "description": "Download Rainbow Above Vast Waterfalls, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2732715,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "rainbow",
+      "vast",
+      "waterfalls"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_46_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_46_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_46_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00567/v1785740064/ChatGPT_Image_Jul_27_2026_08_50_46_AM.png",
+    "slug": "rainbow-above-vast-waterfalls",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_46_AM",
+    "pageUrl": "wallpapers/desktop/nature/rainbow-above-vast-waterfalls.html",
+    "createdAt": "2026-08-03T06:54:24Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-ancient-autumn-tree-in-mist-568",
+    "title": "Ancient Autumn Tree in Mist",
+    "description": "Download Ancient Autumn Tree in Mist, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2850440,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "ancient",
+      "autumn",
+      "tree",
+      "mist"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740065/ChatGPT_Image_Jul_27_2026_08_50_54_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740065/ChatGPT_Image_Jul_27_2026_08_50_54_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740065/ChatGPT_Image_Jul_27_2026_08_50_54_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00568/v1785740065/ChatGPT_Image_Jul_27_2026_08_50_54_AM.png",
+    "slug": "ancient-autumn-tree-in-mist",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_50_54_AM",
+    "pageUrl": "wallpapers/desktop/nature/ancient-autumn-tree-in-mist.html",
+    "createdAt": "2026-08-03T06:54:25Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainbow-over-green-river-valley-569",
+    "title": "Rainbow Over Green River Valley",
+    "description": "Download Rainbow Over Green River Valley, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2697270,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "rainbow",
+      "green",
+      "river",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740138/ChatGPT_Image_Jul_27_2026_08_51_10_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740138/ChatGPT_Image_Jul_27_2026_08_51_10_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740138/ChatGPT_Image_Jul_27_2026_08_51_10_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00569/v1785740138/ChatGPT_Image_Jul_27_2026_08_51_10_AM.png",
+    "slug": "rainbow-over-green-river-valley",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_10_AM",
+    "pageUrl": "wallpapers/desktop/nature/rainbow-over-green-river-valley.html",
+    "createdAt": "2026-08-03T06:55:38Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-mountain-waterfall-beneath-rainbow-570",
+    "title": "Mountain Waterfall Beneath Rainbow",
+    "description": "Download Mountain Waterfall Beneath Rainbow, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2595412,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "mountain",
+      "waterfall",
+      "rainbow"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740139/ChatGPT_Image_Jul_27_2026_08_51_28_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740139/ChatGPT_Image_Jul_27_2026_08_51_28_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740139/ChatGPT_Image_Jul_27_2026_08_51_28_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00570/v1785740139/ChatGPT_Image_Jul_27_2026_08_51_28_AM.png",
+    "slug": "mountain-waterfall-beneath-rainbow",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_28_AM",
+    "pageUrl": "wallpapers/desktop/nature/mountain-waterfall-beneath-rainbow.html",
+    "createdAt": "2026-08-03T06:55:39Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-alpine-wildflower-peaks-above-clouds-571",
+    "title": "Alpine Wildflower Peaks Above Clouds",
+    "description": "Download Alpine Wildflower Peaks Above Clouds, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2955089,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "alpine",
+      "wildflower",
+      "peaks",
+      "clouds"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740142/ChatGPT_Image_Jul_27_2026_08_51_31_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740142/ChatGPT_Image_Jul_27_2026_08_51_31_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740142/ChatGPT_Image_Jul_27_2026_08_51_31_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00571/v1785740142/ChatGPT_Image_Jul_27_2026_08_51_31_AM.png",
+    "slug": "alpine-wildflower-peaks-above-clouds",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_31_AM",
+    "pageUrl": "wallpapers/desktop/nature/alpine-wildflower-peaks-above-clouds.html",
+    "createdAt": "2026-08-03T06:55:42Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-frozen-waterfall-at-winter-sunrise-572",
+    "title": "Frozen Waterfall at Winter Sunrise",
+    "description": "Download Frozen Waterfall at Winter Sunrise, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3175322,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "frozen",
+      "waterfall",
+      "winter",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740143/ChatGPT_Image_Jul_27_2026_08_51_34_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740143/ChatGPT_Image_Jul_27_2026_08_51_34_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740143/ChatGPT_Image_Jul_27_2026_08_51_34_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00572/v1785740143/ChatGPT_Image_Jul_27_2026_08_51_34_AM.png",
+    "slug": "frozen-waterfall-at-winter-sunrise",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_34_AM",
+    "pageUrl": "wallpapers/desktop/nature/frozen-waterfall-at-winter-sunrise.html",
+    "createdAt": "2026-08-03T06:55:43Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-lavender-fields-at-pink-sunset-573",
+    "title": "Lavender Fields at Pink Sunset",
+    "description": "Download Lavender Fields at Pink Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2521575,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "lavender",
+      "fields",
+      "pink",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740141/ChatGPT_Image_Jul_27_2026_08_51_37_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740141/ChatGPT_Image_Jul_27_2026_08_51_37_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740141/ChatGPT_Image_Jul_27_2026_08_51_37_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00573/v1785740141/ChatGPT_Image_Jul_27_2026_08_51_37_AM.png",
+    "slug": "lavender-fields-at-pink-sunset",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_37_AM",
+    "pageUrl": "wallpapers/desktop/nature/lavender-fields-at-pink-sunset.html",
+    "createdAt": "2026-08-03T06:55:41Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunbeams-over-waterfall-valley-574",
+    "title": "Sunbeams Over Waterfall Valley",
+    "description": "Download Sunbeams Over Waterfall Valley, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2480101,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "sunbeams",
+      "waterfall",
+      "valley"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740144/ChatGPT_Image_Jul_27_2026_08_51_40_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740144/ChatGPT_Image_Jul_27_2026_08_51_40_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740144/ChatGPT_Image_Jul_27_2026_08_51_40_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00574/v1785740144/ChatGPT_Image_Jul_27_2026_08_51_40_AM.png",
+    "slug": "sunbeams-over-waterfall-valley",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_40_AM",
+    "pageUrl": "wallpapers/desktop/nature/sunbeams-over-waterfall-valley.html",
+    "createdAt": "2026-08-03T06:55:44Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-lake-in-spring-575",
+    "title": "Cherry Blossom Lake in Spring",
+    "description": "Download Cherry Blossom Lake in Spring, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3314732,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "cherry",
+      "blossom",
+      "lake",
+      "spring"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740148/ChatGPT_Image_Jul_27_2026_08_51_43_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740148/ChatGPT_Image_Jul_27_2026_08_51_43_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740148/ChatGPT_Image_Jul_27_2026_08_51_43_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00575/v1785740148/ChatGPT_Image_Jul_27_2026_08_51_43_AM.png",
+    "slug": "cherry-blossom-lake-in-spring",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_43_AM",
+    "pageUrl": "wallpapers/desktop/nature/cherry-blossom-lake-in-spring.html",
+    "createdAt": "2026-08-03T06:55:48Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-sunlit-redwood-forest-576",
+    "title": "Sunlit Redwood Forest",
+    "description": "Download Sunlit Redwood Forest, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2668628,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "sunlit",
+      "redwood",
+      "forest"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740150/ChatGPT_Image_Jul_27_2026_08_51_46_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740150/ChatGPT_Image_Jul_27_2026_08_51_46_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740150/ChatGPT_Image_Jul_27_2026_08_51_46_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00576/v1785740150/ChatGPT_Image_Jul_27_2026_08_51_46_AM.png",
+    "slug": "sunlit-redwood-forest",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_46_AM",
+    "pageUrl": "wallpapers/desktop/nature/sunlit-redwood-forest.html",
+    "createdAt": "2026-08-03T06:55:50Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-erupting-volcano-under-lightning-577",
+    "title": "Erupting Volcano Under Lightning",
+    "description": "Download Erupting Volcano Under Lightning, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2363908,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "erupting",
+      "volcano",
+      "lightning"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740152/ChatGPT_Image_Jul_27_2026_08_51_49_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740152/ChatGPT_Image_Jul_27_2026_08_51_49_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740152/ChatGPT_Image_Jul_27_2026_08_51_49_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00577/v1785740152/ChatGPT_Image_Jul_27_2026_08_51_49_AM.png",
+    "slug": "erupting-volcano-under-lightning",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_49_AM",
+    "pageUrl": "wallpapers/desktop/nature/erupting-volcano-under-lightning.html",
+    "createdAt": "2026-08-03T06:55:52Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-desert-sandstorm-at-golden-sunset-578",
+    "title": "Desert Sandstorm at Golden Sunset",
+    "description": "Download Desert Sandstorm at Golden Sunset, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2082642,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "desert",
+      "sandstorm",
+      "golden",
+      "sunset"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740153/ChatGPT_Image_Jul_27_2026_08_51_51_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740153/ChatGPT_Image_Jul_27_2026_08_51_51_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740153/ChatGPT_Image_Jul_27_2026_08_51_51_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00578/v1785740153/ChatGPT_Image_Jul_27_2026_08_51_51_AM.png",
+    "slug": "desert-sandstorm-at-golden-sunset",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_51_AM",
+    "pageUrl": "wallpapers/desktop/nature/desert-sandstorm-at-golden-sunset.html",
+    "createdAt": "2026-08-03T06:55:53Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-blizzard-sweeping-snowy-mountain-579",
+    "title": "Blizzard Sweeping Snowy Mountain",
+    "description": "Download Blizzard Sweeping Snowy Mountain, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2725706,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "blizzard",
+      "sweeping",
+      "snowy",
+      "mountain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740157/ChatGPT_Image_Jul_27_2026_08_51_54_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740157/ChatGPT_Image_Jul_27_2026_08_51_54_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740157/ChatGPT_Image_Jul_27_2026_08_51_54_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00579/v1785740157/ChatGPT_Image_Jul_27_2026_08_51_54_AM.png",
+    "slug": "blizzard-sweeping-snowy-mountain",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_51_54_AM",
+    "pageUrl": "wallpapers/desktop/nature/blizzard-sweeping-snowy-mountain.html",
+    "createdAt": "2026-08-03T06:55:57Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-tropical-waterfalls-in-heavy-rain-580",
+    "title": "Tropical Waterfalls in Heavy Rain",
+    "description": "Download Tropical Waterfalls in Heavy Rain, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2914669,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "tropical",
+      "waterfalls",
+      "heavy",
+      "rain"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740159/ChatGPT_Image_Jul_27_2026_08_52_25_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740159/ChatGPT_Image_Jul_27_2026_08_52_25_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740159/ChatGPT_Image_Jul_27_2026_08_52_25_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00580/v1785740159/ChatGPT_Image_Jul_27_2026_08_52_25_AM.png",
+    "slug": "tropical-waterfalls-in-heavy-rain",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_25_AM",
+    "pageUrl": "wallpapers/desktop/nature/tropical-waterfalls-in-heavy-rain.html",
+    "createdAt": "2026-08-03T06:55:59Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-neon-city-in-thunderstorm-581",
+    "title": "Neon City in Thunderstorm",
+    "description": "Download Neon City in Thunderstorm, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3040233,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "neon",
+      "city",
+      "thunderstorm"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740161/ChatGPT_Image_Jul_27_2026_08_52_29_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740161/ChatGPT_Image_Jul_27_2026_08_52_29_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740161/ChatGPT_Image_Jul_27_2026_08_52_29_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00581/v1785740161/ChatGPT_Image_Jul_27_2026_08_52_29_AM.png",
+    "slug": "neon-city-in-thunderstorm",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_29_AM",
+    "pageUrl": "wallpapers/desktop/nature/neon-city-in-thunderstorm.html",
+    "createdAt": "2026-08-03T06:56:01Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-coastal-cliffs-above-sunset-fog-582",
+    "title": "Coastal Cliffs Above Sunset Fog",
+    "description": "Download Coastal Cliffs Above Sunset Fog, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2337821,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "coastal",
+      "cliffs",
+      "sunset",
+      "fog"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740162/ChatGPT_Image_Jul_27_2026_08_52_31_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740162/ChatGPT_Image_Jul_27_2026_08_52_31_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740162/ChatGPT_Image_Jul_27_2026_08_52_31_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00582/v1785740162/ChatGPT_Image_Jul_27_2026_08_52_31_AM.png",
+    "slug": "coastal-cliffs-above-sunset-fog",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_31_AM",
+    "pageUrl": "wallpapers/desktop/nature/coastal-cliffs-above-sunset-fog.html",
+    "createdAt": "2026-08-03T06:56:02Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-thunderstorm-over-golden-grassland-583",
+    "title": "Thunderstorm Over Golden Grassland",
+    "description": "Download Thunderstorm Over Golden Grassland, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2831656,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "thunderstorm",
+      "golden",
+      "grassland"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740165/ChatGPT_Image_Jul_27_2026_08_52_39_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740165/ChatGPT_Image_Jul_27_2026_08_52_39_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740165/ChatGPT_Image_Jul_27_2026_08_52_39_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00583/v1785740165/ChatGPT_Image_Jul_27_2026_08_52_39_AM.png",
+    "slug": "thunderstorm-over-golden-grassland",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_39_AM",
+    "pageUrl": "wallpapers/desktop/nature/thunderstorm-over-golden-grassland.html",
+    "createdAt": "2026-08-03T06:56:05Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-glacier-peaks-above-arctic-sea-584",
+    "title": "Glacier Peaks Above Arctic Sea",
+    "description": "Download Glacier Peaks Above Arctic Sea, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2429433,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "glacier",
+      "peaks",
+      "arctic",
+      "sea"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740167/ChatGPT_Image_Jul_27_2026_08_52_41_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740167/ChatGPT_Image_Jul_27_2026_08_52_41_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740167/ChatGPT_Image_Jul_27_2026_08_52_41_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00584/v1785740167/ChatGPT_Image_Jul_27_2026_08_52_41_AM.png",
+    "slug": "glacier-peaks-above-arctic-sea",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_41_AM",
+    "pageUrl": "wallpapers/desktop/nature/glacier-peaks-above-arctic-sea.html",
+    "createdAt": "2026-08-03T06:56:07Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-snowy-mountain-range-at-pink-sunrise-585",
+    "title": "Snowy Mountain Range at Pink Sunrise",
+    "description": "Download Snowy Mountain Range at Pink Sunrise, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2812397,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "snowy",
+      "mountain",
+      "range",
+      "pink",
+      "sunrise"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740169/ChatGPT_Image_Jul_27_2026_08_52_46_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740169/ChatGPT_Image_Jul_27_2026_08_52_46_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740169/ChatGPT_Image_Jul_27_2026_08_52_46_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00585/v1785740169/ChatGPT_Image_Jul_27_2026_08_52_46_AM.png",
+    "slug": "snowy-mountain-range-at-pink-sunrise",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_46_AM",
+    "pageUrl": "wallpapers/desktop/nature/snowy-mountain-range-at-pink-sunrise.html",
+    "createdAt": "2026-08-03T06:56:09Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-desert-canyon-in-golden-dust-storm-586",
+    "title": "Desert Canyon in Golden Dust Storm",
+    "description": "Download Desert Canyon in Golden Dust Storm, a free 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2248359,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "desert",
+      "canyon",
+      "golden",
+      "dust",
+      "storm"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785740171/ChatGPT_Image_Jul_27_2026_08_52_48_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785740171/ChatGPT_Image_Jul_27_2026_08_52_48_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785740171/ChatGPT_Image_Jul_27_2026_08_52_48_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00586/v1785740171/ChatGPT_Image_Jul_27_2026_08_52_48_AM.png",
+    "slug": "desert-canyon-in-golden-dust-storm",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_48_AM",
+    "pageUrl": "wallpapers/desktop/nature/desert-canyon-in-golden-dust-storm.html",
+    "createdAt": "2026-08-03T06:56:11Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-rainy-rice-terraces-mountain-village-587",
+    "title": "Rainy Rice Terraces Mountain Village",
+    "description": "Download Rainy Rice Terraces Mountain Village, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 2689104,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "rainy",
+      "rice",
+      "terraces",
+      "mountain",
+      "village"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739808/ChatGPT_Image_Jul_27_2026_08_52_57_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739808/ChatGPT_Image_Jul_27_2026_08_52_57_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739808/ChatGPT_Image_Jul_27_2026_08_52_57_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00587/v1785739808/ChatGPT_Image_Jul_27_2026_08_52_57_AM.png",
+    "slug": "rainy-rice-terraces-mountain-village",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_52_57_AM",
+    "pageUrl": "wallpapers/desktop/nature/rainy-rice-terraces-mountain-village.html",
+    "createdAt": "2026-08-03T06:50:08Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-cherry-blossom-garden-by-mountain-lake-588",
+    "title": "Cherry Blossom Garden by Mountain Lake",
+    "description": "Download Cherry Blossom Garden by Mountain Lake, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3321841,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "cherry",
+      "blossom",
+      "garden",
+      "mountain",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739810/ChatGPT_Image_Jul_27_2026_08_53_00_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739810/ChatGPT_Image_Jul_27_2026_08_53_00_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739810/ChatGPT_Image_Jul_27_2026_08_53_00_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00588/v1785739810/ChatGPT_Image_Jul_27_2026_08_53_00_AM.png",
+    "slug": "cherry-blossom-garden-by-mountain-lake",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_53_00_AM",
+    "pageUrl": "wallpapers/desktop/nature/cherry-blossom-garden-by-mountain-lake.html",
+    "createdAt": "2026-08-03T06:50:10Z",
+    "importBatch": "desktop-import-2026-08"
+  },
+  {
+    "id": "desktop-northern-lights-over-frozen-pine-lake-589",
+    "title": "Northern Lights Over Frozen Pine Lake",
+    "description": "Download Northern Lights Over Frozen Pine Lake, 1672x941 nature desktop wallpaper featuring natural color, scenic depth, and a calm landscape composition.",
+    "category": "Nature",
+    "categories": [
+      "Nature"
+    ],
+    "deviceTypes": [
+      "desktop"
+    ],
+    "resolution": "1672x941",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG",
+    "bytes": 3027590,
+    "tags": [
+      "desktop wallpaper",
+      "16:9 wallpaper",
+      "hd wallpaper",
+      "nature wallpaper",
+      "landscape wallpaper",
+      "scenic wallpaper",
+      "northern",
+      "lights",
+      "frozen",
+      "pine",
+      "lake"
+    ],
+    "source": "cloudinary-desktop",
+    "image": "https://res.cloudinary.com/nhxfoykh/image/upload/v1785739812/ChatGPT_Image_Jul_27_2026_08_53_03_AM.png",
+    "preview": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fit,w_1200,h_675,q_auto,f_auto/v1785739812/ChatGPT_Image_Jul_27_2026_08_53_03_AM.png",
+    "thumbnail": "https://res.cloudinary.com/nhxfoykh/image/upload/c_fill,w_640,h_360,q_auto,f_auto/v1785739812/ChatGPT_Image_Jul_27_2026_08_53_03_AM.png",
+    "download": "https://res.cloudinary.com/nhxfoykh/image/upload/fl_attachment:PMW_Visuals_00589/v1785739812/ChatGPT_Image_Jul_27_2026_08_53_03_AM.png",
+    "slug": "northern-lights-over-frozen-pine-lake",
+    "publicId": "ChatGPT_Image_Jul_27_2026_08_53_03_AM",
+    "pageUrl": "wallpapers/desktop/nature/northern-lights-over-frozen-pine-lake.html",
+    "createdAt": "2026-08-03T06:50:12Z",
+    "importBatch": "desktop-import-2026-08"
   }
 ];

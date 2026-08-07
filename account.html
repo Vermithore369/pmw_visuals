@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <script src="js/pmw-theme.js"></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Account - PMW Visuals</title>
@@ -8,6 +9,7 @@
   <link rel="shortcut icon" href="/favicon.png">
   <link rel="stylesheet" href="css/pmw-auth.css" />
   <link rel="stylesheet" href="css/pmw-buttons.css">
+  <link rel="stylesheet" href="css/pmw-theme.css">
 </head>
 <body class="pmw-auth-page pmw-account-dashboard-page">
   <main class="pmw-dashboard-shell">
@@ -55,10 +57,19 @@
         <a class="pmw-gold-button" href="premium.html">Upgrade Now</a>
       </section>
 
-      <div class="pmw-theme-placeholder" aria-label="Theme option coming soon">
-        <span>DM</span>
-        <strong>Dark Mode</strong>
-        <button type="button" aria-label="Dark mode placeholder" disabled></button>
+      <div class="pmw-theme-control">
+        <span id="themeModeIcon" aria-hidden="true">DM</span>
+        <div>
+          <strong>Appearance</strong>
+          <small id="themePreferenceLabel">Dark mode</small>
+        </div>
+        <button
+          id="themeToggle"
+          type="button"
+          role="switch"
+          aria-checked="false"
+          aria-label="Switch to light mode"
+        ><span aria-hidden="true"></span></button>
       </div>
     </aside>
 
