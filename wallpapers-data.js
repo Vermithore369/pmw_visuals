@@ -20,10 +20,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "lotus"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
-    "preview": "https://drive.google.com/uc?export=view&id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
-    "image": "https://drive.google.com/uc?export=view&id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
+    "image": "https://drive.google.com/thumbnail?id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T&sz=w1600",
     "driveFileId": "1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
     "storage": "google_drive"
   },
@@ -48,10 +48,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "cave"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
-    "preview": "https://drive.google.com/uc?export=view&id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
-    "image": "https://drive.google.com/uc?export=view&id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
+    "image": "https://drive.google.com/thumbnail?id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw&sz=w1600",
     "driveFileId": "1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
     "storage": "google_drive"
   },
@@ -76,10 +76,10 @@ window.PMW_WALLPAPERS = [
       "starry sky",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
-    "preview": "https://drive.google.com/uc?export=view&id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
-    "image": "https://drive.google.com/uc?export=view&id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
+    "image": "https://drive.google.com/thumbnail?id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4&sz=w1600",
     "driveFileId": "1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
     "storage": "google_drive"
   },
@@ -104,10 +104,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
-    "preview": "https://drive.google.com/uc?export=view&id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
-    "image": "https://drive.google.com/uc?export=view&id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
+    "image": "https://drive.google.com/thumbnail?id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL&sz=w1600",
     "driveFileId": "1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
     "storage": "google_drive"
   },
@@ -133,10 +133,10 @@ window.PMW_WALLPAPERS = [
       "luminous",
       "shards"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
-    "preview": "https://drive.google.com/uc?export=view&id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
-    "image": "https://drive.google.com/uc?export=view&id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
+    "image": "https://drive.google.com/thumbnail?id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch&sz=w1600",
     "driveFileId": "18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
     "storage": "google_drive"
   },
@@ -159,10 +159,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "runic"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
-    "preview": "https://drive.google.com/uc?export=view&id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
-    "image": "https://drive.google.com/uc?export=view&id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
+    "image": "https://drive.google.com/thumbnail?id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v&sz=w1600",
     "driveFileId": "13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
     "storage": "google_drive"
   },
@@ -187,10 +187,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "background"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
-    "preview": "https://drive.google.com/uc?export=view&id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
-    "image": "https://drive.google.com/uc?export=view&id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
+    "image": "https://drive.google.com/thumbnail?id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0&sz=w1600",
     "driveFileId": "1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
     "storage": "google_drive"
   },
@@ -214,10 +214,10 @@ window.PMW_WALLPAPERS = [
       "crown",
       "shine"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
-    "preview": "https://drive.google.com/uc?export=view&id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
-    "image": "https://drive.google.com/uc?export=view&id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
+    "image": "https://drive.google.com/thumbnail?id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V&sz=w1600",
     "driveFileId": "1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
     "storage": "google_drive"
   },
@@ -241,10 +241,10 @@ window.PMW_WALLPAPERS = [
       "clock",
       "field"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
-    "preview": "https://drive.google.com/uc?export=view&id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
-    "image": "https://drive.google.com/uc?export=view&id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
+    "image": "https://drive.google.com/thumbnail?id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I&sz=w1600",
     "driveFileId": "1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
     "storage": "google_drive"
   },
@@ -269,10 +269,10 @@ window.PMW_WALLPAPERS = [
       "key",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
-    "preview": "https://drive.google.com/uc?export=view&id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
-    "image": "https://drive.google.com/uc?export=view&id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
+    "image": "https://drive.google.com/thumbnail?id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb&sz=w1600",
     "driveFileId": "1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
     "storage": "google_drive"
   },
@@ -297,10 +297,10 @@ window.PMW_WALLPAPERS = [
       "wings",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
-    "preview": "https://drive.google.com/uc?export=view&id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
-    "image": "https://drive.google.com/uc?export=view&id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
+    "image": "https://drive.google.com/thumbnail?id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH&sz=w1600",
     "driveFileId": "17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
     "storage": "google_drive"
   },
@@ -324,10 +324,10 @@ window.PMW_WALLPAPERS = [
       "swirl",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
-    "preview": "https://drive.google.com/uc?export=view&id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
-    "image": "https://drive.google.com/uc?export=view&id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
+    "image": "https://drive.google.com/thumbnail?id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b&sz=w1600",
     "driveFileId": "1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
     "storage": "google_drive"
   },
@@ -351,10 +351,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "antlers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
-    "preview": "https://drive.google.com/uc?export=view&id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
-    "image": "https://drive.google.com/uc?export=view&id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
+    "image": "https://drive.google.com/thumbnail?id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT&sz=w1600",
     "driveFileId": "1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
     "storage": "google_drive"
   },
@@ -379,10 +379,10 @@ window.PMW_WALLPAPERS = [
       "wrapped",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
-    "preview": "https://drive.google.com/uc?export=view&id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
-    "image": "https://drive.google.com/uc?export=view&id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
+    "image": "https://drive.google.com/thumbnail?id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh&sz=w1600",
     "driveFileId": "10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
     "storage": "google_drive"
   },
@@ -407,10 +407,10 @@ window.PMW_WALLPAPERS = [
       "crown",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
-    "preview": "https://drive.google.com/uc?export=view&id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
-    "image": "https://drive.google.com/uc?export=view&id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
+    "image": "https://drive.google.com/thumbnail?id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA&sz=w1600",
     "driveFileId": "1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
     "storage": "google_drive"
   },
@@ -434,10 +434,10 @@ window.PMW_WALLPAPERS = [
       "snake",
       "crystal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
-    "preview": "https://drive.google.com/uc?export=view&id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
-    "image": "https://drive.google.com/uc?export=view&id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
+    "image": "https://drive.google.com/thumbnail?id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6&sz=w1600",
     "driveFileId": "1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
     "storage": "google_drive"
   },
@@ -462,10 +462,10 @@ window.PMW_WALLPAPERS = [
       "guarding",
       "crystal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
-    "preview": "https://drive.google.com/uc?export=view&id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
-    "image": "https://drive.google.com/uc?export=view&id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
+    "image": "https://drive.google.com/thumbnail?id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_&sz=w1600",
     "driveFileId": "1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
     "storage": "google_drive"
   },
@@ -491,10 +491,10 @@ window.PMW_WALLPAPERS = [
       "fantasy",
       "scene"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
-    "preview": "https://drive.google.com/uc?export=view&id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
-    "image": "https://drive.google.com/uc?export=view&id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
+    "image": "https://drive.google.com/thumbnail?id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o&sz=w1600",
     "driveFileId": "1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
     "storage": "google_drive"
   },
@@ -517,10 +517,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "dragon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
-    "preview": "https://drive.google.com/uc?export=view&id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
-    "image": "https://drive.google.com/uc?export=view&id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
+    "image": "https://drive.google.com/thumbnail?id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn&sz=w1600",
     "driveFileId": "1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
     "storage": "google_drive"
   },
@@ -544,10 +544,10 @@ window.PMW_WALLPAPERS = [
       "scorpion",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
-    "preview": "https://drive.google.com/uc?export=view&id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
-    "image": "https://drive.google.com/uc?export=view&id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
+    "image": "https://drive.google.com/thumbnail?id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7&sz=w1600",
     "driveFileId": "1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
     "storage": "google_drive"
   },
@@ -572,10 +572,10 @@ window.PMW_WALLPAPERS = [
       "opening",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
-    "preview": "https://drive.google.com/uc?export=view&id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
-    "image": "https://drive.google.com/uc?export=view&id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
+    "image": "https://drive.google.com/thumbnail?id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW&sz=w1600",
     "driveFileId": "1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
     "storage": "google_drive"
   },
@@ -601,10 +601,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
-    "preview": "https://drive.google.com/uc?export=view&id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
-    "image": "https://drive.google.com/uc?export=view&id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
+    "image": "https://drive.google.com/thumbnail?id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs&sz=w1600",
     "driveFileId": "19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
     "storage": "google_drive"
   },
@@ -628,10 +628,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
-    "preview": "https://drive.google.com/uc?export=view&id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
-    "image": "https://drive.google.com/uc?export=view&id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
+    "image": "https://drive.google.com/thumbnail?id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9&sz=w1600",
     "driveFileId": "17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
     "storage": "google_drive"
   },
@@ -655,10 +655,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "blue"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
-    "preview": "https://drive.google.com/uc?export=view&id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
-    "image": "https://drive.google.com/uc?export=view&id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
+    "image": "https://drive.google.com/thumbnail?id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m&sz=w1600",
     "driveFileId": "1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
     "storage": "google_drive"
   },
@@ -683,10 +683,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
-    "preview": "https://drive.google.com/uc?export=view&id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
-    "image": "https://drive.google.com/uc?export=view&id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
+    "image": "https://drive.google.com/thumbnail?id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs&sz=w1600",
     "driveFileId": "11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
     "storage": "google_drive"
   },
@@ -709,10 +709,10 @@ window.PMW_WALLPAPERS = [
       "infinity",
       "heart"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
-    "preview": "https://drive.google.com/uc?export=view&id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
-    "image": "https://drive.google.com/uc?export=view&id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
+    "image": "https://drive.google.com/thumbnail?id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x&sz=w1600",
     "driveFileId": "1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
     "storage": "google_drive"
   },
@@ -734,10 +734,10 @@ window.PMW_WALLPAPERS = [
       "phone wallpaper",
       "infinity"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
-    "preview": "https://drive.google.com/uc?export=view&id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
-    "image": "https://drive.google.com/uc?export=view&id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
+    "image": "https://drive.google.com/thumbnail?id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-&sz=w1600",
     "driveFileId": "1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
     "storage": "google_drive"
   },
@@ -762,10 +762,10 @@ window.PMW_WALLPAPERS = [
       "gemstone",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
-    "preview": "https://drive.google.com/uc?export=view&id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
-    "image": "https://drive.google.com/uc?export=view&id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
+    "image": "https://drive.google.com/thumbnail?id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq&sz=w1600",
     "driveFileId": "1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
     "storage": "google_drive"
   },
@@ -789,10 +789,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "highlights"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
-    "preview": "https://drive.google.com/uc?export=view&id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
-    "image": "https://drive.google.com/uc?export=view&id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
+    "image": "https://drive.google.com/thumbnail?id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb&sz=w1600",
     "driveFileId": "1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
     "storage": "google_drive"
   },
@@ -816,10 +816,10 @@ window.PMW_WALLPAPERS = [
       "butterfly",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
-    "preview": "https://drive.google.com/uc?export=view&id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
-    "image": "https://drive.google.com/uc?export=view&id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
+    "image": "https://drive.google.com/thumbnail?id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68&sz=w1600",
     "driveFileId": "1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
     "storage": "google_drive"
   },
@@ -843,10 +843,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "butterfly"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
-    "preview": "https://drive.google.com/uc?export=view&id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
-    "image": "https://drive.google.com/uc?export=view&id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
+    "image": "https://drive.google.com/thumbnail?id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR&sz=w1600",
     "driveFileId": "1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
     "storage": "google_drive"
   },
@@ -871,10 +871,10 @@ window.PMW_WALLPAPERS = [
       "planet",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
-    "preview": "https://drive.google.com/uc?export=view&id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
-    "image": "https://drive.google.com/uc?export=view&id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
+    "image": "https://drive.google.com/thumbnail?id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_&sz=w1600",
     "driveFileId": "1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
     "storage": "google_drive"
   },
@@ -899,10 +899,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "rings"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
-    "preview": "https://drive.google.com/uc?export=view&id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
-    "image": "https://drive.google.com/uc?export=view&id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
+    "image": "https://drive.google.com/thumbnail?id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE&sz=w1600",
     "driveFileId": "1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
     "storage": "google_drive"
   },
@@ -926,10 +926,10 @@ window.PMW_WALLPAPERS = [
       "piercing",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
-    "preview": "https://drive.google.com/uc?export=view&id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
-    "image": "https://drive.google.com/uc?export=view&id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
+    "image": "https://drive.google.com/thumbnail?id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2&sz=w1600",
     "driveFileId": "1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
     "storage": "google_drive"
   },
@@ -954,10 +954,10 @@ window.PMW_WALLPAPERS = [
       "leaves",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
-    "preview": "https://drive.google.com/uc?export=view&id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
-    "image": "https://drive.google.com/uc?export=view&id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
+    "image": "https://drive.google.com/thumbnail?id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl&sz=w1600",
     "driveFileId": "19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
     "storage": "google_drive"
   },
@@ -981,10 +981,10 @@ window.PMW_WALLPAPERS = [
       "octopus",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
-    "preview": "https://drive.google.com/uc?export=view&id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
-    "image": "https://drive.google.com/uc?export=view&id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
+    "image": "https://drive.google.com/thumbnail?id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N&sz=w1600",
     "driveFileId": "1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
     "storage": "google_drive"
   },
@@ -1009,10 +1009,10 @@ window.PMW_WALLPAPERS = [
       "octopus",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
-    "preview": "https://drive.google.com/uc?export=view&id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
-    "image": "https://drive.google.com/uc?export=view&id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
+    "image": "https://drive.google.com/thumbnail?id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_&sz=w1600",
     "driveFileId": "1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
     "storage": "google_drive"
   },
@@ -1036,10 +1036,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "butterfly"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
-    "preview": "https://drive.google.com/uc?export=view&id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
-    "image": "https://drive.google.com/uc?export=view&id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
+    "image": "https://drive.google.com/thumbnail?id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-&sz=w1600",
     "driveFileId": "1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
     "storage": "google_drive"
   },
@@ -1064,10 +1064,10 @@ window.PMW_WALLPAPERS = [
       "portrait",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
-    "preview": "https://drive.google.com/uc?export=view&id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
-    "image": "https://drive.google.com/uc?export=view&id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
+    "image": "https://drive.google.com/thumbnail?id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw&sz=w1600",
     "driveFileId": "1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
     "storage": "google_drive"
   },
@@ -1090,10 +1090,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
-    "preview": "https://drive.google.com/uc?export=view&id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
-    "image": "https://drive.google.com/uc?export=view&id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
+    "image": "https://drive.google.com/thumbnail?id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX&sz=w1600",
     "driveFileId": "1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
     "storage": "google_drive"
   },
@@ -1118,10 +1118,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
-    "preview": "https://drive.google.com/uc?export=view&id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
-    "image": "https://drive.google.com/uc?export=view&id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
+    "image": "https://drive.google.com/thumbnail?id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG&sz=w1600",
     "driveFileId": "1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
     "storage": "google_drive"
   },
@@ -1146,10 +1146,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
-    "preview": "https://drive.google.com/uc?export=view&id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
-    "image": "https://drive.google.com/uc?export=view&id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
+    "image": "https://drive.google.com/thumbnail?id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc&sz=w1600",
     "driveFileId": "1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
     "storage": "google_drive"
   },
@@ -1173,10 +1173,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
-    "preview": "https://drive.google.com/uc?export=view&id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
-    "image": "https://drive.google.com/uc?export=view&id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
+    "image": "https://drive.google.com/thumbnail?id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3&sz=w1600",
     "driveFileId": "1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
     "storage": "google_drive"
   },
@@ -1200,10 +1200,10 @@ window.PMW_WALLPAPERS = [
       "birds",
       "flight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
-    "preview": "https://drive.google.com/uc?export=view&id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
-    "image": "https://drive.google.com/uc?export=view&id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
+    "image": "https://drive.google.com/thumbnail?id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj&sz=w1600",
     "driveFileId": "1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
     "storage": "google_drive"
   },
@@ -1227,10 +1227,10 @@ window.PMW_WALLPAPERS = [
       "compass",
       "field"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
-    "preview": "https://drive.google.com/uc?export=view&id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
-    "image": "https://drive.google.com/uc?export=view&id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
+    "image": "https://drive.google.com/thumbnail?id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g&sz=w1600",
     "driveFileId": "1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
     "storage": "google_drive"
   },
@@ -1254,10 +1254,10 @@ window.PMW_WALLPAPERS = [
       "inside",
       "glow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
-    "preview": "https://drive.google.com/uc?export=view&id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
-    "image": "https://drive.google.com/uc?export=view&id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
+    "image": "https://drive.google.com/thumbnail?id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T&sz=w1600",
     "driveFileId": "1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
     "storage": "google_drive"
   },
@@ -1281,10 +1281,10 @@ window.PMW_WALLPAPERS = [
       "print",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
-    "preview": "https://drive.google.com/uc?export=view&id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
-    "image": "https://drive.google.com/uc?export=view&id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
+    "image": "https://drive.google.com/thumbnail?id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22&sz=w1600",
     "driveFileId": "1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
     "storage": "google_drive"
   },
@@ -1308,10 +1308,10 @@ window.PMW_WALLPAPERS = [
       "whale",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
-    "preview": "https://drive.google.com/uc?export=view&id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
-    "image": "https://drive.google.com/uc?export=view&id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
+    "image": "https://drive.google.com/thumbnail?id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih&sz=w1600",
     "driveFileId": "1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
     "storage": "google_drive"
   },
@@ -1334,10 +1334,10 @@ window.PMW_WALLPAPERS = [
       "purple",
       "spider"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
-    "preview": "https://drive.google.com/uc?export=view&id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
-    "image": "https://drive.google.com/uc?export=view&id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
+    "image": "https://drive.google.com/thumbnail?id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8&sz=w1600",
     "driveFileId": "1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
     "storage": "google_drive"
   },
@@ -1361,10 +1361,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "sphere"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
-    "preview": "https://drive.google.com/uc?export=view&id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
-    "image": "https://drive.google.com/uc?export=view&id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
+    "image": "https://drive.google.com/thumbnail?id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX&sz=w1600",
     "driveFileId": "1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
     "storage": "google_drive"
   },
@@ -1388,10 +1388,10 @@ window.PMW_WALLPAPERS = [
       "lion",
       "portrait"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
-    "image": "https://drive.google.com/uc?export=view&id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
+    "image": "https://drive.google.com/thumbnail?id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ&sz=w1600",
     "driveFileId": "1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
     "storage": "google_drive"
   },
@@ -1416,10 +1416,10 @@ window.PMW_WALLPAPERS = [
       "streaking",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
-    "preview": "https://drive.google.com/uc?export=view&id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
-    "image": "https://drive.google.com/uc?export=view&id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
+    "image": "https://drive.google.com/thumbnail?id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La&sz=w1600",
     "driveFileId": "1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
     "storage": "google_drive"
   },
@@ -1443,10 +1443,10 @@ window.PMW_WALLPAPERS = [
       "flame",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
-    "preview": "https://drive.google.com/uc?export=view&id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
-    "image": "https://drive.google.com/uc?export=view&id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
+    "image": "https://drive.google.com/thumbnail?id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q&sz=w1600",
     "driveFileId": "1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
     "storage": "google_drive"
   },
@@ -1471,10 +1471,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
-    "preview": "https://drive.google.com/uc?export=view&id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
-    "image": "https://drive.google.com/uc?export=view&id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
+    "image": "https://drive.google.com/thumbnail?id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad&sz=w1600",
     "driveFileId": "1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
     "storage": "google_drive"
   },
@@ -1499,10 +1499,10 @@ window.PMW_WALLPAPERS = [
       "rising",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
-    "image": "https://drive.google.com/uc?export=view&id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
+    "image": "https://drive.google.com/thumbnail?id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX&sz=w1600",
     "driveFileId": "1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
     "storage": "google_drive"
   },
@@ -1527,10 +1527,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "pink"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
-    "preview": "https://drive.google.com/uc?export=view&id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
-    "image": "https://drive.google.com/uc?export=view&id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
+    "image": "https://drive.google.com/thumbnail?id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV&sz=w1600",
     "driveFileId": "1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
     "storage": "google_drive"
   },
@@ -1555,10 +1555,10 @@ window.PMW_WALLPAPERS = [
       "portrait",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
-    "preview": "https://drive.google.com/uc?export=view&id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
-    "image": "https://drive.google.com/uc?export=view&id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
+    "image": "https://drive.google.com/thumbnail?id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS&sz=w1600",
     "driveFileId": "1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
     "storage": "google_drive"
   },
@@ -1582,10 +1582,10 @@ window.PMW_WALLPAPERS = [
       "snake",
       "blue"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
-    "preview": "https://drive.google.com/uc?export=view&id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
-    "image": "https://drive.google.com/uc?export=view&id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
+    "image": "https://drive.google.com/thumbnail?id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej&sz=w1600",
     "driveFileId": "1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
     "storage": "google_drive"
   },
@@ -1608,10 +1608,10 @@ window.PMW_WALLPAPERS = [
       "owl",
       "glow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
-    "preview": "https://drive.google.com/uc?export=view&id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
-    "image": "https://drive.google.com/uc?export=view&id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
+    "image": "https://drive.google.com/thumbnail?id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I&sz=w1600",
     "driveFileId": "1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
     "storage": "google_drive"
   },
@@ -1636,10 +1636,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
-    "preview": "https://drive.google.com/uc?export=view&id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
-    "image": "https://drive.google.com/uc?export=view&id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
+    "image": "https://drive.google.com/thumbnail?id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S&sz=w1600",
     "driveFileId": "1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
     "storage": "google_drive"
   },
@@ -1662,10 +1662,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
-    "preview": "https://drive.google.com/uc?export=view&id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
-    "image": "https://drive.google.com/uc?export=view&id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
+    "image": "https://drive.google.com/thumbnail?id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk&sz=w1600",
     "driveFileId": "1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
     "storage": "google_drive"
   },
@@ -1690,10 +1690,10 @@ window.PMW_WALLPAPERS = [
       "dragons",
       "battle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
-    "preview": "https://drive.google.com/uc?export=view&id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
-    "image": "https://drive.google.com/uc?export=view&id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
+    "image": "https://drive.google.com/thumbnail?id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1&sz=w1600",
     "driveFileId": "1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
     "storage": "google_drive"
   },
@@ -1717,10 +1717,10 @@ window.PMW_WALLPAPERS = [
       "lion",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
-    "preview": "https://drive.google.com/uc?export=view&id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
-    "image": "https://drive.google.com/uc?export=view&id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
+    "image": "https://drive.google.com/thumbnail?id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T&sz=w1600",
     "driveFileId": "1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
     "storage": "google_drive"
   },
@@ -1743,10 +1743,10 @@ window.PMW_WALLPAPERS = [
       "fiery",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
-    "preview": "https://drive.google.com/uc?export=view&id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
-    "image": "https://drive.google.com/uc?export=view&id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
+    "image": "https://drive.google.com/thumbnail?id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_&sz=w1600",
     "driveFileId": "1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
     "storage": "google_drive"
   },
@@ -1770,10 +1770,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
-    "preview": "https://drive.google.com/uc?export=view&id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
-    "image": "https://drive.google.com/uc?export=view&id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
+    "image": "https://drive.google.com/thumbnail?id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm&sz=w1600",
     "driveFileId": "1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
     "storage": "google_drive"
   },
@@ -1795,10 +1795,10 @@ window.PMW_WALLPAPERS = [
       "phone wallpaper",
       "spider"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
-    "preview": "https://drive.google.com/uc?export=view&id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
-    "image": "https://drive.google.com/uc?export=view&id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
+    "image": "https://drive.google.com/thumbnail?id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH&sz=w1600",
     "driveFileId": "16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
     "storage": "google_drive"
   },
@@ -1822,10 +1822,10 @@ window.PMW_WALLPAPERS = [
       "lion",
       "portrait"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
-    "preview": "https://drive.google.com/uc?export=view&id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
-    "image": "https://drive.google.com/uc?export=view&id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
+    "image": "https://drive.google.com/thumbnail?id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq&sz=w1600",
     "driveFileId": "18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
     "storage": "google_drive"
   },
@@ -1850,10 +1850,10 @@ window.PMW_WALLPAPERS = [
       "purple",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
-    "preview": "https://drive.google.com/uc?export=view&id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
-    "image": "https://drive.google.com/uc?export=view&id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
+    "image": "https://drive.google.com/thumbnail?id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4&sz=w1600",
     "driveFileId": "1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
     "storage": "google_drive"
   },
@@ -1877,10 +1877,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
-    "preview": "https://drive.google.com/uc?export=view&id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
-    "image": "https://drive.google.com/uc?export=view&id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
+    "image": "https://drive.google.com/thumbnail?id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2&sz=w1600",
     "driveFileId": "1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
     "storage": "google_drive"
   },
@@ -1905,10 +1905,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
-    "image": "https://drive.google.com/uc?export=view&id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
+    "image": "https://drive.google.com/thumbnail?id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ&sz=w1600",
     "driveFileId": "1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
     "storage": "google_drive"
   },
@@ -1932,10 +1932,10 @@ window.PMW_WALLPAPERS = [
       "manta",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
-    "preview": "https://drive.google.com/uc?export=view&id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
-    "image": "https://drive.google.com/uc?export=view&id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
+    "image": "https://drive.google.com/thumbnail?id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh&sz=w1600",
     "driveFileId": "1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
     "storage": "google_drive"
   },
@@ -1959,10 +1959,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
-    "image": "https://drive.google.com/uc?export=view&id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
+    "image": "https://drive.google.com/thumbnail?id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ&sz=w1600",
     "driveFileId": "1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
     "storage": "google_drive"
   },
@@ -1986,10 +1986,10 @@ window.PMW_WALLPAPERS = [
       "rose",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
-    "preview": "https://drive.google.com/uc?export=view&id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
-    "image": "https://drive.google.com/uc?export=view&id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
+    "image": "https://drive.google.com/thumbnail?id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP&sz=w1600",
     "driveFileId": "1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
     "storage": "google_drive"
   },
@@ -2014,10 +2014,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
-    "preview": "https://drive.google.com/uc?export=view&id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
-    "image": "https://drive.google.com/uc?export=view&id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
+    "image": "https://drive.google.com/thumbnail?id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W&sz=w1600",
     "driveFileId": "1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
     "storage": "google_drive"
   },
@@ -2041,10 +2041,10 @@ window.PMW_WALLPAPERS = [
       "infinity",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
-    "preview": "https://drive.google.com/uc?export=view&id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
-    "image": "https://drive.google.com/uc?export=view&id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
+    "image": "https://drive.google.com/thumbnail?id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1&sz=w1600",
     "driveFileId": "14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
     "storage": "google_drive"
   },
@@ -2068,10 +2068,10 @@ window.PMW_WALLPAPERS = [
       "animal",
       "close"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
-    "preview": "https://drive.google.com/uc?export=view&id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
-    "image": "https://drive.google.com/uc?export=view&id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
+    "image": "https://drive.google.com/thumbnail?id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku&sz=w1600",
     "driveFileId": "1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
     "storage": "google_drive"
   },
@@ -2094,10 +2094,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "tornado"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
-    "preview": "https://drive.google.com/uc?export=view&id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
-    "image": "https://drive.google.com/uc?export=view&id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
+    "image": "https://drive.google.com/thumbnail?id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n&sz=w1600",
     "driveFileId": "17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
     "storage": "google_drive"
   },
@@ -2121,10 +2121,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "tornado"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
-    "preview": "https://drive.google.com/uc?export=view&id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
-    "image": "https://drive.google.com/uc?export=view&id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
+    "image": "https://drive.google.com/thumbnail?id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu&sz=w1600",
     "driveFileId": "1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
     "storage": "google_drive"
   },
@@ -2147,10 +2147,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
-    "preview": "https://drive.google.com/uc?export=view&id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
-    "image": "https://drive.google.com/uc?export=view&id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
+    "image": "https://drive.google.com/thumbnail?id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph&sz=w1600",
     "driveFileId": "1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
     "storage": "google_drive"
   },
@@ -2174,10 +2174,10 @@ window.PMW_WALLPAPERS = [
       "panther",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
-    "preview": "https://drive.google.com/uc?export=view&id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
-    "image": "https://drive.google.com/uc?export=view&id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
+    "image": "https://drive.google.com/thumbnail?id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM&sz=w1600",
     "driveFileId": "1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
     "storage": "google_drive"
   },
@@ -2202,10 +2202,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
-    "preview": "https://drive.google.com/uc?export=view&id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
-    "image": "https://drive.google.com/uc?export=view&id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
+    "image": "https://drive.google.com/thumbnail?id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r&sz=w1600",
     "driveFileId": "1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
     "storage": "google_drive"
   },
@@ -2230,10 +2230,10 @@ window.PMW_WALLPAPERS = [
       "portrait",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
-    "preview": "https://drive.google.com/uc?export=view&id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
-    "image": "https://drive.google.com/uc?export=view&id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
+    "image": "https://drive.google.com/thumbnail?id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL&sz=w1600",
     "driveFileId": "139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
     "storage": "google_drive"
   },
@@ -2257,10 +2257,10 @@ window.PMW_WALLPAPERS = [
       "snowflake",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
-    "preview": "https://drive.google.com/uc?export=view&id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
-    "image": "https://drive.google.com/uc?export=view&id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
+    "image": "https://drive.google.com/thumbnail?id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h&sz=w1600",
     "driveFileId": "1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
     "storage": "google_drive"
   },
@@ -2284,10 +2284,10 @@ window.PMW_WALLPAPERS = [
       "feather",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
-    "preview": "https://drive.google.com/uc?export=view&id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
-    "image": "https://drive.google.com/uc?export=view&id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
+    "image": "https://drive.google.com/thumbnail?id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe&sz=w1600",
     "driveFileId": "1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
     "storage": "google_drive"
   },
@@ -2311,10 +2311,10 @@ window.PMW_WALLPAPERS = [
       "jellyfish",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
-    "preview": "https://drive.google.com/uc?export=view&id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
-    "image": "https://drive.google.com/uc?export=view&id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
+    "image": "https://drive.google.com/thumbnail?id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k&sz=w1600",
     "driveFileId": "1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
     "storage": "google_drive"
   },
@@ -2338,10 +2338,10 @@ window.PMW_WALLPAPERS = [
       "jellyfish",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
-    "preview": "https://drive.google.com/uc?export=view&id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
-    "image": "https://drive.google.com/uc?export=view&id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
+    "image": "https://drive.google.com/thumbnail?id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB&sz=w1600",
     "driveFileId": "1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
     "storage": "google_drive"
   },
@@ -2366,10 +2366,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
-    "preview": "https://drive.google.com/uc?export=view&id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
-    "image": "https://drive.google.com/uc?export=view&id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
+    "image": "https://drive.google.com/thumbnail?id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8&sz=w1600",
     "driveFileId": "1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
     "storage": "google_drive"
   },
@@ -2394,10 +2394,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "roots"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
-    "preview": "https://drive.google.com/uc?export=view&id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
-    "image": "https://drive.google.com/uc?export=view&id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
+    "image": "https://drive.google.com/thumbnail?id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH&sz=w1600",
     "driveFileId": "1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
     "storage": "google_drive"
   },
@@ -2422,10 +2422,10 @@ window.PMW_WALLPAPERS = [
       "crescent moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
-    "preview": "https://drive.google.com/uc?export=view&id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
-    "image": "https://drive.google.com/uc?export=view&id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
+    "image": "https://drive.google.com/thumbnail?id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD&sz=w1600",
     "driveFileId": "1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
     "storage": "google_drive"
   },
@@ -2450,10 +2450,10 @@ window.PMW_WALLPAPERS = [
       "cave",
       "portal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
-    "image": "https://drive.google.com/uc?export=view&id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
+    "image": "https://drive.google.com/thumbnail?id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ&sz=w1600",
     "driveFileId": "1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
     "storage": "google_drive"
   },
@@ -2478,10 +2478,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
-    "preview": "https://drive.google.com/uc?export=view&id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
-    "image": "https://drive.google.com/uc?export=view&id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
+    "image": "https://drive.google.com/thumbnail?id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW&sz=w1600",
     "driveFileId": "1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
     "storage": "google_drive"
   },
@@ -2506,10 +2506,10 @@ window.PMW_WALLPAPERS = [
       "neon",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
-    "preview": "https://drive.google.com/uc?export=view&id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
-    "image": "https://drive.google.com/uc?export=view&id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
+    "image": "https://drive.google.com/thumbnail?id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq&sz=w1600",
     "driveFileId": "10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
     "storage": "google_drive"
   },
@@ -2534,10 +2534,10 @@ window.PMW_WALLPAPERS = [
       "coiled",
       "crescent moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
-    "preview": "https://drive.google.com/uc?export=view&id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
-    "image": "https://drive.google.com/uc?export=view&id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
+    "image": "https://drive.google.com/thumbnail?id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC&sz=w1600",
     "driveFileId": "1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
     "storage": "google_drive"
   },
@@ -2561,10 +2561,10 @@ window.PMW_WALLPAPERS = [
       "flame",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
-    "preview": "https://drive.google.com/uc?export=view&id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
-    "image": "https://drive.google.com/uc?export=view&id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
+    "image": "https://drive.google.com/thumbnail?id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu&sz=w1600",
     "driveFileId": "1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
     "storage": "google_drive"
   },
@@ -2589,10 +2589,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "shadows"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
-    "preview": "https://drive.google.com/uc?export=view&id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
-    "image": "https://drive.google.com/uc?export=view&id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
+    "image": "https://drive.google.com/thumbnail?id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4&sz=w1600",
     "driveFileId": "1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
     "storage": "google_drive"
   },
@@ -2616,10 +2616,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "butterflies"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
-    "preview": "https://drive.google.com/uc?export=view&id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
-    "image": "https://drive.google.com/uc?export=view&id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
+    "image": "https://drive.google.com/thumbnail?id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn&sz=w1600",
     "driveFileId": "11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
     "storage": "google_drive"
   },
@@ -2644,10 +2644,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
-    "preview": "https://drive.google.com/uc?export=view&id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
-    "image": "https://drive.google.com/uc?export=view&id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
+    "image": "https://drive.google.com/thumbnail?id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX&sz=w1600",
     "driveFileId": "1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
     "storage": "google_drive"
   },
@@ -2670,10 +2670,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
-    "preview": "https://drive.google.com/uc?export=view&id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
-    "image": "https://drive.google.com/uc?export=view&id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
+    "image": "https://drive.google.com/thumbnail?id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb&sz=w1600",
     "driveFileId": "1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
     "storage": "google_drive"
   },
@@ -2697,10 +2697,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
-    "preview": "https://drive.google.com/uc?export=view&id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
-    "image": "https://drive.google.com/uc?export=view&id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
+    "image": "https://drive.google.com/thumbnail?id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl&sz=w1600",
     "driveFileId": "1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
     "storage": "google_drive"
   },
@@ -2724,10 +2724,10 @@ window.PMW_WALLPAPERS = [
       "sword",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
-    "preview": "https://drive.google.com/uc?export=view&id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
-    "image": "https://drive.google.com/uc?export=view&id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
+    "image": "https://drive.google.com/thumbnail?id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F&sz=w1600",
     "driveFileId": "1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
     "storage": "google_drive"
   },
@@ -2751,10 +2751,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "sword"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
-    "preview": "https://drive.google.com/uc?export=view&id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
-    "image": "https://drive.google.com/uc?export=view&id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
+    "image": "https://drive.google.com/thumbnail?id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg&sz=w1600",
     "driveFileId": "1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
     "storage": "google_drive"
   },
@@ -2778,10 +2778,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "cosmic"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
-    "preview": "https://drive.google.com/uc?export=view&id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
-    "image": "https://drive.google.com/uc?export=view&id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
+    "image": "https://drive.google.com/thumbnail?id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s&sz=w1600",
     "driveFileId": "1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
     "storage": "google_drive"
   },
@@ -2805,10 +2805,10 @@ window.PMW_WALLPAPERS = [
       "hourglass",
       "blue"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
-    "preview": "https://drive.google.com/uc?export=view&id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
-    "image": "https://drive.google.com/uc?export=view&id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
+    "image": "https://drive.google.com/thumbnail?id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb&sz=w1600",
     "driveFileId": "1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
     "storage": "google_drive"
   },
@@ -2831,10 +2831,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "silhouette"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
-    "image": "https://drive.google.com/uc?export=view&id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
+    "image": "https://drive.google.com/thumbnail?id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ&sz=w1600",
     "driveFileId": "1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
     "storage": "google_drive"
   },
@@ -2858,10 +2858,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
-    "preview": "https://drive.google.com/uc?export=view&id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
-    "image": "https://drive.google.com/uc?export=view&id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
+    "image": "https://drive.google.com/thumbnail?id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_&sz=w1600",
     "driveFileId": "1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
     "storage": "google_drive"
   },
@@ -2884,10 +2884,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "close"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
-    "preview": "https://drive.google.com/uc?export=view&id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
-    "image": "https://drive.google.com/uc?export=view&id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
+    "image": "https://drive.google.com/thumbnail?id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy&sz=w1600",
     "driveFileId": "1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
     "storage": "google_drive"
   },
@@ -2911,10 +2911,10 @@ window.PMW_WALLPAPERS = [
       "howling",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
-    "preview": "https://drive.google.com/uc?export=view&id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
-    "image": "https://drive.google.com/uc?export=view&id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
+    "image": "https://drive.google.com/thumbnail?id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6&sz=w1600",
     "driveFileId": "1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
     "storage": "google_drive"
   },
@@ -2938,10 +2938,10 @@ window.PMW_WALLPAPERS = [
       "rose",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
-    "preview": "https://drive.google.com/uc?export=view&id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
-    "image": "https://drive.google.com/uc?export=view&id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
+    "image": "https://drive.google.com/thumbnail?id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj&sz=w1600",
     "driveFileId": "1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
     "storage": "google_drive"
   },
@@ -2965,10 +2965,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "cluster"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
-    "preview": "https://drive.google.com/uc?export=view&id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
-    "image": "https://drive.google.com/uc?export=view&id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
+    "image": "https://drive.google.com/thumbnail?id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ&sz=w1600",
     "driveFileId": "16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
     "storage": "google_drive"
   },
@@ -2993,10 +2993,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "roots"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
-    "preview": "https://drive.google.com/uc?export=view&id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
-    "image": "https://drive.google.com/uc?export=view&id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
+    "image": "https://drive.google.com/thumbnail?id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf&sz=w1600",
     "driveFileId": "1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
     "storage": "google_drive"
   },
@@ -3019,10 +3019,10 @@ window.PMW_WALLPAPERS = [
       "crown",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
-    "preview": "https://drive.google.com/uc?export=view&id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
-    "image": "https://drive.google.com/uc?export=view&id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
+    "image": "https://drive.google.com/thumbnail?id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC&sz=w1600",
     "driveFileId": "1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
     "storage": "google_drive"
   },
@@ -3046,10 +3046,10 @@ window.PMW_WALLPAPERS = [
       "jellyfish",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
-    "preview": "https://drive.google.com/uc?export=view&id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
-    "image": "https://drive.google.com/uc?export=view&id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
+    "image": "https://drive.google.com/thumbnail?id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx&sz=w1600",
     "driveFileId": "1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
     "storage": "google_drive"
   },
@@ -3073,10 +3073,10 @@ window.PMW_WALLPAPERS = [
       "butterfly",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
-    "preview": "https://drive.google.com/uc?export=view&id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
-    "image": "https://drive.google.com/uc?export=view&id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
+    "image": "https://drive.google.com/thumbnail?id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA&sz=w1600",
     "driveFileId": "1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
     "storage": "google_drive"
   },
@@ -3100,10 +3100,10 @@ window.PMW_WALLPAPERS = [
       "tiger",
       "portrait"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
-    "preview": "https://drive.google.com/uc?export=view&id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
-    "image": "https://drive.google.com/uc?export=view&id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
+    "image": "https://drive.google.com/thumbnail?id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM&sz=w1600",
     "driveFileId": "1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
     "storage": "google_drive"
   },
@@ -3127,10 +3127,10 @@ window.PMW_WALLPAPERS = [
       "vortex",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
-    "preview": "https://drive.google.com/uc?export=view&id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
-    "image": "https://drive.google.com/uc?export=view&id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
+    "image": "https://drive.google.com/thumbnail?id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9&sz=w1600",
     "driveFileId": "1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
     "storage": "google_drive"
   },
@@ -3153,10 +3153,10 @@ window.PMW_WALLPAPERS = [
       "phoenix",
       "rising"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
-    "preview": "https://drive.google.com/uc?export=view&id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
-    "image": "https://drive.google.com/uc?export=view&id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
+    "image": "https://drive.google.com/thumbnail?id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV&sz=w1600",
     "driveFileId": "1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
     "storage": "google_drive"
   },
@@ -3181,10 +3181,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
-    "preview": "https://drive.google.com/uc?export=view&id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
-    "image": "https://drive.google.com/uc?export=view&id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
+    "image": "https://drive.google.com/thumbnail?id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW&sz=w1600",
     "driveFileId": "1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
     "storage": "google_drive"
   },
@@ -3207,10 +3207,10 @@ window.PMW_WALLPAPERS = [
       "Milky Way",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
-    "preview": "https://drive.google.com/uc?export=view&id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
-    "image": "https://drive.google.com/uc?export=view&id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
+    "image": "https://drive.google.com/thumbnail?id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH&sz=w1600",
     "driveFileId": "1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
     "storage": "google_drive"
   },
@@ -3236,10 +3236,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
-    "preview": "https://drive.google.com/uc?export=view&id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
-    "image": "https://drive.google.com/uc?export=view&id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
+    "image": "https://drive.google.com/thumbnail?id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp&sz=w1600",
     "driveFileId": "1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
     "storage": "google_drive"
   },
@@ -3264,10 +3264,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
-    "preview": "https://drive.google.com/uc?export=view&id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
-    "image": "https://drive.google.com/uc?export=view&id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
+    "image": "https://drive.google.com/thumbnail?id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7&sz=w1600",
     "driveFileId": "1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
     "storage": "google_drive"
   },
@@ -3290,10 +3290,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
-    "preview": "https://drive.google.com/uc?export=view&id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
-    "image": "https://drive.google.com/uc?export=view&id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
+    "image": "https://drive.google.com/thumbnail?id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64&sz=w1600",
     "driveFileId": "1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
     "storage": "google_drive"
   },
@@ -3317,10 +3317,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "canyon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
-    "preview": "https://drive.google.com/uc?export=view&id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
-    "image": "https://drive.google.com/uc?export=view&id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
+    "image": "https://drive.google.com/thumbnail?id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq&sz=w1600",
     "driveFileId": "1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
     "storage": "google_drive"
   },
@@ -3344,10 +3344,10 @@ window.PMW_WALLPAPERS = [
       "clouds",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hKhD81guWVLfGydlTWvT735C3zFyVedz",
-    "preview": "https://drive.google.com/uc?export=view&id=1hKhD81guWVLfGydlTWvT735C3zFyVedz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hKhD81guWVLfGydlTWvT735C3zFyVedz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hKhD81guWVLfGydlTWvT735C3zFyVedz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hKhD81guWVLfGydlTWvT735C3zFyVedz",
-    "image": "https://drive.google.com/uc?export=view&id=1hKhD81guWVLfGydlTWvT735C3zFyVedz",
+    "image": "https://drive.google.com/thumbnail?id=1hKhD81guWVLfGydlTWvT735C3zFyVedz&sz=w1600",
     "driveFileId": "1hKhD81guWVLfGydlTWvT735C3zFyVedz",
     "storage": "google_drive"
   },
@@ -3372,10 +3372,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
-    "preview": "https://drive.google.com/uc?export=view&id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
-    "image": "https://drive.google.com/uc?export=view&id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
+    "image": "https://drive.google.com/thumbnail?id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H&sz=w1600",
     "driveFileId": "1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
     "storage": "google_drive"
   },
@@ -3399,10 +3399,10 @@ window.PMW_WALLPAPERS = [
       "canyon",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
-    "preview": "https://drive.google.com/uc?export=view&id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
-    "image": "https://drive.google.com/uc?export=view&id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
+    "image": "https://drive.google.com/thumbnail?id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6&sz=w1600",
     "driveFileId": "1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
     "storage": "google_drive"
   },
@@ -3426,10 +3426,10 @@ window.PMW_WALLPAPERS = [
       "glacier",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
-    "preview": "https://drive.google.com/uc?export=view&id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
-    "image": "https://drive.google.com/uc?export=view&id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
+    "image": "https://drive.google.com/thumbnail?id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw&sz=w1600",
     "driveFileId": "14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
     "storage": "google_drive"
   },
@@ -3453,10 +3453,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
-    "preview": "https://drive.google.com/uc?export=view&id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
-    "image": "https://drive.google.com/uc?export=view&id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
+    "image": "https://drive.google.com/thumbnail?id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5&sz=w1600",
     "driveFileId": "1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
     "storage": "google_drive"
   },
@@ -3482,10 +3482,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
-    "preview": "https://drive.google.com/uc?export=view&id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
-    "image": "https://drive.google.com/uc?export=view&id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
+    "image": "https://drive.google.com/thumbnail?id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf&sz=w1600",
     "driveFileId": "1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
     "storage": "google_drive"
   },
@@ -3510,10 +3510,10 @@ window.PMW_WALLPAPERS = [
       "celestial",
       "chart"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
-    "preview": "https://drive.google.com/uc?export=view&id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
-    "image": "https://drive.google.com/uc?export=view&id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
+    "image": "https://drive.google.com/thumbnail?id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE&sz=w1600",
     "driveFileId": "1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
     "storage": "google_drive"
   },
@@ -3537,10 +3537,10 @@ window.PMW_WALLPAPERS = [
       "phase",
       "alignment"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
-    "preview": "https://drive.google.com/uc?export=view&id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
-    "image": "https://drive.google.com/uc?export=view&id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
+    "image": "https://drive.google.com/thumbnail?id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3&sz=w1600",
     "driveFileId": "1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
     "storage": "google_drive"
   },
@@ -3564,10 +3564,10 @@ window.PMW_WALLPAPERS = [
       "crown",
       "shadow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
-    "preview": "https://drive.google.com/uc?export=view&id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
-    "image": "https://drive.google.com/uc?export=view&id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
+    "image": "https://drive.google.com/thumbnail?id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M&sz=w1600",
     "driveFileId": "1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
     "storage": "google_drive"
   },
@@ -3592,10 +3592,10 @@ window.PMW_WALLPAPERS = [
       "marble",
       "texture"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
-    "preview": "https://drive.google.com/uc?export=view&id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
-    "image": "https://drive.google.com/uc?export=view&id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
+    "image": "https://drive.google.com/thumbnail?id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN&sz=w1600",
     "driveFileId": "1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
     "storage": "google_drive"
   },
@@ -3619,10 +3619,10 @@ window.PMW_WALLPAPERS = [
       "samurai",
       "silhouette"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
-    "preview": "https://drive.google.com/uc?export=view&id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
-    "image": "https://drive.google.com/uc?export=view&id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
+    "image": "https://drive.google.com/thumbnail?id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN&sz=w1600",
     "driveFileId": "1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
     "storage": "google_drive"
   },
@@ -3646,10 +3646,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "street"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
-    "preview": "https://drive.google.com/uc?export=view&id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
-    "image": "https://drive.google.com/uc?export=view&id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
+    "image": "https://drive.google.com/thumbnail?id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu&sz=w1600",
     "driveFileId": "1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
     "storage": "google_drive"
   },
@@ -3673,10 +3673,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
-    "preview": "https://drive.google.com/uc?export=view&id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
-    "image": "https://drive.google.com/uc?export=view&id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
+    "image": "https://drive.google.com/thumbnail?id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG&sz=w1600",
     "driveFileId": "1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
     "storage": "google_drive"
   },
@@ -3700,10 +3700,10 @@ window.PMW_WALLPAPERS = [
       "crown",
       "rose"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
-    "preview": "https://drive.google.com/uc?export=view&id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
-    "image": "https://drive.google.com/uc?export=view&id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
+    "image": "https://drive.google.com/thumbnail?id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a&sz=w1600",
     "driveFileId": "1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
     "storage": "google_drive"
   },
@@ -3727,10 +3727,10 @@ window.PMW_WALLPAPERS = [
       "entrance",
       "moonlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
-    "preview": "https://drive.google.com/uc?export=view&id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
-    "image": "https://drive.google.com/uc?export=view&id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
+    "image": "https://drive.google.com/thumbnail?id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc&sz=w1600",
     "driveFileId": "1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
     "storage": "google_drive"
   },
@@ -3754,10 +3754,10 @@ window.PMW_WALLPAPERS = [
       "wolf",
       "cliff"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
-    "preview": "https://drive.google.com/uc?export=view&id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
-    "image": "https://drive.google.com/uc?export=view&id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
+    "image": "https://drive.google.com/thumbnail?id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP&sz=w1600",
     "driveFileId": "1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
     "storage": "google_drive"
   },
@@ -3781,10 +3781,10 @@ window.PMW_WALLPAPERS = [
       "graveyard",
       "church"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
-    "preview": "https://drive.google.com/uc?export=view&id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
-    "image": "https://drive.google.com/uc?export=view&id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
+    "image": "https://drive.google.com/thumbnail?id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj&sz=w1600",
     "driveFileId": "1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
     "storage": "google_drive"
   },
@@ -3807,10 +3807,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "cave"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
-    "preview": "https://drive.google.com/uc?export=view&id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
-    "image": "https://drive.google.com/uc?export=view&id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
+    "image": "https://drive.google.com/thumbnail?id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK&sz=w1600",
     "driveFileId": "1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
     "storage": "google_drive"
   },
@@ -3835,10 +3835,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
-    "preview": "https://drive.google.com/uc?export=view&id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
-    "image": "https://drive.google.com/uc?export=view&id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
+    "image": "https://drive.google.com/thumbnail?id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA&sz=w1600",
     "driveFileId": "13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
     "storage": "google_drive"
   },
@@ -3863,10 +3863,10 @@ window.PMW_WALLPAPERS = [
       "flame",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
-    "preview": "https://drive.google.com/uc?export=view&id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
-    "image": "https://drive.google.com/uc?export=view&id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
+    "image": "https://drive.google.com/thumbnail?id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc&sz=w1600",
     "driveFileId": "1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
     "storage": "google_drive"
   },
@@ -3890,10 +3890,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
-    "preview": "https://drive.google.com/uc?export=view&id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
-    "image": "https://drive.google.com/uc?export=view&id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
+    "image": "https://drive.google.com/thumbnail?id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe&sz=w1600",
     "driveFileId": "1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
     "storage": "google_drive"
   },
@@ -3917,10 +3917,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "rooftop"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
-    "preview": "https://drive.google.com/uc?export=view&id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
-    "image": "https://drive.google.com/uc?export=view&id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
+    "image": "https://drive.google.com/thumbnail?id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso&sz=w1600",
     "driveFileId": "1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
     "storage": "google_drive"
   },
@@ -3943,10 +3943,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "staircase"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
-    "preview": "https://drive.google.com/uc?export=view&id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
-    "image": "https://drive.google.com/uc?export=view&id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
+    "image": "https://drive.google.com/thumbnail?id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V&sz=w1600",
     "driveFileId": "1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
     "storage": "google_drive"
   },
@@ -3970,10 +3970,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
-    "image": "https://drive.google.com/uc?export=view&id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
+    "image": "https://drive.google.com/thumbnail?id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga&sz=w1600",
     "driveFileId": "1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
     "storage": "google_drive"
   },
@@ -3997,10 +3997,10 @@ window.PMW_WALLPAPERS = [
       "cathedral",
       "interior"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
-    "preview": "https://drive.google.com/uc?export=view&id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
-    "image": "https://drive.google.com/uc?export=view&id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
+    "image": "https://drive.google.com/thumbnail?id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk&sz=w1600",
     "driveFileId": "1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
     "storage": "google_drive"
   },
@@ -4024,10 +4024,10 @@ window.PMW_WALLPAPERS = [
       "butterfly",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
-    "preview": "https://drive.google.com/uc?export=view&id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
-    "image": "https://drive.google.com/uc?export=view&id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
+    "image": "https://drive.google.com/thumbnail?id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T&sz=w1600",
     "driveFileId": "19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
     "storage": "google_drive"
   },
@@ -4051,10 +4051,10 @@ window.PMW_WALLPAPERS = [
       "nebula",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
-    "preview": "https://drive.google.com/uc?export=view&id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
-    "image": "https://drive.google.com/uc?export=view&id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
+    "image": "https://drive.google.com/thumbnail?id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC&sz=w1600",
     "driveFileId": "1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
     "storage": "google_drive"
   },
@@ -4078,10 +4078,10 @@ window.PMW_WALLPAPERS = [
       "statue",
       "graveyard"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
-    "preview": "https://drive.google.com/uc?export=view&id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
-    "image": "https://drive.google.com/uc?export=view&id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
+    "image": "https://drive.google.com/thumbnail?id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI&sz=w1600",
     "driveFileId": "1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
     "storage": "google_drive"
   },
@@ -4104,10 +4104,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
-    "preview": "https://drive.google.com/uc?export=view&id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
-    "image": "https://drive.google.com/uc?export=view&id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
+    "image": "https://drive.google.com/thumbnail?id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex&sz=w1600",
     "driveFileId": "1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
     "storage": "google_drive"
   },
@@ -4132,10 +4132,10 @@ window.PMW_WALLPAPERS = [
       "clouds",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
-    "preview": "https://drive.google.com/uc?export=view&id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
-    "image": "https://drive.google.com/uc?export=view&id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
+    "image": "https://drive.google.com/thumbnail?id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5&sz=w1600",
     "driveFileId": "16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
     "storage": "google_drive"
   },
@@ -4159,10 +4159,10 @@ window.PMW_WALLPAPERS = [
       "butterfly",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
-    "preview": "https://drive.google.com/uc?export=view&id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
-    "image": "https://drive.google.com/uc?export=view&id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
+    "image": "https://drive.google.com/thumbnail?id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK&sz=w1600",
     "driveFileId": "1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
     "storage": "google_drive"
   },
@@ -4185,10 +4185,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
-    "preview": "https://drive.google.com/uc?export=view&id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
-    "image": "https://drive.google.com/uc?export=view&id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
+    "image": "https://drive.google.com/thumbnail?id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O&sz=w1600",
     "driveFileId": "1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
     "storage": "google_drive"
   },
@@ -4213,10 +4213,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
-    "preview": "https://drive.google.com/uc?export=view&id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
-    "image": "https://drive.google.com/uc?export=view&id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
+    "image": "https://drive.google.com/thumbnail?id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6&sz=w1600",
     "driveFileId": "1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
     "storage": "google_drive"
   },
@@ -4240,10 +4240,10 @@ window.PMW_WALLPAPERS = [
       "feather",
       "background"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
-    "preview": "https://drive.google.com/uc?export=view&id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
-    "image": "https://drive.google.com/uc?export=view&id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
+    "image": "https://drive.google.com/thumbnail?id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c&sz=w1600",
     "driveFileId": "19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
     "storage": "google_drive"
   },
@@ -4267,10 +4267,10 @@ window.PMW_WALLPAPERS = [
       "alley",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
-    "preview": "https://drive.google.com/uc?export=view&id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
-    "image": "https://drive.google.com/uc?export=view&id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
+    "image": "https://drive.google.com/thumbnail?id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g&sz=w1600",
     "driveFileId": "1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
     "storage": "google_drive"
   },
@@ -4294,10 +4294,10 @@ window.PMW_WALLPAPERS = [
       "red",
       "rose"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
-    "preview": "https://drive.google.com/uc?export=view&id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
-    "image": "https://drive.google.com/uc?export=view&id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
+    "image": "https://drive.google.com/thumbnail?id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW&sz=w1600",
     "driveFileId": "1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
     "storage": "google_drive"
   },
@@ -4321,10 +4321,10 @@ window.PMW_WALLPAPERS = [
       "library",
       "shelves"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
-    "preview": "https://drive.google.com/uc?export=view&id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
-    "image": "https://drive.google.com/uc?export=view&id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
+    "image": "https://drive.google.com/thumbnail?id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt&sz=w1600",
     "driveFileId": "1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
     "storage": "google_drive"
   },
@@ -4348,10 +4348,10 @@ window.PMW_WALLPAPERS = [
       "candle",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lm6hjIOeELTXYxjUszE-v73talck6EGX",
-    "preview": "https://drive.google.com/uc?export=view&id=1lm6hjIOeELTXYxjUszE-v73talck6EGX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lm6hjIOeELTXYxjUszE-v73talck6EGX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lm6hjIOeELTXYxjUszE-v73talck6EGX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lm6hjIOeELTXYxjUszE-v73talck6EGX",
-    "image": "https://drive.google.com/uc?export=view&id=1lm6hjIOeELTXYxjUszE-v73talck6EGX",
+    "image": "https://drive.google.com/thumbnail?id=1lm6hjIOeELTXYxjUszE-v73talck6EGX&sz=w1600",
     "driveFileId": "1lm6hjIOeELTXYxjUszE-v73talck6EGX",
     "storage": "google_drive"
   },
@@ -4374,10 +4374,10 @@ window.PMW_WALLPAPERS = [
       "haunted",
       "mansion"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
-    "preview": "https://drive.google.com/uc?export=view&id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
-    "image": "https://drive.google.com/uc?export=view&id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
+    "image": "https://drive.google.com/thumbnail?id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_&sz=w1600",
     "driveFileId": "1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
     "storage": "google_drive"
   },
@@ -4401,10 +4401,10 @@ window.PMW_WALLPAPERS = [
       "wolf",
       "moonlit"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
-    "preview": "https://drive.google.com/uc?export=view&id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
-    "image": "https://drive.google.com/uc?export=view&id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
+    "image": "https://drive.google.com/thumbnail?id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37&sz=w1600",
     "driveFileId": "1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
     "storage": "google_drive"
   },
@@ -4429,10 +4429,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
-    "preview": "https://drive.google.com/uc?export=view&id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
-    "image": "https://drive.google.com/uc?export=view&id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
+    "image": "https://drive.google.com/thumbnail?id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP&sz=w1600",
     "driveFileId": "1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
     "storage": "google_drive"
   },
@@ -4456,10 +4456,10 @@ window.PMW_WALLPAPERS = [
       "cathedral",
       "aisle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
-    "preview": "https://drive.google.com/uc?export=view&id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
-    "image": "https://drive.google.com/uc?export=view&id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
+    "image": "https://drive.google.com/thumbnail?id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-&sz=w1600",
     "driveFileId": "1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
     "storage": "google_drive"
   },
@@ -4484,10 +4484,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
-    "preview": "https://drive.google.com/uc?export=view&id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
-    "image": "https://drive.google.com/uc?export=view&id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
+    "image": "https://drive.google.com/thumbnail?id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-&sz=w1600",
     "driveFileId": "1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
     "storage": "google_drive"
   },
@@ -4510,10 +4510,10 @@ window.PMW_WALLPAPERS = [
       "fog",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
-    "preview": "https://drive.google.com/uc?export=view&id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
-    "image": "https://drive.google.com/uc?export=view&id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
+    "image": "https://drive.google.com/thumbnail?id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R&sz=w1600",
     "driveFileId": "1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
     "storage": "google_drive"
   },
@@ -4537,10 +4537,10 @@ window.PMW_WALLPAPERS = [
       "stormy",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
-    "preview": "https://drive.google.com/uc?export=view&id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
-    "image": "https://drive.google.com/uc?export=view&id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
+    "image": "https://drive.google.com/thumbnail?id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM&sz=w1600",
     "driveFileId": "1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
     "storage": "google_drive"
   },
@@ -4564,10 +4564,10 @@ window.PMW_WALLPAPERS = [
       "branch",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
-    "preview": "https://drive.google.com/uc?export=view&id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
-    "image": "https://drive.google.com/uc?export=view&id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
+    "image": "https://drive.google.com/thumbnail?id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0&sz=w1600",
     "driveFileId": "1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
     "storage": "google_drive"
   },
@@ -4592,10 +4592,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
-    "preview": "https://drive.google.com/uc?export=view&id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
-    "image": "https://drive.google.com/uc?export=view&id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
+    "image": "https://drive.google.com/thumbnail?id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk&sz=w1600",
     "driveFileId": "1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
     "storage": "google_drive"
   },
@@ -4620,10 +4620,10 @@ window.PMW_WALLPAPERS = [
       "water",
       "drops"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
-    "preview": "https://drive.google.com/uc?export=view&id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
-    "image": "https://drive.google.com/uc?export=view&id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
+    "image": "https://drive.google.com/thumbnail?id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp&sz=w1600",
     "driveFileId": "1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
     "storage": "google_drive"
   },
@@ -4647,10 +4647,10 @@ window.PMW_WALLPAPERS = [
       "neon",
       "street"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
-    "preview": "https://drive.google.com/uc?export=view&id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
-    "image": "https://drive.google.com/uc?export=view&id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
+    "image": "https://drive.google.com/thumbnail?id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA&sz=w1600",
     "driveFileId": "1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
     "storage": "google_drive"
   },
@@ -4674,10 +4674,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
-    "preview": "https://drive.google.com/uc?export=view&id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
-    "image": "https://drive.google.com/uc?export=view&id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
+    "image": "https://drive.google.com/thumbnail?id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5&sz=w1600",
     "driveFileId": "1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
     "storage": "google_drive"
   },
@@ -4701,10 +4701,10 @@ window.PMW_WALLPAPERS = [
       "skyline",
       "window"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
-    "preview": "https://drive.google.com/uc?export=view&id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
-    "image": "https://drive.google.com/uc?export=view&id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
+    "image": "https://drive.google.com/thumbnail?id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg&sz=w1600",
     "driveFileId": "1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
     "storage": "google_drive"
   },
@@ -4728,10 +4728,10 @@ window.PMW_WALLPAPERS = [
       "stormy",
       "sea"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
-    "preview": "https://drive.google.com/uc?export=view&id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
-    "image": "https://drive.google.com/uc?export=view&id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
+    "image": "https://drive.google.com/thumbnail?id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7&sz=w1600",
     "driveFileId": "1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
     "storage": "google_drive"
   },
@@ -4756,10 +4756,10 @@ window.PMW_WALLPAPERS = [
       "sea",
       "cliffs"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
-    "preview": "https://drive.google.com/uc?export=view&id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
-    "image": "https://drive.google.com/uc?export=view&id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
+    "image": "https://drive.google.com/thumbnail?id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo&sz=w1600",
     "driveFileId": "1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
     "storage": "google_drive"
   },
@@ -4783,10 +4783,10 @@ window.PMW_WALLPAPERS = [
       "panther",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
-    "preview": "https://drive.google.com/uc?export=view&id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
-    "image": "https://drive.google.com/uc?export=view&id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
+    "image": "https://drive.google.com/thumbnail?id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl&sz=w1600",
     "driveFileId": "1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
     "storage": "google_drive"
   },
@@ -4810,10 +4810,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "street"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
-    "preview": "https://drive.google.com/uc?export=view&id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
-    "image": "https://drive.google.com/uc?export=view&id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
+    "image": "https://drive.google.com/thumbnail?id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3&sz=w1600",
     "driveFileId": "1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
     "storage": "google_drive"
   },
@@ -4838,10 +4838,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
-    "image": "https://drive.google.com/uc?export=view&id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
+    "image": "https://drive.google.com/thumbnail?id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ&sz=w1600",
     "driveFileId": "1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
     "storage": "google_drive"
   },
@@ -4865,10 +4865,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
-    "preview": "https://drive.google.com/uc?export=view&id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
-    "image": "https://drive.google.com/uc?export=view&id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
+    "image": "https://drive.google.com/thumbnail?id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq&sz=w1600",
     "driveFileId": "1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
     "storage": "google_drive"
   },
@@ -4893,10 +4893,10 @@ window.PMW_WALLPAPERS = [
       "crescent moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
-    "preview": "https://drive.google.com/uc?export=view&id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
-    "image": "https://drive.google.com/uc?export=view&id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
+    "image": "https://drive.google.com/thumbnail?id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb&sz=w1600",
     "driveFileId": "11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
     "storage": "google_drive"
   },
@@ -4920,10 +4920,10 @@ window.PMW_WALLPAPERS = [
       "night",
       "shore"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
-    "preview": "https://drive.google.com/uc?export=view&id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
-    "image": "https://drive.google.com/uc?export=view&id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
+    "image": "https://drive.google.com/thumbnail?id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55&sz=w1600",
     "driveFileId": "1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
     "storage": "google_drive"
   },
@@ -4947,10 +4947,10 @@ window.PMW_WALLPAPERS = [
       "ruins",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
-    "preview": "https://drive.google.com/uc?export=view&id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
-    "image": "https://drive.google.com/uc?export=view&id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
+    "image": "https://drive.google.com/thumbnail?id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT&sz=w1600",
     "driveFileId": "1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
     "storage": "google_drive"
   },
@@ -4974,10 +4974,10 @@ window.PMW_WALLPAPERS = [
       "stream",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
-    "preview": "https://drive.google.com/uc?export=view&id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
-    "image": "https://drive.google.com/uc?export=view&id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
+    "image": "https://drive.google.com/thumbnail?id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL&sz=w1600",
     "driveFileId": "1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
     "storage": "google_drive"
   },
@@ -5002,10 +5002,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
-    "preview": "https://drive.google.com/uc?export=view&id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
-    "image": "https://drive.google.com/uc?export=view&id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
+    "image": "https://drive.google.com/thumbnail?id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt&sz=w1600",
     "driveFileId": "1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
     "storage": "google_drive"
   },
@@ -5029,10 +5029,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "stairs"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
-    "preview": "https://drive.google.com/uc?export=view&id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
-    "image": "https://drive.google.com/uc?export=view&id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
+    "image": "https://drive.google.com/thumbnail?id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK&sz=w1600",
     "driveFileId": "1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
     "storage": "google_drive"
   },
@@ -5057,10 +5057,10 @@ window.PMW_WALLPAPERS = [
       "crescent moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
-    "preview": "https://drive.google.com/uc?export=view&id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
-    "image": "https://drive.google.com/uc?export=view&id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
+    "image": "https://drive.google.com/thumbnail?id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi&sz=w1600",
     "driveFileId": "1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
     "storage": "google_drive"
   },
@@ -5084,10 +5084,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "creek"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
-    "preview": "https://drive.google.com/uc?export=view&id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
-    "image": "https://drive.google.com/uc?export=view&id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
+    "image": "https://drive.google.com/thumbnail?id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv&sz=w1600",
     "driveFileId": "1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
     "storage": "google_drive"
   },
@@ -5110,10 +5110,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
-    "preview": "https://drive.google.com/uc?export=view&id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
-    "image": "https://drive.google.com/uc?export=view&id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
+    "image": "https://drive.google.com/thumbnail?id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J&sz=w1600",
     "driveFileId": "1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
     "storage": "google_drive"
   },
@@ -5137,10 +5137,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
-    "preview": "https://drive.google.com/uc?export=view&id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
-    "image": "https://drive.google.com/uc?export=view&id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
+    "image": "https://drive.google.com/thumbnail?id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj&sz=w1600",
     "driveFileId": "1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
     "storage": "google_drive"
   },
@@ -5164,10 +5164,10 @@ window.PMW_WALLPAPERS = [
       "mist",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
-    "preview": "https://drive.google.com/uc?export=view&id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
-    "image": "https://drive.google.com/uc?export=view&id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
+    "image": "https://drive.google.com/thumbnail?id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z&sz=w1600",
     "driveFileId": "1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
     "storage": "google_drive"
   },
@@ -5192,10 +5192,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "creek"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FajPHIyTQZny4FVAKoygldITxEykLlNY",
-    "preview": "https://drive.google.com/uc?export=view&id=1FajPHIyTQZny4FVAKoygldITxEykLlNY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FajPHIyTQZny4FVAKoygldITxEykLlNY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FajPHIyTQZny4FVAKoygldITxEykLlNY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FajPHIyTQZny4FVAKoygldITxEykLlNY",
-    "image": "https://drive.google.com/uc?export=view&id=1FajPHIyTQZny4FVAKoygldITxEykLlNY",
+    "image": "https://drive.google.com/thumbnail?id=1FajPHIyTQZny4FVAKoygldITxEykLlNY&sz=w1600",
     "driveFileId": "1FajPHIyTQZny4FVAKoygldITxEykLlNY",
     "storage": "google_drive"
   },
@@ -5219,10 +5219,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "canyon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
-    "preview": "https://drive.google.com/uc?export=view&id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
-    "image": "https://drive.google.com/uc?export=view&id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
+    "image": "https://drive.google.com/thumbnail?id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3&sz=w1600",
     "driveFileId": "19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
     "storage": "google_drive"
   },
@@ -5246,10 +5246,10 @@ window.PMW_WALLPAPERS = [
       "beach",
       "shore"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
-    "preview": "https://drive.google.com/uc?export=view&id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
-    "image": "https://drive.google.com/uc?export=view&id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
+    "image": "https://drive.google.com/thumbnail?id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS&sz=w1600",
     "driveFileId": "1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
     "storage": "google_drive"
   },
@@ -5273,10 +5273,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
-    "preview": "https://drive.google.com/uc?export=view&id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
-    "image": "https://drive.google.com/uc?export=view&id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
+    "image": "https://drive.google.com/thumbnail?id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB&sz=w1600",
     "driveFileId": "1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
     "storage": "google_drive"
   },
@@ -5301,10 +5301,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
-    "preview": "https://drive.google.com/uc?export=view&id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
-    "image": "https://drive.google.com/uc?export=view&id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
+    "image": "https://drive.google.com/thumbnail?id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog&sz=w1600",
     "driveFileId": "1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
     "storage": "google_drive"
   },
@@ -5328,10 +5328,10 @@ window.PMW_WALLPAPERS = [
       "shrine",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
-    "preview": "https://drive.google.com/uc?export=view&id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
-    "image": "https://drive.google.com/uc?export=view&id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
+    "image": "https://drive.google.com/thumbnail?id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF&sz=w1600",
     "driveFileId": "1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
     "storage": "google_drive"
   },
@@ -5356,10 +5356,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "cliff"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
-    "preview": "https://drive.google.com/uc?export=view&id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
-    "image": "https://drive.google.com/uc?export=view&id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
+    "image": "https://drive.google.com/thumbnail?id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2&sz=w1600",
     "driveFileId": "1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
     "storage": "google_drive"
   },
@@ -5383,10 +5383,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
-    "preview": "https://drive.google.com/uc?export=view&id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
-    "image": "https://drive.google.com/uc?export=view&id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
+    "image": "https://drive.google.com/thumbnail?id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun&sz=w1600",
     "driveFileId": "1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
     "storage": "google_drive"
   },
@@ -5410,10 +5410,10 @@ window.PMW_WALLPAPERS = [
       "desert",
       "desert dunes"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
-    "preview": "https://drive.google.com/uc?export=view&id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
-    "image": "https://drive.google.com/uc?export=view&id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
+    "image": "https://drive.google.com/thumbnail?id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn&sz=w1600",
     "driveFileId": "10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
     "storage": "google_drive"
   },
@@ -5437,10 +5437,10 @@ window.PMW_WALLPAPERS = [
       "bamboo",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
-    "preview": "https://drive.google.com/uc?export=view&id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
-    "image": "https://drive.google.com/uc?export=view&id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
+    "image": "https://drive.google.com/thumbnail?id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS&sz=w1600",
     "driveFileId": "14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
     "storage": "google_drive"
   },
@@ -5463,10 +5463,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
-    "preview": "https://drive.google.com/uc?export=view&id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
-    "image": "https://drive.google.com/uc?export=view&id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
+    "image": "https://drive.google.com/thumbnail?id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij&sz=w1600",
     "driveFileId": "1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
     "storage": "google_drive"
   },
@@ -5489,10 +5489,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
-    "image": "https://drive.google.com/uc?export=view&id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
+    "image": "https://drive.google.com/thumbnail?id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ&sz=w1600",
     "driveFileId": "1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
     "storage": "google_drive"
   },
@@ -5516,10 +5516,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
-    "preview": "https://drive.google.com/uc?export=view&id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
-    "image": "https://drive.google.com/uc?export=view&id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
+    "image": "https://drive.google.com/thumbnail?id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH&sz=w1600",
     "driveFileId": "1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
     "storage": "google_drive"
   },
@@ -5542,10 +5542,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
-    "preview": "https://drive.google.com/uc?export=view&id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
-    "image": "https://drive.google.com/uc?export=view&id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
+    "image": "https://drive.google.com/thumbnail?id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP&sz=w1600",
     "driveFileId": "16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
     "storage": "google_drive"
   },
@@ -5569,10 +5569,10 @@ window.PMW_WALLPAPERS = [
       "fog",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
-    "preview": "https://drive.google.com/uc?export=view&id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
-    "image": "https://drive.google.com/uc?export=view&id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
+    "image": "https://drive.google.com/thumbnail?id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx&sz=w1600",
     "driveFileId": "1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
     "storage": "google_drive"
   },
@@ -5596,10 +5596,10 @@ window.PMW_WALLPAPERS = [
       "oasis",
       "trees"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
-    "preview": "https://drive.google.com/uc?export=view&id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
-    "image": "https://drive.google.com/uc?export=view&id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
+    "image": "https://drive.google.com/thumbnail?id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa&sz=w1600",
     "driveFileId": "1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
     "storage": "google_drive"
   },
@@ -5624,10 +5624,10 @@ window.PMW_WALLPAPERS = [
       "cloudy",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
-    "preview": "https://drive.google.com/uc?export=view&id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
-    "image": "https://drive.google.com/uc?export=view&id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
+    "image": "https://drive.google.com/thumbnail?id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1&sz=w1600",
     "driveFileId": "1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
     "storage": "google_drive"
   },
@@ -5651,10 +5651,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
-    "preview": "https://drive.google.com/uc?export=view&id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
-    "image": "https://drive.google.com/uc?export=view&id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
+    "image": "https://drive.google.com/thumbnail?id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc&sz=w1600",
     "driveFileId": "190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
     "storage": "google_drive"
   },
@@ -5678,10 +5678,10 @@ window.PMW_WALLPAPERS = [
       "rain",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
-    "preview": "https://drive.google.com/uc?export=view&id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
-    "image": "https://drive.google.com/uc?export=view&id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
+    "image": "https://drive.google.com/thumbnail?id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0&sz=w1600",
     "driveFileId": "1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
     "storage": "google_drive"
   },
@@ -5706,10 +5706,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
-    "preview": "https://drive.google.com/uc?export=view&id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
-    "image": "https://drive.google.com/uc?export=view&id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
+    "image": "https://drive.google.com/thumbnail?id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD&sz=w1600",
     "driveFileId": "1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
     "storage": "google_drive"
   },
@@ -5734,10 +5734,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
-    "preview": "https://drive.google.com/uc?export=view&id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
-    "image": "https://drive.google.com/uc?export=view&id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
+    "image": "https://drive.google.com/thumbnail?id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi&sz=w1600",
     "driveFileId": "1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
     "storage": "google_drive"
   },
@@ -5761,10 +5761,10 @@ window.PMW_WALLPAPERS = [
       "snowy",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
-    "preview": "https://drive.google.com/uc?export=view&id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
-    "image": "https://drive.google.com/uc?export=view&id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
+    "image": "https://drive.google.com/thumbnail?id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1&sz=w1600",
     "driveFileId": "1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
     "storage": "google_drive"
   },
@@ -5789,10 +5789,10 @@ window.PMW_WALLPAPERS = [
       "desert dunes",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
-    "preview": "https://drive.google.com/uc?export=view&id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
-    "image": "https://drive.google.com/uc?export=view&id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
+    "image": "https://drive.google.com/thumbnail?id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A&sz=w1600",
     "driveFileId": "1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
     "storage": "google_drive"
   },
@@ -5816,10 +5816,10 @@ window.PMW_WALLPAPERS = [
       "stormy",
       "cliff"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
-    "preview": "https://drive.google.com/uc?export=view&id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
-    "image": "https://drive.google.com/uc?export=view&id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
+    "image": "https://drive.google.com/thumbnail?id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw&sz=w1600",
     "driveFileId": "1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
     "storage": "google_drive"
   },
@@ -5843,10 +5843,10 @@ window.PMW_WALLPAPERS = [
       "cliff",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
-    "preview": "https://drive.google.com/uc?export=view&id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
-    "image": "https://drive.google.com/uc?export=view&id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
+    "image": "https://drive.google.com/thumbnail?id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd&sz=w1600",
     "driveFileId": "1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
     "storage": "google_drive"
   },
@@ -5870,10 +5870,10 @@ window.PMW_WALLPAPERS = [
       "river",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
-    "preview": "https://drive.google.com/uc?export=view&id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
-    "image": "https://drive.google.com/uc?export=view&id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
+    "image": "https://drive.google.com/thumbnail?id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD&sz=w1600",
     "driveFileId": "1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
     "storage": "google_drive"
   },
@@ -5897,10 +5897,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
-    "preview": "https://drive.google.com/uc?export=view&id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
-    "image": "https://drive.google.com/uc?export=view&id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
+    "image": "https://drive.google.com/thumbnail?id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3&sz=w1600",
     "driveFileId": "1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
     "storage": "google_drive"
   },
@@ -5923,10 +5923,10 @@ window.PMW_WALLPAPERS = [
       "sea",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
-    "preview": "https://drive.google.com/uc?export=view&id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
-    "image": "https://drive.google.com/uc?export=view&id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
+    "image": "https://drive.google.com/thumbnail?id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy&sz=w1600",
     "driveFileId": "16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
     "storage": "google_drive"
   },
@@ -5949,10 +5949,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
-    "preview": "https://drive.google.com/uc?export=view&id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
-    "image": "https://drive.google.com/uc?export=view&id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
+    "image": "https://drive.google.com/thumbnail?id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO&sz=w1600",
     "driveFileId": "1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
     "storage": "google_drive"
   },
@@ -5977,10 +5977,10 @@ window.PMW_WALLPAPERS = [
       "valley",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
-    "preview": "https://drive.google.com/uc?export=view&id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
-    "image": "https://drive.google.com/uc?export=view&id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
+    "image": "https://drive.google.com/thumbnail?id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms&sz=w1600",
     "driveFileId": "1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
     "storage": "google_drive"
   },
@@ -6004,10 +6004,10 @@ window.PMW_WALLPAPERS = [
       "island",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
-    "preview": "https://drive.google.com/uc?export=view&id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
-    "image": "https://drive.google.com/uc?export=view&id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
+    "image": "https://drive.google.com/thumbnail?id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58&sz=w1600",
     "driveFileId": "1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
     "storage": "google_drive"
   },
@@ -6031,10 +6031,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
-    "preview": "https://drive.google.com/uc?export=view&id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
-    "image": "https://drive.google.com/uc?export=view&id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
+    "image": "https://drive.google.com/thumbnail?id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5&sz=w1600",
     "driveFileId": "1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
     "storage": "google_drive"
   },
@@ -6058,10 +6058,10 @@ window.PMW_WALLPAPERS = [
       "clouds",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
-    "preview": "https://drive.google.com/uc?export=view&id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
-    "image": "https://drive.google.com/uc?export=view&id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
+    "image": "https://drive.google.com/thumbnail?id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD&sz=w1600",
     "driveFileId": "1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
     "storage": "google_drive"
   },
@@ -6084,10 +6084,10 @@ window.PMW_WALLPAPERS = [
       "firefly",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
-    "preview": "https://drive.google.com/uc?export=view&id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
-    "image": "https://drive.google.com/uc?export=view&id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
+    "image": "https://drive.google.com/thumbnail?id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh&sz=w1600",
     "driveFileId": "1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
     "storage": "google_drive"
   },
@@ -6111,10 +6111,10 @@ window.PMW_WALLPAPERS = [
       "terrace",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
-    "preview": "https://drive.google.com/uc?export=view&id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
-    "image": "https://drive.google.com/uc?export=view&id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
+    "image": "https://drive.google.com/thumbnail?id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG&sz=w1600",
     "driveFileId": "1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
     "storage": "google_drive"
   },
@@ -6138,10 +6138,10 @@ window.PMW_WALLPAPERS = [
       "rose",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
-    "preview": "https://drive.google.com/uc?export=view&id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
-    "image": "https://drive.google.com/uc?export=view&id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
+    "image": "https://drive.google.com/thumbnail?id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1&sz=w1600",
     "driveFileId": "11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
     "storage": "google_drive"
   },
@@ -6166,10 +6166,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
-    "preview": "https://drive.google.com/uc?export=view&id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
-    "image": "https://drive.google.com/uc?export=view&id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
+    "image": "https://drive.google.com/thumbnail?id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs&sz=w1600",
     "driveFileId": "1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
     "storage": "google_drive"
   },
@@ -6194,10 +6194,10 @@ window.PMW_WALLPAPERS = [
       "lights",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
-    "preview": "https://drive.google.com/uc?export=view&id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
-    "image": "https://drive.google.com/uc?export=view&id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
+    "image": "https://drive.google.com/thumbnail?id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O&sz=w1600",
     "driveFileId": "1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
     "storage": "google_drive"
   },
@@ -6222,10 +6222,10 @@ window.PMW_WALLPAPERS = [
       "swing",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
-    "preview": "https://drive.google.com/uc?export=view&id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
-    "image": "https://drive.google.com/uc?export=view&id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
+    "image": "https://drive.google.com/thumbnail?id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0&sz=w1600",
     "driveFileId": "1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
     "storage": "google_drive"
   },
@@ -6250,10 +6250,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
-    "preview": "https://drive.google.com/uc?export=view&id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
-    "image": "https://drive.google.com/uc?export=view&id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
+    "image": "https://drive.google.com/thumbnail?id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9&sz=w1600",
     "driveFileId": "1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
     "storage": "google_drive"
   },
@@ -6278,10 +6278,10 @@ window.PMW_WALLPAPERS = [
       "willow",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
-    "preview": "https://drive.google.com/uc?export=view&id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
-    "image": "https://drive.google.com/uc?export=view&id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
+    "image": "https://drive.google.com/thumbnail?id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W&sz=w1600",
     "driveFileId": "1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
     "storage": "google_drive"
   },
@@ -6305,10 +6305,10 @@ window.PMW_WALLPAPERS = [
       "overlooking",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
-    "preview": "https://drive.google.com/uc?export=view&id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
-    "image": "https://drive.google.com/uc?export=view&id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
+    "image": "https://drive.google.com/thumbnail?id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K&sz=w1600",
     "driveFileId": "1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
     "storage": "google_drive"
   },
@@ -6333,10 +6333,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
-    "preview": "https://drive.google.com/uc?export=view&id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
-    "image": "https://drive.google.com/uc?export=view&id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
+    "image": "https://drive.google.com/thumbnail?id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G&sz=w1600",
     "driveFileId": "1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
     "storage": "google_drive"
   },
@@ -6361,10 +6361,10 @@ window.PMW_WALLPAPERS = [
       "beach",
       "footprints"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
-    "preview": "https://drive.google.com/uc?export=view&id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
-    "image": "https://drive.google.com/uc?export=view&id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
+    "image": "https://drive.google.com/thumbnail?id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui&sz=w1600",
     "driveFileId": "1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
     "storage": "google_drive"
   },
@@ -6388,10 +6388,10 @@ window.PMW_WALLPAPERS = [
       "cherry blossoms",
       "moonlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
-    "preview": "https://drive.google.com/uc?export=view&id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
-    "image": "https://drive.google.com/uc?export=view&id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
+    "image": "https://drive.google.com/thumbnail?id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8&sz=w1600",
     "driveFileId": "1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
     "storage": "google_drive"
   },
@@ -6416,10 +6416,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
-    "preview": "https://drive.google.com/uc?export=view&id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
-    "image": "https://drive.google.com/uc?export=view&id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
+    "image": "https://drive.google.com/thumbnail?id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv&sz=w1600",
     "driveFileId": "1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
     "storage": "google_drive"
   },
@@ -6444,10 +6444,10 @@ window.PMW_WALLPAPERS = [
       "clouds",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
-    "preview": "https://drive.google.com/uc?export=view&id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
-    "image": "https://drive.google.com/uc?export=view&id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
+    "image": "https://drive.google.com/thumbnail?id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa&sz=w1600",
     "driveFileId": "1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
     "storage": "google_drive"
   },
@@ -6472,10 +6472,10 @@ window.PMW_WALLPAPERS = [
       "overlook",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
-    "preview": "https://drive.google.com/uc?export=view&id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
-    "image": "https://drive.google.com/uc?export=view&id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
+    "image": "https://drive.google.com/thumbnail?id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM&sz=w1600",
     "driveFileId": "1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
     "storage": "google_drive"
   },
@@ -6500,10 +6500,10 @@ window.PMW_WALLPAPERS = [
       "island",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
-    "preview": "https://drive.google.com/uc?export=view&id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
-    "image": "https://drive.google.com/uc?export=view&id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
+    "image": "https://drive.google.com/thumbnail?id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm&sz=w1600",
     "driveFileId": "1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
     "storage": "google_drive"
   },
@@ -6529,10 +6529,10 @@ window.PMW_WALLPAPERS = [
       "valley",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
-    "preview": "https://drive.google.com/uc?export=view&id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
-    "image": "https://drive.google.com/uc?export=view&id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
+    "image": "https://drive.google.com/thumbnail?id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR&sz=w1600",
     "driveFileId": "1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
     "storage": "google_drive"
   },
@@ -6558,10 +6558,10 @@ window.PMW_WALLPAPERS = [
       "reflection",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
-    "preview": "https://drive.google.com/uc?export=view&id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
-    "image": "https://drive.google.com/uc?export=view&id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
+    "image": "https://drive.google.com/thumbnail?id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc&sz=w1600",
     "driveFileId": "1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
     "storage": "google_drive"
   },
@@ -6586,10 +6586,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "lights"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
-    "preview": "https://drive.google.com/uc?export=view&id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
-    "image": "https://drive.google.com/uc?export=view&id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
+    "image": "https://drive.google.com/thumbnail?id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9&sz=w1600",
     "driveFileId": "1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
     "storage": "google_drive"
   },
@@ -6614,10 +6614,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "beach"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
-    "preview": "https://drive.google.com/uc?export=view&id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
-    "image": "https://drive.google.com/uc?export=view&id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
+    "image": "https://drive.google.com/thumbnail?id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M&sz=w1600",
     "driveFileId": "1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
     "storage": "google_drive"
   },
@@ -6643,10 +6643,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
-    "preview": "https://drive.google.com/uc?export=view&id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
-    "image": "https://drive.google.com/uc?export=view&id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
+    "image": "https://drive.google.com/thumbnail?id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO&sz=w1600",
     "driveFileId": "1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
     "storage": "google_drive"
   },
@@ -6670,10 +6670,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
-    "preview": "https://drive.google.com/uc?export=view&id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
-    "image": "https://drive.google.com/uc?export=view&id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
+    "image": "https://drive.google.com/thumbnail?id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL&sz=w1600",
     "driveFileId": "1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
     "storage": "google_drive"
   },
@@ -6698,10 +6698,10 @@ window.PMW_WALLPAPERS = [
       "starry sky",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
-    "preview": "https://drive.google.com/uc?export=view&id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
-    "image": "https://drive.google.com/uc?export=view&id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
+    "image": "https://drive.google.com/thumbnail?id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n&sz=w1600",
     "driveFileId": "1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
     "storage": "google_drive"
   },
@@ -6726,10 +6726,10 @@ window.PMW_WALLPAPERS = [
       "rain",
       "lights"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
-    "preview": "https://drive.google.com/uc?export=view&id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
-    "image": "https://drive.google.com/uc?export=view&id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
+    "image": "https://drive.google.com/thumbnail?id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY&sz=w1600",
     "driveFileId": "1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
     "storage": "google_drive"
   },
@@ -6754,10 +6754,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
-    "preview": "https://drive.google.com/uc?export=view&id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
-    "image": "https://drive.google.com/uc?export=view&id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
+    "image": "https://drive.google.com/thumbnail?id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd&sz=w1600",
     "driveFileId": "13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
     "storage": "google_drive"
   },
@@ -6783,10 +6783,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
-    "image": "https://drive.google.com/uc?export=view&id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
+    "image": "https://drive.google.com/thumbnail?id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD&sz=w1600",
     "driveFileId": "1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
     "storage": "google_drive"
   },
@@ -6811,10 +6811,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
-    "preview": "https://drive.google.com/uc?export=view&id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
-    "image": "https://drive.google.com/uc?export=view&id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
+    "image": "https://drive.google.com/thumbnail?id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq&sz=w1600",
     "driveFileId": "1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
     "storage": "google_drive"
   },
@@ -6840,10 +6840,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
-    "preview": "https://drive.google.com/uc?export=view&id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
-    "image": "https://drive.google.com/uc?export=view&id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
+    "image": "https://drive.google.com/thumbnail?id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T&sz=w1600",
     "driveFileId": "18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
     "storage": "google_drive"
   },
@@ -6868,10 +6868,10 @@ window.PMW_WALLPAPERS = [
       "Milky Way",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
-    "preview": "https://drive.google.com/uc?export=view&id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
-    "image": "https://drive.google.com/uc?export=view&id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
+    "image": "https://drive.google.com/thumbnail?id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6&sz=w1600",
     "driveFileId": "1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
     "storage": "google_drive"
   },
@@ -6897,10 +6897,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
-    "preview": "https://drive.google.com/uc?export=view&id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
-    "image": "https://drive.google.com/uc?export=view&id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
+    "image": "https://drive.google.com/thumbnail?id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja&sz=w1600",
     "driveFileId": "1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
     "storage": "google_drive"
   },
@@ -6925,10 +6925,10 @@ window.PMW_WALLPAPERS = [
       "Milky Way",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
-    "preview": "https://drive.google.com/uc?export=view&id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
-    "image": "https://drive.google.com/uc?export=view&id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
+    "image": "https://drive.google.com/thumbnail?id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV&sz=w1600",
     "driveFileId": "1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
     "storage": "google_drive"
   },
@@ -6954,10 +6954,10 @@ window.PMW_WALLPAPERS = [
       "beach",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
-    "preview": "https://drive.google.com/uc?export=view&id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
-    "image": "https://drive.google.com/uc?export=view&id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
+    "image": "https://drive.google.com/thumbnail?id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9&sz=w1600",
     "driveFileId": "155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
     "storage": "google_drive"
   },
@@ -6982,10 +6982,10 @@ window.PMW_WALLPAPERS = [
       "stairway",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
-    "preview": "https://drive.google.com/uc?export=view&id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
-    "image": "https://drive.google.com/uc?export=view&id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
+    "image": "https://drive.google.com/thumbnail?id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw&sz=w1600",
     "driveFileId": "1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
     "storage": "google_drive"
   },
@@ -7008,10 +7008,10 @@ window.PMW_WALLPAPERS = [
       "couple",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
-    "preview": "https://drive.google.com/uc?export=view&id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
-    "image": "https://drive.google.com/uc?export=view&id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
+    "image": "https://drive.google.com/thumbnail?id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW&sz=w1600",
     "driveFileId": "1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
     "storage": "google_drive"
   },
@@ -7036,10 +7036,10 @@ window.PMW_WALLPAPERS = [
       "hanging",
       "lights"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
-    "preview": "https://drive.google.com/uc?export=view&id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
-    "image": "https://drive.google.com/uc?export=view&id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
+    "image": "https://drive.google.com/thumbnail?id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw&sz=w1600",
     "driveFileId": "1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
     "storage": "google_drive"
   },
@@ -7064,10 +7064,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "pink"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
-    "preview": "https://drive.google.com/uc?export=view&id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
-    "image": "https://drive.google.com/uc?export=view&id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
+    "image": "https://drive.google.com/thumbnail?id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF&sz=w1600",
     "driveFileId": "1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
     "storage": "google_drive"
   },
@@ -7092,10 +7092,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
-    "preview": "https://drive.google.com/uc?export=view&id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
-    "image": "https://drive.google.com/uc?export=view&id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
+    "image": "https://drive.google.com/thumbnail?id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu&sz=w1600",
     "driveFileId": "198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
     "storage": "google_drive"
   },
@@ -7120,10 +7120,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "canal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
-    "preview": "https://drive.google.com/uc?export=view&id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
-    "image": "https://drive.google.com/uc?export=view&id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
+    "image": "https://drive.google.com/thumbnail?id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6&sz=w1600",
     "driveFileId": "1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
     "storage": "google_drive"
   },
@@ -7148,10 +7148,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
-    "preview": "https://drive.google.com/uc?export=view&id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
-    "image": "https://drive.google.com/uc?export=view&id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
+    "image": "https://drive.google.com/thumbnail?id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2&sz=w1600",
     "driveFileId": "1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
     "storage": "google_drive"
   },
@@ -7178,10 +7178,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
-    "preview": "https://drive.google.com/uc?export=view&id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
-    "image": "https://drive.google.com/uc?export=view&id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
+    "image": "https://drive.google.com/thumbnail?id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE&sz=w1600",
     "driveFileId": "1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
     "storage": "google_drive"
   },
@@ -7207,10 +7207,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
-    "preview": "https://drive.google.com/uc?export=view&id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
-    "image": "https://drive.google.com/uc?export=view&id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
+    "image": "https://drive.google.com/thumbnail?id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk&sz=w1600",
     "driveFileId": "1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
     "storage": "google_drive"
   },
@@ -7235,10 +7235,10 @@ window.PMW_WALLPAPERS = [
       "meadow",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
-    "preview": "https://drive.google.com/uc?export=view&id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
-    "image": "https://drive.google.com/uc?export=view&id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
+    "image": "https://drive.google.com/thumbnail?id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL&sz=w1600",
     "driveFileId": "1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
     "storage": "google_drive"
   },
@@ -7263,10 +7263,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
-    "preview": "https://drive.google.com/uc?export=view&id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
-    "image": "https://drive.google.com/uc?export=view&id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
+    "image": "https://drive.google.com/thumbnail?id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY&sz=w1600",
     "driveFileId": "11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
     "storage": "google_drive"
   },
@@ -7290,10 +7290,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "canal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
-    "preview": "https://drive.google.com/uc?export=view&id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
-    "image": "https://drive.google.com/uc?export=view&id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
+    "image": "https://drive.google.com/thumbnail?id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA&sz=w1600",
     "driveFileId": "1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
     "storage": "google_drive"
   },
@@ -7317,10 +7317,10 @@ window.PMW_WALLPAPERS = [
       "rose",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
-    "preview": "https://drive.google.com/uc?export=view&id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
-    "image": "https://drive.google.com/uc?export=view&id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
+    "image": "https://drive.google.com/thumbnail?id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3&sz=w1600",
     "driveFileId": "14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
     "storage": "google_drive"
   },
@@ -7343,10 +7343,10 @@ window.PMW_WALLPAPERS = [
       "cherry blossoms",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
-    "image": "https://drive.google.com/uc?export=view&id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
+    "image": "https://drive.google.com/thumbnail?id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ&sz=w1600",
     "driveFileId": "1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
     "storage": "google_drive"
   },
@@ -7370,10 +7370,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
-    "preview": "https://drive.google.com/uc?export=view&id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
-    "image": "https://drive.google.com/uc?export=view&id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
+    "image": "https://drive.google.com/thumbnail?id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90&sz=w1600",
     "driveFileId": "1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
     "storage": "google_drive"
   },
@@ -7398,10 +7398,10 @@ window.PMW_WALLPAPERS = [
       "clouds",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
-    "preview": "https://drive.google.com/uc?export=view&id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
-    "image": "https://drive.google.com/uc?export=view&id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
+    "image": "https://drive.google.com/thumbnail?id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i&sz=w1600",
     "driveFileId": "1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
     "storage": "google_drive"
   },
@@ -7426,10 +7426,10 @@ window.PMW_WALLPAPERS = [
       "terrace",
       "chairs"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
-    "preview": "https://drive.google.com/uc?export=view&id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
-    "image": "https://drive.google.com/uc?export=view&id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
+    "image": "https://drive.google.com/thumbnail?id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH&sz=w1600",
     "driveFileId": "1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
     "storage": "google_drive"
   },
@@ -7454,10 +7454,10 @@ window.PMW_WALLPAPERS = [
       "village",
       "cherry blossoms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
-    "preview": "https://drive.google.com/uc?export=view&id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
-    "image": "https://drive.google.com/uc?export=view&id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
+    "image": "https://drive.google.com/thumbnail?id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH&sz=w1600",
     "driveFileId": "1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
     "storage": "google_drive"
   },
@@ -7483,10 +7483,10 @@ window.PMW_WALLPAPERS = [
       "tracks",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
-    "preview": "https://drive.google.com/uc?export=view&id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
-    "image": "https://drive.google.com/uc?export=view&id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
+    "image": "https://drive.google.com/thumbnail?id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR&sz=w1600",
     "driveFileId": "1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
     "storage": "google_drive"
   },
@@ -7510,10 +7510,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
-    "preview": "https://drive.google.com/uc?export=view&id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
-    "image": "https://drive.google.com/uc?export=view&id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
+    "image": "https://drive.google.com/thumbnail?id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_&sz=w1600",
     "driveFileId": "1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
     "storage": "google_drive"
   },
@@ -7539,10 +7539,10 @@ window.PMW_WALLPAPERS = [
       "tracks",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
-    "preview": "https://drive.google.com/uc?export=view&id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
-    "image": "https://drive.google.com/uc?export=view&id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
+    "image": "https://drive.google.com/thumbnail?id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7&sz=w1600",
     "driveFileId": "1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
     "storage": "google_drive"
   },
@@ -7567,10 +7567,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
-    "preview": "https://drive.google.com/uc?export=view&id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
-    "image": "https://drive.google.com/uc?export=view&id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
+    "image": "https://drive.google.com/thumbnail?id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W&sz=w1600",
     "driveFileId": "1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
     "storage": "google_drive"
   },
@@ -7594,10 +7594,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "gazebo"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
-    "preview": "https://drive.google.com/uc?export=view&id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
-    "image": "https://drive.google.com/uc?export=view&id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
+    "image": "https://drive.google.com/thumbnail?id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr&sz=w1600",
     "driveFileId": "1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
     "storage": "google_drive"
   },
@@ -7623,10 +7623,10 @@ window.PMW_WALLPAPERS = [
       "lagoon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
-    "preview": "https://drive.google.com/uc?export=view&id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
-    "image": "https://drive.google.com/uc?export=view&id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
+    "image": "https://drive.google.com/thumbnail?id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t&sz=w1600",
     "driveFileId": "1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
     "storage": "google_drive"
   },
@@ -7650,10 +7650,10 @@ window.PMW_WALLPAPERS = [
       "cliff",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
-    "preview": "https://drive.google.com/uc?export=view&id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
-    "image": "https://drive.google.com/uc?export=view&id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
+    "image": "https://drive.google.com/thumbnail?id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T&sz=w1600",
     "driveFileId": "1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
     "storage": "google_drive"
   },
@@ -7677,10 +7677,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
-    "preview": "https://drive.google.com/uc?export=view&id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
-    "image": "https://drive.google.com/uc?export=view&id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
+    "image": "https://drive.google.com/thumbnail?id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06&sz=w1600",
     "driveFileId": "1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
     "storage": "google_drive"
   },
@@ -7705,10 +7705,10 @@ window.PMW_WALLPAPERS = [
       "nebula",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
-    "preview": "https://drive.google.com/uc?export=view&id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
-    "image": "https://drive.google.com/uc?export=view&id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
+    "image": "https://drive.google.com/thumbnail?id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT&sz=w1600",
     "driveFileId": "1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
     "storage": "google_drive"
   },
@@ -7734,10 +7734,10 @@ window.PMW_WALLPAPERS = [
       "cherry blossoms",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
-    "preview": "https://drive.google.com/uc?export=view&id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
-    "image": "https://drive.google.com/uc?export=view&id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
+    "image": "https://drive.google.com/thumbnail?id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox&sz=w1600",
     "driveFileId": "1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
     "storage": "google_drive"
   },
@@ -7763,10 +7763,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "lotuses"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
-    "preview": "https://drive.google.com/uc?export=view&id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
-    "image": "https://drive.google.com/uc?export=view&id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
+    "image": "https://drive.google.com/thumbnail?id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v&sz=w1600",
     "driveFileId": "1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
     "storage": "google_drive"
   },
@@ -7790,10 +7790,10 @@ window.PMW_WALLPAPERS = [
       "meadow",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
-    "preview": "https://drive.google.com/uc?export=view&id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
-    "image": "https://drive.google.com/uc?export=view&id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
+    "image": "https://drive.google.com/thumbnail?id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E&sz=w1600",
     "driveFileId": "1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
     "storage": "google_drive"
   },
@@ -7817,10 +7817,10 @@ window.PMW_WALLPAPERS = [
       "harbor",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
-    "preview": "https://drive.google.com/uc?export=view&id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
-    "image": "https://drive.google.com/uc?export=view&id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
+    "image": "https://drive.google.com/thumbnail?id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT&sz=w1600",
     "driveFileId": "1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
     "storage": "google_drive"
   },
@@ -7845,10 +7845,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
-    "preview": "https://drive.google.com/uc?export=view&id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
-    "image": "https://drive.google.com/uc?export=view&id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
+    "image": "https://drive.google.com/thumbnail?id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G&sz=w1600",
     "driveFileId": "1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
     "storage": "google_drive"
   },
@@ -7873,10 +7873,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
-    "preview": "https://drive.google.com/uc?export=view&id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
-    "image": "https://drive.google.com/uc?export=view&id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
+    "image": "https://drive.google.com/thumbnail?id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU&sz=w1600",
     "driveFileId": "1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
     "storage": "google_drive"
   },
@@ -7900,10 +7900,10 @@ window.PMW_WALLPAPERS = [
       "mountains",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
-    "preview": "https://drive.google.com/uc?export=view&id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
-    "image": "https://drive.google.com/uc?export=view&id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
+    "image": "https://drive.google.com/thumbnail?id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z&sz=w1600",
     "driveFileId": "1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
     "storage": "google_drive"
   },
@@ -7929,10 +7929,10 @@ window.PMW_WALLPAPERS = [
       "clouds",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
-    "preview": "https://drive.google.com/uc?export=view&id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
-    "image": "https://drive.google.com/uc?export=view&id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
+    "image": "https://drive.google.com/thumbnail?id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8&sz=w1600",
     "driveFileId": "1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
     "storage": "google_drive"
   },
@@ -7956,10 +7956,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
-    "preview": "https://drive.google.com/uc?export=view&id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
-    "image": "https://drive.google.com/uc?export=view&id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
+    "image": "https://drive.google.com/thumbnail?id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52&sz=w1600",
     "driveFileId": "1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
     "storage": "google_drive"
   },
@@ -7984,10 +7984,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
-    "preview": "https://drive.google.com/uc?export=view&id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
-    "image": "https://drive.google.com/uc?export=view&id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
+    "image": "https://drive.google.com/thumbnail?id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c&sz=w1600",
     "driveFileId": "1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
     "storage": "google_drive"
   },
@@ -8012,10 +8012,10 @@ window.PMW_WALLPAPERS = [
       "glow",
       "bridge"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
-    "preview": "https://drive.google.com/uc?export=view&id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
-    "image": "https://drive.google.com/uc?export=view&id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
+    "image": "https://drive.google.com/thumbnail?id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF&sz=w1600",
     "driveFileId": "1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
     "storage": "google_drive"
   },
@@ -8039,10 +8039,10 @@ window.PMW_WALLPAPERS = [
       "rose",
       "lakeside"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
-    "preview": "https://drive.google.com/uc?export=view&id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
-    "image": "https://drive.google.com/uc?export=view&id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
+    "image": "https://drive.google.com/thumbnail?id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb&sz=w1600",
     "driveFileId": "1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
     "storage": "google_drive"
   },
@@ -8068,10 +8068,10 @@ window.PMW_WALLPAPERS = [
       "across",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
-    "preview": "https://drive.google.com/uc?export=view&id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
-    "image": "https://drive.google.com/uc?export=view&id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
+    "image": "https://drive.google.com/thumbnail?id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA&sz=w1600",
     "driveFileId": "1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
     "storage": "google_drive"
   },
@@ -8095,10 +8095,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
-    "preview": "https://drive.google.com/uc?export=view&id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
-    "image": "https://drive.google.com/uc?export=view&id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
+    "image": "https://drive.google.com/thumbnail?id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG&sz=w1600",
     "driveFileId": "1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
     "storage": "google_drive"
   },
@@ -8123,10 +8123,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
-    "preview": "https://drive.google.com/uc?export=view&id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
-    "image": "https://drive.google.com/uc?export=view&id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
+    "image": "https://drive.google.com/thumbnail?id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0&sz=w1600",
     "driveFileId": "1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
     "storage": "google_drive"
   },
@@ -8149,10 +8149,10 @@ window.PMW_WALLPAPERS = [
       "cherry blossoms",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
-    "preview": "https://drive.google.com/uc?export=view&id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
-    "image": "https://drive.google.com/uc?export=view&id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
+    "image": "https://drive.google.com/thumbnail?id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y&sz=w1600",
     "driveFileId": "1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
     "storage": "google_drive"
   },
@@ -8176,10 +8176,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "tunnel"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
-    "preview": "https://drive.google.com/uc?export=view&id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
-    "image": "https://drive.google.com/uc?export=view&id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
+    "image": "https://drive.google.com/thumbnail?id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT&sz=w1600",
     "driveFileId": "1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
     "storage": "google_drive"
   },
@@ -8204,10 +8204,10 @@ window.PMW_WALLPAPERS = [
       "beach",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
-    "preview": "https://drive.google.com/uc?export=view&id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
-    "image": "https://drive.google.com/uc?export=view&id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
+    "image": "https://drive.google.com/thumbnail?id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA&sz=w1600",
     "driveFileId": "1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
     "storage": "google_drive"
   },
@@ -8233,10 +8233,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
-    "preview": "https://drive.google.com/uc?export=view&id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
-    "image": "https://drive.google.com/uc?export=view&id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
+    "image": "https://drive.google.com/thumbnail?id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3&sz=w1600",
     "driveFileId": "1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
     "storage": "google_drive"
   },
@@ -8262,10 +8262,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
-    "preview": "https://drive.google.com/uc?export=view&id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
-    "image": "https://drive.google.com/uc?export=view&id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
+    "image": "https://drive.google.com/thumbnail?id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg&sz=w1600",
     "driveFileId": "14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
     "storage": "google_drive"
   },
@@ -8289,10 +8289,10 @@ window.PMW_WALLPAPERS = [
       "aurora",
       "couple"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
-    "preview": "https://drive.google.com/uc?export=view&id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
-    "image": "https://drive.google.com/uc?export=view&id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
+    "image": "https://drive.google.com/thumbnail?id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1&sz=w1600",
     "driveFileId": "1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
     "storage": "google_drive"
   },
@@ -8317,10 +8317,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "pavilion"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
-    "preview": "https://drive.google.com/uc?export=view&id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
-    "image": "https://drive.google.com/uc?export=view&id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
+    "image": "https://drive.google.com/thumbnail?id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm&sz=w1600",
     "driveFileId": "1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
     "storage": "google_drive"
   },
@@ -8344,10 +8344,10 @@ window.PMW_WALLPAPERS = [
       "heart",
       "lotus"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
-    "preview": "https://drive.google.com/uc?export=view&id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
-    "image": "https://drive.google.com/uc?export=view&id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
+    "image": "https://drive.google.com/thumbnail?id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF&sz=w1600",
     "driveFileId": "1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
     "storage": "google_drive"
   },
@@ -8372,10 +8372,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
-    "preview": "https://drive.google.com/uc?export=view&id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
-    "image": "https://drive.google.com/uc?export=view&id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
+    "image": "https://drive.google.com/thumbnail?id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0&sz=w1600",
     "driveFileId": "1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
     "storage": "google_drive"
   },
@@ -8400,10 +8400,10 @@ window.PMW_WALLPAPERS = [
       "staircase",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
-    "preview": "https://drive.google.com/uc?export=view&id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
-    "image": "https://drive.google.com/uc?export=view&id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
+    "image": "https://drive.google.com/thumbnail?id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh&sz=w1600",
     "driveFileId": "1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
     "storage": "google_drive"
   },
@@ -8428,10 +8428,10 @@ window.PMW_WALLPAPERS = [
       "stream",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
-    "preview": "https://drive.google.com/uc?export=view&id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
-    "image": "https://drive.google.com/uc?export=view&id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
+    "image": "https://drive.google.com/thumbnail?id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N&sz=w1600",
     "driveFileId": "1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
     "storage": "google_drive"
   },
@@ -8456,10 +8456,10 @@ window.PMW_WALLPAPERS = [
       "pavilion",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
-    "preview": "https://drive.google.com/uc?export=view&id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
-    "image": "https://drive.google.com/uc?export=view&id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
+    "image": "https://drive.google.com/thumbnail?id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW&sz=w1600",
     "driveFileId": "1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
     "storage": "google_drive"
   },
@@ -8484,10 +8484,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
-    "preview": "https://drive.google.com/uc?export=view&id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
-    "image": "https://drive.google.com/uc?export=view&id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
+    "image": "https://drive.google.com/thumbnail?id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj&sz=w1600",
     "driveFileId": "1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
     "storage": "google_drive"
   },
@@ -8512,10 +8512,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "bridge"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
-    "preview": "https://drive.google.com/uc?export=view&id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
-    "image": "https://drive.google.com/uc?export=view&id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
+    "image": "https://drive.google.com/thumbnail?id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f&sz=w1600",
     "driveFileId": "17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
     "storage": "google_drive"
   },
@@ -8539,10 +8539,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
-    "preview": "https://drive.google.com/uc?export=view&id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
-    "image": "https://drive.google.com/uc?export=view&id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
+    "image": "https://drive.google.com/thumbnail?id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b&sz=w1600",
     "driveFileId": "1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
     "storage": "google_drive"
   },
@@ -8566,10 +8566,10 @@ window.PMW_WALLPAPERS = [
       "canyon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
-    "preview": "https://drive.google.com/uc?export=view&id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
-    "image": "https://drive.google.com/uc?export=view&id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
+    "image": "https://drive.google.com/thumbnail?id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV&sz=w1600",
     "driveFileId": "1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
     "storage": "google_drive"
   },
@@ -8594,10 +8594,10 @@ window.PMW_WALLPAPERS = [
       "full moon",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
-    "preview": "https://drive.google.com/uc?export=view&id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
-    "image": "https://drive.google.com/uc?export=view&id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
+    "image": "https://drive.google.com/thumbnail?id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH&sz=w1600",
     "driveFileId": "1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
     "storage": "google_drive"
   },
@@ -8621,10 +8621,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "cascades"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
-    "preview": "https://drive.google.com/uc?export=view&id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
-    "image": "https://drive.google.com/uc?export=view&id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
+    "image": "https://drive.google.com/thumbnail?id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49&sz=w1600",
     "driveFileId": "1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
     "storage": "google_drive"
   },
@@ -8649,10 +8649,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
-    "preview": "https://drive.google.com/uc?export=view&id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
-    "image": "https://drive.google.com/uc?export=view&id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
+    "image": "https://drive.google.com/thumbnail?id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE&sz=w1600",
     "driveFileId": "14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
     "storage": "google_drive"
   },
@@ -8677,10 +8677,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "canyon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
-    "preview": "https://drive.google.com/uc?export=view&id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
-    "image": "https://drive.google.com/uc?export=view&id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
+    "image": "https://drive.google.com/thumbnail?id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX&sz=w1600",
     "driveFileId": "1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
     "storage": "google_drive"
   },
@@ -8705,10 +8705,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
-    "preview": "https://drive.google.com/uc?export=view&id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
-    "image": "https://drive.google.com/uc?export=view&id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
+    "image": "https://drive.google.com/thumbnail?id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO&sz=w1600",
     "driveFileId": "1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
     "storage": "google_drive"
   },
@@ -8732,10 +8732,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
-    "preview": "https://drive.google.com/uc?export=view&id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
-    "image": "https://drive.google.com/uc?export=view&id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
+    "image": "https://drive.google.com/thumbnail?id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua&sz=w1600",
     "driveFileId": "1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
     "storage": "google_drive"
   },
@@ -8760,10 +8760,10 @@ window.PMW_WALLPAPERS = [
       "Milky Way",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
-    "preview": "https://drive.google.com/uc?export=view&id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
-    "image": "https://drive.google.com/uc?export=view&id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
+    "image": "https://drive.google.com/thumbnail?id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax&sz=w1600",
     "driveFileId": "1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
     "storage": "google_drive"
   },
@@ -8788,10 +8788,10 @@ window.PMW_WALLPAPERS = [
       "terrace",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19POAs78XM79ff-UjN6inx6BEE8awYaeA",
-    "preview": "https://drive.google.com/uc?export=view&id=19POAs78XM79ff-UjN6inx6BEE8awYaeA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19POAs78XM79ff-UjN6inx6BEE8awYaeA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19POAs78XM79ff-UjN6inx6BEE8awYaeA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19POAs78XM79ff-UjN6inx6BEE8awYaeA",
-    "image": "https://drive.google.com/uc?export=view&id=19POAs78XM79ff-UjN6inx6BEE8awYaeA",
+    "image": "https://drive.google.com/thumbnail?id=19POAs78XM79ff-UjN6inx6BEE8awYaeA&sz=w1600",
     "driveFileId": "19POAs78XM79ff-UjN6inx6BEE8awYaeA",
     "storage": "google_drive"
   },
@@ -8816,10 +8816,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
-    "preview": "https://drive.google.com/uc?export=view&id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
-    "image": "https://drive.google.com/uc?export=view&id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
+    "image": "https://drive.google.com/thumbnail?id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X&sz=w1600",
     "driveFileId": "1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
     "storage": "google_drive"
   },
@@ -8844,10 +8844,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "reflecting"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
-    "preview": "https://drive.google.com/uc?export=view&id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
-    "image": "https://drive.google.com/uc?export=view&id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
+    "image": "https://drive.google.com/thumbnail?id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U&sz=w1600",
     "driveFileId": "1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
     "storage": "google_drive"
   },
@@ -8872,10 +8872,10 @@ window.PMW_WALLPAPERS = [
       "celestial",
       "palace"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
-    "preview": "https://drive.google.com/uc?export=view&id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
-    "image": "https://drive.google.com/uc?export=view&id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
+    "image": "https://drive.google.com/thumbnail?id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-&sz=w1600",
     "driveFileId": "15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
     "storage": "google_drive"
   },
@@ -8900,10 +8900,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "field"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
-    "preview": "https://drive.google.com/uc?export=view&id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
-    "image": "https://drive.google.com/uc?export=view&id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
+    "image": "https://drive.google.com/thumbnail?id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd&sz=w1600",
     "driveFileId": "1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
     "storage": "google_drive"
   },
@@ -8927,10 +8927,10 @@ window.PMW_WALLPAPERS = [
       "balcony",
       "sea"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
-    "preview": "https://drive.google.com/uc?export=view&id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
-    "image": "https://drive.google.com/uc?export=view&id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
+    "image": "https://drive.google.com/thumbnail?id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0&sz=w1600",
     "driveFileId": "1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
     "storage": "google_drive"
   },
@@ -8954,10 +8954,10 @@ window.PMW_WALLPAPERS = [
       "vineyard",
       "Milky Way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
-    "preview": "https://drive.google.com/uc?export=view&id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
-    "image": "https://drive.google.com/uc?export=view&id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
+    "image": "https://drive.google.com/thumbnail?id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC&sz=w1600",
     "driveFileId": "1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
     "storage": "google_drive"
   },
@@ -8981,10 +8981,10 @@ window.PMW_WALLPAPERS = [
       "phoenix",
       "moonlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
-    "preview": "https://drive.google.com/uc?export=view&id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
-    "image": "https://drive.google.com/uc?export=view&id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
+    "image": "https://drive.google.com/thumbnail?id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z&sz=w1600",
     "driveFileId": "1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
     "storage": "google_drive"
   },
@@ -9009,10 +9009,10 @@ window.PMW_WALLPAPERS = [
       "ancient",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
-    "preview": "https://drive.google.com/uc?export=view&id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
-    "image": "https://drive.google.com/uc?export=view&id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
+    "image": "https://drive.google.com/thumbnail?id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj&sz=w1600",
     "driveFileId": "1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
     "storage": "google_drive"
   },
@@ -9038,10 +9038,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
-    "preview": "https://drive.google.com/uc?export=view&id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
-    "image": "https://drive.google.com/uc?export=view&id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
+    "image": "https://drive.google.com/thumbnail?id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv&sz=w1600",
     "driveFileId": "1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
     "storage": "google_drive"
   },
@@ -9067,10 +9067,10 @@ window.PMW_WALLPAPERS = [
       "lava",
       "fortress"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
-    "preview": "https://drive.google.com/uc?export=view&id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
-    "image": "https://drive.google.com/uc?export=view&id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
+    "image": "https://drive.google.com/thumbnail?id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG&sz=w1600",
     "driveFileId": "1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
     "storage": "google_drive"
   },
@@ -9095,10 +9095,10 @@ window.PMW_WALLPAPERS = [
       "temple",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
-    "preview": "https://drive.google.com/uc?export=view&id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
-    "image": "https://drive.google.com/uc?export=view&id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
+    "image": "https://drive.google.com/thumbnail?id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn&sz=w1600",
     "driveFileId": "1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
     "storage": "google_drive"
   },
@@ -9123,10 +9123,10 @@ window.PMW_WALLPAPERS = [
       "burning",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
-    "preview": "https://drive.google.com/uc?export=view&id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
-    "image": "https://drive.google.com/uc?export=view&id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
+    "image": "https://drive.google.com/thumbnail?id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3&sz=w1600",
     "driveFileId": "1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
     "storage": "google_drive"
   },
@@ -9151,10 +9151,10 @@ window.PMW_WALLPAPERS = [
       "blood",
       "eclipse"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
-    "preview": "https://drive.google.com/uc?export=view&id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
-    "image": "https://drive.google.com/uc?export=view&id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
+    "image": "https://drive.google.com/thumbnail?id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC&sz=w1600",
     "driveFileId": "11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
     "storage": "google_drive"
   },
@@ -9180,10 +9180,10 @@ window.PMW_WALLPAPERS = [
       "lost",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
-    "preview": "https://drive.google.com/uc?export=view&id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
-    "image": "https://drive.google.com/uc?export=view&id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
+    "image": "https://drive.google.com/thumbnail?id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG&sz=w1600",
     "driveFileId": "1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
     "storage": "google_drive"
   },
@@ -9209,10 +9209,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
-    "preview": "https://drive.google.com/uc?export=view&id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
-    "image": "https://drive.google.com/uc?export=view&id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
+    "image": "https://drive.google.com/thumbnail?id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs&sz=w1600",
     "driveFileId": "1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
     "storage": "google_drive"
   },
@@ -9237,10 +9237,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "hall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
-    "image": "https://drive.google.com/uc?export=view&id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
+    "image": "https://drive.google.com/thumbnail?id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-&sz=w1600",
     "driveFileId": "1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
     "storage": "google_drive"
   },
@@ -9265,10 +9265,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "kingdom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
-    "preview": "https://drive.google.com/uc?export=view&id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
-    "image": "https://drive.google.com/uc?export=view&id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
+    "image": "https://drive.google.com/thumbnail?id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw&sz=w1600",
     "driveFileId": "1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
     "storage": "google_drive"
   },
@@ -9293,10 +9293,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
-    "preview": "https://drive.google.com/uc?export=view&id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
-    "image": "https://drive.google.com/uc?export=view&id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
+    "image": "https://drive.google.com/thumbnail?id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi&sz=w1600",
     "driveFileId": "14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
     "storage": "google_drive"
   },
@@ -9321,10 +9321,10 @@ window.PMW_WALLPAPERS = [
       "tower",
       "ravens"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
-    "preview": "https://drive.google.com/uc?export=view&id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
-    "image": "https://drive.google.com/uc?export=view&id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
+    "image": "https://drive.google.com/thumbnail?id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U&sz=w1600",
     "driveFileId": "1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
     "storage": "google_drive"
   },
@@ -9349,10 +9349,10 @@ window.PMW_WALLPAPERS = [
       "violet",
       "mushrooms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
-    "preview": "https://drive.google.com/uc?export=view&id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
-    "image": "https://drive.google.com/uc?export=view&id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
+    "image": "https://drive.google.com/thumbnail?id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4&sz=w1600",
     "driveFileId": "1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
     "storage": "google_drive"
   },
@@ -9377,10 +9377,10 @@ window.PMW_WALLPAPERS = [
       "purple",
       "portal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
-    "preview": "https://drive.google.com/uc?export=view&id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
-    "image": "https://drive.google.com/uc?export=view&id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
+    "image": "https://drive.google.com/thumbnail?id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu&sz=w1600",
     "driveFileId": "1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
     "storage": "google_drive"
   },
@@ -9405,10 +9405,10 @@ window.PMW_WALLPAPERS = [
       "magic",
       "artifacts"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
-    "preview": "https://drive.google.com/uc?export=view&id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
-    "image": "https://drive.google.com/uc?export=view&id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
+    "image": "https://drive.google.com/thumbnail?id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG&sz=w1600",
     "driveFileId": "1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
     "storage": "google_drive"
   },
@@ -9433,10 +9433,10 @@ window.PMW_WALLPAPERS = [
       "king",
       "throne"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
-    "preview": "https://drive.google.com/uc?export=view&id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
-    "image": "https://drive.google.com/uc?export=view&id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
+    "image": "https://drive.google.com/thumbnail?id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M&sz=w1600",
     "driveFileId": "1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
     "storage": "google_drive"
   },
@@ -9461,10 +9461,10 @@ window.PMW_WALLPAPERS = [
       "cathedral",
       "gateway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
-    "preview": "https://drive.google.com/uc?export=view&id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
-    "image": "https://drive.google.com/uc?export=view&id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
+    "image": "https://drive.google.com/thumbnail?id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt&sz=w1600",
     "driveFileId": "17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
     "storage": "google_drive"
   },
@@ -9490,10 +9490,10 @@ window.PMW_WALLPAPERS = [
       "tower",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
-    "image": "https://drive.google.com/uc?export=view&id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
+    "image": "https://drive.google.com/thumbnail?id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i&sz=w1600",
     "driveFileId": "1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
     "storage": "google_drive"
   },
@@ -9518,10 +9518,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
-    "preview": "https://drive.google.com/uc?export=view&id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
-    "image": "https://drive.google.com/uc?export=view&id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
+    "image": "https://drive.google.com/thumbnail?id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn&sz=w1600",
     "driveFileId": "1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
     "storage": "google_drive"
   },
@@ -9546,10 +9546,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "town"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
-    "preview": "https://drive.google.com/uc?export=view&id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
-    "image": "https://drive.google.com/uc?export=view&id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
+    "image": "https://drive.google.com/thumbnail?id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV&sz=w1600",
     "driveFileId": "1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
     "storage": "google_drive"
   },
@@ -9574,10 +9574,10 @@ window.PMW_WALLPAPERS = [
       "candlelit",
       "graveyard"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
-    "preview": "https://drive.google.com/uc?export=view&id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
-    "image": "https://drive.google.com/uc?export=view&id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
+    "image": "https://drive.google.com/thumbnail?id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9&sz=w1600",
     "driveFileId": "1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
     "storage": "google_drive"
   },
@@ -9602,10 +9602,10 @@ window.PMW_WALLPAPERS = [
       "kingdom",
       "aurora"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
-    "preview": "https://drive.google.com/uc?export=view&id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
-    "image": "https://drive.google.com/uc?export=view&id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
+    "image": "https://drive.google.com/thumbnail?id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR&sz=w1600",
     "driveFileId": "1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
     "storage": "google_drive"
   },
@@ -9631,10 +9631,10 @@ window.PMW_WALLPAPERS = [
       "shadow",
       "energy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
-    "preview": "https://drive.google.com/uc?export=view&id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
-    "image": "https://drive.google.com/uc?export=view&id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
+    "image": "https://drive.google.com/thumbnail?id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g&sz=w1600",
     "driveFileId": "10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
     "storage": "google_drive"
   },
@@ -9659,10 +9659,10 @@ window.PMW_WALLPAPERS = [
       "battlefield",
       "moonlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
-    "preview": "https://drive.google.com/uc?export=view&id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
-    "image": "https://drive.google.com/uc?export=view&id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
+    "image": "https://drive.google.com/thumbnail?id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH&sz=w1600",
     "driveFileId": "1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
     "storage": "google_drive"
   },
@@ -9687,10 +9687,10 @@ window.PMW_WALLPAPERS = [
       "ruined",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
-    "preview": "https://drive.google.com/uc?export=view&id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
-    "image": "https://drive.google.com/uc?export=view&id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
+    "image": "https://drive.google.com/thumbnail?id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N&sz=w1600",
     "driveFileId": "18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
     "storage": "google_drive"
   },
@@ -9716,10 +9716,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
-    "preview": "https://drive.google.com/uc?export=view&id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
-    "image": "https://drive.google.com/uc?export=view&id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
+    "image": "https://drive.google.com/thumbnail?id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN&sz=w1600",
     "driveFileId": "1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
     "storage": "google_drive"
   },
@@ -9745,10 +9745,10 @@ window.PMW_WALLPAPERS = [
       "violet",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
-    "preview": "https://drive.google.com/uc?export=view&id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
-    "image": "https://drive.google.com/uc?export=view&id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
+    "image": "https://drive.google.com/thumbnail?id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx&sz=w1600",
     "driveFileId": "1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
     "storage": "google_drive"
   },
@@ -9773,10 +9773,10 @@ window.PMW_WALLPAPERS = [
       "world",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
-    "image": "https://drive.google.com/uc?export=view&id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
+    "image": "https://drive.google.com/thumbnail?id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ&sz=w1600",
     "driveFileId": "1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
     "storage": "google_drive"
   },
@@ -9801,10 +9801,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "bridge"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
-    "preview": "https://drive.google.com/uc?export=view&id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
-    "image": "https://drive.google.com/uc?export=view&id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
+    "image": "https://drive.google.com/thumbnail?id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__&sz=w1600",
     "driveFileId": "1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
     "storage": "google_drive"
   },
@@ -9829,10 +9829,10 @@ window.PMW_WALLPAPERS = [
       "abbey",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
-    "preview": "https://drive.google.com/uc?export=view&id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
-    "image": "https://drive.google.com/uc?export=view&id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
+    "image": "https://drive.google.com/thumbnail?id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4&sz=w1600",
     "driveFileId": "14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
     "storage": "google_drive"
   },
@@ -9857,10 +9857,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
-    "preview": "https://drive.google.com/uc?export=view&id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
-    "image": "https://drive.google.com/uc?export=view&id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
+    "image": "https://drive.google.com/thumbnail?id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j&sz=w1600",
     "driveFileId": "13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
     "storage": "google_drive"
   },
@@ -9886,10 +9886,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
-    "preview": "https://drive.google.com/uc?export=view&id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
-    "image": "https://drive.google.com/uc?export=view&id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
+    "image": "https://drive.google.com/thumbnail?id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc&sz=w1600",
     "driveFileId": "1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
     "storage": "google_drive"
   },
@@ -9915,10 +9915,10 @@ window.PMW_WALLPAPERS = [
       "ruined",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
-    "preview": "https://drive.google.com/uc?export=view&id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
-    "image": "https://drive.google.com/uc?export=view&id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
+    "image": "https://drive.google.com/thumbnail?id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw&sz=w1600",
     "driveFileId": "16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
     "storage": "google_drive"
   },
@@ -9943,10 +9943,10 @@ window.PMW_WALLPAPERS = [
       "phoenix",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
-    "preview": "https://drive.google.com/uc?export=view&id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
-    "image": "https://drive.google.com/uc?export=view&id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
+    "image": "https://drive.google.com/thumbnail?id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6&sz=w1600",
     "driveFileId": "1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
     "storage": "google_drive"
   },
@@ -9972,10 +9972,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
-    "preview": "https://drive.google.com/uc?export=view&id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
-    "image": "https://drive.google.com/uc?export=view&id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
+    "image": "https://drive.google.com/thumbnail?id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae&sz=w1600",
     "driveFileId": "1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
     "storage": "google_drive"
   },
@@ -10001,10 +10001,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "bridge"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
-    "preview": "https://drive.google.com/uc?export=view&id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
-    "image": "https://drive.google.com/uc?export=view&id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
+    "image": "https://drive.google.com/thumbnail?id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4&sz=w1600",
     "driveFileId": "1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
     "storage": "google_drive"
   },
@@ -10030,10 +10030,10 @@ window.PMW_WALLPAPERS = [
       "snowy",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
-    "preview": "https://drive.google.com/uc?export=view&id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
-    "image": "https://drive.google.com/uc?export=view&id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
+    "image": "https://drive.google.com/thumbnail?id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ&sz=w1600",
     "driveFileId": "1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
     "storage": "google_drive"
   },
@@ -10059,10 +10059,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
-    "preview": "https://drive.google.com/uc?export=view&id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
-    "image": "https://drive.google.com/uc?export=view&id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
+    "image": "https://drive.google.com/thumbnail?id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi&sz=w1600",
     "driveFileId": "1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
     "storage": "google_drive"
   },
@@ -10087,10 +10087,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "cliffs"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
-    "preview": "https://drive.google.com/uc?export=view&id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
-    "image": "https://drive.google.com/uc?export=view&id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
+    "image": "https://drive.google.com/thumbnail?id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj&sz=w1600",
     "driveFileId": "19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
     "storage": "google_drive"
   },
@@ -10116,10 +10116,10 @@ window.PMW_WALLPAPERS = [
       "emerald",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
-    "preview": "https://drive.google.com/uc?export=view&id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
-    "image": "https://drive.google.com/uc?export=view&id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
+    "image": "https://drive.google.com/thumbnail?id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU&sz=w1600",
     "driveFileId": "1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
     "storage": "google_drive"
   },
@@ -10144,10 +10144,10 @@ window.PMW_WALLPAPERS = [
       "world",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
-    "preview": "https://drive.google.com/uc?export=view&id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
-    "image": "https://drive.google.com/uc?export=view&id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
+    "image": "https://drive.google.com/thumbnail?id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD&sz=w1600",
     "driveFileId": "1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
     "storage": "google_drive"
   },
@@ -10173,10 +10173,10 @@ window.PMW_WALLPAPERS = [
       "river",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
-    "preview": "https://drive.google.com/uc?export=view&id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
-    "image": "https://drive.google.com/uc?export=view&id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
+    "image": "https://drive.google.com/thumbnail?id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC&sz=w1600",
     "driveFileId": "1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
     "storage": "google_drive"
   },
@@ -10201,10 +10201,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "roses"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
-    "preview": "https://drive.google.com/uc?export=view&id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
-    "image": "https://drive.google.com/uc?export=view&id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
+    "image": "https://drive.google.com/thumbnail?id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD&sz=w1600",
     "driveFileId": "1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
     "storage": "google_drive"
   },
@@ -10230,10 +10230,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
-    "preview": "https://drive.google.com/uc?export=view&id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
-    "image": "https://drive.google.com/uc?export=view&id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
+    "image": "https://drive.google.com/thumbnail?id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU&sz=w1600",
     "driveFileId": "1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
     "storage": "google_drive"
   },
@@ -10258,10 +10258,10 @@ window.PMW_WALLPAPERS = [
       "stormy",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
-    "preview": "https://drive.google.com/uc?export=view&id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
-    "image": "https://drive.google.com/uc?export=view&id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
+    "image": "https://drive.google.com/thumbnail?id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF&sz=w1600",
     "driveFileId": "1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
     "storage": "google_drive"
   },
@@ -10287,10 +10287,10 @@ window.PMW_WALLPAPERS = [
       "full",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
-    "preview": "https://drive.google.com/uc?export=view&id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
-    "image": "https://drive.google.com/uc?export=view&id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
+    "image": "https://drive.google.com/thumbnail?id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF&sz=w1600",
     "driveFileId": "1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
     "storage": "google_drive"
   },
@@ -10315,10 +10315,10 @@ window.PMW_WALLPAPERS = [
       "haunted",
       "villages"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
-    "preview": "https://drive.google.com/uc?export=view&id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
-    "image": "https://drive.google.com/uc?export=view&id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
+    "image": "https://drive.google.com/thumbnail?id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR&sz=w1600",
     "driveFileId": "19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
     "storage": "google_drive"
   },
@@ -10343,10 +10343,10 @@ window.PMW_WALLPAPERS = [
       "valley",
       "waterfalls"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
-    "preview": "https://drive.google.com/uc?export=view&id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
-    "image": "https://drive.google.com/uc?export=view&id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
+    "image": "https://drive.google.com/thumbnail?id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH&sz=w1600",
     "driveFileId": "11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
     "storage": "google_drive"
   },
@@ -10372,10 +10372,10 @@ window.PMW_WALLPAPERS = [
       "stone",
       "statues"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
-    "preview": "https://drive.google.com/uc?export=view&id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
-    "image": "https://drive.google.com/uc?export=view&id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
+    "image": "https://drive.google.com/thumbnail?id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX&sz=w1600",
     "driveFileId": "1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
     "storage": "google_drive"
   },
@@ -10400,10 +10400,10 @@ window.PMW_WALLPAPERS = [
       "swords",
       "mist"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
-    "preview": "https://drive.google.com/uc?export=view&id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
-    "image": "https://drive.google.com/uc?export=view&id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
+    "image": "https://drive.google.com/thumbnail?id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2&sz=w1600",
     "driveFileId": "1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
     "storage": "google_drive"
   },
@@ -10429,10 +10429,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
-    "preview": "https://drive.google.com/uc?export=view&id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
-    "image": "https://drive.google.com/uc?export=view&id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
+    "image": "https://drive.google.com/thumbnail?id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067&sz=w1600",
     "driveFileId": "1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
     "storage": "google_drive"
   },
@@ -10457,10 +10457,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "scales"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
-    "preview": "https://drive.google.com/uc?export=view&id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
-    "image": "https://drive.google.com/uc?export=view&id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
+    "image": "https://drive.google.com/thumbnail?id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc&sz=w1600",
     "driveFileId": "1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
     "storage": "google_drive"
   },
@@ -10485,10 +10485,10 @@ window.PMW_WALLPAPERS = [
       "wrapped",
       "tower"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
-    "preview": "https://drive.google.com/uc?export=view&id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
-    "image": "https://drive.google.com/uc?export=view&id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
+    "image": "https://drive.google.com/thumbnail?id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX&sz=w1600",
     "driveFileId": "1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
     "storage": "google_drive"
   },
@@ -10513,10 +10513,10 @@ window.PMW_WALLPAPERS = [
       "city",
       "eclipse"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
-    "preview": "https://drive.google.com/uc?export=view&id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
-    "image": "https://drive.google.com/uc?export=view&id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
+    "image": "https://drive.google.com/thumbnail?id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx&sz=w1600",
     "driveFileId": "13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
     "storage": "google_drive"
   },
@@ -10542,10 +10542,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
-    "image": "https://drive.google.com/uc?export=view&id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
+    "image": "https://drive.google.com/thumbnail?id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ&sz=w1600",
     "driveFileId": "1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
     "storage": "google_drive"
   },
@@ -10570,10 +10570,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "portal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
-    "preview": "https://drive.google.com/uc?export=view&id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
-    "image": "https://drive.google.com/uc?export=view&id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
+    "image": "https://drive.google.com/thumbnail?id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY&sz=w1600",
     "driveFileId": "1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
     "storage": "google_drive"
   },
@@ -10598,10 +10598,10 @@ window.PMW_WALLPAPERS = [
       "world",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
-    "preview": "https://drive.google.com/uc?export=view&id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
-    "image": "https://drive.google.com/uc?export=view&id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
+    "image": "https://drive.google.com/thumbnail?id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO&sz=w1600",
     "driveFileId": "1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
     "storage": "google_drive"
   },
@@ -10626,10 +10626,10 @@ window.PMW_WALLPAPERS = [
       "stormy",
       "ships"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
-    "preview": "https://drive.google.com/uc?export=view&id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
-    "image": "https://drive.google.com/uc?export=view&id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
+    "image": "https://drive.google.com/thumbnail?id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G&sz=w1600",
     "driveFileId": "1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
     "storage": "google_drive"
   },
@@ -10654,10 +10654,10 @@ window.PMW_WALLPAPERS = [
       "throne",
       "room"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
-    "preview": "https://drive.google.com/uc?export=view&id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
-    "image": "https://drive.google.com/uc?export=view&id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
+    "image": "https://drive.google.com/thumbnail?id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT&sz=w1600",
     "driveFileId": "1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
     "storage": "google_drive"
   },
@@ -10682,10 +10682,10 @@ window.PMW_WALLPAPERS = [
       "hall",
       "candles"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
-    "preview": "https://drive.google.com/uc?export=view&id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
-    "image": "https://drive.google.com/uc?export=view&id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
+    "image": "https://drive.google.com/thumbnail?id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX&sz=w1600",
     "driveFileId": "1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
     "storage": "google_drive"
   },
@@ -10710,10 +10710,10 @@ window.PMW_WALLPAPERS = [
       "ocean",
       "eclipse"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
-    "preview": "https://drive.google.com/uc?export=view&id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
-    "image": "https://drive.google.com/uc?export=view&id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
+    "image": "https://drive.google.com/thumbnail?id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm&sz=w1600",
     "driveFileId": "1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
     "storage": "google_drive"
   },
@@ -10738,10 +10738,10 @@ window.PMW_WALLPAPERS = [
       "phoenix",
       "rising"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
-    "preview": "https://drive.google.com/uc?export=view&id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
-    "image": "https://drive.google.com/uc?export=view&id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
+    "image": "https://drive.google.com/thumbnail?id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx&sz=w1600",
     "driveFileId": "1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
     "storage": "google_drive"
   },
@@ -10766,10 +10766,10 @@ window.PMW_WALLPAPERS = [
       "ring",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
-    "preview": "https://drive.google.com/uc?export=view&id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
-    "image": "https://drive.google.com/uc?export=view&id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
+    "image": "https://drive.google.com/thumbnail?id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK&sz=w1600",
     "driveFileId": "1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
     "storage": "google_drive"
   },
@@ -10795,10 +10795,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "mist"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
-    "image": "https://drive.google.com/uc?export=view&id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
+    "image": "https://drive.google.com/thumbnail?id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ&sz=w1600",
     "driveFileId": "1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
     "storage": "google_drive"
   },
@@ -10823,10 +10823,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "stairway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
-    "preview": "https://drive.google.com/uc?export=view&id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
-    "image": "https://drive.google.com/uc?export=view&id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
+    "image": "https://drive.google.com/thumbnail?id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj&sz=w1600",
     "driveFileId": "1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
     "storage": "google_drive"
   },
@@ -10851,10 +10851,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
-    "preview": "https://drive.google.com/uc?export=view&id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
-    "image": "https://drive.google.com/uc?export=view&id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
+    "image": "https://drive.google.com/thumbnail?id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5&sz=w1600",
     "driveFileId": "1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
     "storage": "google_drive"
   },
@@ -10880,10 +10880,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
-    "preview": "https://drive.google.com/uc?export=view&id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
-    "image": "https://drive.google.com/uc?export=view&id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
+    "image": "https://drive.google.com/thumbnail?id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN&sz=w1600",
     "driveFileId": "1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
     "storage": "google_drive"
   },
@@ -10908,10 +10908,10 @@ window.PMW_WALLPAPERS = [
       "eclipse",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
-    "preview": "https://drive.google.com/uc?export=view&id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
-    "image": "https://drive.google.com/uc?export=view&id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
+    "image": "https://drive.google.com/thumbnail?id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og&sz=w1600",
     "driveFileId": "1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
     "storage": "google_drive"
   },
@@ -10936,10 +10936,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
-    "preview": "https://drive.google.com/uc?export=view&id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
-    "image": "https://drive.google.com/uc?export=view&id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
+    "image": "https://drive.google.com/thumbnail?id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE&sz=w1600",
     "driveFileId": "1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
     "storage": "google_drive"
   },
@@ -10965,10 +10965,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "roots"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
-    "preview": "https://drive.google.com/uc?export=view&id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
-    "image": "https://drive.google.com/uc?export=view&id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
+    "image": "https://drive.google.com/thumbnail?id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU&sz=w1600",
     "driveFileId": "1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
     "storage": "google_drive"
   },
@@ -10993,10 +10993,10 @@ window.PMW_WALLPAPERS = [
       "sky",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
-    "preview": "https://drive.google.com/uc?export=view&id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
-    "image": "https://drive.google.com/uc?export=view&id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
+    "image": "https://drive.google.com/thumbnail?id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke&sz=w1600",
     "driveFileId": "1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
     "storage": "google_drive"
   },
@@ -11020,10 +11020,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
-    "preview": "https://drive.google.com/uc?export=view&id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
-    "image": "https://drive.google.com/uc?export=view&id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
+    "image": "https://drive.google.com/thumbnail?id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3&sz=w1600",
     "driveFileId": "1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
     "storage": "google_drive"
   },
@@ -11048,10 +11048,10 @@ window.PMW_WALLPAPERS = [
       "snowy",
       "kingdom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
-    "preview": "https://drive.google.com/uc?export=view&id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
-    "image": "https://drive.google.com/uc?export=view&id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
+    "image": "https://drive.google.com/thumbnail?id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc&sz=w1600",
     "driveFileId": "1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
     "storage": "google_drive"
   },
@@ -11076,10 +11076,10 @@ window.PMW_WALLPAPERS = [
       "eclipse",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
-    "preview": "https://drive.google.com/uc?export=view&id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
-    "image": "https://drive.google.com/uc?export=view&id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
+    "image": "https://drive.google.com/thumbnail?id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP&sz=w1600",
     "driveFileId": "1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
     "storage": "google_drive"
   },
@@ -11105,10 +11105,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "warrior"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
-    "preview": "https://drive.google.com/uc?export=view&id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
-    "image": "https://drive.google.com/uc?export=view&id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
+    "image": "https://drive.google.com/thumbnail?id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_&sz=w1600",
     "driveFileId": "1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
     "storage": "google_drive"
   },
@@ -11133,10 +11133,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
-    "preview": "https://drive.google.com/uc?export=view&id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
-    "image": "https://drive.google.com/uc?export=view&id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
+    "image": "https://drive.google.com/thumbnail?id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez&sz=w1600",
     "driveFileId": "1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
     "storage": "google_drive"
   },
@@ -11160,10 +11160,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "eclipse"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
-    "preview": "https://drive.google.com/uc?export=view&id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
-    "image": "https://drive.google.com/uc?export=view&id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
+    "image": "https://drive.google.com/thumbnail?id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB&sz=w1600",
     "driveFileId": "1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
     "storage": "google_drive"
   },
@@ -11188,10 +11188,10 @@ window.PMW_WALLPAPERS = [
       "lava",
       "rivers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
-    "preview": "https://drive.google.com/uc?export=view&id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
-    "image": "https://drive.google.com/uc?export=view&id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
+    "image": "https://drive.google.com/thumbnail?id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP&sz=w1600",
     "driveFileId": "1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
     "storage": "google_drive"
   },
@@ -11216,10 +11216,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
-    "preview": "https://drive.google.com/uc?export=view&id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
-    "image": "https://drive.google.com/uc?export=view&id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
+    "image": "https://drive.google.com/thumbnail?id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe&sz=w1600",
     "driveFileId": "1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
     "storage": "google_drive"
   },
@@ -11244,10 +11244,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
-    "preview": "https://drive.google.com/uc?export=view&id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
-    "image": "https://drive.google.com/uc?export=view&id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
+    "image": "https://drive.google.com/thumbnail?id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9&sz=w1600",
     "driveFileId": "1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
     "storage": "google_drive"
   },
@@ -11272,10 +11272,10 @@ window.PMW_WALLPAPERS = [
       "erupting",
       "volcano"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
-    "preview": "https://drive.google.com/uc?export=view&id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
-    "image": "https://drive.google.com/uc?export=view&id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
+    "image": "https://drive.google.com/thumbnail?id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ&sz=w1600",
     "driveFileId": "19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
     "storage": "google_drive"
   },
@@ -11300,10 +11300,10 @@ window.PMW_WALLPAPERS = [
       "island",
       "waterfalls"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
-    "image": "https://drive.google.com/uc?export=view&id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
+    "image": "https://drive.google.com/thumbnail?id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7&sz=w1600",
     "driveFileId": "1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
     "storage": "google_drive"
   },
@@ -11328,10 +11328,10 @@ window.PMW_WALLPAPERS = [
       "portal",
       "doorway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
-    "preview": "https://drive.google.com/uc?export=view&id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
-    "image": "https://drive.google.com/uc?export=view&id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
+    "image": "https://drive.google.com/thumbnail?id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1&sz=w1600",
     "driveFileId": "1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
     "storage": "google_drive"
   },
@@ -11356,10 +11356,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "skyline"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
-    "preview": "https://drive.google.com/uc?export=view&id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
-    "image": "https://drive.google.com/uc?export=view&id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
+    "image": "https://drive.google.com/thumbnail?id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI&sz=w1600",
     "driveFileId": "1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
     "storage": "google_drive"
   },
@@ -11384,10 +11384,10 @@ window.PMW_WALLPAPERS = [
       "horned",
       "armor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
-    "preview": "https://drive.google.com/uc?export=view&id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
-    "image": "https://drive.google.com/uc?export=view&id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
+    "image": "https://drive.google.com/thumbnail?id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w&sz=w1600",
     "driveFileId": "1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
     "storage": "google_drive"
   },
@@ -11412,10 +11412,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
-    "preview": "https://drive.google.com/uc?export=view&id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
-    "image": "https://drive.google.com/uc?export=view&id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
+    "image": "https://drive.google.com/thumbnail?id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4&sz=w1600",
     "driveFileId": "1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
     "storage": "google_drive"
   },
@@ -11441,10 +11441,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
-    "preview": "https://drive.google.com/uc?export=view&id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
-    "image": "https://drive.google.com/uc?export=view&id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
+    "image": "https://drive.google.com/thumbnail?id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC&sz=w1600",
     "driveFileId": "1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
     "storage": "google_drive"
   },
@@ -11469,10 +11469,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
-    "preview": "https://drive.google.com/uc?export=view&id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
-    "image": "https://drive.google.com/uc?export=view&id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
+    "image": "https://drive.google.com/thumbnail?id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp&sz=w1600",
     "driveFileId": "1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
     "storage": "google_drive"
   },
@@ -11496,10 +11496,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
-    "image": "https://drive.google.com/uc?export=view&id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
+    "image": "https://drive.google.com/thumbnail?id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW&sz=w1600",
     "driveFileId": "1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
     "storage": "google_drive"
   },
@@ -11525,10 +11525,10 @@ window.PMW_WALLPAPERS = [
       "starry",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
-    "preview": "https://drive.google.com/uc?export=view&id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
-    "image": "https://drive.google.com/uc?export=view&id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
+    "image": "https://drive.google.com/thumbnail?id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw&sz=w1600",
     "driveFileId": "1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
     "storage": "google_drive"
   },
@@ -11554,10 +11554,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
-    "preview": "https://drive.google.com/uc?export=view&id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
-    "image": "https://drive.google.com/uc?export=view&id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
+    "image": "https://drive.google.com/thumbnail?id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL&sz=w1600",
     "driveFileId": "178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
     "storage": "google_drive"
   },
@@ -11582,10 +11582,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
-    "image": "https://drive.google.com/uc?export=view&id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
+    "image": "https://drive.google.com/thumbnail?id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23&sz=w1600",
     "driveFileId": "1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
     "storage": "google_drive"
   },
@@ -11611,10 +11611,10 @@ window.PMW_WALLPAPERS = [
       "snowy",
       "peak"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
-    "preview": "https://drive.google.com/uc?export=view&id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
-    "image": "https://drive.google.com/uc?export=view&id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
+    "image": "https://drive.google.com/thumbnail?id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10&sz=w1600",
     "driveFileId": "1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
     "storage": "google_drive"
   },
@@ -11640,10 +11640,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "ships"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
-    "preview": "https://drive.google.com/uc?export=view&id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
-    "image": "https://drive.google.com/uc?export=view&id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
+    "image": "https://drive.google.com/thumbnail?id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8&sz=w1600",
     "driveFileId": "11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
     "storage": "google_drive"
   },
@@ -11668,10 +11668,10 @@ window.PMW_WALLPAPERS = [
       "city",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
-    "preview": "https://drive.google.com/uc?export=view&id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
-    "image": "https://drive.google.com/uc?export=view&id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
+    "image": "https://drive.google.com/thumbnail?id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg&sz=w1600",
     "driveFileId": "16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
     "storage": "google_drive"
   },
@@ -11695,10 +11695,10 @@ window.PMW_WALLPAPERS = [
       "rose",
       "starlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
-    "image": "https://drive.google.com/uc?export=view&id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
+    "image": "https://drive.google.com/thumbnail?id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg&sz=w1600",
     "driveFileId": "1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
     "storage": "google_drive"
   },
@@ -11723,10 +11723,10 @@ window.PMW_WALLPAPERS = [
       "cavern",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
-    "preview": "https://drive.google.com/uc?export=view&id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
-    "image": "https://drive.google.com/uc?export=view&id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
+    "image": "https://drive.google.com/thumbnail?id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl&sz=w1600",
     "driveFileId": "1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
     "storage": "google_drive"
   },
@@ -11751,10 +11751,10 @@ window.PMW_WALLPAPERS = [
       "harbor",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
-    "preview": "https://drive.google.com/uc?export=view&id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
-    "image": "https://drive.google.com/uc?export=view&id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
+    "image": "https://drive.google.com/thumbnail?id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-&sz=w1600",
     "driveFileId": "1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
     "storage": "google_drive"
   },
@@ -11780,10 +11780,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "ice"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
-    "preview": "https://drive.google.com/uc?export=view&id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
-    "image": "https://drive.google.com/uc?export=view&id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
+    "image": "https://drive.google.com/thumbnail?id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR&sz=w1600",
     "driveFileId": "1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
     "storage": "google_drive"
   },
@@ -11808,10 +11808,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
-    "preview": "https://drive.google.com/uc?export=view&id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
-    "image": "https://drive.google.com/uc?export=view&id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
+    "image": "https://drive.google.com/thumbnail?id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE&sz=w1600",
     "driveFileId": "1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
     "storage": "google_drive"
   },
@@ -11836,10 +11836,10 @@ window.PMW_WALLPAPERS = [
       "stairway",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
-    "preview": "https://drive.google.com/uc?export=view&id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
-    "image": "https://drive.google.com/uc?export=view&id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
+    "image": "https://drive.google.com/thumbnail?id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg&sz=w1600",
     "driveFileId": "1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
     "storage": "google_drive"
   },
@@ -11864,10 +11864,10 @@ window.PMW_WALLPAPERS = [
       "stag",
       "mist"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
-    "preview": "https://drive.google.com/uc?export=view&id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
-    "image": "https://drive.google.com/uc?export=view&id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
+    "image": "https://drive.google.com/thumbnail?id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7&sz=w1600",
     "driveFileId": "1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
     "storage": "google_drive"
   },
@@ -11892,10 +11892,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
-    "preview": "https://drive.google.com/uc?export=view&id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
-    "image": "https://drive.google.com/uc?export=view&id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
+    "image": "https://drive.google.com/thumbnail?id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu&sz=w1600",
     "driveFileId": "100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
     "storage": "google_drive"
   },
@@ -11920,10 +11920,10 @@ window.PMW_WALLPAPERS = [
       "cave",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
-    "preview": "https://drive.google.com/uc?export=view&id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
-    "image": "https://drive.google.com/uc?export=view&id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
+    "image": "https://drive.google.com/thumbnail?id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq&sz=w1600",
     "driveFileId": "1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
     "storage": "google_drive"
   },
@@ -11949,10 +11949,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
-    "preview": "https://drive.google.com/uc?export=view&id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
-    "image": "https://drive.google.com/uc?export=view&id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
+    "image": "https://drive.google.com/thumbnail?id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6&sz=w1600",
     "driveFileId": "1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
     "storage": "google_drive"
   },
@@ -11977,10 +11977,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "island"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
-    "preview": "https://drive.google.com/uc?export=view&id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
-    "image": "https://drive.google.com/uc?export=view&id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
+    "image": "https://drive.google.com/thumbnail?id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws&sz=w1600",
     "driveFileId": "1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
     "storage": "google_drive"
   },
@@ -12004,10 +12004,10 @@ window.PMW_WALLPAPERS = [
       "lightning",
       "dragon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
-    "preview": "https://drive.google.com/uc?export=view&id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
-    "image": "https://drive.google.com/uc?export=view&id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
+    "image": "https://drive.google.com/thumbnail?id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2&sz=w1600",
     "driveFileId": "1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
     "storage": "google_drive"
   },
@@ -12033,10 +12033,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
-    "preview": "https://drive.google.com/uc?export=view&id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
-    "image": "https://drive.google.com/uc?export=view&id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
+    "image": "https://drive.google.com/thumbnail?id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf&sz=w1600",
     "driveFileId": "1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
     "storage": "google_drive"
   },
@@ -12062,10 +12062,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
-    "preview": "https://drive.google.com/uc?export=view&id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
-    "image": "https://drive.google.com/uc?export=view&id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
+    "image": "https://drive.google.com/thumbnail?id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t&sz=w1600",
     "driveFileId": "1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
     "storage": "google_drive"
   },
@@ -12090,10 +12090,10 @@ window.PMW_WALLPAPERS = [
       "cursed",
       "throne"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
-    "preview": "https://drive.google.com/uc?export=view&id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
-    "image": "https://drive.google.com/uc?export=view&id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
+    "image": "https://drive.google.com/thumbnail?id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm&sz=w1600",
     "driveFileId": "1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
     "storage": "google_drive"
   },
@@ -12118,10 +12118,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "rain"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
-    "preview": "https://drive.google.com/uc?export=view&id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
-    "image": "https://drive.google.com/uc?export=view&id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
+    "image": "https://drive.google.com/thumbnail?id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE&sz=w1600",
     "driveFileId": "1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
     "storage": "google_drive"
   },
@@ -12147,10 +12147,10 @@ window.PMW_WALLPAPERS = [
       "like",
       "dark"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
-    "preview": "https://drive.google.com/uc?export=view&id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
-    "image": "https://drive.google.com/uc?export=view&id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
+    "image": "https://drive.google.com/thumbnail?id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5&sz=w1600",
     "driveFileId": "1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
     "storage": "google_drive"
   },
@@ -12175,10 +12175,10 @@ window.PMW_WALLPAPERS = [
       "city",
       "moons"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
-    "preview": "https://drive.google.com/uc?export=view&id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
-    "image": "https://drive.google.com/uc?export=view&id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
+    "image": "https://drive.google.com/thumbnail?id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn&sz=w1600",
     "driveFileId": "1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
     "storage": "google_drive"
   },
@@ -12204,10 +12204,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "horizon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
-    "preview": "https://drive.google.com/uc?export=view&id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
-    "image": "https://drive.google.com/uc?export=view&id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
+    "image": "https://drive.google.com/thumbnail?id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf&sz=w1600",
     "driveFileId": "108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
     "storage": "google_drive"
   },
@@ -12233,10 +12233,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "land"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
-    "preview": "https://drive.google.com/uc?export=view&id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
-    "image": "https://drive.google.com/uc?export=view&id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
+    "image": "https://drive.google.com/thumbnail?id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS&sz=w1600",
     "driveFileId": "19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
     "storage": "google_drive"
   },
@@ -12261,10 +12261,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
-    "preview": "https://drive.google.com/uc?export=view&id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
-    "image": "https://drive.google.com/uc?export=view&id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
+    "image": "https://drive.google.com/thumbnail?id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1&sz=w1600",
     "driveFileId": "1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
     "storage": "google_drive"
   },
@@ -12289,10 +12289,10 @@ window.PMW_WALLPAPERS = [
       "fortress",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
-    "preview": "https://drive.google.com/uc?export=view&id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
-    "image": "https://drive.google.com/uc?export=view&id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
+    "image": "https://drive.google.com/thumbnail?id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI&sz=w1600",
     "driveFileId": "151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
     "storage": "google_drive"
   },
@@ -12317,10 +12317,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
-    "preview": "https://drive.google.com/uc?export=view&id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
-    "image": "https://drive.google.com/uc?export=view&id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
+    "image": "https://drive.google.com/thumbnail?id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N&sz=w1600",
     "driveFileId": "1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
     "storage": "google_drive"
   },
@@ -12345,10 +12345,10 @@ window.PMW_WALLPAPERS = [
       "cube",
       "lightning"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
-    "preview": "https://drive.google.com/uc?export=view&id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
-    "image": "https://drive.google.com/uc?export=view&id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
+    "image": "https://drive.google.com/thumbnail?id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj&sz=w1600",
     "driveFileId": "1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
     "storage": "google_drive"
   },
@@ -12373,10 +12373,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "kingdom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
-    "preview": "https://drive.google.com/uc?export=view&id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
-    "image": "https://drive.google.com/uc?export=view&id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
+    "image": "https://drive.google.com/thumbnail?id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4&sz=w1600",
     "driveFileId": "1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
     "storage": "google_drive"
   },
@@ -12402,10 +12402,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
-    "preview": "https://drive.google.com/uc?export=view&id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
-    "image": "https://drive.google.com/uc?export=view&id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
+    "image": "https://drive.google.com/thumbnail?id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5&sz=w1600",
     "driveFileId": "1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
     "storage": "google_drive"
   },
@@ -12430,10 +12430,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "birds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
-    "preview": "https://drive.google.com/uc?export=view&id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
-    "image": "https://drive.google.com/uc?export=view&id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
+    "image": "https://drive.google.com/thumbnail?id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw&sz=w1600",
     "driveFileId": "18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
     "storage": "google_drive"
   },
@@ -12459,10 +12459,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
-    "preview": "https://drive.google.com/uc?export=view&id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
-    "image": "https://drive.google.com/uc?export=view&id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
+    "image": "https://drive.google.com/thumbnail?id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl&sz=w1600",
     "driveFileId": "1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
     "storage": "google_drive"
   },
@@ -12486,10 +12486,10 @@ window.PMW_WALLPAPERS = [
       "doorway",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
-    "preview": "https://drive.google.com/uc?export=view&id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
-    "image": "https://drive.google.com/uc?export=view&id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
+    "image": "https://drive.google.com/thumbnail?id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB&sz=w1600",
     "driveFileId": "1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
     "storage": "google_drive"
   },
@@ -12514,10 +12514,10 @@ window.PMW_WALLPAPERS = [
       "purple",
       "portals"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
-    "preview": "https://drive.google.com/uc?export=view&id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
-    "image": "https://drive.google.com/uc?export=view&id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
+    "image": "https://drive.google.com/thumbnail?id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_&sz=w1600",
     "driveFileId": "1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
     "storage": "google_drive"
   },
@@ -12542,10 +12542,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "horizon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
-    "preview": "https://drive.google.com/uc?export=view&id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
-    "image": "https://drive.google.com/uc?export=view&id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
+    "image": "https://drive.google.com/thumbnail?id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF&sz=w1600",
     "driveFileId": "13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
     "storage": "google_drive"
   },
@@ -12569,10 +12569,10 @@ window.PMW_WALLPAPERS = [
       "comet",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
-    "preview": "https://drive.google.com/uc?export=view&id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
-    "image": "https://drive.google.com/uc?export=view&id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
+    "image": "https://drive.google.com/thumbnail?id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1&sz=w1600",
     "driveFileId": "1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
     "storage": "google_drive"
   },
@@ -12598,10 +12598,10 @@ window.PMW_WALLPAPERS = [
       "crescent",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
-    "image": "https://drive.google.com/uc?export=view&id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
+    "image": "https://drive.google.com/thumbnail?id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ&sz=w1600",
     "driveFileId": "1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
     "storage": "google_drive"
   },
@@ -12626,10 +12626,10 @@ window.PMW_WALLPAPERS = [
       "observatory",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
-    "preview": "https://drive.google.com/uc?export=view&id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
-    "image": "https://drive.google.com/uc?export=view&id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
+    "image": "https://drive.google.com/thumbnail?id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3&sz=w1600",
     "driveFileId": "1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
     "storage": "google_drive"
   },
@@ -12654,10 +12654,10 @@ window.PMW_WALLPAPERS = [
       "hole",
       "vortex"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
-    "preview": "https://drive.google.com/uc?export=view&id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
-    "image": "https://drive.google.com/uc?export=view&id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
+    "image": "https://drive.google.com/thumbnail?id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9&sz=w1600",
     "driveFileId": "11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
     "storage": "google_drive"
   },
@@ -12682,10 +12682,10 @@ window.PMW_WALLPAPERS = [
       "tiny",
       "galaxies"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
-    "preview": "https://drive.google.com/uc?export=view&id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
-    "image": "https://drive.google.com/uc?export=view&id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
+    "image": "https://drive.google.com/thumbnail?id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3&sz=w1600",
     "driveFileId": "1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
     "storage": "google_drive"
   },
@@ -12711,10 +12711,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
-    "preview": "https://drive.google.com/uc?export=view&id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
-    "image": "https://drive.google.com/uc?export=view&id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
+    "image": "https://drive.google.com/thumbnail?id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw&sz=w1600",
     "driveFileId": "1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
     "storage": "google_drive"
   },
@@ -12739,10 +12739,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
-    "preview": "https://drive.google.com/uc?export=view&id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
-    "image": "https://drive.google.com/uc?export=view&id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
+    "image": "https://drive.google.com/thumbnail?id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW&sz=w1600",
     "driveFileId": "15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
     "storage": "google_drive"
   },
@@ -12767,10 +12767,10 @@ window.PMW_WALLPAPERS = [
       "thunder",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
-    "preview": "https://drive.google.com/uc?export=view&id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
-    "image": "https://drive.google.com/uc?export=view&id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
+    "image": "https://drive.google.com/thumbnail?id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E&sz=w1600",
     "driveFileId": "1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
     "storage": "google_drive"
   },
@@ -12795,10 +12795,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
-    "preview": "https://drive.google.com/uc?export=view&id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
-    "image": "https://drive.google.com/uc?export=view&id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
+    "image": "https://drive.google.com/thumbnail?id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9&sz=w1600",
     "driveFileId": "1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
     "storage": "google_drive"
   },
@@ -12823,10 +12823,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
-    "image": "https://drive.google.com/uc?export=view&id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
+    "image": "https://drive.google.com/thumbnail?id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7&sz=w1600",
     "driveFileId": "1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
     "storage": "google_drive"
   },
@@ -12852,10 +12852,10 @@ window.PMW_WALLPAPERS = [
       "rainbow",
       "moonlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
-    "preview": "https://drive.google.com/uc?export=view&id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
-    "image": "https://drive.google.com/uc?export=view&id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
+    "image": "https://drive.google.com/thumbnail?id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX&sz=w1600",
     "driveFileId": "12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
     "storage": "google_drive"
   },
@@ -12880,10 +12880,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "vortex"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
-    "preview": "https://drive.google.com/uc?export=view&id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
-    "image": "https://drive.google.com/uc?export=view&id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
+    "image": "https://drive.google.com/thumbnail?id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb&sz=w1600",
     "driveFileId": "1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
     "storage": "google_drive"
   },
@@ -12907,10 +12907,10 @@ window.PMW_WALLPAPERS = [
       "hourglass",
       "galaxies"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
-    "preview": "https://drive.google.com/uc?export=view&id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
-    "image": "https://drive.google.com/uc?export=view&id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
+    "image": "https://drive.google.com/thumbnail?id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi&sz=w1600",
     "driveFileId": "1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
     "storage": "google_drive"
   },
@@ -12935,10 +12935,10 @@ window.PMW_WALLPAPERS = [
       "fortress",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
-    "preview": "https://drive.google.com/uc?export=view&id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
-    "image": "https://drive.google.com/uc?export=view&id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
+    "image": "https://drive.google.com/thumbnail?id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD&sz=w1600",
     "driveFileId": "1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
     "storage": "google_drive"
   },
@@ -12962,10 +12962,10 @@ window.PMW_WALLPAPERS = [
       "doorway",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gevOSIy40kpINktMCw97DabYb4FM8E7I",
-    "preview": "https://drive.google.com/uc?export=view&id=1gevOSIy40kpINktMCw97DabYb4FM8E7I",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gevOSIy40kpINktMCw97DabYb4FM8E7I&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gevOSIy40kpINktMCw97DabYb4FM8E7I&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gevOSIy40kpINktMCw97DabYb4FM8E7I",
-    "image": "https://drive.google.com/uc?export=view&id=1gevOSIy40kpINktMCw97DabYb4FM8E7I",
+    "image": "https://drive.google.com/thumbnail?id=1gevOSIy40kpINktMCw97DabYb4FM8E7I&sz=w1600",
     "driveFileId": "1gevOSIy40kpINktMCw97DabYb4FM8E7I",
     "storage": "google_drive"
   },
@@ -12990,10 +12990,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "stairway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
-    "preview": "https://drive.google.com/uc?export=view&id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
-    "image": "https://drive.google.com/uc?export=view&id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
+    "image": "https://drive.google.com/thumbnail?id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE&sz=w1600",
     "driveFileId": "1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
     "storage": "google_drive"
   },
@@ -13018,10 +13018,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
-    "preview": "https://drive.google.com/uc?export=view&id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
-    "image": "https://drive.google.com/uc?export=view&id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
+    "image": "https://drive.google.com/thumbnail?id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX&sz=w1600",
     "driveFileId": "16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
     "storage": "google_drive"
   },
@@ -13046,10 +13046,10 @@ window.PMW_WALLPAPERS = [
       "library",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
-    "preview": "https://drive.google.com/uc?export=view&id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
-    "image": "https://drive.google.com/uc?export=view&id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
+    "image": "https://drive.google.com/thumbnail?id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs&sz=w1600",
     "driveFileId": "1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
     "storage": "google_drive"
   },
@@ -13075,10 +13075,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
-    "preview": "https://drive.google.com/uc?export=view&id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
-    "image": "https://drive.google.com/uc?export=view&id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
+    "image": "https://drive.google.com/thumbnail?id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV&sz=w1600",
     "driveFileId": "1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
     "storage": "google_drive"
   },
@@ -13104,10 +13104,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
-    "preview": "https://drive.google.com/uc?export=view&id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
-    "image": "https://drive.google.com/uc?export=view&id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
+    "image": "https://drive.google.com/thumbnail?id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR&sz=w1600",
     "driveFileId": "1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
     "storage": "google_drive"
   },
@@ -13132,10 +13132,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "galaxies"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
-    "preview": "https://drive.google.com/uc?export=view&id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
-    "image": "https://drive.google.com/uc?export=view&id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
+    "image": "https://drive.google.com/thumbnail?id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH&sz=w1600",
     "driveFileId": "1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
     "storage": "google_drive"
   },
@@ -13160,10 +13160,10 @@ window.PMW_WALLPAPERS = [
       "stairways",
       "storm"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
-    "preview": "https://drive.google.com/uc?export=view&id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
-    "image": "https://drive.google.com/uc?export=view&id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
+    "image": "https://drive.google.com/thumbnail?id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe&sz=w1600",
     "driveFileId": "11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
     "storage": "google_drive"
   },
@@ -13188,10 +13188,10 @@ window.PMW_WALLPAPERS = [
       "ruined",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
-    "preview": "https://drive.google.com/uc?export=view&id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
-    "image": "https://drive.google.com/uc?export=view&id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
+    "image": "https://drive.google.com/thumbnail?id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq&sz=w1600",
     "driveFileId": "1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
     "storage": "google_drive"
   },
@@ -13217,10 +13217,10 @@ window.PMW_WALLPAPERS = [
       "broken",
       "planet"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
-    "preview": "https://drive.google.com/uc?export=view&id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
-    "image": "https://drive.google.com/uc?export=view&id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
+    "image": "https://drive.google.com/thumbnail?id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL&sz=w1600",
     "driveFileId": "1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
     "storage": "google_drive"
   },
@@ -13245,10 +13245,10 @@ window.PMW_WALLPAPERS = [
       "desert",
       "pyramids"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
-    "preview": "https://drive.google.com/uc?export=view&id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
-    "image": "https://drive.google.com/uc?export=view&id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
+    "image": "https://drive.google.com/thumbnail?id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2&sz=w1600",
     "driveFileId": "1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
     "storage": "google_drive"
   },
@@ -13273,10 +13273,10 @@ window.PMW_WALLPAPERS = [
       "stormy",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
-    "preview": "https://drive.google.com/uc?export=view&id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
-    "image": "https://drive.google.com/uc?export=view&id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
+    "image": "https://drive.google.com/thumbnail?id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI&sz=w1600",
     "driveFileId": "1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
     "storage": "google_drive"
   },
@@ -13301,10 +13301,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
-    "preview": "https://drive.google.com/uc?export=view&id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
-    "image": "https://drive.google.com/uc?export=view&id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
+    "image": "https://drive.google.com/thumbnail?id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5&sz=w1600",
     "driveFileId": "1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
     "storage": "google_drive"
   },
@@ -13329,10 +13329,10 @@ window.PMW_WALLPAPERS = [
       "misty",
       "kingdom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
-    "preview": "https://drive.google.com/uc?export=view&id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
-    "image": "https://drive.google.com/uc?export=view&id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
+    "image": "https://drive.google.com/thumbnail?id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi&sz=w1600",
     "driveFileId": "1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
     "storage": "google_drive"
   },
@@ -13358,10 +13358,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "lights"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
-    "preview": "https://drive.google.com/uc?export=view&id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
-    "image": "https://drive.google.com/uc?export=view&id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
+    "image": "https://drive.google.com/thumbnail?id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU&sz=w1600",
     "driveFileId": "19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
     "storage": "google_drive"
   },
@@ -13387,10 +13387,10 @@ window.PMW_WALLPAPERS = [
       "fiery",
       "world"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
-    "preview": "https://drive.google.com/uc?export=view&id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
-    "image": "https://drive.google.com/uc?export=view&id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
+    "image": "https://drive.google.com/thumbnail?id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63&sz=w1600",
     "driveFileId": "1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
     "storage": "google_drive"
   },
@@ -13415,10 +13415,10 @@ window.PMW_WALLPAPERS = [
       "flower",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
-    "preview": "https://drive.google.com/uc?export=view&id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
-    "image": "https://drive.google.com/uc?export=view&id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
+    "image": "https://drive.google.com/thumbnail?id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE&sz=w1600",
     "driveFileId": "12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
     "storage": "google_drive"
   },
@@ -13442,10 +13442,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "sphere"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
-    "preview": "https://drive.google.com/uc?export=view&id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
-    "image": "https://drive.google.com/uc?export=view&id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
+    "image": "https://drive.google.com/thumbnail?id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH&sz=w1600",
     "driveFileId": "1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
     "storage": "google_drive"
   },
@@ -13470,10 +13470,10 @@ window.PMW_WALLPAPERS = [
       "ring",
       "world"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
-    "preview": "https://drive.google.com/uc?export=view&id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
-    "image": "https://drive.google.com/uc?export=view&id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
+    "image": "https://drive.google.com/thumbnail?id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf&sz=w1600",
     "driveFileId": "1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
     "storage": "google_drive"
   },
@@ -13498,10 +13498,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "hole"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
-    "preview": "https://drive.google.com/uc?export=view&id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
-    "image": "https://drive.google.com/uc?export=view&id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
+    "image": "https://drive.google.com/thumbnail?id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM&sz=w1600",
     "driveFileId": "11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
     "storage": "google_drive"
   },
@@ -13525,10 +13525,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
-    "preview": "https://drive.google.com/uc?export=view&id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
-    "image": "https://drive.google.com/uc?export=view&id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
+    "image": "https://drive.google.com/thumbnail?id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s&sz=w1600",
     "driveFileId": "1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
     "storage": "google_drive"
   },
@@ -13554,10 +13554,10 @@ window.PMW_WALLPAPERS = [
       "ocean",
       "waves"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
-    "preview": "https://drive.google.com/uc?export=view&id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
-    "image": "https://drive.google.com/uc?export=view&id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
+    "image": "https://drive.google.com/thumbnail?id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb&sz=w1600",
     "driveFileId": "13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
     "storage": "google_drive"
   },
@@ -13583,10 +13583,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
-    "image": "https://drive.google.com/uc?export=view&id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
+    "image": "https://drive.google.com/thumbnail?id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm&sz=w1600",
     "driveFileId": "1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
     "storage": "google_drive"
   },
@@ -13611,10 +13611,10 @@ window.PMW_WALLPAPERS = [
       "pink",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
-    "preview": "https://drive.google.com/uc?export=view&id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
-    "image": "https://drive.google.com/uc?export=view&id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
+    "image": "https://drive.google.com/thumbnail?id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck&sz=w1600",
     "driveFileId": "1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
     "storage": "google_drive"
   },
@@ -13639,10 +13639,10 @@ window.PMW_WALLPAPERS = [
       "sea",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
-    "preview": "https://drive.google.com/uc?export=view&id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
-    "image": "https://drive.google.com/uc?export=view&id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
+    "image": "https://drive.google.com/thumbnail?id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j&sz=w1600",
     "driveFileId": "1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
     "storage": "google_drive"
   },
@@ -13667,10 +13667,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
-    "preview": "https://drive.google.com/uc?export=view&id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
-    "image": "https://drive.google.com/uc?export=view&id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
+    "image": "https://drive.google.com/thumbnail?id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV&sz=w1600",
     "driveFileId": "1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
     "storage": "google_drive"
   },
@@ -13696,10 +13696,10 @@ window.PMW_WALLPAPERS = [
       "clear",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
-    "preview": "https://drive.google.com/uc?export=view&id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
-    "image": "https://drive.google.com/uc?export=view&id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
+    "image": "https://drive.google.com/thumbnail?id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS&sz=w1600",
     "driveFileId": "1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
     "storage": "google_drive"
   },
@@ -13724,10 +13724,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
-    "preview": "https://drive.google.com/uc?export=view&id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
-    "image": "https://drive.google.com/uc?export=view&id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
+    "image": "https://drive.google.com/thumbnail?id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh&sz=w1600",
     "driveFileId": "1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
     "storage": "google_drive"
   },
@@ -13752,10 +13752,10 @@ window.PMW_WALLPAPERS = [
       "reflected",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
-    "preview": "https://drive.google.com/uc?export=view&id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
-    "image": "https://drive.google.com/uc?export=view&id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
+    "image": "https://drive.google.com/thumbnail?id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG&sz=w1600",
     "driveFileId": "1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
     "storage": "google_drive"
   },
@@ -13779,10 +13779,10 @@ window.PMW_WALLPAPERS = [
       "volcano",
       "lightning"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
-    "preview": "https://drive.google.com/uc?export=view&id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
-    "image": "https://drive.google.com/uc?export=view&id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
+    "image": "https://drive.google.com/thumbnail?id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV&sz=w1600",
     "driveFileId": "1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
     "storage": "google_drive"
   },
@@ -13808,10 +13808,10 @@ window.PMW_WALLPAPERS = [
       "turquoise",
       "sea"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
-    "preview": "https://drive.google.com/uc?export=view&id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
-    "image": "https://drive.google.com/uc?export=view&id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
+    "image": "https://drive.google.com/thumbnail?id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D&sz=w1600",
     "driveFileId": "1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
     "storage": "google_drive"
   },
@@ -13836,10 +13836,10 @@ window.PMW_WALLPAPERS = [
       "springs",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
-    "preview": "https://drive.google.com/uc?export=view&id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
-    "image": "https://drive.google.com/uc?export=view&id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
+    "image": "https://drive.google.com/thumbnail?id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI&sz=w1600",
     "driveFileId": "1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
     "storage": "google_drive"
   },
@@ -13864,10 +13864,10 @@ window.PMW_WALLPAPERS = [
       "reef",
       "underwater"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
-    "preview": "https://drive.google.com/uc?export=view&id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
-    "image": "https://drive.google.com/uc?export=view&id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
+    "image": "https://drive.google.com/thumbnail?id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO&sz=w1600",
     "driveFileId": "1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
     "storage": "google_drive"
   },
@@ -13891,10 +13891,10 @@ window.PMW_WALLPAPERS = [
       "desert",
       "sandstorm"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
-    "preview": "https://drive.google.com/uc?export=view&id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
-    "image": "https://drive.google.com/uc?export=view&id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
+    "image": "https://drive.google.com/thumbnail?id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4&sz=w1600",
     "driveFileId": "1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
     "storage": "google_drive"
   },
@@ -13918,10 +13918,10 @@ window.PMW_WALLPAPERS = [
       "milky",
       "way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
-    "preview": "https://drive.google.com/uc?export=view&id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
-    "image": "https://drive.google.com/uc?export=view&id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
+    "image": "https://drive.google.com/thumbnail?id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ&sz=w1600",
     "driveFileId": "18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
     "storage": "google_drive"
   },
@@ -13946,10 +13946,10 @@ window.PMW_WALLPAPERS = [
       "storm",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
-    "preview": "https://drive.google.com/uc?export=view&id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
-    "image": "https://drive.google.com/uc?export=view&id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
+    "image": "https://drive.google.com/thumbnail?id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK&sz=w1600",
     "driveFileId": "17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
     "storage": "google_drive"
   },
@@ -13974,10 +13974,10 @@ window.PMW_WALLPAPERS = [
       "slot",
       "passage"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
-    "preview": "https://drive.google.com/uc?export=view&id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
-    "image": "https://drive.google.com/uc?export=view&id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
+    "image": "https://drive.google.com/thumbnail?id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h&sz=w1600",
     "driveFileId": "1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
     "storage": "google_drive"
   },
@@ -14002,10 +14002,10 @@ window.PMW_WALLPAPERS = [
       "turquoise",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
-    "preview": "https://drive.google.com/uc?export=view&id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
-    "image": "https://drive.google.com/uc?export=view&id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
+    "image": "https://drive.google.com/thumbnail?id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv&sz=w1600",
     "driveFileId": "1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
     "storage": "google_drive"
   },
@@ -14029,10 +14029,10 @@ window.PMW_WALLPAPERS = [
       "icebergs",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EZZASHXKXySEVzihB9okBantgQrUFnhh",
-    "preview": "https://drive.google.com/uc?export=view&id=1EZZASHXKXySEVzihB9okBantgQrUFnhh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EZZASHXKXySEVzihB9okBantgQrUFnhh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EZZASHXKXySEVzihB9okBantgQrUFnhh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EZZASHXKXySEVzihB9okBantgQrUFnhh",
-    "image": "https://drive.google.com/uc?export=view&id=1EZZASHXKXySEVzihB9okBantgQrUFnhh",
+    "image": "https://drive.google.com/thumbnail?id=1EZZASHXKXySEVzihB9okBantgQrUFnhh&sz=w1600",
     "driveFileId": "1EZZASHXKXySEVzihB9okBantgQrUFnhh",
     "storage": "google_drive"
   },
@@ -14057,10 +14057,10 @@ window.PMW_WALLPAPERS = [
       "valley",
       "wildflowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
-    "preview": "https://drive.google.com/uc?export=view&id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
-    "image": "https://drive.google.com/uc?export=view&id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
+    "image": "https://drive.google.com/thumbnail?id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s&sz=w1600",
     "driveFileId": "1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
     "storage": "google_drive"
   },
@@ -14084,10 +14084,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
-    "preview": "https://drive.google.com/uc?export=view&id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
-    "image": "https://drive.google.com/uc?export=view&id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
+    "image": "https://drive.google.com/thumbnail?id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91&sz=w1600",
     "driveFileId": "1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
     "storage": "google_drive"
   },
@@ -14111,10 +14111,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "canyon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
-    "preview": "https://drive.google.com/uc?export=view&id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
-    "image": "https://drive.google.com/uc?export=view&id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
+    "image": "https://drive.google.com/thumbnail?id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS&sz=w1600",
     "driveFileId": "1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
     "storage": "google_drive"
   },
@@ -14139,10 +14139,10 @@ window.PMW_WALLPAPERS = [
       "dunes",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
-    "preview": "https://drive.google.com/uc?export=view&id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
-    "image": "https://drive.google.com/uc?export=view&id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
+    "image": "https://drive.google.com/thumbnail?id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6&sz=w1600",
     "driveFileId": "1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
     "storage": "google_drive"
   },
@@ -14166,10 +14166,10 @@ window.PMW_WALLPAPERS = [
       "jagged",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
-    "preview": "https://drive.google.com/uc?export=view&id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
-    "image": "https://drive.google.com/uc?export=view&id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
+    "image": "https://drive.google.com/thumbnail?id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE&sz=w1600",
     "driveFileId": "1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
     "storage": "google_drive"
   },
@@ -14193,10 +14193,10 @@ window.PMW_WALLPAPERS = [
       "meadow",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
-    "preview": "https://drive.google.com/uc?export=view&id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
-    "image": "https://drive.google.com/uc?export=view&id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
+    "image": "https://drive.google.com/thumbnail?id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn&sz=w1600",
     "driveFileId": "1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
     "storage": "google_drive"
   },
@@ -14220,10 +14220,10 @@ window.PMW_WALLPAPERS = [
       "hills",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
-    "preview": "https://drive.google.com/uc?export=view&id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
-    "image": "https://drive.google.com/uc?export=view&id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
+    "image": "https://drive.google.com/thumbnail?id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1&sz=w1600",
     "driveFileId": "1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
     "storage": "google_drive"
   },
@@ -14248,10 +14248,10 @@ window.PMW_WALLPAPERS = [
       "calm",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
-    "preview": "https://drive.google.com/uc?export=view&id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
-    "image": "https://drive.google.com/uc?export=view&id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
+    "image": "https://drive.google.com/thumbnail?id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR&sz=w1600",
     "driveFileId": "1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
     "storage": "google_drive"
   },
@@ -14276,10 +14276,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "sky"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
-    "preview": "https://drive.google.com/uc?export=view&id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
-    "image": "https://drive.google.com/uc?export=view&id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
+    "image": "https://drive.google.com/thumbnail?id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo&sz=w1600",
     "driveFileId": "1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
     "storage": "google_drive"
   },
@@ -14304,10 +14304,10 @@ window.PMW_WALLPAPERS = [
       "coast",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
-    "preview": "https://drive.google.com/uc?export=view&id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
-    "image": "https://drive.google.com/uc?export=view&id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
+    "image": "https://drive.google.com/thumbnail?id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef&sz=w1600",
     "driveFileId": "1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
     "storage": "google_drive"
   },
@@ -14332,10 +14332,10 @@ window.PMW_WALLPAPERS = [
       "palm",
       "trees"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
-    "preview": "https://drive.google.com/uc?export=view&id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
-    "image": "https://drive.google.com/uc?export=view&id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
+    "image": "https://drive.google.com/thumbnail?id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf&sz=w1600",
     "driveFileId": "1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
     "storage": "google_drive"
   },
@@ -14361,10 +14361,10 @@ window.PMW_WALLPAPERS = [
       "sharp",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
-    "preview": "https://drive.google.com/uc?export=view&id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
-    "image": "https://drive.google.com/uc?export=view&id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
+    "image": "https://drive.google.com/thumbnail?id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde&sz=w1600",
     "driveFileId": "1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
     "storage": "google_drive"
   },
@@ -14388,10 +14388,10 @@ window.PMW_WALLPAPERS = [
       "clouds",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
-    "preview": "https://drive.google.com/uc?export=view&id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
-    "image": "https://drive.google.com/uc?export=view&id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
+    "image": "https://drive.google.com/thumbnail?id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr&sz=w1600",
     "driveFileId": "1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
     "storage": "google_drive"
   },
@@ -14416,10 +14416,10 @@ window.PMW_WALLPAPERS = [
       "dog",
       "portrait"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
-    "preview": "https://drive.google.com/uc?export=view&id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
-    "image": "https://drive.google.com/uc?export=view&id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
+    "image": "https://drive.google.com/thumbnail?id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo&sz=w1600",
     "driveFileId": "1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
     "storage": "google_drive"
   },
@@ -14444,10 +14444,10 @@ window.PMW_WALLPAPERS = [
       "stream",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
-    "preview": "https://drive.google.com/uc?export=view&id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
-    "image": "https://drive.google.com/uc?export=view&id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
+    "image": "https://drive.google.com/thumbnail?id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e&sz=w1600",
     "driveFileId": "1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
     "storage": "google_drive"
   },
@@ -14471,10 +14471,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "creek"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
-    "preview": "https://drive.google.com/uc?export=view&id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
-    "image": "https://drive.google.com/uc?export=view&id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
+    "image": "https://drive.google.com/thumbnail?id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r&sz=w1600",
     "driveFileId": "14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
     "storage": "google_drive"
   },
@@ -14499,10 +14499,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
-    "preview": "https://drive.google.com/uc?export=view&id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
-    "image": "https://drive.google.com/uc?export=view&id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
+    "image": "https://drive.google.com/thumbnail?id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8&sz=w1600",
     "driveFileId": "1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
     "storage": "google_drive"
   },
@@ -14527,10 +14527,10 @@ window.PMW_WALLPAPERS = [
       "lenticular",
       "cloud"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
-    "preview": "https://drive.google.com/uc?export=view&id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
-    "image": "https://drive.google.com/uc?export=view&id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
+    "image": "https://drive.google.com/thumbnail?id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c&sz=w1600",
     "driveFileId": "1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
     "storage": "google_drive"
   },
@@ -14555,10 +14555,10 @@ window.PMW_WALLPAPERS = [
       "trail",
       "creek"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
-    "preview": "https://drive.google.com/uc?export=view&id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
-    "image": "https://drive.google.com/uc?export=view&id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
+    "image": "https://drive.google.com/thumbnail?id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr&sz=w1600",
     "driveFileId": "1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
     "storage": "google_drive"
   },
@@ -14583,10 +14583,10 @@ window.PMW_WALLPAPERS = [
       "bioluminescent",
       "beach"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
-    "preview": "https://drive.google.com/uc?export=view&id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
-    "image": "https://drive.google.com/uc?export=view&id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
+    "image": "https://drive.google.com/thumbnail?id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-&sz=w1600",
     "driveFileId": "1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
     "storage": "google_drive"
   },
@@ -14610,10 +14610,10 @@ window.PMW_WALLPAPERS = [
       "shower",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
-    "preview": "https://drive.google.com/uc?export=view&id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
-    "image": "https://drive.google.com/uc?export=view&id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
+    "image": "https://drive.google.com/thumbnail?id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei&sz=w1600",
     "driveFileId": "13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
     "storage": "google_drive"
   },
@@ -14637,10 +14637,10 @@ window.PMW_WALLPAPERS = [
       "cenote",
       "pool"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
-    "preview": "https://drive.google.com/uc?export=view&id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
-    "image": "https://drive.google.com/uc?export=view&id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
+    "image": "https://drive.google.com/thumbnail?id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o&sz=w1600",
     "driveFileId": "1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
     "storage": "google_drive"
   },
@@ -14665,10 +14665,10 @@ window.PMW_WALLPAPERS = [
       "emerald",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
-    "preview": "https://drive.google.com/uc?export=view&id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
-    "image": "https://drive.google.com/uc?export=view&id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
+    "image": "https://drive.google.com/thumbnail?id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a&sz=w1600",
     "driveFileId": "1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
     "storage": "google_drive"
   },
@@ -14694,10 +14694,10 @@ window.PMW_WALLPAPERS = [
       "ocean",
       "waves"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
-    "preview": "https://drive.google.com/uc?export=view&id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
-    "image": "https://drive.google.com/uc?export=view&id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
+    "image": "https://drive.google.com/thumbnail?id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_&sz=w1600",
     "driveFileId": "1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
     "storage": "google_drive"
   },
@@ -14723,10 +14723,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "volcanic"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
-    "preview": "https://drive.google.com/uc?export=view&id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
-    "image": "https://drive.google.com/uc?export=view&id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
+    "image": "https://drive.google.com/thumbnail?id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU&sz=w1600",
     "driveFileId": "1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
     "storage": "google_drive"
   },
@@ -14750,10 +14750,10 @@ window.PMW_WALLPAPERS = [
       "crater",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
-    "preview": "https://drive.google.com/uc?export=view&id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
-    "image": "https://drive.google.com/uc?export=view&id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
+    "image": "https://drive.google.com/thumbnail?id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k&sz=w1600",
     "driveFileId": "1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
     "storage": "google_drive"
   },
@@ -14778,10 +14778,10 @@ window.PMW_WALLPAPERS = [
       "dune",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
-    "preview": "https://drive.google.com/uc?export=view&id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
-    "image": "https://drive.google.com/uc?export=view&id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
+    "image": "https://drive.google.com/thumbnail?id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY&sz=w1600",
     "driveFileId": "1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
     "storage": "google_drive"
   },
@@ -14806,10 +14806,10 @@ window.PMW_WALLPAPERS = [
       "flat",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
-    "preview": "https://drive.google.com/uc?export=view&id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
-    "image": "https://drive.google.com/uc?export=view&id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
+    "image": "https://drive.google.com/thumbnail?id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_&sz=w1600",
     "driveFileId": "1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
     "storage": "google_drive"
   },
@@ -14833,10 +14833,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
-    "preview": "https://drive.google.com/uc?export=view&id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
-    "image": "https://drive.google.com/uc?export=view&id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
+    "image": "https://drive.google.com/thumbnail?id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL&sz=w1600",
     "driveFileId": "1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
     "storage": "google_drive"
   },
@@ -14861,10 +14861,10 @@ window.PMW_WALLPAPERS = [
       "sandstone",
       "arch"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
-    "preview": "https://drive.google.com/uc?export=view&id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
-    "image": "https://drive.google.com/uc?export=view&id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
+    "image": "https://drive.google.com/thumbnail?id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP&sz=w1600",
     "driveFileId": "1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
     "storage": "google_drive"
   },
@@ -14889,10 +14889,10 @@ window.PMW_WALLPAPERS = [
       "ice",
       "bubbles"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
-    "preview": "https://drive.google.com/uc?export=view&id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
-    "image": "https://drive.google.com/uc?export=view&id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
+    "image": "https://drive.google.com/thumbnail?id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R&sz=w1600",
     "driveFileId": "15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
     "storage": "google_drive"
   },
@@ -14917,10 +14917,10 @@ window.PMW_WALLPAPERS = [
       "cave",
       "icicles"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
-    "preview": "https://drive.google.com/uc?export=view&id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
-    "image": "https://drive.google.com/uc?export=view&id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
+    "image": "https://drive.google.com/thumbnail?id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba&sz=w1600",
     "driveFileId": "1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
     "storage": "google_drive"
   },
@@ -14945,10 +14945,10 @@ window.PMW_WALLPAPERS = [
       "green",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
-    "preview": "https://drive.google.com/uc?export=view&id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
-    "image": "https://drive.google.com/uc?export=view&id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
+    "image": "https://drive.google.com/thumbnail?id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX&sz=w1600",
     "driveFileId": "1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
     "storage": "google_drive"
   },
@@ -14974,10 +14974,10 @@ window.PMW_WALLPAPERS = [
       "flower",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
-    "preview": "https://drive.google.com/uc?export=view&id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
-    "image": "https://drive.google.com/uc?export=view&id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
+    "image": "https://drive.google.com/thumbnail?id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn&sz=w1600",
     "driveFileId": "113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
     "storage": "google_drive"
   },
@@ -15001,10 +15001,10 @@ window.PMW_WALLPAPERS = [
       "wildflower",
       "meadow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
-    "preview": "https://drive.google.com/uc?export=view&id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
-    "image": "https://drive.google.com/uc?export=view&id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
+    "image": "https://drive.google.com/thumbnail?id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9&sz=w1600",
     "driveFileId": "1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
     "storage": "google_drive"
   },
@@ -15030,10 +15030,10 @@ window.PMW_WALLPAPERS = [
       "river",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
-    "preview": "https://drive.google.com/uc?export=view&id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
-    "image": "https://drive.google.com/uc?export=view&id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
+    "image": "https://drive.google.com/thumbnail?id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1&sz=w1600",
     "driveFileId": "1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
     "storage": "google_drive"
   },
@@ -15058,10 +15058,10 @@ window.PMW_WALLPAPERS = [
       "winter",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
-    "preview": "https://drive.google.com/uc?export=view&id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
-    "image": "https://drive.google.com/uc?export=view&id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
+    "image": "https://drive.google.com/thumbnail?id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX&sz=w1600",
     "driveFileId": "1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
     "storage": "google_drive"
   },
@@ -15086,10 +15086,10 @@ window.PMW_WALLPAPERS = [
       "meadow",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
-    "preview": "https://drive.google.com/uc?export=view&id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
-    "image": "https://drive.google.com/uc?export=view&id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
+    "image": "https://drive.google.com/thumbnail?id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc&sz=w1600",
     "driveFileId": "1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
     "storage": "google_drive"
   },
@@ -15113,10 +15113,10 @@ window.PMW_WALLPAPERS = [
       "pond",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
-    "preview": "https://drive.google.com/uc?export=view&id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
-    "image": "https://drive.google.com/uc?export=view&id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
+    "image": "https://drive.google.com/thumbnail?id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43&sz=w1600",
     "driveFileId": "1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
     "storage": "google_drive"
   },
@@ -15140,10 +15140,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
-    "preview": "https://drive.google.com/uc?export=view&id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
-    "image": "https://drive.google.com/uc?export=view&id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
+    "image": "https://drive.google.com/thumbnail?id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW&sz=w1600",
     "driveFileId": "1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
     "storage": "google_drive"
   },
@@ -15168,10 +15168,10 @@ window.PMW_WALLPAPERS = [
       "cave",
       "opening"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
-    "preview": "https://drive.google.com/uc?export=view&id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
-    "image": "https://drive.google.com/uc?export=view&id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
+    "image": "https://drive.google.com/thumbnail?id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD&sz=w1600",
     "driveFileId": "130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
     "storage": "google_drive"
   },
@@ -15196,10 +15196,10 @@ window.PMW_WALLPAPERS = [
       "arch",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
-    "preview": "https://drive.google.com/uc?export=view&id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
-    "image": "https://drive.google.com/uc?export=view&id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
+    "image": "https://drive.google.com/thumbnail?id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4&sz=w1600",
     "driveFileId": "1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
     "storage": "google_drive"
   },
@@ -15223,10 +15223,10 @@ window.PMW_WALLPAPERS = [
       "volcano",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
-    "preview": "https://drive.google.com/uc?export=view&id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
-    "image": "https://drive.google.com/uc?export=view&id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
+    "image": "https://drive.google.com/thumbnail?id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN&sz=w1600",
     "driveFileId": "1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
     "storage": "google_drive"
   },
@@ -15252,10 +15252,10 @@ window.PMW_WALLPAPERS = [
       "crashing",
       "waves"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
-    "preview": "https://drive.google.com/uc?export=view&id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
-    "image": "https://drive.google.com/uc?export=view&id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
+    "image": "https://drive.google.com/thumbnail?id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W&sz=w1600",
     "driveFileId": "1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
     "storage": "google_drive"
   },
@@ -15280,10 +15280,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
-    "preview": "https://drive.google.com/uc?export=view&id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
-    "image": "https://drive.google.com/uc?export=view&id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
+    "image": "https://drive.google.com/thumbnail?id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4&sz=w1600",
     "driveFileId": "1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
     "storage": "google_drive"
   },
@@ -15308,10 +15308,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "steps"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
-    "preview": "https://drive.google.com/uc?export=view&id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
-    "image": "https://drive.google.com/uc?export=view&id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
+    "image": "https://drive.google.com/thumbnail?id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf&sz=w1600",
     "driveFileId": "1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
     "storage": "google_drive"
   },
@@ -15336,10 +15336,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "sunbeams"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
-    "preview": "https://drive.google.com/uc?export=view&id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
-    "image": "https://drive.google.com/uc?export=view&id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
+    "image": "https://drive.google.com/thumbnail?id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt&sz=w1600",
     "driveFileId": "1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
     "storage": "google_drive"
   },
@@ -15363,10 +15363,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
-    "image": "https://drive.google.com/uc?export=view&id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
+    "image": "https://drive.google.com/thumbnail?id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ&sz=w1600",
     "driveFileId": "1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
     "storage": "google_drive"
   },
@@ -15391,10 +15391,10 @@ window.PMW_WALLPAPERS = [
       "mushroom",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
-    "preview": "https://drive.google.com/uc?export=view&id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
-    "image": "https://drive.google.com/uc?export=view&id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
+    "image": "https://drive.google.com/thumbnail?id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM&sz=w1600",
     "driveFileId": "1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
     "storage": "google_drive"
   },
@@ -15419,10 +15419,10 @@ window.PMW_WALLPAPERS = [
       "canyon",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
-    "preview": "https://drive.google.com/uc?export=view&id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
-    "image": "https://drive.google.com/uc?export=view&id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
+    "image": "https://drive.google.com/thumbnail?id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp&sz=w1600",
     "driveFileId": "14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
     "storage": "google_drive"
   },
@@ -15447,10 +15447,10 @@ window.PMW_WALLPAPERS = [
       "volcanic",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
-    "preview": "https://drive.google.com/uc?export=view&id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
-    "image": "https://drive.google.com/uc?export=view&id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
+    "image": "https://drive.google.com/thumbnail?id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y&sz=w1600",
     "driveFileId": "1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
     "storage": "google_drive"
   },
@@ -15473,10 +15473,10 @@ window.PMW_WALLPAPERS = [
       "ocean",
       "whirlpool"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
-    "preview": "https://drive.google.com/uc?export=view&id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
-    "image": "https://drive.google.com/uc?export=view&id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
+    "image": "https://drive.google.com/thumbnail?id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3&sz=w1600",
     "driveFileId": "1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
     "storage": "google_drive"
   },
@@ -15501,10 +15501,10 @@ window.PMW_WALLPAPERS = [
       "spring",
       "pools"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
-    "preview": "https://drive.google.com/uc?export=view&id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
-    "image": "https://drive.google.com/uc?export=view&id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
+    "image": "https://drive.google.com/thumbnail?id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6&sz=w1600",
     "driveFileId": "1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
     "storage": "google_drive"
   },
@@ -15529,10 +15529,10 @@ window.PMW_WALLPAPERS = [
       "green",
       "jungle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
-    "image": "https://drive.google.com/uc?export=view&id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
+    "image": "https://drive.google.com/thumbnail?id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ&sz=w1600",
     "driveFileId": "1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
     "storage": "google_drive"
   },
@@ -15557,10 +15557,10 @@ window.PMW_WALLPAPERS = [
       "beach",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
-    "preview": "https://drive.google.com/uc?export=view&id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
-    "image": "https://drive.google.com/uc?export=view&id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
+    "image": "https://drive.google.com/thumbnail?id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK&sz=w1600",
     "driveFileId": "1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
     "storage": "google_drive"
   },
@@ -15584,10 +15584,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
-    "preview": "https://drive.google.com/uc?export=view&id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
-    "image": "https://drive.google.com/uc?export=view&id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
+    "image": "https://drive.google.com/thumbnail?id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI&sz=w1600",
     "driveFileId": "1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
     "storage": "google_drive"
   },
@@ -15612,10 +15612,10 @@ window.PMW_WALLPAPERS = [
       "full",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
-    "preview": "https://drive.google.com/uc?export=view&id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
-    "image": "https://drive.google.com/uc?export=view&id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
+    "image": "https://drive.google.com/thumbnail?id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp&sz=w1600",
     "driveFileId": "1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
     "storage": "google_drive"
   },
@@ -15640,10 +15640,10 @@ window.PMW_WALLPAPERS = [
       "red",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
-    "preview": "https://drive.google.com/uc?export=view&id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
-    "image": "https://drive.google.com/uc?export=view&id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
+    "image": "https://drive.google.com/thumbnail?id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e&sz=w1600",
     "driveFileId": "14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
     "storage": "google_drive"
   },
@@ -15668,10 +15668,10 @@ window.PMW_WALLPAPERS = [
       "hidden",
       "cave"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
-    "preview": "https://drive.google.com/uc?export=view&id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
-    "image": "https://drive.google.com/uc?export=view&id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
+    "image": "https://drive.google.com/thumbnail?id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m&sz=w1600",
     "driveFileId": "1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
     "storage": "google_drive"
   },
@@ -15695,10 +15695,10 @@ window.PMW_WALLPAPERS = [
       "desert",
       "badlands"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
-    "preview": "https://drive.google.com/uc?export=view&id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
-    "image": "https://drive.google.com/uc?export=view&id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
+    "image": "https://drive.google.com/thumbnail?id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3&sz=w1600",
     "driveFileId": "1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
     "storage": "google_drive"
   },
@@ -15722,10 +15722,10 @@ window.PMW_WALLPAPERS = [
       "oasis",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
-    "preview": "https://drive.google.com/uc?export=view&id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
-    "image": "https://drive.google.com/uc?export=view&id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
+    "image": "https://drive.google.com/thumbnail?id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx&sz=w1600",
     "driveFileId": "1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
     "storage": "google_drive"
   },
@@ -15750,10 +15750,10 @@ window.PMW_WALLPAPERS = [
       "cave",
       "tunnel"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
-    "preview": "https://drive.google.com/uc?export=view&id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
-    "image": "https://drive.google.com/uc?export=view&id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
+    "image": "https://drive.google.com/thumbnail?id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR&sz=w1600",
     "driveFileId": "1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
     "storage": "google_drive"
   },
@@ -15778,10 +15778,10 @@ window.PMW_WALLPAPERS = [
       "slot",
       "canyon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
-    "image": "https://drive.google.com/uc?export=view&id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
+    "image": "https://drive.google.com/thumbnail?id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ&sz=w1600",
     "driveFileId": "1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
     "storage": "google_drive"
   },
@@ -15806,10 +15806,10 @@ window.PMW_WALLPAPERS = [
       "river",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
-    "preview": "https://drive.google.com/uc?export=view&id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
-    "image": "https://drive.google.com/uc?export=view&id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
+    "image": "https://drive.google.com/thumbnail?id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8&sz=w1600",
     "driveFileId": "16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
     "storage": "google_drive"
   },
@@ -15834,10 +15834,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
-    "preview": "https://drive.google.com/uc?export=view&id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
-    "image": "https://drive.google.com/uc?export=view&id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
+    "image": "https://drive.google.com/thumbnail?id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF&sz=w1600",
     "driveFileId": "1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
     "storage": "google_drive"
   },
@@ -15862,10 +15862,10 @@ window.PMW_WALLPAPERS = [
       "beach",
       "view"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
-    "preview": "https://drive.google.com/uc?export=view&id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
-    "image": "https://drive.google.com/uc?export=view&id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
+    "image": "https://drive.google.com/thumbnail?id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL&sz=w1600",
     "driveFileId": "1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
     "storage": "google_drive"
   },
@@ -15889,10 +15889,10 @@ window.PMW_WALLPAPERS = [
       "glacier",
       "arch"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
-    "preview": "https://drive.google.com/uc?export=view&id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
-    "image": "https://drive.google.com/uc?export=view&id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
+    "image": "https://drive.google.com/thumbnail?id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8&sz=w1600",
     "driveFileId": "1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
     "storage": "google_drive"
   },
@@ -15917,10 +15917,10 @@ window.PMW_WALLPAPERS = [
       "ice",
       "field"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
-    "preview": "https://drive.google.com/uc?export=view&id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
-    "image": "https://drive.google.com/uc?export=view&id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
+    "image": "https://drive.google.com/thumbnail?id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI&sz=w1600",
     "driveFileId": "1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
     "storage": "google_drive"
   },
@@ -15945,10 +15945,10 @@ window.PMW_WALLPAPERS = [
       "river",
       "canyon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CbrON6xTxU6jAMq8LqW18W736xh04go6",
-    "preview": "https://drive.google.com/uc?export=view&id=1CbrON6xTxU6jAMq8LqW18W736xh04go6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CbrON6xTxU6jAMq8LqW18W736xh04go6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CbrON6xTxU6jAMq8LqW18W736xh04go6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CbrON6xTxU6jAMq8LqW18W736xh04go6",
-    "image": "https://drive.google.com/uc?export=view&id=1CbrON6xTxU6jAMq8LqW18W736xh04go6",
+    "image": "https://drive.google.com/thumbnail?id=1CbrON6xTxU6jAMq8LqW18W736xh04go6&sz=w1600",
     "driveFileId": "1CbrON6xTxU6jAMq8LqW18W736xh04go6",
     "storage": "google_drive"
   },
@@ -15973,10 +15973,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
-    "preview": "https://drive.google.com/uc?export=view&id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
-    "image": "https://drive.google.com/uc?export=view&id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
+    "image": "https://drive.google.com/thumbnail?id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_&sz=w1600",
     "driveFileId": "1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
     "storage": "google_drive"
   },
@@ -16001,10 +16001,10 @@ window.PMW_WALLPAPERS = [
       "rows",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
-    "preview": "https://drive.google.com/uc?export=view&id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
-    "image": "https://drive.google.com/uc?export=view&id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
+    "image": "https://drive.google.com/thumbnail?id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye&sz=w1600",
     "driveFileId": "1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
     "storage": "google_drive"
   },
@@ -16029,10 +16029,10 @@ window.PMW_WALLPAPERS = [
       "blossom",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
-    "preview": "https://drive.google.com/uc?export=view&id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
-    "image": "https://drive.google.com/uc?export=view&id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
+    "image": "https://drive.google.com/thumbnail?id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn&sz=w1600",
     "driveFileId": "1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
     "storage": "google_drive"
   },
@@ -16057,10 +16057,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "ridge"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
-    "preview": "https://drive.google.com/uc?export=view&id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
-    "image": "https://drive.google.com/uc?export=view&id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
+    "image": "https://drive.google.com/thumbnail?id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t&sz=w1600",
     "driveFileId": "1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
     "storage": "google_drive"
   },
@@ -16085,10 +16085,10 @@ window.PMW_WALLPAPERS = [
       "pass",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
-    "preview": "https://drive.google.com/uc?export=view&id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
-    "image": "https://drive.google.com/uc?export=view&id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
+    "image": "https://drive.google.com/thumbnail?id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn&sz=w1600",
     "driveFileId": "1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
     "storage": "google_drive"
   },
@@ -16113,10 +16113,10 @@ window.PMW_WALLPAPERS = [
       "sea",
       "stacks"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
-    "preview": "https://drive.google.com/uc?export=view&id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
-    "image": "https://drive.google.com/uc?export=view&id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
+    "image": "https://drive.google.com/thumbnail?id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB&sz=w1600",
     "driveFileId": "1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
     "storage": "google_drive"
   },
@@ -16141,10 +16141,10 @@ window.PMW_WALLPAPERS = [
       "valley",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
-    "preview": "https://drive.google.com/uc?export=view&id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
-    "image": "https://drive.google.com/uc?export=view&id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
+    "image": "https://drive.google.com/thumbnail?id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF&sz=w1600",
     "driveFileId": "1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
     "storage": "google_drive"
   },
@@ -16169,10 +16169,10 @@ window.PMW_WALLPAPERS = [
       "reef",
       "aerial"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
-    "preview": "https://drive.google.com/uc?export=view&id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
-    "image": "https://drive.google.com/uc?export=view&id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
+    "image": "https://drive.google.com/thumbnail?id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H&sz=w1600",
     "driveFileId": "1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
     "storage": "google_drive"
   },
@@ -16197,10 +16197,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "meadow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
-    "preview": "https://drive.google.com/uc?export=view&id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
-    "image": "https://drive.google.com/uc?export=view&id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
+    "image": "https://drive.google.com/thumbnail?id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx&sz=w1600",
     "driveFileId": "1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
     "storage": "google_drive"
   },
@@ -16224,10 +16224,10 @@ window.PMW_WALLPAPERS = [
       "palm",
       "beach"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
-    "preview": "https://drive.google.com/uc?export=view&id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
-    "image": "https://drive.google.com/uc?export=view&id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
+    "image": "https://drive.google.com/thumbnail?id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi&sz=w1600",
     "driveFileId": "1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
     "storage": "google_drive"
   },
@@ -16251,10 +16251,10 @@ window.PMW_WALLPAPERS = [
       "ocean",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
-    "preview": "https://drive.google.com/uc?export=view&id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
-    "image": "https://drive.google.com/uc?export=view&id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
+    "image": "https://drive.google.com/thumbnail?id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE&sz=w1600",
     "driveFileId": "1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
     "storage": "google_drive"
   },
@@ -16279,10 +16279,10 @@ window.PMW_WALLPAPERS = [
       "sea",
       "stacks"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
-    "preview": "https://drive.google.com/uc?export=view&id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
-    "image": "https://drive.google.com/uc?export=view&id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
+    "image": "https://drive.google.com/thumbnail?id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os&sz=w1600",
     "driveFileId": "1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
     "storage": "google_drive"
   },
@@ -16307,10 +16307,10 @@ window.PMW_WALLPAPERS = [
       "flowers",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
-    "preview": "https://drive.google.com/uc?export=view&id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
-    "image": "https://drive.google.com/uc?export=view&id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
+    "image": "https://drive.google.com/thumbnail?id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK&sz=w1600",
     "driveFileId": "1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
     "storage": "google_drive"
   },
@@ -16335,10 +16335,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
-    "preview": "https://drive.google.com/uc?export=view&id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
-    "image": "https://drive.google.com/uc?export=view&id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
+    "image": "https://drive.google.com/thumbnail?id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE&sz=w1600",
     "driveFileId": "1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
     "storage": "google_drive"
   },
@@ -16362,10 +16362,10 @@ window.PMW_WALLPAPERS = [
       "rainforest",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
-    "preview": "https://drive.google.com/uc?export=view&id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
-    "image": "https://drive.google.com/uc?export=view&id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
+    "image": "https://drive.google.com/thumbnail?id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw&sz=w1600",
     "driveFileId": "19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
     "storage": "google_drive"
   },
@@ -16391,10 +16391,10 @@ window.PMW_WALLPAPERS = [
       "red",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
-    "preview": "https://drive.google.com/uc?export=view&id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
-    "image": "https://drive.google.com/uc?export=view&id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
+    "image": "https://drive.google.com/thumbnail?id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon&sz=w1600",
     "driveFileId": "12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
     "storage": "google_drive"
   },
@@ -16419,10 +16419,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "galaxies"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
-    "preview": "https://drive.google.com/uc?export=view&id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
-    "image": "https://drive.google.com/uc?export=view&id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
+    "image": "https://drive.google.com/thumbnail?id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K&sz=w1600",
     "driveFileId": "13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
     "storage": "google_drive"
   },
@@ -16448,10 +16448,10 @@ window.PMW_WALLPAPERS = [
       "deep",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
-    "image": "https://drive.google.com/uc?export=view&id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
+    "image": "https://drive.google.com/thumbnail?id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ&sz=w1600",
     "driveFileId": "1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
     "storage": "google_drive"
   },
@@ -16477,10 +16477,10 @@ window.PMW_WALLPAPERS = [
       "alien",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
-    "preview": "https://drive.google.com/uc?export=view&id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
-    "image": "https://drive.google.com/uc?export=view&id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
+    "image": "https://drive.google.com/thumbnail?id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP&sz=w1600",
     "driveFileId": "1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
     "storage": "google_drive"
   },
@@ -16504,10 +16504,10 @@ window.PMW_WALLPAPERS = [
       "hourglass",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
-    "preview": "https://drive.google.com/uc?export=view&id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
-    "image": "https://drive.google.com/uc?export=view&id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
+    "image": "https://drive.google.com/thumbnail?id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2&sz=w1600",
     "driveFileId": "1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
     "storage": "google_drive"
   },
@@ -16533,10 +16533,10 @@ window.PMW_WALLPAPERS = [
       "icy",
       "planet"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
-    "preview": "https://drive.google.com/uc?export=view&id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
-    "image": "https://drive.google.com/uc?export=view&id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
+    "image": "https://drive.google.com/thumbnail?id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167&sz=w1600",
     "driveFileId": "1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
     "storage": "google_drive"
   },
@@ -16561,10 +16561,10 @@ window.PMW_WALLPAPERS = [
       "colorful",
       "craters"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
-    "preview": "https://drive.google.com/uc?export=view&id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
-    "image": "https://drive.google.com/uc?export=view&id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
+    "image": "https://drive.google.com/thumbnail?id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU&sz=w1600",
     "driveFileId": "1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
     "storage": "google_drive"
   },
@@ -16590,10 +16590,10 @@ window.PMW_WALLPAPERS = [
       "swirling",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
-    "preview": "https://drive.google.com/uc?export=view&id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
-    "image": "https://drive.google.com/uc?export=view&id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
+    "image": "https://drive.google.com/thumbnail?id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL&sz=w1600",
     "driveFileId": "1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
     "storage": "google_drive"
   },
@@ -16618,10 +16618,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "core"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
-    "preview": "https://drive.google.com/uc?export=view&id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
-    "image": "https://drive.google.com/uc?export=view&id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
+    "image": "https://drive.google.com/thumbnail?id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM&sz=w1600",
     "driveFileId": "1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
     "storage": "google_drive"
   },
@@ -16646,10 +16646,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
-    "preview": "https://drive.google.com/uc?export=view&id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
-    "image": "https://drive.google.com/uc?export=view&id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
+    "image": "https://drive.google.com/thumbnail?id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC&sz=w1600",
     "driveFileId": "18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
     "storage": "google_drive"
   },
@@ -16675,10 +16675,10 @@ window.PMW_WALLPAPERS = [
       "purple",
       "star"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
-    "preview": "https://drive.google.com/uc?export=view&id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
-    "image": "https://drive.google.com/uc?export=view&id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
+    "image": "https://drive.google.com/thumbnail?id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_&sz=w1600",
     "driveFileId": "1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
     "storage": "google_drive"
   },
@@ -16702,10 +16702,10 @@ window.PMW_WALLPAPERS = [
       "planet",
       "crystals"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
-    "preview": "https://drive.google.com/uc?export=view&id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
-    "image": "https://drive.google.com/uc?export=view&id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
+    "image": "https://drive.google.com/thumbnail?id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt&sz=w1600",
     "driveFileId": "1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
     "storage": "google_drive"
   },
@@ -16730,10 +16730,10 @@ window.PMW_WALLPAPERS = [
       "cubes",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=182rKynXBbpbMegpVHTESDziIS545fha4",
-    "preview": "https://drive.google.com/uc?export=view&id=182rKynXBbpbMegpVHTESDziIS545fha4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=182rKynXBbpbMegpVHTESDziIS545fha4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=182rKynXBbpbMegpVHTESDziIS545fha4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=182rKynXBbpbMegpVHTESDziIS545fha4",
-    "image": "https://drive.google.com/uc?export=view&id=182rKynXBbpbMegpVHTESDziIS545fha4",
+    "image": "https://drive.google.com/thumbnail?id=182rKynXBbpbMegpVHTESDziIS545fha4&sz=w1600",
     "driveFileId": "182rKynXBbpbMegpVHTESDziIS545fha4",
     "storage": "google_drive"
   },
@@ -16758,10 +16758,10 @@ window.PMW_WALLPAPERS = [
       "deep",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
-    "preview": "https://drive.google.com/uc?export=view&id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
-    "image": "https://drive.google.com/uc?export=view&id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
+    "image": "https://drive.google.com/thumbnail?id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY&sz=w1600",
     "driveFileId": "1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
     "storage": "google_drive"
   },
@@ -16785,10 +16785,10 @@ window.PMW_WALLPAPERS = [
       "beaming",
       "cosmos"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
-    "preview": "https://drive.google.com/uc?export=view&id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
-    "image": "https://drive.google.com/uc?export=view&id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
+    "image": "https://drive.google.com/thumbnail?id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU&sz=w1600",
     "driveFileId": "1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
     "storage": "google_drive"
   },
@@ -16814,10 +16814,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "tracks"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
-    "image": "https://drive.google.com/uc?export=view&id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
+    "image": "https://drive.google.com/thumbnail?id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ&sz=w1600",
     "driveFileId": "1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
     "storage": "google_drive"
   },
@@ -16842,10 +16842,10 @@ window.PMW_WALLPAPERS = [
       "asteroid",
       "world"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
-    "preview": "https://drive.google.com/uc?export=view&id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
-    "image": "https://drive.google.com/uc?export=view&id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
+    "image": "https://drive.google.com/thumbnail?id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG&sz=w1600",
     "driveFileId": "1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
     "storage": "google_drive"
   },
@@ -16870,10 +16870,10 @@ window.PMW_WALLPAPERS = [
       "tiny",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
-    "preview": "https://drive.google.com/uc?export=view&id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
-    "image": "https://drive.google.com/uc?export=view&id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
+    "image": "https://drive.google.com/thumbnail?id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e&sz=w1600",
     "driveFileId": "1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
     "storage": "google_drive"
   },
@@ -16898,10 +16898,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "sea"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
-    "preview": "https://drive.google.com/uc?export=view&id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
-    "image": "https://drive.google.com/uc?export=view&id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
+    "image": "https://drive.google.com/thumbnail?id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I&sz=w1600",
     "driveFileId": "1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
     "storage": "google_drive"
   },
@@ -16926,10 +16926,10 @@ window.PMW_WALLPAPERS = [
       "hole",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
-    "preview": "https://drive.google.com/uc?export=view&id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
-    "image": "https://drive.google.com/uc?export=view&id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
+    "image": "https://drive.google.com/thumbnail?id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo&sz=w1600",
     "driveFileId": "12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
     "storage": "google_drive"
   },
@@ -16953,10 +16953,10 @@ window.PMW_WALLPAPERS = [
       "nebula",
       "flower"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
-    "preview": "https://drive.google.com/uc?export=view&id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
-    "image": "https://drive.google.com/uc?export=view&id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
+    "image": "https://drive.google.com/thumbnail?id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3&sz=w1600",
     "driveFileId": "1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
     "storage": "google_drive"
   },
@@ -16981,10 +16981,10 @@ window.PMW_WALLPAPERS = [
       "galaxies",
       "branches"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
-    "preview": "https://drive.google.com/uc?export=view&id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
-    "image": "https://drive.google.com/uc?export=view&id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
+    "image": "https://drive.google.com/thumbnail?id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm&sz=w1600",
     "driveFileId": "1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
     "storage": "google_drive"
   },
@@ -17008,10 +17008,10 @@ window.PMW_WALLPAPERS = [
       "cracked",
       "planet"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
-    "preview": "https://drive.google.com/uc?export=view&id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
-    "image": "https://drive.google.com/uc?export=view&id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
+    "image": "https://drive.google.com/thumbnail?id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd&sz=w1600",
     "driveFileId": "1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
     "storage": "google_drive"
   },
@@ -17036,10 +17036,10 @@ window.PMW_WALLPAPERS = [
       "fiery",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xClrBMggdLsas5xphesE4_E27fvNVDHW",
-    "preview": "https://drive.google.com/uc?export=view&id=1xClrBMggdLsas5xphesE4_E27fvNVDHW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xClrBMggdLsas5xphesE4_E27fvNVDHW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xClrBMggdLsas5xphesE4_E27fvNVDHW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xClrBMggdLsas5xphesE4_E27fvNVDHW",
-    "image": "https://drive.google.com/uc?export=view&id=1xClrBMggdLsas5xphesE4_E27fvNVDHW",
+    "image": "https://drive.google.com/thumbnail?id=1xClrBMggdLsas5xphesE4_E27fvNVDHW&sz=w1600",
     "driveFileId": "1xClrBMggdLsas5xphesE4_E27fvNVDHW",
     "storage": "google_drive"
   },
@@ -17064,10 +17064,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "starlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
-    "preview": "https://drive.google.com/uc?export=view&id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
-    "image": "https://drive.google.com/uc?export=view&id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
+    "image": "https://drive.google.com/thumbnail?id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9&sz=w1600",
     "driveFileId": "1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
     "storage": "google_drive"
   },
@@ -17091,10 +17091,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "spheres"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
-    "preview": "https://drive.google.com/uc?export=view&id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
-    "image": "https://drive.google.com/uc?export=view&id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
+    "image": "https://drive.google.com/thumbnail?id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ&sz=w1600",
     "driveFileId": "1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
     "storage": "google_drive"
   },
@@ -17119,10 +17119,10 @@ window.PMW_WALLPAPERS = [
       "hole",
       "swirl"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
-    "preview": "https://drive.google.com/uc?export=view&id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
-    "image": "https://drive.google.com/uc?export=view&id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
+    "image": "https://drive.google.com/thumbnail?id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn&sz=w1600",
     "driveFileId": "1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
     "storage": "google_drive"
   },
@@ -17147,10 +17147,10 @@ window.PMW_WALLPAPERS = [
       "planet",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
-    "preview": "https://drive.google.com/uc?export=view&id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
-    "image": "https://drive.google.com/uc?export=view&id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
+    "image": "https://drive.google.com/thumbnail?id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88&sz=w1600",
     "driveFileId": "1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
     "storage": "google_drive"
   },
@@ -17175,10 +17175,10 @@ window.PMW_WALLPAPERS = [
       "icy",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
-    "preview": "https://drive.google.com/uc?export=view&id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
-    "image": "https://drive.google.com/uc?export=view&id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
+    "image": "https://drive.google.com/thumbnail?id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra&sz=w1600",
     "driveFileId": "16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
     "storage": "google_drive"
   },
@@ -17203,10 +17203,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "hole"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
-    "preview": "https://drive.google.com/uc?export=view&id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
-    "image": "https://drive.google.com/uc?export=view&id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
+    "image": "https://drive.google.com/thumbnail?id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R&sz=w1600",
     "driveFileId": "1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
     "storage": "google_drive"
   },
@@ -17230,10 +17230,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "stairway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
-    "preview": "https://drive.google.com/uc?export=view&id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
-    "image": "https://drive.google.com/uc?export=view&id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
+    "image": "https://drive.google.com/thumbnail?id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq&sz=w1600",
     "driveFileId": "1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
     "storage": "google_drive"
   },
@@ -17257,10 +17257,10 @@ window.PMW_WALLPAPERS = [
       "stairway",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
-    "image": "https://drive.google.com/uc?export=view&id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
+    "image": "https://drive.google.com/thumbnail?id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ&sz=w1600",
     "driveFileId": "1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
     "storage": "google_drive"
   },
@@ -17285,10 +17285,10 @@ window.PMW_WALLPAPERS = [
       "across",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
-    "preview": "https://drive.google.com/uc?export=view&id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
-    "image": "https://drive.google.com/uc?export=view&id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
+    "image": "https://drive.google.com/thumbnail?id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6&sz=w1600",
     "driveFileId": "1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
     "storage": "google_drive"
   },
@@ -17313,10 +17313,10 @@ window.PMW_WALLPAPERS = [
       "asteroid",
       "field"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
-    "preview": "https://drive.google.com/uc?export=view&id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
-    "image": "https://drive.google.com/uc?export=view&id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
+    "image": "https://drive.google.com/thumbnail?id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9&sz=w1600",
     "driveFileId": "1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
     "storage": "google_drive"
   },
@@ -17340,10 +17340,10 @@ window.PMW_WALLPAPERS = [
       "rover",
       "galaxies"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
-    "preview": "https://drive.google.com/uc?export=view&id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
-    "image": "https://drive.google.com/uc?export=view&id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
+    "image": "https://drive.google.com/thumbnail?id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5&sz=w1600",
     "driveFileId": "1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
     "storage": "google_drive"
   },
@@ -17368,10 +17368,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
-    "preview": "https://drive.google.com/uc?export=view&id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
-    "image": "https://drive.google.com/uc?export=view&id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
+    "image": "https://drive.google.com/thumbnail?id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo&sz=w1600",
     "driveFileId": "1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
     "storage": "google_drive"
   },
@@ -17396,10 +17396,10 @@ window.PMW_WALLPAPERS = [
       "landscape",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
-    "preview": "https://drive.google.com/uc?export=view&id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
-    "image": "https://drive.google.com/uc?export=view&id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
+    "image": "https://drive.google.com/thumbnail?id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1&sz=w1600",
     "driveFileId": "1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
     "storage": "google_drive"
   },
@@ -17423,10 +17423,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "suns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
-    "preview": "https://drive.google.com/uc?export=view&id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
-    "image": "https://drive.google.com/uc?export=view&id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
+    "image": "https://drive.google.com/thumbnail?id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO&sz=w1600",
     "driveFileId": "14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
     "storage": "google_drive"
   },
@@ -17452,10 +17452,10 @@ window.PMW_WALLPAPERS = [
       "energy",
       "ring"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
-    "preview": "https://drive.google.com/uc?export=view&id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
-    "image": "https://drive.google.com/uc?export=view&id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
+    "image": "https://drive.google.com/thumbnail?id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI&sz=w1600",
     "driveFileId": "1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
     "storage": "google_drive"
   },
@@ -17480,10 +17480,10 @@ window.PMW_WALLPAPERS = [
       "compass",
       "orb"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
-    "preview": "https://drive.google.com/uc?export=view&id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
-    "image": "https://drive.google.com/uc?export=view&id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
+    "image": "https://drive.google.com/thumbnail?id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp&sz=w1600",
     "driveFileId": "1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
     "storage": "google_drive"
   },
@@ -17508,10 +17508,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
-    "preview": "https://drive.google.com/uc?export=view&id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
-    "image": "https://drive.google.com/uc?export=view&id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
+    "image": "https://drive.google.com/thumbnail?id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO&sz=w1600",
     "driveFileId": "1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
     "storage": "google_drive"
   },
@@ -17536,10 +17536,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
-    "preview": "https://drive.google.com/uc?export=view&id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
-    "image": "https://drive.google.com/uc?export=view&id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
+    "image": "https://drive.google.com/thumbnail?id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd&sz=w1600",
     "driveFileId": "1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
     "storage": "google_drive"
   },
@@ -17563,10 +17563,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "labyrinth"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
-    "preview": "https://drive.google.com/uc?export=view&id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
-    "image": "https://drive.google.com/uc?export=view&id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
+    "image": "https://drive.google.com/thumbnail?id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF&sz=w1600",
     "driveFileId": "1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
     "storage": "google_drive"
   },
@@ -17591,10 +17591,10 @@ window.PMW_WALLPAPERS = [
       "lone",
       "astronaut"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
-    "preview": "https://drive.google.com/uc?export=view&id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
-    "image": "https://drive.google.com/uc?export=view&id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
+    "image": "https://drive.google.com/thumbnail?id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_&sz=w1600",
     "driveFileId": "10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
     "storage": "google_drive"
   },
@@ -17619,10 +17619,10 @@ window.PMW_WALLPAPERS = [
       "hole",
       "ring"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
-    "preview": "https://drive.google.com/uc?export=view&id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
-    "image": "https://drive.google.com/uc?export=view&id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
+    "image": "https://drive.google.com/thumbnail?id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy&sz=w1600",
     "driveFileId": "1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
     "storage": "google_drive"
   },
@@ -17646,10 +17646,10 @@ window.PMW_WALLPAPERS = [
       "lotus",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
-    "preview": "https://drive.google.com/uc?export=view&id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
-    "image": "https://drive.google.com/uc?export=view&id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
+    "image": "https://drive.google.com/thumbnail?id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4&sz=w1600",
     "driveFileId": "1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
     "storage": "google_drive"
   },
@@ -17673,10 +17673,10 @@ window.PMW_WALLPAPERS = [
       "eclipse",
       "planet"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
-    "preview": "https://drive.google.com/uc?export=view&id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
-    "image": "https://drive.google.com/uc?export=view&id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
+    "image": "https://drive.google.com/thumbnail?id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY&sz=w1600",
     "driveFileId": "18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
     "storage": "google_drive"
   },
@@ -17700,10 +17700,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
-    "preview": "https://drive.google.com/uc?export=view&id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
-    "image": "https://drive.google.com/uc?export=view&id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
+    "image": "https://drive.google.com/thumbnail?id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl&sz=w1600",
     "driveFileId": "1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
     "storage": "google_drive"
   },
@@ -17728,10 +17728,10 @@ window.PMW_WALLPAPERS = [
       "orbiting",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
-    "preview": "https://drive.google.com/uc?export=view&id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
-    "image": "https://drive.google.com/uc?export=view&id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
+    "image": "https://drive.google.com/thumbnail?id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8&sz=w1600",
     "driveFileId": "17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
     "storage": "google_drive"
   },
@@ -17757,10 +17757,10 @@ window.PMW_WALLPAPERS = [
       "dripping",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
-    "preview": "https://drive.google.com/uc?export=view&id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
-    "image": "https://drive.google.com/uc?export=view&id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
+    "image": "https://drive.google.com/thumbnail?id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY&sz=w1600",
     "driveFileId": "1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
     "storage": "google_drive"
   },
@@ -17785,10 +17785,10 @@ window.PMW_WALLPAPERS = [
       "nebula",
       "cloud"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
-    "image": "https://drive.google.com/uc?export=view&id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
+    "image": "https://drive.google.com/thumbnail?id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ&sz=w1600",
     "driveFileId": "1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
     "storage": "google_drive"
   },
@@ -17813,10 +17813,10 @@ window.PMW_WALLPAPERS = [
       "cliff",
       "canyon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
-    "preview": "https://drive.google.com/uc?export=view&id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
-    "image": "https://drive.google.com/uc?export=view&id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
+    "image": "https://drive.google.com/thumbnail?id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR&sz=w1600",
     "driveFileId": "1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
     "storage": "google_drive"
   },
@@ -17840,10 +17840,10 @@ window.PMW_WALLPAPERS = [
       "shaped",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
-    "preview": "https://drive.google.com/uc?export=view&id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
-    "image": "https://drive.google.com/uc?export=view&id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
+    "image": "https://drive.google.com/thumbnail?id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE&sz=w1600",
     "driveFileId": "17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
     "storage": "google_drive"
   },
@@ -17868,10 +17868,10 @@ window.PMW_WALLPAPERS = [
       "many",
       "planets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
-    "preview": "https://drive.google.com/uc?export=view&id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
-    "image": "https://drive.google.com/uc?export=view&id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
+    "image": "https://drive.google.com/thumbnail?id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE&sz=w1600",
     "driveFileId": "1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
     "storage": "google_drive"
   },
@@ -17896,10 +17896,10 @@ window.PMW_WALLPAPERS = [
       "open",
       "book"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
-    "preview": "https://drive.google.com/uc?export=view&id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
-    "image": "https://drive.google.com/uc?export=view&id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
+    "image": "https://drive.google.com/thumbnail?id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2&sz=w1600",
     "driveFileId": "1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
     "storage": "google_drive"
   },
@@ -17923,10 +17923,10 @@ window.PMW_WALLPAPERS = [
       "planet",
       "sphere"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
-    "preview": "https://drive.google.com/uc?export=view&id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
-    "image": "https://drive.google.com/uc?export=view&id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
+    "image": "https://drive.google.com/thumbnail?id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ&sz=w1600",
     "driveFileId": "1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
     "storage": "google_drive"
   },
@@ -17951,10 +17951,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "sphere"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
-    "preview": "https://drive.google.com/uc?export=view&id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
-    "image": "https://drive.google.com/uc?export=view&id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
+    "image": "https://drive.google.com/thumbnail?id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp&sz=w1600",
     "driveFileId": "17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
     "storage": "google_drive"
   },
@@ -17980,10 +17980,10 @@ window.PMW_WALLPAPERS = [
       "crescent",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
-    "image": "https://drive.google.com/uc?export=view&id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
+    "image": "https://drive.google.com/thumbnail?id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz&sz=w1600",
     "driveFileId": "1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
     "storage": "google_drive"
   },
@@ -18007,10 +18007,10 @@ window.PMW_WALLPAPERS = [
       "nebula",
       "flower"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
-    "preview": "https://drive.google.com/uc?export=view&id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
-    "image": "https://drive.google.com/uc?export=view&id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
+    "image": "https://drive.google.com/thumbnail?id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5&sz=w1600",
     "driveFileId": "1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
     "storage": "google_drive"
   },
@@ -18034,10 +18034,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "butterfly"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
-    "preview": "https://drive.google.com/uc?export=view&id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
-    "image": "https://drive.google.com/uc?export=view&id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
+    "image": "https://drive.google.com/thumbnail?id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK&sz=w1600",
     "driveFileId": "1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
     "storage": "google_drive"
   },
@@ -18061,10 +18061,10 @@ window.PMW_WALLPAPERS = [
       "butterfly",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
-    "preview": "https://drive.google.com/uc?export=view&id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
-    "image": "https://drive.google.com/uc?export=view&id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
+    "image": "https://drive.google.com/thumbnail?id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW&sz=w1600",
     "driveFileId": "1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
     "storage": "google_drive"
   },
@@ -18089,10 +18089,10 @@ window.PMW_WALLPAPERS = [
       "sphere",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
-    "preview": "https://drive.google.com/uc?export=view&id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
-    "image": "https://drive.google.com/uc?export=view&id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
+    "image": "https://drive.google.com/thumbnail?id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi&sz=w1600",
     "driveFileId": "1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
     "storage": "google_drive"
   },
@@ -18118,10 +18118,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
-    "preview": "https://drive.google.com/uc?export=view&id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
-    "image": "https://drive.google.com/uc?export=view&id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
+    "image": "https://drive.google.com/thumbnail?id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI&sz=w1600",
     "driveFileId": "16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
     "storage": "google_drive"
   },
@@ -18145,10 +18145,10 @@ window.PMW_WALLPAPERS = [
       "harp",
       "galaxies"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
-    "preview": "https://drive.google.com/uc?export=view&id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
-    "image": "https://drive.google.com/uc?export=view&id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
+    "image": "https://drive.google.com/thumbnail?id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0&sz=w1600",
     "driveFileId": "1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
     "storage": "google_drive"
   },
@@ -18172,10 +18172,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
-    "preview": "https://drive.google.com/uc?export=view&id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
-    "image": "https://drive.google.com/uc?export=view&id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
+    "image": "https://drive.google.com/thumbnail?id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy&sz=w1600",
     "driveFileId": "1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
     "storage": "google_drive"
   },
@@ -18200,10 +18200,10 @@ window.PMW_WALLPAPERS = [
       "portal",
       "sun"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
-    "preview": "https://drive.google.com/uc?export=view&id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
-    "image": "https://drive.google.com/uc?export=view&id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
+    "image": "https://drive.google.com/thumbnail?id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP&sz=w1600",
     "driveFileId": "1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
     "storage": "google_drive"
   },
@@ -18228,10 +18228,10 @@ window.PMW_WALLPAPERS = [
       "ring",
       "sun"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
-    "preview": "https://drive.google.com/uc?export=view&id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
-    "image": "https://drive.google.com/uc?export=view&id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
+    "image": "https://drive.google.com/thumbnail?id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE&sz=w1600",
     "driveFileId": "1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
     "storage": "google_drive"
   },
@@ -18255,10 +18255,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "flower"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
-    "preview": "https://drive.google.com/uc?export=view&id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
-    "image": "https://drive.google.com/uc?export=view&id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
+    "image": "https://drive.google.com/thumbnail?id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B&sz=w1600",
     "driveFileId": "1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
     "storage": "google_drive"
   },
@@ -18283,10 +18283,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "hole"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18-n5wD2x0mnTywdRblP7ql0B769T2i94",
-    "preview": "https://drive.google.com/uc?export=view&id=18-n5wD2x0mnTywdRblP7ql0B769T2i94",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18-n5wD2x0mnTywdRblP7ql0B769T2i94&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18-n5wD2x0mnTywdRblP7ql0B769T2i94&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18-n5wD2x0mnTywdRblP7ql0B769T2i94",
-    "image": "https://drive.google.com/uc?export=view&id=18-n5wD2x0mnTywdRblP7ql0B769T2i94",
+    "image": "https://drive.google.com/thumbnail?id=18-n5wD2x0mnTywdRblP7ql0B769T2i94&sz=w1600",
     "driveFileId": "18-n5wD2x0mnTywdRblP7ql0B769T2i94",
     "storage": "google_drive"
   },
@@ -18310,10 +18310,10 @@ window.PMW_WALLPAPERS = [
       "goddess",
       "face"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
-    "preview": "https://drive.google.com/uc?export=view&id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
-    "image": "https://drive.google.com/uc?export=view&id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
+    "image": "https://drive.google.com/thumbnail?id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo&sz=w1600",
     "driveFileId": "1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
     "storage": "google_drive"
   },
@@ -18338,10 +18338,10 @@ window.PMW_WALLPAPERS = [
       "holding",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
-    "preview": "https://drive.google.com/uc?export=view&id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
+    "thumbnail": "https://drive.google.com/thumbnail?id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
-    "image": "https://drive.google.com/uc?export=view&id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
+    "image": "https://drive.google.com/thumbnail?id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H&sz=w1600",
     "driveFileId": "181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
     "storage": "google_drive"
   },
@@ -18366,10 +18366,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
-    "preview": "https://drive.google.com/uc?export=view&id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
-    "image": "https://drive.google.com/uc?export=view&id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
+    "image": "https://drive.google.com/thumbnail?id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_&sz=w1600",
     "driveFileId": "1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
     "storage": "google_drive"
   },
@@ -18393,10 +18393,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
-    "preview": "https://drive.google.com/uc?export=view&id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
-    "image": "https://drive.google.com/uc?export=view&id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
+    "image": "https://drive.google.com/thumbnail?id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D&sz=w1600",
     "driveFileId": "1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
     "storage": "google_drive"
   },
@@ -18420,10 +18420,10 @@ window.PMW_WALLPAPERS = [
       "scale",
       "suns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
-    "preview": "https://drive.google.com/uc?export=view&id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
-    "image": "https://drive.google.com/uc?export=view&id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
+    "image": "https://drive.google.com/thumbnail?id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6&sz=w1600",
     "driveFileId": "12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
     "storage": "google_drive"
   },
@@ -18448,10 +18448,10 @@ window.PMW_WALLPAPERS = [
       "distant",
       "world"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
-    "preview": "https://drive.google.com/uc?export=view&id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
-    "image": "https://drive.google.com/uc?export=view&id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
+    "image": "https://drive.google.com/thumbnail?id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW&sz=w1600",
     "driveFileId": "1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
     "storage": "google_drive"
   },
@@ -18476,10 +18476,10 @@ window.PMW_WALLPAPERS = [
       "shower",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
-    "preview": "https://drive.google.com/uc?export=view&id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
-    "image": "https://drive.google.com/uc?export=view&id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
+    "image": "https://drive.google.com/thumbnail?id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK&sz=w1600",
     "driveFileId": "17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
     "storage": "google_drive"
   },
@@ -18503,10 +18503,10 @@ window.PMW_WALLPAPERS = [
       "doorway",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
-    "preview": "https://drive.google.com/uc?export=view&id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
-    "image": "https://drive.google.com/uc?export=view&id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
+    "image": "https://drive.google.com/thumbnail?id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH&sz=w1600",
     "driveFileId": "1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
     "storage": "google_drive"
   },
@@ -18531,10 +18531,10 @@ window.PMW_WALLPAPERS = [
       "full",
       "worlds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
-    "preview": "https://drive.google.com/uc?export=view&id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
-    "image": "https://drive.google.com/uc?export=view&id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
+    "image": "https://drive.google.com/thumbnail?id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF&sz=w1600",
     "driveFileId": "1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
     "storage": "google_drive"
   },
@@ -18558,10 +18558,10 @@ window.PMW_WALLPAPERS = [
       "planet",
       "moons"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
-    "preview": "https://drive.google.com/uc?export=view&id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
-    "image": "https://drive.google.com/uc?export=view&id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
+    "image": "https://drive.google.com/thumbnail?id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt&sz=w1600",
     "driveFileId": "1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
     "storage": "google_drive"
   },
@@ -18585,10 +18585,10 @@ window.PMW_WALLPAPERS = [
       "phoenix",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
-    "preview": "https://drive.google.com/uc?export=view&id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
-    "image": "https://drive.google.com/uc?export=view&id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
+    "image": "https://drive.google.com/thumbnail?id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS&sz=w1600",
     "driveFileId": "1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
     "storage": "google_drive"
   },
@@ -18612,10 +18612,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "clock"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
-    "preview": "https://drive.google.com/uc?export=view&id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
-    "image": "https://drive.google.com/uc?export=view&id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
+    "image": "https://drive.google.com/thumbnail?id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw&sz=w1600",
     "driveFileId": "1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
     "storage": "google_drive"
   },
@@ -18640,10 +18640,10 @@ window.PMW_WALLPAPERS = [
       "ring",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
-    "preview": "https://drive.google.com/uc?export=view&id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
-    "image": "https://drive.google.com/uc?export=view&id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
+    "image": "https://drive.google.com/thumbnail?id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X&sz=w1600",
     "driveFileId": "1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
     "storage": "google_drive"
   },
@@ -18668,10 +18668,10 @@ window.PMW_WALLPAPERS = [
       "beam",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
-    "preview": "https://drive.google.com/uc?export=view&id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
-    "image": "https://drive.google.com/uc?export=view&id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
+    "image": "https://drive.google.com/thumbnail?id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt&sz=w1600",
     "driveFileId": "1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
     "storage": "google_drive"
   },
@@ -18695,10 +18695,10 @@ window.PMW_WALLPAPERS = [
       "tornado",
       "funnel"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
-    "preview": "https://drive.google.com/uc?export=view&id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
-    "image": "https://drive.google.com/uc?export=view&id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
+    "image": "https://drive.google.com/thumbnail?id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc&sz=w1600",
     "driveFileId": "1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
     "storage": "google_drive"
   },
@@ -18722,10 +18722,10 @@ window.PMW_WALLPAPERS = [
       "observatory",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
-    "preview": "https://drive.google.com/uc?export=view&id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
-    "image": "https://drive.google.com/uc?export=view&id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
+    "image": "https://drive.google.com/thumbnail?id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw&sz=w1600",
     "driveFileId": "17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
     "storage": "google_drive"
   },
@@ -18751,10 +18751,10 @@ window.PMW_WALLPAPERS = [
       "ringed",
       "planet"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
-    "preview": "https://drive.google.com/uc?export=view&id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
-    "image": "https://drive.google.com/uc?export=view&id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
+    "image": "https://drive.google.com/thumbnail?id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6&sz=w1600",
     "driveFileId": "1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
     "storage": "google_drive"
   },
@@ -18779,10 +18779,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
-    "preview": "https://drive.google.com/uc?export=view&id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
-    "image": "https://drive.google.com/uc?export=view&id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
+    "image": "https://drive.google.com/thumbnail?id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq&sz=w1600",
     "driveFileId": "1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
     "storage": "google_drive"
   },
@@ -18807,10 +18807,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
-    "preview": "https://drive.google.com/uc?export=view&id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
-    "image": "https://drive.google.com/uc?export=view&id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
+    "image": "https://drive.google.com/thumbnail?id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa&sz=w1600",
     "driveFileId": "1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
     "storage": "google_drive"
   },
@@ -18835,10 +18835,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
-    "preview": "https://drive.google.com/uc?export=view&id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
-    "image": "https://drive.google.com/uc?export=view&id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
+    "image": "https://drive.google.com/thumbnail?id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr&sz=w1600",
     "driveFileId": "16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
     "storage": "google_drive"
   },
@@ -18863,10 +18863,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "core"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
-    "preview": "https://drive.google.com/uc?export=view&id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
-    "image": "https://drive.google.com/uc?export=view&id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
+    "image": "https://drive.google.com/thumbnail?id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA&sz=w1600",
     "driveFileId": "1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
     "storage": "google_drive"
   },
@@ -18891,10 +18891,10 @@ window.PMW_WALLPAPERS = [
       "cavern",
       "spaceship"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
-    "preview": "https://drive.google.com/uc?export=view&id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
-    "image": "https://drive.google.com/uc?export=view&id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
+    "image": "https://drive.google.com/thumbnail?id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8&sz=w1600",
     "driveFileId": "1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
     "storage": "google_drive"
   },
@@ -18920,10 +18920,10 @@ window.PMW_WALLPAPERS = [
       "solar",
       "system"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
-    "preview": "https://drive.google.com/uc?export=view&id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
-    "image": "https://drive.google.com/uc?export=view&id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
+    "image": "https://drive.google.com/thumbnail?id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l&sz=w1600",
     "driveFileId": "1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
     "storage": "google_drive"
   },
@@ -18948,10 +18948,10 @@ window.PMW_WALLPAPERS = [
       "reflection",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
-    "preview": "https://drive.google.com/uc?export=view&id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
-    "image": "https://drive.google.com/uc?export=view&id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
+    "image": "https://drive.google.com/thumbnail?id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH&sz=w1600",
     "driveFileId": "1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
     "storage": "google_drive"
   },
@@ -18974,10 +18974,10 @@ window.PMW_WALLPAPERS = [
       "earth",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
-    "preview": "https://drive.google.com/uc?export=view&id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
-    "image": "https://drive.google.com/uc?export=view&id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
+    "image": "https://drive.google.com/thumbnail?id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L&sz=w1600",
     "driveFileId": "18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
     "storage": "google_drive"
   },
@@ -19002,10 +19002,10 @@ window.PMW_WALLPAPERS = [
       "fiery",
       "planet"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
-    "preview": "https://drive.google.com/uc?export=view&id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
-    "image": "https://drive.google.com/uc?export=view&id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
+    "image": "https://drive.google.com/thumbnail?id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F&sz=w1600",
     "driveFileId": "1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
     "storage": "google_drive"
   },
@@ -19030,10 +19030,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "holes"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
-    "preview": "https://drive.google.com/uc?export=view&id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
-    "image": "https://drive.google.com/uc?export=view&id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
+    "image": "https://drive.google.com/thumbnail?id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r&sz=w1600",
     "driveFileId": "17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
     "storage": "google_drive"
   },
@@ -19057,10 +19057,10 @@ window.PMW_WALLPAPERS = [
       "milky",
       "way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
-    "preview": "https://drive.google.com/uc?export=view&id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
-    "image": "https://drive.google.com/uc?export=view&id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
+    "image": "https://drive.google.com/thumbnail?id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s&sz=w1600",
     "driveFileId": "1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
     "storage": "google_drive"
   },
@@ -19086,10 +19086,10 @@ window.PMW_WALLPAPERS = [
       "close",
       "view"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
-    "preview": "https://drive.google.com/uc?export=view&id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
-    "image": "https://drive.google.com/uc?export=view&id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
+    "image": "https://drive.google.com/thumbnail?id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX&sz=w1600",
     "driveFileId": "1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
     "storage": "google_drive"
   },
@@ -19113,10 +19113,10 @@ window.PMW_WALLPAPERS = [
       "earth",
       "space"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
-    "preview": "https://drive.google.com/uc?export=view&id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
-    "image": "https://drive.google.com/uc?export=view&id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
+    "image": "https://drive.google.com/thumbnail?id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx&sz=w1600",
     "driveFileId": "1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
     "storage": "google_drive"
   },
@@ -19141,10 +19141,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "hole"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
-    "preview": "https://drive.google.com/uc?export=view&id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
-    "image": "https://drive.google.com/uc?export=view&id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
+    "image": "https://drive.google.com/thumbnail?id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM&sz=w1600",
     "driveFileId": "1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
     "storage": "google_drive"
   },
@@ -19169,10 +19169,10 @@ window.PMW_WALLPAPERS = [
       "shaped",
       "nebula"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
-    "preview": "https://drive.google.com/uc?export=view&id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
-    "image": "https://drive.google.com/uc?export=view&id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
+    "image": "https://drive.google.com/thumbnail?id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT&sz=w1600",
     "driveFileId": "1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
     "storage": "google_drive"
   },
@@ -19198,10 +19198,10 @@ window.PMW_WALLPAPERS = [
       "light",
       "rain"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
-    "preview": "https://drive.google.com/uc?export=view&id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
-    "image": "https://drive.google.com/uc?export=view&id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
+    "image": "https://drive.google.com/thumbnail?id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF&sz=w1600",
     "driveFileId": "19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
     "storage": "google_drive"
   },
@@ -19227,10 +19227,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "stone"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
-    "preview": "https://drive.google.com/uc?export=view&id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
-    "image": "https://drive.google.com/uc?export=view&id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
+    "image": "https://drive.google.com/thumbnail?id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63&sz=w1600",
     "driveFileId": "1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
     "storage": "google_drive"
   },
@@ -19255,10 +19255,10 @@ window.PMW_WALLPAPERS = [
       "capsule",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
-    "preview": "https://drive.google.com/uc?export=view&id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
-    "image": "https://drive.google.com/uc?export=view&id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
+    "image": "https://drive.google.com/thumbnail?id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC&sz=w1600",
     "driveFileId": "1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
     "storage": "google_drive"
   },
@@ -19284,10 +19284,10 @@ window.PMW_WALLPAPERS = [
       "beams",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
-    "preview": "https://drive.google.com/uc?export=view&id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
-    "image": "https://drive.google.com/uc?export=view&id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
+    "image": "https://drive.google.com/thumbnail?id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz&sz=w1600",
     "driveFileId": "1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
     "storage": "google_drive"
   },
@@ -19312,10 +19312,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "sky"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
-    "preview": "https://drive.google.com/uc?export=view&id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
-    "image": "https://drive.google.com/uc?export=view&id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
+    "image": "https://drive.google.com/thumbnail?id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz&sz=w1600",
     "driveFileId": "1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
     "storage": "google_drive"
   },
@@ -19340,10 +19340,10 @@ window.PMW_WALLPAPERS = [
       "full",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
-    "preview": "https://drive.google.com/uc?export=view&id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
-    "image": "https://drive.google.com/uc?export=view&id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
+    "image": "https://drive.google.com/thumbnail?id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev&sz=w1600",
     "driveFileId": "14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
     "storage": "google_drive"
   },
@@ -19369,10 +19369,10 @@ window.PMW_WALLPAPERS = [
       "reflected",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
-    "preview": "https://drive.google.com/uc?export=view&id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
-    "image": "https://drive.google.com/uc?export=view&id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
+    "image": "https://drive.google.com/thumbnail?id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD&sz=w1600",
     "driveFileId": "12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
     "storage": "google_drive"
   },
@@ -19397,10 +19397,10 @@ window.PMW_WALLPAPERS = [
       "tiny",
       "star"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
-    "preview": "https://drive.google.com/uc?export=view&id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
-    "image": "https://drive.google.com/uc?export=view&id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
+    "image": "https://drive.google.com/thumbnail?id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf&sz=w1600",
     "driveFileId": "1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
     "storage": "google_drive"
   },
@@ -19425,10 +19425,10 @@ window.PMW_WALLPAPERS = [
       "crown",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
-    "preview": "https://drive.google.com/uc?export=view&id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
-    "image": "https://drive.google.com/uc?export=view&id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
+    "image": "https://drive.google.com/thumbnail?id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF&sz=w1600",
     "driveFileId": "1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
     "storage": "google_drive"
   },
@@ -19453,10 +19453,10 @@ window.PMW_WALLPAPERS = [
       "canyon",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
-    "preview": "https://drive.google.com/uc?export=view&id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
-    "image": "https://drive.google.com/uc?export=view&id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
+    "image": "https://drive.google.com/thumbnail?id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4&sz=w1600",
     "driveFileId": "1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
     "storage": "google_drive"
   },
@@ -19482,10 +19482,10 @@ window.PMW_WALLPAPERS = [
       "white",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
-    "preview": "https://drive.google.com/uc?export=view&id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
-    "image": "https://drive.google.com/uc?export=view&id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
+    "image": "https://drive.google.com/thumbnail?id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo&sz=w1600",
     "driveFileId": "1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
     "storage": "google_drive"
   },
@@ -19510,10 +19510,10 @@ window.PMW_WALLPAPERS = [
       "tower",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
-    "preview": "https://drive.google.com/uc?export=view&id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
-    "image": "https://drive.google.com/uc?export=view&id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
+    "image": "https://drive.google.com/thumbnail?id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS&sz=w1600",
     "driveFileId": "1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
     "storage": "google_drive"
   },
@@ -19538,10 +19538,10 @@ window.PMW_WALLPAPERS = [
       "castle",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
-    "preview": "https://drive.google.com/uc?export=view&id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
-    "image": "https://drive.google.com/uc?export=view&id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
+    "image": "https://drive.google.com/thumbnail?id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O&sz=w1600",
     "driveFileId": "1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
     "storage": "google_drive"
   },
@@ -19567,10 +19567,10 @@ window.PMW_WALLPAPERS = [
       "desert",
       "dunes"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
-    "preview": "https://drive.google.com/uc?export=view&id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
-    "image": "https://drive.google.com/uc?export=view&id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
+    "image": "https://drive.google.com/thumbnail?id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM&sz=w1600",
     "driveFileId": "16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
     "storage": "google_drive"
   },
@@ -19595,10 +19595,10 @@ window.PMW_WALLPAPERS = [
       "clock",
       "face"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
-    "preview": "https://drive.google.com/uc?export=view&id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
-    "image": "https://drive.google.com/uc?export=view&id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
+    "image": "https://drive.google.com/thumbnail?id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9&sz=w1600",
     "driveFileId": "1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
     "storage": "google_drive"
   },
@@ -19623,10 +19623,10 @@ window.PMW_WALLPAPERS = [
       "rose",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
-    "preview": "https://drive.google.com/uc?export=view&id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
-    "image": "https://drive.google.com/uc?export=view&id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
+    "image": "https://drive.google.com/thumbnail?id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI&sz=w1600",
     "driveFileId": "1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
     "storage": "google_drive"
   },
@@ -19651,10 +19651,10 @@ window.PMW_WALLPAPERS = [
       "data",
       "core"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
-    "preview": "https://drive.google.com/uc?export=view&id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
-    "image": "https://drive.google.com/uc?export=view&id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
+    "image": "https://drive.google.com/thumbnail?id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL&sz=w1600",
     "driveFileId": "1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
     "storage": "google_drive"
   },
@@ -19679,10 +19679,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "silhouette"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
-    "preview": "https://drive.google.com/uc?export=view&id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
-    "image": "https://drive.google.com/uc?export=view&id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
+    "image": "https://drive.google.com/thumbnail?id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_&sz=w1600",
     "driveFileId": "1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
     "storage": "google_drive"
   },
@@ -19707,10 +19707,10 @@ window.PMW_WALLPAPERS = [
       "hole",
       "vortex"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
-    "preview": "https://drive.google.com/uc?export=view&id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
-    "image": "https://drive.google.com/uc?export=view&id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
+    "image": "https://drive.google.com/thumbnail?id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8&sz=w1600",
     "driveFileId": "1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
     "storage": "google_drive"
   },
@@ -19736,10 +19736,10 @@ window.PMW_WALLPAPERS = [
       "pure",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NausepajyCLmMB59fIgg63OGpickQXjg",
-    "preview": "https://drive.google.com/uc?export=view&id=1NausepajyCLmMB59fIgg63OGpickQXjg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NausepajyCLmMB59fIgg63OGpickQXjg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NausepajyCLmMB59fIgg63OGpickQXjg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NausepajyCLmMB59fIgg63OGpickQXjg",
-    "image": "https://drive.google.com/uc?export=view&id=1NausepajyCLmMB59fIgg63OGpickQXjg",
+    "image": "https://drive.google.com/thumbnail?id=1NausepajyCLmMB59fIgg63OGpickQXjg&sz=w1600",
     "driveFileId": "1NausepajyCLmMB59fIgg63OGpickQXjg",
     "storage": "google_drive"
   },
@@ -19764,10 +19764,10 @@ window.PMW_WALLPAPERS = [
       "chrome",
       "waves"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
-    "preview": "https://drive.google.com/uc?export=view&id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
-    "image": "https://drive.google.com/uc?export=view&id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
+    "image": "https://drive.google.com/thumbnail?id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V&sz=w1600",
     "driveFileId": "1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
     "storage": "google_drive"
   },
@@ -19792,10 +19792,10 @@ window.PMW_WALLPAPERS = [
       "silk",
       "waves"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
-    "preview": "https://drive.google.com/uc?export=view&id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
-    "image": "https://drive.google.com/uc?export=view&id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
+    "image": "https://drive.google.com/thumbnail?id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39&sz=w1600",
     "driveFileId": "1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
     "storage": "google_drive"
   },
@@ -19820,10 +19820,10 @@ window.PMW_WALLPAPERS = [
       "gold",
       "cracks"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
-    "preview": "https://drive.google.com/uc?export=view&id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
-    "image": "https://drive.google.com/uc?export=view&id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
+    "image": "https://drive.google.com/thumbnail?id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu&sz=w1600",
     "driveFileId": "1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
     "storage": "google_drive"
   },
@@ -19848,10 +19848,10 @@ window.PMW_WALLPAPERS = [
       "alley",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
-    "preview": "https://drive.google.com/uc?export=view&id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
-    "image": "https://drive.google.com/uc?export=view&id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
+    "image": "https://drive.google.com/thumbnail?id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD&sz=w1600",
     "driveFileId": "1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
     "storage": "google_drive"
   },
@@ -19876,10 +19876,10 @@ window.PMW_WALLPAPERS = [
       "symbol",
       "stone"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
-    "preview": "https://drive.google.com/uc?export=view&id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
-    "image": "https://drive.google.com/uc?export=view&id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
+    "image": "https://drive.google.com/thumbnail?id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw&sz=w1600",
     "driveFileId": "1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
     "storage": "google_drive"
   },
@@ -19904,10 +19904,10 @@ window.PMW_WALLPAPERS = [
       "distant",
       "light"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
-    "image": "https://drive.google.com/uc?export=view&id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
+    "image": "https://drive.google.com/thumbnail?id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ&sz=w1600",
     "driveFileId": "1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
     "storage": "google_drive"
   },
@@ -19932,10 +19932,10 @@ window.PMW_WALLPAPERS = [
       "spiral",
       "swirl"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
-    "preview": "https://drive.google.com/uc?export=view&id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
-    "image": "https://drive.google.com/uc?export=view&id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
+    "image": "https://drive.google.com/thumbnail?id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw&sz=w1600",
     "driveFileId": "1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
     "storage": "google_drive"
   },
@@ -19960,10 +19960,10 @@ window.PMW_WALLPAPERS = [
       "shell",
       "macro"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
-    "preview": "https://drive.google.com/uc?export=view&id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
-    "image": "https://drive.google.com/uc?export=view&id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
+    "image": "https://drive.google.com/thumbnail?id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN&sz=w1600",
     "driveFileId": "12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
     "storage": "google_drive"
   },
@@ -19988,10 +19988,10 @@ window.PMW_WALLPAPERS = [
       "motorcycle",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
-    "preview": "https://drive.google.com/uc?export=view&id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
-    "image": "https://drive.google.com/uc?export=view&id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
+    "image": "https://drive.google.com/thumbnail?id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF&sz=w1600",
     "driveFileId": "17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
     "storage": "google_drive"
   },
@@ -20016,10 +20016,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "frame"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
-    "preview": "https://drive.google.com/uc?export=view&id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
-    "image": "https://drive.google.com/uc?export=view&id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
+    "image": "https://drive.google.com/thumbnail?id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy&sz=w1600",
     "driveFileId": "14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
     "storage": "google_drive"
   },
@@ -20044,10 +20044,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "silhouette"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
-    "image": "https://drive.google.com/uc?export=view&id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
+    "image": "https://drive.google.com/thumbnail?id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc&sz=w1600",
     "driveFileId": "1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
     "storage": "google_drive"
   },
@@ -20072,10 +20072,10 @@ window.PMW_WALLPAPERS = [
       "splash",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
-    "preview": "https://drive.google.com/uc?export=view&id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
-    "image": "https://drive.google.com/uc?export=view&id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
+    "image": "https://drive.google.com/thumbnail?id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw&sz=w1600",
     "driveFileId": "1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
     "storage": "google_drive"
   },
@@ -20100,10 +20100,10 @@ window.PMW_WALLPAPERS = [
       "rooftops",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
-    "preview": "https://drive.google.com/uc?export=view&id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
-    "image": "https://drive.google.com/uc?export=view&id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
+    "image": "https://drive.google.com/thumbnail?id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g&sz=w1600",
     "driveFileId": "1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
     "storage": "google_drive"
   },
@@ -20129,10 +20129,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
-    "preview": "https://drive.google.com/uc?export=view&id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
-    "image": "https://drive.google.com/uc?export=view&id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
+    "image": "https://drive.google.com/thumbnail?id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs&sz=w1600",
     "driveFileId": "1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
     "storage": "google_drive"
   },
@@ -20157,10 +20157,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
-    "preview": "https://drive.google.com/uc?export=view&id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
-    "image": "https://drive.google.com/uc?export=view&id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
+    "image": "https://drive.google.com/thumbnail?id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg&sz=w1600",
     "driveFileId": "1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
     "storage": "google_drive"
   },
@@ -20184,10 +20184,10 @@ window.PMW_WALLPAPERS = [
       "figure",
       "streetlight"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
-    "preview": "https://drive.google.com/uc?export=view&id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
-    "image": "https://drive.google.com/uc?export=view&id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
+    "image": "https://drive.google.com/thumbnail?id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV&sz=w1600",
     "driveFileId": "1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
     "storage": "google_drive"
   },
@@ -20212,10 +20212,10 @@ window.PMW_WALLPAPERS = [
       "cathedral",
       "facade"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
-    "preview": "https://drive.google.com/uc?export=view&id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
-    "image": "https://drive.google.com/uc?export=view&id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
+    "image": "https://drive.google.com/thumbnail?id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl&sz=w1600",
     "driveFileId": "1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
     "storage": "google_drive"
   },
@@ -20240,10 +20240,10 @@ window.PMW_WALLPAPERS = [
       "eye",
       "darkness"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
-    "preview": "https://drive.google.com/uc?export=view&id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
-    "image": "https://drive.google.com/uc?export=view&id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
+    "image": "https://drive.google.com/thumbnail?id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k&sz=w1600",
     "driveFileId": "1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
     "storage": "google_drive"
   },
@@ -20267,10 +20267,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "hourglass"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
-    "preview": "https://drive.google.com/uc?export=view&id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
-    "image": "https://drive.google.com/uc?export=view&id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
+    "image": "https://drive.google.com/thumbnail?id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P&sz=w1600",
     "driveFileId": "1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
     "storage": "google_drive"
   },
@@ -20295,10 +20295,10 @@ window.PMW_WALLPAPERS = [
       "city",
       "street"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
-    "preview": "https://drive.google.com/uc?export=view&id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
-    "image": "https://drive.google.com/uc?export=view&id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
+    "image": "https://drive.google.com/thumbnail?id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6&sz=w1600",
     "driveFileId": "14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
     "storage": "google_drive"
   },
@@ -20323,10 +20323,10 @@ window.PMW_WALLPAPERS = [
       "path",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
-    "preview": "https://drive.google.com/uc?export=view&id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
-    "image": "https://drive.google.com/uc?export=view&id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
+    "image": "https://drive.google.com/thumbnail?id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-&sz=w1600",
     "driveFileId": "1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
     "storage": "google_drive"
   },
@@ -20351,10 +20351,10 @@ window.PMW_WALLPAPERS = [
       "hole",
       "spiral"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
-    "preview": "https://drive.google.com/uc?export=view&id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
-    "image": "https://drive.google.com/uc?export=view&id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
+    "image": "https://drive.google.com/thumbnail?id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc&sz=w1600",
     "driveFileId": "1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
     "storage": "google_drive"
   },
@@ -20379,10 +20379,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
-    "preview": "https://drive.google.com/uc?export=view&id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
-    "image": "https://drive.google.com/uc?export=view&id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
+    "image": "https://drive.google.com/thumbnail?id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl&sz=w1600",
     "driveFileId": "1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
     "storage": "google_drive"
   },
@@ -20407,10 +20407,10 @@ window.PMW_WALLPAPERS = [
       "peak",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
-    "preview": "https://drive.google.com/uc?export=view&id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
-    "image": "https://drive.google.com/uc?export=view&id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
+    "image": "https://drive.google.com/thumbnail?id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE&sz=w1600",
     "driveFileId": "1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
     "storage": "google_drive"
   },
@@ -20435,10 +20435,10 @@ window.PMW_WALLPAPERS = [
       "suspension",
       "bridge"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
-    "preview": "https://drive.google.com/uc?export=view&id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
-    "image": "https://drive.google.com/uc?export=view&id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
+    "image": "https://drive.google.com/thumbnail?id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD&sz=w1600",
     "driveFileId": "10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
     "storage": "google_drive"
   },
@@ -20462,10 +20462,10 @@ window.PMW_WALLPAPERS = [
       "neon",
       "motorcycle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
-    "preview": "https://drive.google.com/uc?export=view&id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
-    "image": "https://drive.google.com/uc?export=view&id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
+    "image": "https://drive.google.com/thumbnail?id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG&sz=w1600",
     "driveFileId": "1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
     "storage": "google_drive"
   },
@@ -20490,10 +20490,10 @@ window.PMW_WALLPAPERS = [
       "path",
       "black"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
-    "preview": "https://drive.google.com/uc?export=view&id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
-    "image": "https://drive.google.com/uc?export=view&id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
+    "image": "https://drive.google.com/thumbnail?id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB&sz=w1600",
     "driveFileId": "1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
     "storage": "google_drive"
   },
@@ -20520,10 +20520,10 @@ window.PMW_WALLPAPERS = [
       "cloud",
       "island"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
-    "preview": "https://drive.google.com/uc?export=view&id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
-    "image": "https://drive.google.com/uc?export=view&id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
+    "image": "https://drive.google.com/thumbnail?id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD&sz=w1600",
     "driveFileId": "1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
     "storage": "google_drive"
   },
@@ -20549,10 +20549,10 @@ window.PMW_WALLPAPERS = [
       "wisteria",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
-    "preview": "https://drive.google.com/uc?export=view&id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
-    "image": "https://drive.google.com/uc?export=view&id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
+    "image": "https://drive.google.com/thumbnail?id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E&sz=w1600",
     "driveFileId": "16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
     "storage": "google_drive"
   },
@@ -20579,10 +20579,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "sea"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
-    "preview": "https://drive.google.com/uc?export=view&id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
-    "image": "https://drive.google.com/uc?export=view&id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
+    "image": "https://drive.google.com/thumbnail?id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD&sz=w1600",
     "driveFileId": "1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
     "storage": "google_drive"
   },
@@ -20609,10 +20609,10 @@ window.PMW_WALLPAPERS = [
       "milky",
       "way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
-    "preview": "https://drive.google.com/uc?export=view&id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
-    "image": "https://drive.google.com/uc?export=view&id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
+    "image": "https://drive.google.com/thumbnail?id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u&sz=w1600",
     "driveFileId": "1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
     "storage": "google_drive"
   },
@@ -20639,10 +20639,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
-    "preview": "https://drive.google.com/uc?export=view&id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
-    "image": "https://drive.google.com/uc?export=view&id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
+    "image": "https://drive.google.com/thumbnail?id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv&sz=w1600",
     "driveFileId": "1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
     "storage": "google_drive"
   },
@@ -20669,10 +20669,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "bamboo"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
-    "preview": "https://drive.google.com/uc?export=view&id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
-    "image": "https://drive.google.com/uc?export=view&id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
+    "image": "https://drive.google.com/thumbnail?id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH&sz=w1600",
     "driveFileId": "1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
     "storage": "google_drive"
   },
@@ -20698,10 +20698,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "shore"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
-    "preview": "https://drive.google.com/uc?export=view&id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
-    "image": "https://drive.google.com/uc?export=view&id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
+    "image": "https://drive.google.com/thumbnail?id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk&sz=w1600",
     "driveFileId": "1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
     "storage": "google_drive"
   },
@@ -20727,10 +20727,10 @@ window.PMW_WALLPAPERS = [
       "koi",
       "sky"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
-    "preview": "https://drive.google.com/uc?export=view&id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
-    "image": "https://drive.google.com/uc?export=view&id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
+    "image": "https://drive.google.com/thumbnail?id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4&sz=w1600",
     "driveFileId": "1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
     "storage": "google_drive"
   },
@@ -20757,10 +20757,10 @@ window.PMW_WALLPAPERS = [
       "twin",
       "moons"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
-    "preview": "https://drive.google.com/uc?export=view&id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
-    "image": "https://drive.google.com/uc?export=view&id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
+    "image": "https://drive.google.com/thumbnail?id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC&sz=w1600",
     "driveFileId": "1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
     "storage": "google_drive"
   },
@@ -20787,10 +20787,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "cavern"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
-    "image": "https://drive.google.com/uc?export=view&id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
+    "image": "https://drive.google.com/thumbnail?id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y&sz=w1600",
     "driveFileId": "1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
     "storage": "google_drive"
   },
@@ -20816,10 +20816,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
-    "preview": "https://drive.google.com/uc?export=view&id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
-    "image": "https://drive.google.com/uc?export=view&id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
+    "image": "https://drive.google.com/thumbnail?id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC&sz=w1600",
     "driveFileId": "1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
     "storage": "google_drive"
   },
@@ -20846,10 +20846,10 @@ window.PMW_WALLPAPERS = [
       "cloud",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
-    "preview": "https://drive.google.com/uc?export=view&id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
-    "image": "https://drive.google.com/uc?export=view&id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
+    "image": "https://drive.google.com/thumbnail?id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9&sz=w1600",
     "driveFileId": "10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
     "storage": "google_drive"
   },
@@ -20876,10 +20876,10 @@ window.PMW_WALLPAPERS = [
       "sky",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
-    "preview": "https://drive.google.com/uc?export=view&id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
-    "image": "https://drive.google.com/uc?export=view&id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
+    "image": "https://drive.google.com/thumbnail?id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB&sz=w1600",
     "driveFileId": "1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
     "storage": "google_drive"
   },
@@ -20906,10 +20906,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "temple"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
-    "preview": "https://drive.google.com/uc?export=view&id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
-    "image": "https://drive.google.com/uc?export=view&id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
+    "image": "https://drive.google.com/thumbnail?id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1&sz=w1600",
     "driveFileId": "1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
     "storage": "google_drive"
   },
@@ -20936,10 +20936,10 @@ window.PMW_WALLPAPERS = [
       "warrior",
       "cherry"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
-    "preview": "https://drive.google.com/uc?export=view&id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
-    "image": "https://drive.google.com/uc?export=view&id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
+    "image": "https://drive.google.com/thumbnail?id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ&sz=w1600",
     "driveFileId": "1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
     "storage": "google_drive"
   },
@@ -20966,10 +20966,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "blossom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
-    "preview": "https://drive.google.com/uc?export=view&id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
-    "image": "https://drive.google.com/uc?export=view&id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
+    "image": "https://drive.google.com/thumbnail?id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg&sz=w1600",
     "driveFileId": "1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
     "storage": "google_drive"
   },
@@ -20995,10 +20995,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
-    "preview": "https://drive.google.com/uc?export=view&id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
-    "image": "https://drive.google.com/uc?export=view&id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
+    "image": "https://drive.google.com/thumbnail?id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq&sz=w1600",
     "driveFileId": "1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
     "storage": "google_drive"
   },
@@ -21024,10 +21024,10 @@ window.PMW_WALLPAPERS = [
       "moons",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
-    "preview": "https://drive.google.com/uc?export=view&id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
-    "image": "https://drive.google.com/uc?export=view&id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
+    "image": "https://drive.google.com/thumbnail?id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg&sz=w1600",
     "driveFileId": "1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
     "storage": "google_drive"
   },
@@ -21054,10 +21054,10 @@ window.PMW_WALLPAPERS = [
       "blossom",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
-    "preview": "https://drive.google.com/uc?export=view&id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
-    "image": "https://drive.google.com/uc?export=view&id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
+    "image": "https://drive.google.com/thumbnail?id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y&sz=w1600",
     "driveFileId": "1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
     "storage": "google_drive"
   },
@@ -21084,10 +21084,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "flower"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
-    "preview": "https://drive.google.com/uc?export=view&id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
-    "image": "https://drive.google.com/uc?export=view&id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
+    "image": "https://drive.google.com/thumbnail?id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA&sz=w1600",
     "driveFileId": "1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
     "storage": "google_drive"
   },
@@ -21114,10 +21114,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "temple"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
-    "preview": "https://drive.google.com/uc?export=view&id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
-    "image": "https://drive.google.com/uc?export=view&id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
+    "image": "https://drive.google.com/thumbnail?id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x&sz=w1600",
     "driveFileId": "1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
     "storage": "google_drive"
   },
@@ -21143,10 +21143,10 @@ window.PMW_WALLPAPERS = [
       "full",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
-    "preview": "https://drive.google.com/uc?export=view&id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
-    "image": "https://drive.google.com/uc?export=view&id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
+    "image": "https://drive.google.com/thumbnail?id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT&sz=w1600",
     "driveFileId": "1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
     "storage": "google_drive"
   },
@@ -21173,10 +21173,10 @@ window.PMW_WALLPAPERS = [
       "overlooking",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
-    "preview": "https://drive.google.com/uc?export=view&id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
-    "image": "https://drive.google.com/uc?export=view&id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
+    "image": "https://drive.google.com/thumbnail?id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe&sz=w1600",
     "driveFileId": "1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
     "storage": "google_drive"
   },
@@ -21203,10 +21203,10 @@ window.PMW_WALLPAPERS = [
       "stairway",
       "blossoms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
-    "preview": "https://drive.google.com/uc?export=view&id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
-    "image": "https://drive.google.com/uc?export=view&id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
+    "image": "https://drive.google.com/thumbnail?id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo&sz=w1600",
     "driveFileId": "1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
     "storage": "google_drive"
   },
@@ -21233,10 +21233,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "branch"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
-    "preview": "https://drive.google.com/uc?export=view&id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
-    "image": "https://drive.google.com/uc?export=view&id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
+    "image": "https://drive.google.com/thumbnail?id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l&sz=w1600",
     "driveFileId": "1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
     "storage": "google_drive"
   },
@@ -21263,10 +21263,10 @@ window.PMW_WALLPAPERS = [
       "fields",
       "dusk"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
-    "preview": "https://drive.google.com/uc?export=view&id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
-    "image": "https://drive.google.com/uc?export=view&id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
+    "image": "https://drive.google.com/thumbnail?id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3&sz=w1600",
     "driveFileId": "1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
     "storage": "google_drive"
   },
@@ -21293,10 +21293,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
-    "preview": "https://drive.google.com/uc?export=view&id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
-    "image": "https://drive.google.com/uc?export=view&id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
+    "image": "https://drive.google.com/thumbnail?id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm&sz=w1600",
     "driveFileId": "1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
     "storage": "google_drive"
   },
@@ -21323,10 +21323,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "grass"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
-    "preview": "https://drive.google.com/uc?export=view&id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
-    "image": "https://drive.google.com/uc?export=view&id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
+    "image": "https://drive.google.com/thumbnail?id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR&sz=w1600",
     "driveFileId": "1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
     "storage": "google_drive"
   },
@@ -21352,10 +21352,10 @@ window.PMW_WALLPAPERS = [
       "blossoms",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
-    "preview": "https://drive.google.com/uc?export=view&id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
-    "image": "https://drive.google.com/uc?export=view&id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
+    "image": "https://drive.google.com/thumbnail?id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX&sz=w1600",
     "driveFileId": "1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
     "storage": "google_drive"
   },
@@ -21382,10 +21382,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "trees"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
-    "preview": "https://drive.google.com/uc?export=view&id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
-    "image": "https://drive.google.com/uc?export=view&id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
+    "image": "https://drive.google.com/thumbnail?id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R&sz=w1600",
     "driveFileId": "1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
     "storage": "google_drive"
   },
@@ -21412,10 +21412,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "village"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
-    "preview": "https://drive.google.com/uc?export=view&id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
-    "image": "https://drive.google.com/uc?export=view&id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
+    "image": "https://drive.google.com/thumbnail?id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo&sz=w1600",
     "driveFileId": "1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
     "storage": "google_drive"
   },
@@ -21442,10 +21442,10 @@ window.PMW_WALLPAPERS = [
       "giant",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
-    "preview": "https://drive.google.com/uc?export=view&id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
-    "image": "https://drive.google.com/uc?export=view&id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
+    "image": "https://drive.google.com/thumbnail?id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv&sz=w1600",
     "driveFileId": "1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
     "storage": "google_drive"
   },
@@ -21471,10 +21471,10 @@ window.PMW_WALLPAPERS = [
       "celestial",
       "palace"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
-    "preview": "https://drive.google.com/uc?export=view&id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
-    "image": "https://drive.google.com/uc?export=view&id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
+    "image": "https://drive.google.com/thumbnail?id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s&sz=w1600",
     "driveFileId": "1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
     "storage": "google_drive"
   },
@@ -21501,10 +21501,10 @@ window.PMW_WALLPAPERS = [
       "islands",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
-    "preview": "https://drive.google.com/uc?export=view&id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
-    "image": "https://drive.google.com/uc?export=view&id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
+    "image": "https://drive.google.com/thumbnail?id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW&sz=w1600",
     "driveFileId": "1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
     "storage": "google_drive"
   },
@@ -21531,10 +21531,10 @@ window.PMW_WALLPAPERS = [
       "water",
       "lantern"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
-    "preview": "https://drive.google.com/uc?export=view&id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
-    "image": "https://drive.google.com/uc?export=view&id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
+    "image": "https://drive.google.com/thumbnail?id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A&sz=w1600",
     "driveFileId": "1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
     "storage": "google_drive"
   },
@@ -21560,10 +21560,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "petals"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
-    "preview": "https://drive.google.com/uc?export=view&id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
-    "image": "https://drive.google.com/uc?export=view&id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
+    "image": "https://drive.google.com/thumbnail?id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv&sz=w1600",
     "driveFileId": "15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
     "storage": "google_drive"
   },
@@ -21590,10 +21590,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
-    "preview": "https://drive.google.com/uc?export=view&id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
-    "image": "https://drive.google.com/uc?export=view&id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
+    "image": "https://drive.google.com/thumbnail?id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW&sz=w1600",
     "driveFileId": "14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
     "storage": "google_drive"
   },
@@ -21619,10 +21619,10 @@ window.PMW_WALLPAPERS = [
       "cloud",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
-    "preview": "https://drive.google.com/uc?export=view&id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
-    "image": "https://drive.google.com/uc?export=view&id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
+    "image": "https://drive.google.com/thumbnail?id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K&sz=w1600",
     "driveFileId": "1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
     "storage": "google_drive"
   },
@@ -21649,10 +21649,10 @@ window.PMW_WALLPAPERS = [
       "spirits",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
-    "preview": "https://drive.google.com/uc?export=view&id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
-    "image": "https://drive.google.com/uc?export=view&id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
+    "image": "https://drive.google.com/thumbnail?id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2&sz=w1600",
     "driveFileId": "1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
     "storage": "google_drive"
   },
@@ -21679,10 +21679,10 @@ window.PMW_WALLPAPERS = [
       "galaxy",
       "sky"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
-    "preview": "https://drive.google.com/uc?export=view&id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
-    "image": "https://drive.google.com/uc?export=view&id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
+    "image": "https://drive.google.com/thumbnail?id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV&sz=w1600",
     "driveFileId": "1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
     "storage": "google_drive"
   },
@@ -21709,10 +21709,10 @@ window.PMW_WALLPAPERS = [
       "koi",
       "sky"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
-    "preview": "https://drive.google.com/uc?export=view&id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
-    "image": "https://drive.google.com/uc?export=view&id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
+    "image": "https://drive.google.com/thumbnail?id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE&sz=w1600",
     "driveFileId": "1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
     "storage": "google_drive"
   },
@@ -21738,10 +21738,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
-    "preview": "https://drive.google.com/uc?export=view&id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
-    "image": "https://drive.google.com/uc?export=view&id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
+    "image": "https://drive.google.com/thumbnail?id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi&sz=w1600",
     "driveFileId": "1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
     "storage": "google_drive"
   },
@@ -21768,10 +21768,10 @@ window.PMW_WALLPAPERS = [
       "sky",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
-    "preview": "https://drive.google.com/uc?export=view&id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
-    "image": "https://drive.google.com/uc?export=view&id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
+    "image": "https://drive.google.com/thumbnail?id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH&sz=w1600",
     "driveFileId": "1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
     "storage": "google_drive"
   },
@@ -21797,10 +21797,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
-    "preview": "https://drive.google.com/uc?export=view&id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
-    "image": "https://drive.google.com/uc?export=view&id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
+    "image": "https://drive.google.com/thumbnail?id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO&sz=w1600",
     "driveFileId": "16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
     "storage": "google_drive"
   },
@@ -21827,10 +21827,10 @@ window.PMW_WALLPAPERS = [
       "white",
       "flowers"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
-    "preview": "https://drive.google.com/uc?export=view&id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
-    "image": "https://drive.google.com/uc?export=view&id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
+    "image": "https://drive.google.com/thumbnail?id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF&sz=w1600",
     "driveFileId": "1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
     "storage": "google_drive"
   },
@@ -21857,10 +21857,10 @@ window.PMW_WALLPAPERS = [
       "blossom",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
-    "preview": "https://drive.google.com/uc?export=view&id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
-    "image": "https://drive.google.com/uc?export=view&id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
+    "image": "https://drive.google.com/thumbnail?id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T&sz=w1600",
     "driveFileId": "17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
     "storage": "google_drive"
   },
@@ -21887,10 +21887,10 @@ window.PMW_WALLPAPERS = [
       "dragon",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
-    "preview": "https://drive.google.com/uc?export=view&id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
-    "image": "https://drive.google.com/uc?export=view&id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
+    "image": "https://drive.google.com/thumbnail?id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg&sz=w1600",
     "driveFileId": "1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
     "storage": "google_drive"
   },
@@ -21917,10 +21917,10 @@ window.PMW_WALLPAPERS = [
       "campfire",
       "floating"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
-    "preview": "https://drive.google.com/uc?export=view&id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
-    "image": "https://drive.google.com/uc?export=view&id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
+    "image": "https://drive.google.com/thumbnail?id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo&sz=w1600",
     "driveFileId": "16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
     "storage": "google_drive"
   },
@@ -21946,10 +21946,10 @@ window.PMW_WALLPAPERS = [
       "gate",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
-    "preview": "https://drive.google.com/uc?export=view&id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
-    "image": "https://drive.google.com/uc?export=view&id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
+    "image": "https://drive.google.com/thumbnail?id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh&sz=w1600",
     "driveFileId": "1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
     "storage": "google_drive"
   },
@@ -21976,10 +21976,10 @@ window.PMW_WALLPAPERS = [
       "silver",
       "grass"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
-    "preview": "https://drive.google.com/uc?export=view&id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
-    "image": "https://drive.google.com/uc?export=view&id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
+    "image": "https://drive.google.com/thumbnail?id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME&sz=w1600",
     "driveFileId": "1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
     "storage": "google_drive"
   },
@@ -22006,10 +22006,10 @@ window.PMW_WALLPAPERS = [
       "milky",
       "way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
-    "preview": "https://drive.google.com/uc?export=view&id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
-    "image": "https://drive.google.com/uc?export=view&id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
+    "image": "https://drive.google.com/thumbnail?id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u&sz=w1600",
     "driveFileId": "1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
     "storage": "google_drive"
   },
@@ -22036,10 +22036,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
-    "preview": "https://drive.google.com/uc?export=view&id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
-    "image": "https://drive.google.com/uc?export=view&id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
+    "image": "https://drive.google.com/thumbnail?id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe&sz=w1600",
     "driveFileId": "1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
     "storage": "google_drive"
   },
@@ -22066,10 +22066,10 @@ window.PMW_WALLPAPERS = [
       "guardian",
       "blossoms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
-    "preview": "https://drive.google.com/uc?export=view&id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
-    "image": "https://drive.google.com/uc?export=view&id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
+    "image": "https://drive.google.com/thumbnail?id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_&sz=w1600",
     "driveFileId": "1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
     "storage": "google_drive"
   },
@@ -22096,10 +22096,10 @@ window.PMW_WALLPAPERS = [
       "starry",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
-    "preview": "https://drive.google.com/uc?export=view&id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
-    "image": "https://drive.google.com/uc?export=view&id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
+    "image": "https://drive.google.com/thumbnail?id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni&sz=w1600",
     "driveFileId": "1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
     "storage": "google_drive"
   },
@@ -22125,10 +22125,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "cliffs"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
-    "preview": "https://drive.google.com/uc?export=view&id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
-    "image": "https://drive.google.com/uc?export=view&id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
+    "image": "https://drive.google.com/thumbnail?id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po&sz=w1600",
     "driveFileId": "1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
     "storage": "google_drive"
   },
@@ -22155,10 +22155,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "town"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
-    "preview": "https://drive.google.com/uc?export=view&id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
-    "image": "https://drive.google.com/uc?export=view&id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
+    "image": "https://drive.google.com/thumbnail?id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7&sz=w1600",
     "driveFileId": "1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
     "storage": "google_drive"
   },
@@ -22184,10 +22184,10 @@ window.PMW_WALLPAPERS = [
       "crescent",
       "galaxy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
-    "preview": "https://drive.google.com/uc?export=view&id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
-    "image": "https://drive.google.com/uc?export=view&id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
+    "image": "https://drive.google.com/thumbnail?id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h&sz=w1600",
     "driveFileId": "1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
     "storage": "google_drive"
   },
@@ -22214,10 +22214,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "sword"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
-    "preview": "https://drive.google.com/uc?export=view&id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
-    "image": "https://drive.google.com/uc?export=view&id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
+    "image": "https://drive.google.com/thumbnail?id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a&sz=w1600",
     "driveFileId": "11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
     "storage": "google_drive"
   },
@@ -22244,10 +22244,10 @@ window.PMW_WALLPAPERS = [
       "branch",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
-    "preview": "https://drive.google.com/uc?export=view&id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
-    "image": "https://drive.google.com/uc?export=view&id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
+    "image": "https://drive.google.com/thumbnail?id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV&sz=w1600",
     "driveFileId": "15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
     "storage": "google_drive"
   },
@@ -22274,10 +22274,10 @@ window.PMW_WALLPAPERS = [
       "eclipse",
       "ocean"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
-    "preview": "https://drive.google.com/uc?export=view&id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
-    "image": "https://drive.google.com/uc?export=view&id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
+    "image": "https://drive.google.com/thumbnail?id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh&sz=w1600",
     "driveFileId": "1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
     "storage": "google_drive"
   },
@@ -22304,10 +22304,10 @@ window.PMW_WALLPAPERS = [
       "full",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
-    "preview": "https://drive.google.com/uc?export=view&id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
-    "image": "https://drive.google.com/uc?export=view&id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
+    "image": "https://drive.google.com/thumbnail?id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x&sz=w1600",
     "driveFileId": "1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
     "storage": "google_drive"
   },
@@ -22333,10 +22333,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
-    "preview": "https://drive.google.com/uc?export=view&id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
-    "image": "https://drive.google.com/uc?export=view&id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
+    "image": "https://drive.google.com/thumbnail?id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb&sz=w1600",
     "driveFileId": "1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
     "storage": "google_drive"
   },
@@ -22363,10 +22363,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "blue"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
-    "preview": "https://drive.google.com/uc?export=view&id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
-    "image": "https://drive.google.com/uc?export=view&id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
+    "image": "https://drive.google.com/thumbnail?id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts&sz=w1600",
     "driveFileId": "1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
     "storage": "google_drive"
   },
@@ -22392,10 +22392,10 @@ window.PMW_WALLPAPERS = [
       "torii",
       "shrine"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
-    "preview": "https://drive.google.com/uc?export=view&id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
-    "image": "https://drive.google.com/uc?export=view&id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
+    "image": "https://drive.google.com/thumbnail?id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa&sz=w1600",
     "driveFileId": "1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
     "storage": "google_drive"
   },
@@ -22422,10 +22422,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
-    "preview": "https://drive.google.com/uc?export=view&id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
-    "image": "https://drive.google.com/uc?export=view&id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
+    "image": "https://drive.google.com/thumbnail?id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE&sz=w1600",
     "driveFileId": "1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
     "storage": "google_drive"
   },
@@ -22452,10 +22452,10 @@ window.PMW_WALLPAPERS = [
       "cloud",
       "carpet"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
-    "preview": "https://drive.google.com/uc?export=view&id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
-    "image": "https://drive.google.com/uc?export=view&id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
+    "image": "https://drive.google.com/thumbnail?id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9&sz=w1600",
     "driveFileId": "1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
     "storage": "google_drive"
   },
@@ -22482,10 +22482,10 @@ window.PMW_WALLPAPERS = [
       "battlefield",
       "rain"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
-    "preview": "https://drive.google.com/uc?export=view&id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
-    "image": "https://drive.google.com/uc?export=view&id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
+    "image": "https://drive.google.com/thumbnail?id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A&sz=w1600",
     "driveFileId": "1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
     "storage": "google_drive"
   },
@@ -22512,10 +22512,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
-    "preview": "https://drive.google.com/uc?export=view&id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
-    "image": "https://drive.google.com/uc?export=view&id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
+    "image": "https://drive.google.com/thumbnail?id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7&sz=w1600",
     "driveFileId": "1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
     "storage": "google_drive"
   },
@@ -22542,10 +22542,10 @@ window.PMW_WALLPAPERS = [
       "spirit",
       "horse"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
-    "preview": "https://drive.google.com/uc?export=view&id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
-    "image": "https://drive.google.com/uc?export=view&id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
+    "image": "https://drive.google.com/thumbnail?id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v&sz=w1600",
     "driveFileId": "1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
     "storage": "google_drive"
   },
@@ -22572,10 +22572,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
-    "preview": "https://drive.google.com/uc?export=view&id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
-    "image": "https://drive.google.com/uc?export=view&id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
+    "image": "https://drive.google.com/thumbnail?id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2&sz=w1600",
     "driveFileId": "17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
     "storage": "google_drive"
   },
@@ -22602,10 +22602,10 @@ window.PMW_WALLPAPERS = [
       "village",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
-    "preview": "https://drive.google.com/uc?export=view&id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
-    "image": "https://drive.google.com/uc?export=view&id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
+    "image": "https://drive.google.com/thumbnail?id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz&sz=w1600",
     "driveFileId": "1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
     "storage": "google_drive"
   },
@@ -22632,10 +22632,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
-    "preview": "https://drive.google.com/uc?export=view&id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
-    "image": "https://drive.google.com/uc?export=view&id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
+    "image": "https://drive.google.com/thumbnail?id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB&sz=w1600",
     "driveFileId": "1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
     "storage": "google_drive"
   },
@@ -22662,10 +22662,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
-    "preview": "https://drive.google.com/uc?export=view&id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
-    "image": "https://drive.google.com/uc?export=view&id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
+    "image": "https://drive.google.com/thumbnail?id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD&sz=w1600",
     "driveFileId": "1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
     "storage": "google_drive"
   },
@@ -22692,10 +22692,10 @@ window.PMW_WALLPAPERS = [
       "spirits",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
-    "preview": "https://drive.google.com/uc?export=view&id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
-    "image": "https://drive.google.com/uc?export=view&id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
+    "image": "https://drive.google.com/thumbnail?id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV&sz=w1600",
     "driveFileId": "1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
     "storage": "google_drive"
   },
@@ -22721,10 +22721,10 @@ window.PMW_WALLPAPERS = [
       "lightning",
       "storm"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
-    "preview": "https://drive.google.com/uc?export=view&id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
-    "image": "https://drive.google.com/uc?export=view&id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
+    "image": "https://drive.google.com/thumbnail?id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl&sz=w1600",
     "driveFileId": "1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
     "storage": "google_drive"
   },
@@ -22751,10 +22751,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
-    "preview": "https://drive.google.com/uc?export=view&id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
-    "image": "https://drive.google.com/uc?export=view&id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
+    "image": "https://drive.google.com/thumbnail?id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn&sz=w1600",
     "driveFileId": "1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
     "storage": "google_drive"
   },
@@ -22781,10 +22781,10 @@ window.PMW_WALLPAPERS = [
       "bamboo",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
-    "preview": "https://drive.google.com/uc?export=view&id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
-    "image": "https://drive.google.com/uc?export=view&id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
+    "image": "https://drive.google.com/thumbnail?id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM&sz=w1600",
     "driveFileId": "1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
     "storage": "google_drive"
   },
@@ -22811,10 +22811,10 @@ window.PMW_WALLPAPERS = [
       "way",
       "beach"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
-    "preview": "https://drive.google.com/uc?export=view&id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
-    "image": "https://drive.google.com/uc?export=view&id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
+    "image": "https://drive.google.com/thumbnail?id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst&sz=w1600",
     "driveFileId": "1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
     "storage": "google_drive"
   },
@@ -22841,10 +22841,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "dragons"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
-    "preview": "https://drive.google.com/uc?export=view&id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
-    "image": "https://drive.google.com/uc?export=view&id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
+    "image": "https://drive.google.com/thumbnail?id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT&sz=w1600",
     "driveFileId": "1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
     "storage": "google_drive"
   },
@@ -22871,10 +22871,10 @@ window.PMW_WALLPAPERS = [
       "snowy",
       "temple"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
-    "preview": "https://drive.google.com/uc?export=view&id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
-    "image": "https://drive.google.com/uc?export=view&id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
+    "image": "https://drive.google.com/thumbnail?id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-&sz=w1600",
     "driveFileId": "1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
     "storage": "google_drive"
   },
@@ -22900,10 +22900,10 @@ window.PMW_WALLPAPERS = [
       "city",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
-    "preview": "https://drive.google.com/uc?export=view&id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
-    "image": "https://drive.google.com/uc?export=view&id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
+    "image": "https://drive.google.com/thumbnail?id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql&sz=w1600",
     "driveFileId": "1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
     "storage": "google_drive"
   },
@@ -22930,10 +22930,10 @@ window.PMW_WALLPAPERS = [
       "crescent",
       "temple"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
-    "preview": "https://drive.google.com/uc?export=view&id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
-    "image": "https://drive.google.com/uc?export=view&id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
+    "image": "https://drive.google.com/thumbnail?id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J&sz=w1600",
     "driveFileId": "1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
     "storage": "google_drive"
   },
@@ -22960,10 +22960,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "bridges"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
-    "preview": "https://drive.google.com/uc?export=view&id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
-    "image": "https://drive.google.com/uc?export=view&id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
+    "image": "https://drive.google.com/thumbnail?id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd&sz=w1600",
     "driveFileId": "1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
     "storage": "google_drive"
   },
@@ -22990,10 +22990,10 @@ window.PMW_WALLPAPERS = [
       "blossom",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
-    "preview": "https://drive.google.com/uc?export=view&id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
-    "image": "https://drive.google.com/uc?export=view&id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
+    "image": "https://drive.google.com/thumbnail?id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5&sz=w1600",
     "driveFileId": "10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
     "storage": "google_drive"
   },
@@ -23020,10 +23020,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
-    "preview": "https://drive.google.com/uc?export=view&id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
-    "image": "https://drive.google.com/uc?export=view&id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
+    "image": "https://drive.google.com/thumbnail?id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n&sz=w1600",
     "driveFileId": "13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
     "storage": "google_drive"
   },
@@ -23049,10 +23049,10 @@ window.PMW_WALLPAPERS = [
       "temple",
       "library"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
-    "preview": "https://drive.google.com/uc?export=view&id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
-    "image": "https://drive.google.com/uc?export=view&id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
+    "image": "https://drive.google.com/thumbnail?id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5&sz=w1600",
     "driveFileId": "1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
     "storage": "google_drive"
   },
@@ -23079,10 +23079,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
-    "preview": "https://drive.google.com/uc?export=view&id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
-    "image": "https://drive.google.com/uc?export=view&id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
+    "image": "https://drive.google.com/thumbnail?id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR&sz=w1600",
     "driveFileId": "1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
     "storage": "google_drive"
   },
@@ -23109,10 +23109,10 @@ window.PMW_WALLPAPERS = [
       "misty",
       "blossoms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
-    "preview": "https://drive.google.com/uc?export=view&id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
-    "image": "https://drive.google.com/uc?export=view&id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
+    "image": "https://drive.google.com/thumbnail?id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF&sz=w1600",
     "driveFileId": "1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
     "storage": "google_drive"
   },
@@ -23138,10 +23138,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vBTmVui022cOT4hIe7iqC4DLZXablBni",
-    "preview": "https://drive.google.com/uc?export=view&id=1vBTmVui022cOT4hIe7iqC4DLZXablBni",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vBTmVui022cOT4hIe7iqC4DLZXablBni&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vBTmVui022cOT4hIe7iqC4DLZXablBni&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vBTmVui022cOT4hIe7iqC4DLZXablBni",
-    "image": "https://drive.google.com/uc?export=view&id=1vBTmVui022cOT4hIe7iqC4DLZXablBni",
+    "image": "https://drive.google.com/thumbnail?id=1vBTmVui022cOT4hIe7iqC4DLZXablBni&sz=w1600",
     "driveFileId": "1vBTmVui022cOT4hIe7iqC4DLZXablBni",
     "storage": "google_drive"
   },
@@ -23168,10 +23168,10 @@ window.PMW_WALLPAPERS = [
       "milky",
       "way"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
-    "preview": "https://drive.google.com/uc?export=view&id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
-    "image": "https://drive.google.com/uc?export=view&id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
+    "image": "https://drive.google.com/thumbnail?id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs&sz=w1600",
     "driveFileId": "1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
     "storage": "google_drive"
   },
@@ -23197,10 +23197,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
-    "preview": "https://drive.google.com/uc?export=view&id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
-    "image": "https://drive.google.com/uc?export=view&id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
+    "image": "https://drive.google.com/thumbnail?id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW&sz=w1600",
     "driveFileId": "1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
     "storage": "google_drive"
   },
@@ -23226,10 +23226,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
-    "preview": "https://drive.google.com/uc?export=view&id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
-    "image": "https://drive.google.com/uc?export=view&id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
+    "image": "https://drive.google.com/thumbnail?id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf&sz=w1600",
     "driveFileId": "1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
     "storage": "google_drive"
   },
@@ -23256,10 +23256,10 @@ window.PMW_WALLPAPERS = [
       "red",
       "maples"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
-    "preview": "https://drive.google.com/uc?export=view&id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
-    "image": "https://drive.google.com/uc?export=view&id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
+    "image": "https://drive.google.com/thumbnail?id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q&sz=w1600",
     "driveFileId": "1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
     "storage": "google_drive"
   },
@@ -23286,10 +23286,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
-    "preview": "https://drive.google.com/uc?export=view&id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
-    "image": "https://drive.google.com/uc?export=view&id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
+    "image": "https://drive.google.com/thumbnail?id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b&sz=w1600",
     "driveFileId": "1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
     "storage": "google_drive"
   },
@@ -23316,10 +23316,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
-    "preview": "https://drive.google.com/uc?export=view&id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
-    "image": "https://drive.google.com/uc?export=view&id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
+    "image": "https://drive.google.com/thumbnail?id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF&sz=w1600",
     "driveFileId": "1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
     "storage": "google_drive"
   },
@@ -23346,10 +23346,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "blossoms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
-    "preview": "https://drive.google.com/uc?export=view&id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
-    "image": "https://drive.google.com/uc?export=view&id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
+    "image": "https://drive.google.com/thumbnail?id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-&sz=w1600",
     "driveFileId": "1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
     "storage": "google_drive"
   },
@@ -23375,10 +23375,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "blossom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
-    "preview": "https://drive.google.com/uc?export=view&id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
-    "image": "https://drive.google.com/uc?export=view&id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
+    "image": "https://drive.google.com/thumbnail?id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl&sz=w1600",
     "driveFileId": "1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
     "storage": "google_drive"
   },
@@ -23405,10 +23405,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "blossoms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
-    "preview": "https://drive.google.com/uc?export=view&id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
-    "image": "https://drive.google.com/uc?export=view&id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
+    "image": "https://drive.google.com/thumbnail?id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz&sz=w1600",
     "driveFileId": "1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
     "storage": "google_drive"
   },
@@ -23435,10 +23435,10 @@ window.PMW_WALLPAPERS = [
       "shrine",
       "gate"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
-    "preview": "https://drive.google.com/uc?export=view&id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
-    "image": "https://drive.google.com/uc?export=view&id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
+    "image": "https://drive.google.com/thumbnail?id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2&sz=w1600",
     "driveFileId": "17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
     "storage": "google_drive"
   },
@@ -23464,10 +23464,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
-    "preview": "https://drive.google.com/uc?export=view&id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
-    "image": "https://drive.google.com/uc?export=view&id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
+    "image": "https://drive.google.com/thumbnail?id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH&sz=w1600",
     "driveFileId": "1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
     "storage": "google_drive"
   },
@@ -23494,10 +23494,10 @@ window.PMW_WALLPAPERS = [
       "red",
       "maple"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
-    "preview": "https://drive.google.com/uc?export=view&id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
-    "image": "https://drive.google.com/uc?export=view&id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
+    "image": "https://drive.google.com/thumbnail?id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN&sz=w1600",
     "driveFileId": "11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
     "storage": "google_drive"
   },
@@ -23524,10 +23524,10 @@ window.PMW_WALLPAPERS = [
       "white",
       "fox"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
-    "preview": "https://drive.google.com/uc?export=view&id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
-    "image": "https://drive.google.com/uc?export=view&id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
+    "image": "https://drive.google.com/thumbnail?id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX&sz=w1600",
     "driveFileId": "1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
     "storage": "google_drive"
   },
@@ -23553,10 +23553,10 @@ window.PMW_WALLPAPERS = [
       "falling",
       "petals"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
-    "preview": "https://drive.google.com/uc?export=view&id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
-    "image": "https://drive.google.com/uc?export=view&id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
+    "image": "https://drive.google.com/thumbnail?id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP&sz=w1600",
     "driveFileId": "1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
     "storage": "google_drive"
   },
@@ -23580,10 +23580,10 @@ window.PMW_WALLPAPERS = [
       "enchanted",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
-    "preview": "https://drive.google.com/uc?export=view&id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
-    "image": "https://drive.google.com/uc?export=view&id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
+    "image": "https://drive.google.com/thumbnail?id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx&sz=w1600",
     "driveFileId": "1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
     "storage": "google_drive"
   },
@@ -23607,10 +23607,10 @@ window.PMW_WALLPAPERS = [
       "brass",
       "telescope"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
-    "preview": "https://drive.google.com/uc?export=view&id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
-    "image": "https://drive.google.com/uc?export=view&id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
+    "image": "https://drive.google.com/thumbnail?id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V&sz=w1600",
     "driveFileId": "1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
     "storage": "google_drive"
   },
@@ -23634,10 +23634,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "library"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
-    "preview": "https://drive.google.com/uc?export=view&id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
-    "image": "https://drive.google.com/uc?export=view&id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
+    "image": "https://drive.google.com/thumbnail?id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1&sz=w1600",
     "driveFileId": "1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
     "storage": "google_drive"
   },
@@ -23662,10 +23662,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "hall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
-    "preview": "https://drive.google.com/uc?export=view&id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
-    "image": "https://drive.google.com/uc?export=view&id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
+    "image": "https://drive.google.com/thumbnail?id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6&sz=w1600",
     "driveFileId": "1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
     "storage": "google_drive"
   },
@@ -23690,10 +23690,10 @@ window.PMW_WALLPAPERS = [
       "deer",
       "full"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
-    "preview": "https://drive.google.com/uc?export=view&id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
-    "image": "https://drive.google.com/uc?export=view&id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
+    "image": "https://drive.google.com/thumbnail?id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15&sz=w1600",
     "driveFileId": "1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
     "storage": "google_drive"
   },
@@ -23718,10 +23718,10 @@ window.PMW_WALLPAPERS = [
       "ancient",
       "dragon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
-    "preview": "https://drive.google.com/uc?export=view&id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
-    "image": "https://drive.google.com/uc?export=view&id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
+    "image": "https://drive.google.com/thumbnail?id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v&sz=w1600",
     "driveFileId": "1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
     "storage": "google_drive"
   },
@@ -23746,10 +23746,10 @@ window.PMW_WALLPAPERS = [
       "purple",
       "blade"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
-    "preview": "https://drive.google.com/uc?export=view&id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
-    "image": "https://drive.google.com/uc?export=view&id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
+    "image": "https://drive.google.com/thumbnail?id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9&sz=w1600",
     "driveFileId": "1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
     "storage": "google_drive"
   },
@@ -23773,10 +23773,10 @@ window.PMW_WALLPAPERS = [
       "fantasy",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
-    "preview": "https://drive.google.com/uc?export=view&id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
-    "image": "https://drive.google.com/uc?export=view&id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
+    "image": "https://drive.google.com/thumbnail?id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE&sz=w1600",
     "driveFileId": "1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
     "storage": "google_drive"
   },
@@ -23801,10 +23801,10 @@ window.PMW_WALLPAPERS = [
       "flying",
       "dragon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
-    "preview": "https://drive.google.com/uc?export=view&id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
-    "image": "https://drive.google.com/uc?export=view&id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
+    "image": "https://drive.google.com/thumbnail?id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm&sz=w1600",
     "driveFileId": "1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
     "storage": "google_drive"
   },
@@ -23829,10 +23829,10 @@ window.PMW_WALLPAPERS = [
       "eagle",
       "snowy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
-    "preview": "https://drive.google.com/uc?export=view&id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
-    "image": "https://drive.google.com/uc?export=view&id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
+    "image": "https://drive.google.com/thumbnail?id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC&sz=w1600",
     "driveFileId": "1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
     "storage": "google_drive"
   },
@@ -23856,10 +23856,10 @@ window.PMW_WALLPAPERS = [
       "mushroom",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
-    "preview": "https://drive.google.com/uc?export=view&id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
-    "image": "https://drive.google.com/uc?export=view&id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
+    "image": "https://drive.google.com/thumbnail?id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt&sz=w1600",
     "driveFileId": "1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
     "storage": "google_drive"
   },
@@ -23883,10 +23883,10 @@ window.PMW_WALLPAPERS = [
       "ship",
       "dragon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
-    "preview": "https://drive.google.com/uc?export=view&id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
-    "image": "https://drive.google.com/uc?export=view&id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
+    "image": "https://drive.google.com/thumbnail?id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG&sz=w1600",
     "driveFileId": "1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
     "storage": "google_drive"
   },
@@ -23911,10 +23911,10 @@ window.PMW_WALLPAPERS = [
       "horse",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
-    "preview": "https://drive.google.com/uc?export=view&id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
-    "image": "https://drive.google.com/uc?export=view&id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
+    "image": "https://drive.google.com/thumbnail?id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID&sz=w1600",
     "driveFileId": "1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
     "storage": "google_drive"
   },
@@ -23939,10 +23939,10 @@ window.PMW_WALLPAPERS = [
       "market",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
-    "preview": "https://drive.google.com/uc?export=view&id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
-    "image": "https://drive.google.com/uc?export=view&id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
+    "image": "https://drive.google.com/thumbnail?id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q&sz=w1600",
     "driveFileId": "15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
     "storage": "google_drive"
   },
@@ -23967,10 +23967,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "kingdom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
-    "preview": "https://drive.google.com/uc?export=view&id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
-    "image": "https://drive.google.com/uc?export=view&id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
+    "image": "https://drive.google.com/thumbnail?id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh&sz=w1600",
     "driveFileId": "14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
     "storage": "google_drive"
   },
@@ -23995,10 +23995,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "spirits"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
-    "preview": "https://drive.google.com/uc?export=view&id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
-    "image": "https://drive.google.com/uc?export=view&id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
+    "image": "https://drive.google.com/thumbnail?id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS&sz=w1600",
     "driveFileId": "1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
     "storage": "google_drive"
   },
@@ -24023,10 +24023,10 @@ window.PMW_WALLPAPERS = [
       "mirror",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
-    "preview": "https://drive.google.com/uc?export=view&id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
-    "image": "https://drive.google.com/uc?export=view&id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
+    "image": "https://drive.google.com/thumbnail?id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo&sz=w1600",
     "driveFileId": "1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
     "storage": "google_drive"
   },
@@ -24051,10 +24051,10 @@ window.PMW_WALLPAPERS = [
       "mushroom",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
-    "preview": "https://drive.google.com/uc?export=view&id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
-    "image": "https://drive.google.com/uc?export=view&id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
+    "image": "https://drive.google.com/thumbnail?id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY&sz=w1600",
     "driveFileId": "1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
     "storage": "google_drive"
   },
@@ -24079,10 +24079,10 @@ window.PMW_WALLPAPERS = [
       "island",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
-    "preview": "https://drive.google.com/uc?export=view&id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
-    "image": "https://drive.google.com/uc?export=view&id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
+    "image": "https://drive.google.com/thumbnail?id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI&sz=w1600",
     "driveFileId": "1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
     "storage": "google_drive"
   },
@@ -24106,10 +24106,10 @@ window.PMW_WALLPAPERS = [
       "cockpit",
       "cliffs"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
-    "preview": "https://drive.google.com/uc?export=view&id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
-    "image": "https://drive.google.com/uc?export=view&id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
+    "image": "https://drive.google.com/thumbnail?id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr&sz=w1600",
     "driveFileId": "1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
     "storage": "google_drive"
   },
@@ -24134,10 +24134,10 @@ window.PMW_WALLPAPERS = [
       "aurora",
       "wave"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
-    "preview": "https://drive.google.com/uc?export=view&id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
-    "image": "https://drive.google.com/uc?export=view&id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
+    "image": "https://drive.google.com/thumbnail?id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_&sz=w1600",
     "driveFileId": "1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
     "storage": "google_drive"
   },
@@ -24162,10 +24162,10 @@ window.PMW_WALLPAPERS = [
       "facing",
       "dragon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
-    "preview": "https://drive.google.com/uc?export=view&id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
-    "image": "https://drive.google.com/uc?export=view&id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
+    "image": "https://drive.google.com/thumbnail?id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q&sz=w1600",
     "driveFileId": "1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
     "storage": "google_drive"
   },
@@ -24190,10 +24190,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "islands"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
-    "preview": "https://drive.google.com/uc?export=view&id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
-    "image": "https://drive.google.com/uc?export=view&id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
+    "image": "https://drive.google.com/thumbnail?id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl&sz=w1600",
     "driveFileId": "11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
     "storage": "google_drive"
   },
@@ -24218,10 +24218,10 @@ window.PMW_WALLPAPERS = [
       "along",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
-    "preview": "https://drive.google.com/uc?export=view&id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
-    "image": "https://drive.google.com/uc?export=view&id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
+    "image": "https://drive.google.com/thumbnail?id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK&sz=w1600",
     "driveFileId": "1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
     "storage": "google_drive"
   },
@@ -24245,10 +24245,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "ballroom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
-    "preview": "https://drive.google.com/uc?export=view&id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
-    "image": "https://drive.google.com/uc?export=view&id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
+    "image": "https://drive.google.com/thumbnail?id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF&sz=w1600",
     "driveFileId": "1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
     "storage": "google_drive"
   },
@@ -24273,10 +24273,10 @@ window.PMW_WALLPAPERS = [
       "autumn",
       "village"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
-    "preview": "https://drive.google.com/uc?export=view&id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
-    "image": "https://drive.google.com/uc?export=view&id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
+    "image": "https://drive.google.com/thumbnail?id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4&sz=w1600",
     "driveFileId": "1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
     "storage": "google_drive"
   },
@@ -24300,10 +24300,10 @@ window.PMW_WALLPAPERS = [
       "fireworks",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
-    "preview": "https://drive.google.com/uc?export=view&id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
-    "image": "https://drive.google.com/uc?export=view&id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
+    "image": "https://drive.google.com/thumbnail?id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67&sz=w1600",
     "driveFileId": "1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
     "storage": "google_drive"
   },
@@ -24327,10 +24327,10 @@ window.PMW_WALLPAPERS = [
       "astral",
       "clock"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
-    "preview": "https://drive.google.com/uc?export=view&id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
-    "image": "https://drive.google.com/uc?export=view&id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
+    "image": "https://drive.google.com/thumbnail?id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR&sz=w1600",
     "driveFileId": "1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
     "storage": "google_drive"
   },
@@ -24355,10 +24355,10 @@ window.PMW_WALLPAPERS = [
       "fantasy",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
-    "preview": "https://drive.google.com/uc?export=view&id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
-    "image": "https://drive.google.com/uc?export=view&id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
+    "image": "https://drive.google.com/thumbnail?id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P&sz=w1600",
     "driveFileId": "17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
     "storage": "google_drive"
   },
@@ -24382,10 +24382,10 @@ window.PMW_WALLPAPERS = [
       "giant",
       "whales"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
-    "preview": "https://drive.google.com/uc?export=view&id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
-    "image": "https://drive.google.com/uc?export=view&id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
+    "image": "https://drive.google.com/thumbnail?id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP&sz=w1600",
     "driveFileId": "1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
     "storage": "google_drive"
   },
@@ -24410,10 +24410,10 @@ window.PMW_WALLPAPERS = [
       "cave",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
-    "preview": "https://drive.google.com/uc?export=view&id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
-    "image": "https://drive.google.com/uc?export=view&id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
+    "image": "https://drive.google.com/thumbnail?id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e&sz=w1600",
     "driveFileId": "1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
     "storage": "google_drive"
   },
@@ -24436,10 +24436,10 @@ window.PMW_WALLPAPERS = [
       "firefly",
       "river"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
-    "preview": "https://drive.google.com/uc?export=view&id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
-    "image": "https://drive.google.com/uc?export=view&id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
+    "image": "https://drive.google.com/thumbnail?id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt&sz=w1600",
     "driveFileId": "1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
     "storage": "google_drive"
   },
@@ -24463,10 +24463,10 @@ window.PMW_WALLPAPERS = [
       "flower",
       "fields"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
-    "preview": "https://drive.google.com/uc?export=view&id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
-    "image": "https://drive.google.com/uc?export=view&id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
+    "image": "https://drive.google.com/thumbnail?id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL&sz=w1600",
     "driveFileId": "1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
     "storage": "google_drive"
   },
@@ -24490,10 +24490,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
-    "preview": "https://drive.google.com/uc?export=view&id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
-    "image": "https://drive.google.com/uc?export=view&id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
+    "image": "https://drive.google.com/thumbnail?id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9&sz=w1600",
     "driveFileId": "1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
     "storage": "google_drive"
   },
@@ -24518,10 +24518,10 @@ window.PMW_WALLPAPERS = [
       "purple",
       "crystals"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
-    "preview": "https://drive.google.com/uc?export=view&id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
-    "image": "https://drive.google.com/uc?export=view&id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
+    "image": "https://drive.google.com/thumbnail?id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8&sz=w1600",
     "driveFileId": "1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
     "storage": "google_drive"
   },
@@ -24546,10 +24546,10 @@ window.PMW_WALLPAPERS = [
       "neon",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
-    "preview": "https://drive.google.com/uc?export=view&id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
-    "image": "https://drive.google.com/uc?export=view&id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
+    "image": "https://drive.google.com/thumbnail?id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U&sz=w1600",
     "driveFileId": "1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
     "storage": "google_drive"
   },
@@ -24574,10 +24574,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
-    "preview": "https://drive.google.com/uc?export=view&id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
-    "image": "https://drive.google.com/uc?export=view&id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
+    "image": "https://drive.google.com/thumbnail?id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S&sz=w1600",
     "driveFileId": "1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
     "storage": "google_drive"
   },
@@ -24600,10 +24600,10 @@ window.PMW_WALLPAPERS = [
       "ocean",
       "train"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
-    "preview": "https://drive.google.com/uc?export=view&id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
-    "image": "https://drive.google.com/uc?export=view&id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
+    "image": "https://drive.google.com/thumbnail?id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5&sz=w1600",
     "driveFileId": "1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
     "storage": "google_drive"
   },
@@ -24628,10 +24628,10 @@ window.PMW_WALLPAPERS = [
       "floral",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
-    "preview": "https://drive.google.com/uc?export=view&id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
+    "thumbnail": "https://drive.google.com/thumbnail?id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
-    "image": "https://drive.google.com/uc?export=view&id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
+    "image": "https://drive.google.com/thumbnail?id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o&sz=w1600",
     "driveFileId": "131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
     "storage": "google_drive"
   },
@@ -24656,10 +24656,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
-    "preview": "https://drive.google.com/uc?export=view&id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
-    "image": "https://drive.google.com/uc?export=view&id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
+    "image": "https://drive.google.com/thumbnail?id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm&sz=w1600",
     "driveFileId": "1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
     "storage": "google_drive"
   },
@@ -24684,10 +24684,10 @@ window.PMW_WALLPAPERS = [
       "cliff",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
-    "preview": "https://drive.google.com/uc?export=view&id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
-    "image": "https://drive.google.com/uc?export=view&id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
+    "image": "https://drive.google.com/thumbnail?id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s&sz=w1600",
     "driveFileId": "1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
     "storage": "google_drive"
   },
@@ -24712,10 +24712,10 @@ window.PMW_WALLPAPERS = [
       "flower",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
-    "preview": "https://drive.google.com/uc?export=view&id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
-    "image": "https://drive.google.com/uc?export=view&id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
+    "image": "https://drive.google.com/thumbnail?id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid&sz=w1600",
     "driveFileId": "19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
     "storage": "google_drive"
   },
@@ -24740,10 +24740,10 @@ window.PMW_WALLPAPERS = [
       "fantasy",
       "plains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
-    "preview": "https://drive.google.com/uc?export=view&id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
-    "image": "https://drive.google.com/uc?export=view&id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
+    "image": "https://drive.google.com/thumbnail?id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l&sz=w1600",
     "driveFileId": "1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
     "storage": "google_drive"
   },
@@ -24768,10 +24768,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "hall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
-    "preview": "https://drive.google.com/uc?export=view&id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
-    "image": "https://drive.google.com/uc?export=view&id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
+    "image": "https://drive.google.com/thumbnail?id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW&sz=w1600",
     "driveFileId": "1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
     "storage": "google_drive"
   },
@@ -24796,10 +24796,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
-    "preview": "https://drive.google.com/uc?export=view&id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
-    "image": "https://drive.google.com/uc?export=view&id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
+    "image": "https://drive.google.com/thumbnail?id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI&sz=w1600",
     "driveFileId": "1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
     "storage": "google_drive"
   },
@@ -24824,10 +24824,10 @@ window.PMW_WALLPAPERS = [
       "pink",
       "flower"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
-    "preview": "https://drive.google.com/uc?export=view&id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
-    "image": "https://drive.google.com/uc?export=view&id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
+    "image": "https://drive.google.com/thumbnail?id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE&sz=w1600",
     "driveFileId": "1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
     "storage": "google_drive"
   },
@@ -24851,10 +24851,10 @@ window.PMW_WALLPAPERS = [
       "tunnel",
       "whales"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
-    "preview": "https://drive.google.com/uc?export=view&id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
-    "image": "https://drive.google.com/uc?export=view&id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
+    "image": "https://drive.google.com/thumbnail?id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE&sz=w1600",
     "driveFileId": "1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
     "storage": "google_drive"
   },
@@ -24878,10 +24878,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "jellyfish"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
-    "preview": "https://drive.google.com/uc?export=view&id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
-    "image": "https://drive.google.com/uc?export=view&id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
+    "image": "https://drive.google.com/thumbnail?id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA&sz=w1600",
     "driveFileId": "1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
     "storage": "google_drive"
   },
@@ -24906,10 +24906,10 @@ window.PMW_WALLPAPERS = [
       "treehouse",
       "village"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
-    "preview": "https://drive.google.com/uc?export=view&id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
-    "image": "https://drive.google.com/uc?export=view&id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
+    "image": "https://drive.google.com/thumbnail?id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6&sz=w1600",
     "driveFileId": "1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
     "storage": "google_drive"
   },
@@ -24932,10 +24932,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
-    "preview": "https://drive.google.com/uc?export=view&id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
-    "image": "https://drive.google.com/uc?export=view&id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
+    "image": "https://drive.google.com/thumbnail?id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS&sz=w1600",
     "driveFileId": "1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
     "storage": "google_drive"
   },
@@ -24959,10 +24959,10 @@ window.PMW_WALLPAPERS = [
       "giant",
       "orange"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
-    "preview": "https://drive.google.com/uc?export=view&id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
-    "image": "https://drive.google.com/uc?export=view&id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
+    "image": "https://drive.google.com/thumbnail?id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao&sz=w1600",
     "driveFileId": "1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
     "storage": "google_drive"
   },
@@ -24986,10 +24986,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
-    "preview": "https://drive.google.com/uc?export=view&id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
-    "image": "https://drive.google.com/uc?export=view&id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
+    "image": "https://drive.google.com/thumbnail?id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl&sz=w1600",
     "driveFileId": "1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
     "storage": "google_drive"
   },
@@ -25014,10 +25014,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "neon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
-    "preview": "https://drive.google.com/uc?export=view&id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
-    "image": "https://drive.google.com/uc?export=view&id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
+    "image": "https://drive.google.com/thumbnail?id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO&sz=w1600",
     "driveFileId": "12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
     "storage": "google_drive"
   },
@@ -25042,10 +25042,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "mountains"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
-    "preview": "https://drive.google.com/uc?export=view&id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
-    "image": "https://drive.google.com/uc?export=view&id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
+    "image": "https://drive.google.com/thumbnail?id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s&sz=w1600",
     "driveFileId": "1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
     "storage": "google_drive"
   },
@@ -25070,10 +25070,10 @@ window.PMW_WALLPAPERS = [
       "classroom",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
-    "preview": "https://drive.google.com/uc?export=view&id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
-    "image": "https://drive.google.com/uc?export=view&id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
+    "image": "https://drive.google.com/thumbnail?id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X&sz=w1600",
     "driveFileId": "1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
     "storage": "google_drive"
   },
@@ -25097,10 +25097,10 @@ window.PMW_WALLPAPERS = [
       "suitcase",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
-    "preview": "https://drive.google.com/uc?export=view&id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
-    "image": "https://drive.google.com/uc?export=view&id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
+    "image": "https://drive.google.com/thumbnail?id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl&sz=w1600",
     "driveFileId": "1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
     "storage": "google_drive"
   },
@@ -25124,10 +25124,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "island"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
-    "preview": "https://drive.google.com/uc?export=view&id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
-    "image": "https://drive.google.com/uc?export=view&id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
+    "image": "https://drive.google.com/thumbnail?id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl&sz=w1600",
     "driveFileId": "1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
     "storage": "google_drive"
   },
@@ -25152,10 +25152,10 @@ window.PMW_WALLPAPERS = [
       "figure",
       "floating"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
-    "preview": "https://drive.google.com/uc?export=view&id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
-    "image": "https://drive.google.com/uc?export=view&id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
+    "image": "https://drive.google.com/thumbnail?id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB&sz=w1600",
     "driveFileId": "1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
     "storage": "google_drive"
   },
@@ -25179,10 +25179,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "village"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
-    "image": "https://drive.google.com/uc?export=view&id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
+    "image": "https://drive.google.com/thumbnail?id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ&sz=w1600",
     "driveFileId": "1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
     "storage": "google_drive"
   },
@@ -25207,10 +25207,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "crystal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
-    "preview": "https://drive.google.com/uc?export=view&id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
-    "image": "https://drive.google.com/uc?export=view&id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
+    "image": "https://drive.google.com/thumbnail?id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl&sz=w1600",
     "driveFileId": "1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
     "storage": "google_drive"
   },
@@ -25235,10 +25235,10 @@ window.PMW_WALLPAPERS = [
       "moon",
       "spider"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
-    "preview": "https://drive.google.com/uc?export=view&id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
-    "image": "https://drive.google.com/uc?export=view&id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
+    "image": "https://drive.google.com/thumbnail?id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et&sz=w1600",
     "driveFileId": "1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
     "storage": "google_drive"
   },
@@ -25263,10 +25263,10 @@ window.PMW_WALLPAPERS = [
       "temple",
       "stairs"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
-    "preview": "https://drive.google.com/uc?export=view&id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
-    "image": "https://drive.google.com/uc?export=view&id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
+    "image": "https://drive.google.com/thumbnail?id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-&sz=w1600",
     "driveFileId": "1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
     "storage": "google_drive"
   },
@@ -25291,10 +25291,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "temple"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
-    "preview": "https://drive.google.com/uc?export=view&id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
+    "thumbnail": "https://drive.google.com/thumbnail?id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
-    "image": "https://drive.google.com/uc?export=view&id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
+    "image": "https://drive.google.com/thumbnail?id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_&sz=w1600",
     "driveFileId": "136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
     "storage": "google_drive"
   },
@@ -25319,10 +25319,10 @@ window.PMW_WALLPAPERS = [
       "moonlit",
       "town"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1koW56UUI_033xyPWGdKg57vbJS3_dXka",
-    "preview": "https://drive.google.com/uc?export=view&id=1koW56UUI_033xyPWGdKg57vbJS3_dXka",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1koW56UUI_033xyPWGdKg57vbJS3_dXka&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1koW56UUI_033xyPWGdKg57vbJS3_dXka&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1koW56UUI_033xyPWGdKg57vbJS3_dXka",
-    "image": "https://drive.google.com/uc?export=view&id=1koW56UUI_033xyPWGdKg57vbJS3_dXka",
+    "image": "https://drive.google.com/thumbnail?id=1koW56UUI_033xyPWGdKg57vbJS3_dXka&sz=w1600",
     "driveFileId": "1koW56UUI_033xyPWGdKg57vbJS3_dXka",
     "storage": "google_drive"
   },
@@ -25346,10 +25346,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
-    "preview": "https://drive.google.com/uc?export=view&id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
-    "image": "https://drive.google.com/uc?export=view&id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
+    "image": "https://drive.google.com/thumbnail?id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY&sz=w1600",
     "driveFileId": "1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
     "storage": "google_drive"
   },
@@ -25374,10 +25374,10 @@ window.PMW_WALLPAPERS = [
       "umbrella",
       "neon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
-    "preview": "https://drive.google.com/uc?export=view&id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
-    "image": "https://drive.google.com/uc?export=view&id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
+    "image": "https://drive.google.com/thumbnail?id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF&sz=w1600",
     "driveFileId": "1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
     "storage": "google_drive"
   },
@@ -25402,10 +25402,10 @@ window.PMW_WALLPAPERS = [
       "palace",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
-    "image": "https://drive.google.com/uc?export=view&id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
+    "image": "https://drive.google.com/thumbnail?id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ&sz=w1600",
     "driveFileId": "1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
     "storage": "google_drive"
   },
@@ -25430,10 +25430,10 @@ window.PMW_WALLPAPERS = [
       "full",
       "moon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
-    "preview": "https://drive.google.com/uc?export=view&id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
-    "image": "https://drive.google.com/uc?export=view&id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
+    "image": "https://drive.google.com/thumbnail?id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L&sz=w1600",
     "driveFileId": "1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
     "storage": "google_drive"
   },
@@ -25457,10 +25457,10 @@ window.PMW_WALLPAPERS = [
       "lantern",
       "street"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
-    "preview": "https://drive.google.com/uc?export=view&id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
-    "image": "https://drive.google.com/uc?export=view&id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
+    "image": "https://drive.google.com/thumbnail?id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT&sz=w1600",
     "driveFileId": "1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
     "storage": "google_drive"
   },
@@ -25485,10 +25485,10 @@ window.PMW_WALLPAPERS = [
       "blossom",
       "lakeside"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
-    "preview": "https://drive.google.com/uc?export=view&id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
-    "image": "https://drive.google.com/uc?export=view&id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
+    "image": "https://drive.google.com/thumbnail?id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m&sz=w1600",
     "driveFileId": "1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
     "storage": "google_drive"
   },
@@ -25513,10 +25513,10 @@ window.PMW_WALLPAPERS = [
       "white",
       "dragon"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
-    "preview": "https://drive.google.com/uc?export=view&id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
-    "image": "https://drive.google.com/uc?export=view&id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
+    "image": "https://drive.google.com/thumbnail?id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR&sz=w1600",
     "driveFileId": "1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
     "storage": "google_drive"
   },
@@ -25541,10 +25541,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "islands"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
-    "image": "https://drive.google.com/uc?export=view&id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
+    "image": "https://drive.google.com/thumbnail?id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ&sz=w1600",
     "driveFileId": "1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
     "storage": "google_drive"
   },
@@ -25569,10 +25569,10 @@ window.PMW_WALLPAPERS = [
       "snowy",
       "observatory"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
-    "preview": "https://drive.google.com/uc?export=view&id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
-    "image": "https://drive.google.com/uc?export=view&id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
+    "image": "https://drive.google.com/thumbnail?id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB&sz=w1600",
     "driveFileId": "1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
     "storage": "google_drive"
   },
@@ -25597,10 +25597,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "cave"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
-    "preview": "https://drive.google.com/uc?export=view&id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
-    "image": "https://drive.google.com/uc?export=view&id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
+    "image": "https://drive.google.com/thumbnail?id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU&sz=w1600",
     "driveFileId": "1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
     "storage": "google_drive"
   },
@@ -25625,10 +25625,10 @@ window.PMW_WALLPAPERS = [
       "lion",
       "gate"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
-    "preview": "https://drive.google.com/uc?export=view&id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
-    "image": "https://drive.google.com/uc?export=view&id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
+    "image": "https://drive.google.com/thumbnail?id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K&sz=w1600",
     "driveFileId": "1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
     "storage": "google_drive"
   },
@@ -25653,10 +25653,10 @@ window.PMW_WALLPAPERS = [
       "cave",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
-    "preview": "https://drive.google.com/uc?export=view&id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
-    "image": "https://drive.google.com/uc?export=view&id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
+    "image": "https://drive.google.com/thumbnail?id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX&sz=w1600",
     "driveFileId": "1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
     "storage": "google_drive"
   },
@@ -25681,10 +25681,10 @@ window.PMW_WALLPAPERS = [
       "cloud",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
-    "preview": "https://drive.google.com/uc?export=view&id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
-    "image": "https://drive.google.com/uc?export=view&id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
+    "image": "https://drive.google.com/thumbnail?id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz&sz=w1600",
     "driveFileId": "10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
     "storage": "google_drive"
   },
@@ -25709,10 +25709,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "autumn"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
-    "preview": "https://drive.google.com/uc?export=view&id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
-    "image": "https://drive.google.com/uc?export=view&id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
+    "image": "https://drive.google.com/thumbnail?id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK&sz=w1600",
     "driveFileId": "1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
     "storage": "google_drive"
   },
@@ -25736,10 +25736,10 @@ window.PMW_WALLPAPERS = [
       "amusement",
       "park"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
-    "preview": "https://drive.google.com/uc?export=view&id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
-    "image": "https://drive.google.com/uc?export=view&id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
+    "image": "https://drive.google.com/thumbnail?id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN&sz=w1600",
     "driveFileId": "1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
     "storage": "google_drive"
   },
@@ -25763,10 +25763,10 @@ window.PMW_WALLPAPERS = [
       "magical",
       "library"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
-    "preview": "https://drive.google.com/uc?export=view&id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
-    "image": "https://drive.google.com/uc?export=view&id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
+    "image": "https://drive.google.com/thumbnail?id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA&sz=w1600",
     "driveFileId": "1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
     "storage": "google_drive"
   },
@@ -25790,10 +25790,10 @@ window.PMW_WALLPAPERS = [
       "waterfall",
       "portal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
-    "preview": "https://drive.google.com/uc?export=view&id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
-    "image": "https://drive.google.com/uc?export=view&id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
+    "image": "https://drive.google.com/thumbnail?id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw&sz=w1600",
     "driveFileId": "10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
     "storage": "google_drive"
   },
@@ -25817,10 +25817,10 @@ window.PMW_WALLPAPERS = [
       "balcony",
       "storm"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
-    "preview": "https://drive.google.com/uc?export=view&id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
-    "image": "https://drive.google.com/uc?export=view&id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
+    "image": "https://drive.google.com/thumbnail?id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK&sz=w1600",
     "driveFileId": "15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
     "storage": "google_drive"
   },
@@ -25844,10 +25844,10 @@ window.PMW_WALLPAPERS = [
       "fantasy",
       "landscape"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
-    "preview": "https://drive.google.com/uc?export=view&id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
-    "image": "https://drive.google.com/uc?export=view&id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
+    "image": "https://drive.google.com/thumbnail?id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj&sz=w1600",
     "driveFileId": "1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
     "storage": "google_drive"
   },
@@ -25871,10 +25871,10 @@ window.PMW_WALLPAPERS = [
       "bioluminescent",
       "cave"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
-    "preview": "https://drive.google.com/uc?export=view&id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
-    "image": "https://drive.google.com/uc?export=view&id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
+    "image": "https://drive.google.com/thumbnail?id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX&sz=w1600",
     "driveFileId": "1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
     "storage": "google_drive"
   },
@@ -25899,10 +25899,10 @@ window.PMW_WALLPAPERS = [
       "underwater",
       "ruins"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
-    "preview": "https://drive.google.com/uc?export=view&id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
-    "image": "https://drive.google.com/uc?export=view&id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
+    "image": "https://drive.google.com/thumbnail?id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx&sz=w1600",
     "driveFileId": "1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
     "storage": "google_drive"
   },
@@ -25926,10 +25926,10 @@ window.PMW_WALLPAPERS = [
       "blossom",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
-    "preview": "https://drive.google.com/uc?export=view&id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
-    "image": "https://drive.google.com/uc?export=view&id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
+    "image": "https://drive.google.com/thumbnail?id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT&sz=w1600",
     "driveFileId": "1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
     "storage": "google_drive"
   },
@@ -25954,10 +25954,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "sword"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
-    "preview": "https://drive.google.com/uc?export=view&id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
-    "image": "https://drive.google.com/uc?export=view&id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
+    "image": "https://drive.google.com/thumbnail?id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL&sz=w1600",
     "driveFileId": "10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
     "storage": "google_drive"
   },
@@ -25982,10 +25982,10 @@ window.PMW_WALLPAPERS = [
       "world",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
-    "preview": "https://drive.google.com/uc?export=view&id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
-    "image": "https://drive.google.com/uc?export=view&id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
+    "image": "https://drive.google.com/thumbnail?id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9&sz=w1600",
     "driveFileId": "1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
     "storage": "google_drive"
   },
@@ -26010,10 +26010,10 @@ window.PMW_WALLPAPERS = [
       "magical",
       "food"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
-    "preview": "https://drive.google.com/uc?export=view&id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
-    "image": "https://drive.google.com/uc?export=view&id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
+    "image": "https://drive.google.com/thumbnail?id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs&sz=w1600",
     "driveFileId": "1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
     "storage": "google_drive"
   },
@@ -26037,10 +26037,10 @@ window.PMW_WALLPAPERS = [
       "stormy",
       "window"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
-    "preview": "https://drive.google.com/uc?export=view&id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
-    "image": "https://drive.google.com/uc?export=view&id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
+    "image": "https://drive.google.com/thumbnail?id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6&sz=w1600",
     "driveFileId": "1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
     "storage": "google_drive"
   },
@@ -26064,10 +26064,10 @@ window.PMW_WALLPAPERS = [
       "spirit",
       "shrine"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
-    "preview": "https://drive.google.com/uc?export=view&id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
-    "image": "https://drive.google.com/uc?export=view&id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
+    "image": "https://drive.google.com/thumbnail?id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu&sz=w1600",
     "driveFileId": "1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
     "storage": "google_drive"
   },
@@ -26090,10 +26090,10 @@ window.PMW_WALLPAPERS = [
       "sword",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
-    "preview": "https://drive.google.com/uc?export=view&id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
-    "image": "https://drive.google.com/uc?export=view&id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
+    "image": "https://drive.google.com/thumbnail?id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww&sz=w1600",
     "driveFileId": "1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
     "storage": "google_drive"
   },
@@ -26117,10 +26117,10 @@ window.PMW_WALLPAPERS = [
       "aurora",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
-    "preview": "https://drive.google.com/uc?export=view&id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
-    "image": "https://drive.google.com/uc?export=view&id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
+    "image": "https://drive.google.com/thumbnail?id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0&sz=w1600",
     "driveFileId": "1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
     "storage": "google_drive"
   },
@@ -26145,10 +26145,10 @@ window.PMW_WALLPAPERS = [
       "golden",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
-    "preview": "https://drive.google.com/uc?export=view&id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
-    "image": "https://drive.google.com/uc?export=view&id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
+    "image": "https://drive.google.com/thumbnail?id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw&sz=w1600",
     "driveFileId": "1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
     "storage": "google_drive"
   },
@@ -26173,10 +26173,10 @@ window.PMW_WALLPAPERS = [
       "crystal",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
-    "preview": "https://drive.google.com/uc?export=view&id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
-    "image": "https://drive.google.com/uc?export=view&id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
+    "image": "https://drive.google.com/thumbnail?id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU&sz=w1600",
     "driveFileId": "1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
     "storage": "google_drive"
   },
@@ -26201,10 +26201,10 @@ window.PMW_WALLPAPERS = [
       "white",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
-    "preview": "https://drive.google.com/uc?export=view&id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
-    "image": "https://drive.google.com/uc?export=view&id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
+    "image": "https://drive.google.com/thumbnail?id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5&sz=w1600",
     "driveFileId": "1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
     "storage": "google_drive"
   },
@@ -26228,10 +26228,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "balcony"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
-    "preview": "https://drive.google.com/uc?export=view&id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
-    "image": "https://drive.google.com/uc?export=view&id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
+    "image": "https://drive.google.com/thumbnail?id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu&sz=w1600",
     "driveFileId": "1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
     "storage": "google_drive"
   },
@@ -26255,10 +26255,10 @@ window.PMW_WALLPAPERS = [
       "flower",
       "room"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
-    "preview": "https://drive.google.com/uc?export=view&id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
-    "image": "https://drive.google.com/uc?export=view&id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
+    "image": "https://drive.google.com/thumbnail?id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0&sz=w1600",
     "driveFileId": "1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
     "storage": "google_drive"
   },
@@ -26283,10 +26283,10 @@ window.PMW_WALLPAPERS = [
       "book",
       "library"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
-    "preview": "https://drive.google.com/uc?export=view&id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
-    "image": "https://drive.google.com/uc?export=view&id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
+    "image": "https://drive.google.com/thumbnail?id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur&sz=w1600",
     "driveFileId": "1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
     "storage": "google_drive"
   },
@@ -26311,10 +26311,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
-    "preview": "https://drive.google.com/uc?export=view&id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
-    "image": "https://drive.google.com/uc?export=view&id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
+    "image": "https://drive.google.com/thumbnail?id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP&sz=w1600",
     "driveFileId": "1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
     "storage": "google_drive"
   },
@@ -26338,10 +26338,10 @@ window.PMW_WALLPAPERS = [
       "overlooking",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
-    "preview": "https://drive.google.com/uc?export=view&id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
-    "image": "https://drive.google.com/uc?export=view&id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
+    "image": "https://drive.google.com/thumbnail?id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y&sz=w1600",
     "driveFileId": "1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
     "storage": "google_drive"
   },
@@ -26365,10 +26365,10 @@ window.PMW_WALLPAPERS = [
       "bamboo",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
-    "preview": "https://drive.google.com/uc?export=view&id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
-    "image": "https://drive.google.com/uc?export=view&id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
+    "image": "https://drive.google.com/thumbnail?id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14&sz=w1600",
     "driveFileId": "1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
     "storage": "google_drive"
   },
@@ -26393,10 +26393,10 @@ window.PMW_WALLPAPERS = [
       "cosmic",
       "stairway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
-    "preview": "https://drive.google.com/uc?export=view&id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
-    "image": "https://drive.google.com/uc?export=view&id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
+    "image": "https://drive.google.com/thumbnail?id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ&sz=w1600",
     "driveFileId": "194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
     "storage": "google_drive"
   },
@@ -26422,10 +26422,10 @@ window.PMW_WALLPAPERS = [
       "fireplace",
       "library"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
-    "preview": "https://drive.google.com/uc?export=view&id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
-    "image": "https://drive.google.com/uc?export=view&id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
+    "image": "https://drive.google.com/thumbnail?id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf&sz=w1600",
     "driveFileId": "1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
     "storage": "google_drive"
   },
@@ -26451,10 +26451,10 @@ window.PMW_WALLPAPERS = [
       "stone",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
-    "preview": "https://drive.google.com/uc?export=view&id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
-    "image": "https://drive.google.com/uc?export=view&id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
+    "image": "https://drive.google.com/thumbnail?id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8&sz=w1600",
     "driveFileId": "1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
     "storage": "google_drive"
   },
@@ -26480,10 +26480,10 @@ window.PMW_WALLPAPERS = [
       "mirror",
       "hallway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
-    "preview": "https://drive.google.com/uc?export=view&id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
-    "image": "https://drive.google.com/uc?export=view&id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
+    "image": "https://drive.google.com/thumbnail?id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi&sz=w1600",
     "driveFileId": "1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
     "storage": "google_drive"
   },
@@ -26509,10 +26509,10 @@ window.PMW_WALLPAPERS = [
       "mask",
       "books"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
-    "preview": "https://drive.google.com/uc?export=view&id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
-    "image": "https://drive.google.com/uc?export=view&id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
+    "image": "https://drive.google.com/thumbnail?id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6&sz=w1600",
     "driveFileId": "19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
     "storage": "google_drive"
   },
@@ -26538,10 +26538,10 @@ window.PMW_WALLPAPERS = [
       "room",
       "candles"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
-    "image": "https://drive.google.com/uc?export=view&id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
+    "image": "https://drive.google.com/thumbnail?id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ&sz=w1600",
     "driveFileId": "1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
     "storage": "google_drive"
   },
@@ -26567,10 +26567,10 @@ window.PMW_WALLPAPERS = [
       "station",
       "clock"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
-    "preview": "https://drive.google.com/uc?export=view&id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
-    "image": "https://drive.google.com/uc?export=view&id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
+    "image": "https://drive.google.com/thumbnail?id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1&sz=w1600",
     "driveFileId": "1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
     "storage": "google_drive"
   },
@@ -26595,10 +26595,10 @@ window.PMW_WALLPAPERS = [
       "black",
       "greenhouse"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
-    "preview": "https://drive.google.com/uc?export=view&id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
-    "image": "https://drive.google.com/uc?export=view&id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
+    "image": "https://drive.google.com/thumbnail?id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC&sz=w1600",
     "driveFileId": "1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
     "storage": "google_drive"
   },
@@ -26622,10 +26622,10 @@ window.PMW_WALLPAPERS = [
       "candlelit",
       "chessboard"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
-    "preview": "https://drive.google.com/uc?export=view&id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
-    "image": "https://drive.google.com/uc?export=view&id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
+    "image": "https://drive.google.com/thumbnail?id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv&sz=w1600",
     "driveFileId": "1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
     "storage": "google_drive"
   },
@@ -26650,10 +26650,10 @@ window.PMW_WALLPAPERS = [
       "rainy",
       "window"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
-    "preview": "https://drive.google.com/uc?export=view&id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
-    "image": "https://drive.google.com/uc?export=view&id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
+    "image": "https://drive.google.com/thumbnail?id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz&sz=w1600",
     "driveFileId": "1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
     "storage": "google_drive"
   },
@@ -26679,10 +26679,10 @@ window.PMW_WALLPAPERS = [
       "gate",
       "foggy"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
-    "preview": "https://drive.google.com/uc?export=view&id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
-    "image": "https://drive.google.com/uc?export=view&id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
+    "image": "https://drive.google.com/thumbnail?id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm&sz=w1600",
     "driveFileId": "1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
     "storage": "google_drive"
   },
@@ -26708,10 +26708,10 @@ window.PMW_WALLPAPERS = [
       "lined",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
-    "preview": "https://drive.google.com/uc?export=view&id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
-    "image": "https://drive.google.com/uc?export=view&id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
+    "image": "https://drive.google.com/thumbnail?id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX&sz=w1600",
     "driveFileId": "18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
     "storage": "google_drive"
   },
@@ -26736,10 +26736,10 @@ window.PMW_WALLPAPERS = [
       "library",
       "study"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
-    "preview": "https://drive.google.com/uc?export=view&id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
-    "image": "https://drive.google.com/uc?export=view&id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
+    "image": "https://drive.google.com/thumbnail?id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd&sz=w1600",
     "driveFileId": "1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
     "storage": "google_drive"
   },
@@ -26765,10 +26765,10 @@ window.PMW_WALLPAPERS = [
       "street",
       "umbrella"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
-    "image": "https://drive.google.com/uc?export=view&id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
+    "image": "https://drive.google.com/thumbnail?id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC&sz=w1600",
     "driveFileId": "1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
     "storage": "google_drive"
   },
@@ -26794,10 +26794,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "conservatory"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
-    "preview": "https://drive.google.com/uc?export=view&id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
-    "image": "https://drive.google.com/uc?export=view&id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
+    "image": "https://drive.google.com/thumbnail?id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn&sz=w1600",
     "driveFileId": "11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
     "storage": "google_drive"
   },
@@ -26823,10 +26823,10 @@ window.PMW_WALLPAPERS = [
       "candlelit",
       "mansion"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
-    "preview": "https://drive.google.com/uc?export=view&id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
-    "image": "https://drive.google.com/uc?export=view&id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
+    "image": "https://drive.google.com/thumbnail?id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5&sz=w1600",
     "driveFileId": "1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
     "storage": "google_drive"
   },
@@ -26851,10 +26851,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "stairway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
-    "preview": "https://drive.google.com/uc?export=view&id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
-    "image": "https://drive.google.com/uc?export=view&id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
+    "image": "https://drive.google.com/thumbnail?id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4&sz=w1600",
     "driveFileId": "1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
     "storage": "google_drive"
   },
@@ -26879,10 +26879,10 @@ window.PMW_WALLPAPERS = [
       "stone",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
-    "preview": "https://drive.google.com/uc?export=view&id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
-    "image": "https://drive.google.com/uc?export=view&id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
+    "image": "https://drive.google.com/thumbnail?id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW&sz=w1600",
     "driveFileId": "1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
     "storage": "google_drive"
   },
@@ -26908,10 +26908,10 @@ window.PMW_WALLPAPERS = [
       "antique",
       "wardrobe"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
-    "preview": "https://drive.google.com/uc?export=view&id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
-    "image": "https://drive.google.com/uc?export=view&id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
+    "image": "https://drive.google.com/thumbnail?id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG&sz=w1600",
     "driveFileId": "13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
     "storage": "google_drive"
   },
@@ -26936,10 +26936,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "stairway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
-    "preview": "https://drive.google.com/uc?export=view&id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
-    "image": "https://drive.google.com/uc?export=view&id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
+    "image": "https://drive.google.com/thumbnail?id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR&sz=w1600",
     "driveFileId": "1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
     "storage": "google_drive"
   },
@@ -26965,10 +26965,10 @@ window.PMW_WALLPAPERS = [
       "underground",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
-    "preview": "https://drive.google.com/uc?export=view&id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
-    "image": "https://drive.google.com/uc?export=view&id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
+    "image": "https://drive.google.com/thumbnail?id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5&sz=w1600",
     "driveFileId": "1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
     "storage": "google_drive"
   },
@@ -26993,10 +26993,10 @@ window.PMW_WALLPAPERS = [
       "church",
       "aisle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
-    "preview": "https://drive.google.com/uc?export=view&id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
-    "image": "https://drive.google.com/uc?export=view&id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
+    "image": "https://drive.google.com/thumbnail?id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix&sz=w1600",
     "driveFileId": "1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
     "storage": "google_drive"
   },
@@ -27021,10 +27021,10 @@ window.PMW_WALLPAPERS = [
       "handwritten",
       "letter"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
-    "preview": "https://drive.google.com/uc?export=view&id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
-    "image": "https://drive.google.com/uc?export=view&id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
+    "image": "https://drive.google.com/thumbnail?id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43&sz=w1600",
     "driveFileId": "1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
     "storage": "google_drive"
   },
@@ -27050,10 +27050,10 @@ window.PMW_WALLPAPERS = [
       "wall",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
-    "preview": "https://drive.google.com/uc?export=view&id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
-    "image": "https://drive.google.com/uc?export=view&id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
+    "image": "https://drive.google.com/thumbnail?id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-&sz=w1600",
     "driveFileId": "1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
     "storage": "google_drive"
   },
@@ -27078,10 +27078,10 @@ window.PMW_WALLPAPERS = [
       "mirror",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
-    "preview": "https://drive.google.com/uc?export=view&id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
-    "image": "https://drive.google.com/uc?export=view&id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
+    "image": "https://drive.google.com/thumbnail?id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6&sz=w1600",
     "driveFileId": "19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
     "storage": "google_drive"
   },
@@ -27106,10 +27106,10 @@ window.PMW_WALLPAPERS = [
       "fireplace",
       "room"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
-    "preview": "https://drive.google.com/uc?export=view&id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
-    "image": "https://drive.google.com/uc?export=view&id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
+    "image": "https://drive.google.com/thumbnail?id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v&sz=w1600",
     "driveFileId": "1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
     "storage": "google_drive"
   },
@@ -27135,10 +27135,10 @@ window.PMW_WALLPAPERS = [
       "room",
       "throne"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
-    "preview": "https://drive.google.com/uc?export=view&id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
-    "image": "https://drive.google.com/uc?export=view&id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
+    "image": "https://drive.google.com/thumbnail?id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL&sz=w1600",
     "driveFileId": "13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
     "storage": "google_drive"
   },
@@ -27164,10 +27164,10 @@ window.PMW_WALLPAPERS = [
       "ornate",
       "vase"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
-    "preview": "https://drive.google.com/uc?export=view&id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
-    "image": "https://drive.google.com/uc?export=view&id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
+    "image": "https://drive.google.com/thumbnail?id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9&sz=w1600",
     "driveFileId": "1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
     "storage": "google_drive"
   },
@@ -27192,10 +27192,10 @@ window.PMW_WALLPAPERS = [
       "stone",
       "statue"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1spguBgRjviuckPdbZRePds2EAlQrovcN",
-    "preview": "https://drive.google.com/uc?export=view&id=1spguBgRjviuckPdbZRePds2EAlQrovcN",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1spguBgRjviuckPdbZRePds2EAlQrovcN&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1spguBgRjviuckPdbZRePds2EAlQrovcN&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1spguBgRjviuckPdbZRePds2EAlQrovcN",
-    "image": "https://drive.google.com/uc?export=view&id=1spguBgRjviuckPdbZRePds2EAlQrovcN",
+    "image": "https://drive.google.com/thumbnail?id=1spguBgRjviuckPdbZRePds2EAlQrovcN&sz=w1600",
     "driveFileId": "1spguBgRjviuckPdbZRePds2EAlQrovcN",
     "storage": "google_drive"
   },
@@ -27221,10 +27221,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "room"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
-    "preview": "https://drive.google.com/uc?export=view&id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
-    "image": "https://drive.google.com/uc?export=view&id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
+    "image": "https://drive.google.com/thumbnail?id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6&sz=w1600",
     "driveFileId": "1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
     "storage": "google_drive"
   },
@@ -27249,10 +27249,10 @@ window.PMW_WALLPAPERS = [
       "arch",
       "passage"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
-    "preview": "https://drive.google.com/uc?export=view&id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
-    "image": "https://drive.google.com/uc?export=view&id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
+    "image": "https://drive.google.com/thumbnail?id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa&sz=w1600",
     "driveFileId": "1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
     "storage": "google_drive"
   },
@@ -27278,10 +27278,10 @@ window.PMW_WALLPAPERS = [
       "balcony",
       "interior"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
-    "preview": "https://drive.google.com/uc?export=view&id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
-    "image": "https://drive.google.com/uc?export=view&id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
+    "image": "https://drive.google.com/thumbnail?id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch&sz=w1600",
     "driveFileId": "1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
     "storage": "google_drive"
   },
@@ -27306,10 +27306,10 @@ window.PMW_WALLPAPERS = [
       "door",
       "shadow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
-    "preview": "https://drive.google.com/uc?export=view&id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
-    "image": "https://drive.google.com/uc?export=view&id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
+    "image": "https://drive.google.com/thumbnail?id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT&sz=w1600",
     "driveFileId": "11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
     "storage": "google_drive"
   },
@@ -27335,10 +27335,10 @@ window.PMW_WALLPAPERS = [
       "statue",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
-    "preview": "https://drive.google.com/uc?export=view&id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
-    "image": "https://drive.google.com/uc?export=view&id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
+    "image": "https://drive.google.com/thumbnail?id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D&sz=w1600",
     "driveFileId": "1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
     "storage": "google_drive"
   },
@@ -27363,10 +27363,10 @@ window.PMW_WALLPAPERS = [
       "greenhouse",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
-    "preview": "https://drive.google.com/uc?export=view&id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
-    "image": "https://drive.google.com/uc?export=view&id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
+    "image": "https://drive.google.com/thumbnail?id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB&sz=w1600",
     "driveFileId": "19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
     "storage": "google_drive"
   },
@@ -27392,10 +27392,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
-    "preview": "https://drive.google.com/uc?export=view&id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
-    "image": "https://drive.google.com/uc?export=view&id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
+    "image": "https://drive.google.com/thumbnail?id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK&sz=w1600",
     "driveFileId": "1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
     "storage": "google_drive"
   },
@@ -27420,10 +27420,10 @@ window.PMW_WALLPAPERS = [
       "candles",
       "tray"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
-    "preview": "https://drive.google.com/uc?export=view&id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
-    "image": "https://drive.google.com/uc?export=view&id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
+    "image": "https://drive.google.com/thumbnail?id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf&sz=w1600",
     "driveFileId": "1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
     "storage": "google_drive"
   },
@@ -27449,10 +27449,10 @@ window.PMW_WALLPAPERS = [
       "dark",
       "stage"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
-    "preview": "https://drive.google.com/uc?export=view&id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
-    "image": "https://drive.google.com/uc?export=view&id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
+    "image": "https://drive.google.com/thumbnail?id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v&sz=w1600",
     "driveFileId": "1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
     "storage": "google_drive"
   },
@@ -27477,10 +27477,10 @@ window.PMW_WALLPAPERS = [
       "glasshouse",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
-    "preview": "https://drive.google.com/uc?export=view&id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
-    "image": "https://drive.google.com/uc?export=view&id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
+    "image": "https://drive.google.com/thumbnail?id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR&sz=w1600",
     "driveFileId": "1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
     "storage": "google_drive"
   },
@@ -27506,10 +27506,10 @@ window.PMW_WALLPAPERS = [
       "marble",
       "corridor"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
-    "preview": "https://drive.google.com/uc?export=view&id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
-    "image": "https://drive.google.com/uc?export=view&id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
+    "image": "https://drive.google.com/thumbnail?id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78&sz=w1600",
     "driveFileId": "1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
     "storage": "google_drive"
   },
@@ -27535,10 +27535,10 @@ window.PMW_WALLPAPERS = [
       "brick",
       "alley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
-    "preview": "https://drive.google.com/uc?export=view&id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
-    "image": "https://drive.google.com/uc?export=view&id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
+    "image": "https://drive.google.com/thumbnail?id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i&sz=w1600",
     "driveFileId": "1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
     "storage": "google_drive"
   },
@@ -27563,10 +27563,10 @@ window.PMW_WALLPAPERS = [
       "camera",
       "books"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
-    "preview": "https://drive.google.com/uc?export=view&id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
-    "image": "https://drive.google.com/uc?export=view&id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
+    "image": "https://drive.google.com/thumbnail?id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq&sz=w1600",
     "driveFileId": "1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
     "storage": "google_drive"
   },
@@ -27592,10 +27592,10 @@ window.PMW_WALLPAPERS = [
       "bottle",
       "candle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
-    "image": "https://drive.google.com/uc?export=view&id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
+    "image": "https://drive.google.com/thumbnail?id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC&sz=w1600",
     "driveFileId": "1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
     "storage": "google_drive"
   },
@@ -27620,10 +27620,10 @@ window.PMW_WALLPAPERS = [
       "chandelier",
       "ballroom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
-    "preview": "https://drive.google.com/uc?export=view&id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
-    "image": "https://drive.google.com/uc?export=view&id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
+    "image": "https://drive.google.com/thumbnail?id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L&sz=w1600",
     "driveFileId": "1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
     "storage": "google_drive"
   },
@@ -27649,10 +27649,10 @@ window.PMW_WALLPAPERS = [
       "desk",
       "books"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
-    "preview": "https://drive.google.com/uc?export=view&id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
-    "image": "https://drive.google.com/uc?export=view&id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
+    "image": "https://drive.google.com/thumbnail?id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP&sz=w1600",
     "driveFileId": "1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
     "storage": "google_drive"
   },
@@ -27677,10 +27677,10 @@ window.PMW_WALLPAPERS = [
       "pocket",
       "watch"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
-    "preview": "https://drive.google.com/uc?export=view&id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
-    "image": "https://drive.google.com/uc?export=view&id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
+    "image": "https://drive.google.com/thumbnail?id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS&sz=w1600",
     "driveFileId": "176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
     "storage": "google_drive"
   },
@@ -27706,10 +27706,10 @@ window.PMW_WALLPAPERS = [
       "gothic",
       "castle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
-    "preview": "https://drive.google.com/uc?export=view&id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
-    "image": "https://drive.google.com/uc?export=view&id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
+    "image": "https://drive.google.com/thumbnail?id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU&sz=w1600",
     "driveFileId": "1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
     "storage": "google_drive"
   },
@@ -27735,10 +27735,10 @@ window.PMW_WALLPAPERS = [
       "misty",
       "forest"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
-    "preview": "https://drive.google.com/uc?export=view&id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
-    "image": "https://drive.google.com/uc?export=view&id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
+    "image": "https://drive.google.com/thumbnail?id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO&sz=w1600",
     "driveFileId": "1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
     "storage": "google_drive"
   },
@@ -27764,10 +27764,10 @@ window.PMW_WALLPAPERS = [
       "chair",
       "library"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
-    "preview": "https://drive.google.com/uc?export=view&id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
-    "image": "https://drive.google.com/uc?export=view&id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
+    "image": "https://drive.google.com/thumbnail?id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH&sz=w1600",
     "driveFileId": "1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
     "storage": "google_drive"
   },
@@ -27792,10 +27792,10 @@ window.PMW_WALLPAPERS = [
       "fountain",
       "courtyard"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
-    "preview": "https://drive.google.com/uc?export=view&id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
-    "image": "https://drive.google.com/uc?export=view&id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
+    "image": "https://drive.google.com/thumbnail?id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017&sz=w1600",
     "driveFileId": "10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
     "storage": "google_drive"
   },
@@ -27820,10 +27820,10 @@ window.PMW_WALLPAPERS = [
       "rainy",
       "alley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
-    "preview": "https://drive.google.com/uc?export=view&id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
-    "image": "https://drive.google.com/uc?export=view&id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
+    "image": "https://drive.google.com/thumbnail?id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA&sz=w1600",
     "driveFileId": "1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
     "storage": "google_drive"
   },
@@ -27849,10 +27849,10 @@ window.PMW_WALLPAPERS = [
       "room",
       "violin"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
-    "preview": "https://drive.google.com/uc?export=view&id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
-    "image": "https://drive.google.com/uc?export=view&id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
+    "image": "https://drive.google.com/thumbnail?id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM&sz=w1600",
     "driveFileId": "1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
     "storage": "google_drive"
   },
@@ -27877,10 +27877,10 @@ window.PMW_WALLPAPERS = [
       "papers",
       "candle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10N69J6pW8azovhIqvIpmIwilRivycuTB",
-    "preview": "https://drive.google.com/uc?export=view&id=10N69J6pW8azovhIqvIpmIwilRivycuTB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10N69J6pW8azovhIqvIpmIwilRivycuTB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10N69J6pW8azovhIqvIpmIwilRivycuTB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10N69J6pW8azovhIqvIpmIwilRivycuTB",
-    "image": "https://drive.google.com/uc?export=view&id=10N69J6pW8azovhIqvIpmIwilRivycuTB",
+    "image": "https://drive.google.com/thumbnail?id=10N69J6pW8azovhIqvIpmIwilRivycuTB&sz=w1600",
     "driveFileId": "10N69J6pW8azovhIqvIpmIwilRivycuTB",
     "storage": "google_drive"
   },
@@ -27905,10 +27905,10 @@ window.PMW_WALLPAPERS = [
       "cathedral",
       "aisle"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
-    "preview": "https://drive.google.com/uc?export=view&id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
-    "image": "https://drive.google.com/uc?export=view&id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
+    "image": "https://drive.google.com/thumbnail?id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD&sz=w1600",
     "driveFileId": "11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
     "storage": "google_drive"
   },
@@ -27934,10 +27934,10 @@ window.PMW_WALLPAPERS = [
       "dinner",
       "table"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
-    "preview": "https://drive.google.com/uc?export=view&id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
-    "image": "https://drive.google.com/uc?export=view&id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
+    "image": "https://drive.google.com/thumbnail?id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t&sz=w1600",
     "driveFileId": "1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
     "storage": "google_drive"
   },
@@ -27962,10 +27962,10 @@ window.PMW_WALLPAPERS = [
       "tunnel",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
-    "preview": "https://drive.google.com/uc?export=view&id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
-    "image": "https://drive.google.com/uc?export=view&id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
+    "image": "https://drive.google.com/thumbnail?id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf&sz=w1600",
     "driveFileId": "1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
     "storage": "google_drive"
   },
@@ -27990,10 +27990,10 @@ window.PMW_WALLPAPERS = [
       "road",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
-    "preview": "https://drive.google.com/uc?export=view&id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
-    "image": "https://drive.google.com/uc?export=view&id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
+    "image": "https://drive.google.com/thumbnail?id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a&sz=w1600",
     "driveFileId": "1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
     "storage": "google_drive"
   },
@@ -28016,10 +28016,10 @@ window.PMW_WALLPAPERS = [
       "meadow",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
-    "preview": "https://drive.google.com/uc?export=view&id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
-    "image": "https://drive.google.com/uc?export=view&id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
+    "image": "https://drive.google.com/thumbnail?id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I&sz=w1600",
     "driveFileId": "1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
     "storage": "google_drive"
   },
@@ -28042,10 +28042,10 @@ window.PMW_WALLPAPERS = [
       "willow",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
-    "image": "https://drive.google.com/uc?export=view&id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
+    "image": "https://drive.google.com/thumbnail?id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ&sz=w1600",
     "driveFileId": "1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
     "storage": "google_drive"
   },
@@ -28069,10 +28069,10 @@ window.PMW_WALLPAPERS = [
       "hills",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
-    "preview": "https://drive.google.com/uc?export=view&id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
-    "image": "https://drive.google.com/uc?export=view&id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
+    "image": "https://drive.google.com/thumbnail?id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4&sz=w1600",
     "driveFileId": "1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
     "storage": "google_drive"
   },
@@ -28095,10 +28095,10 @@ window.PMW_WALLPAPERS = [
       "orchard",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
-    "preview": "https://drive.google.com/uc?export=view&id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
-    "image": "https://drive.google.com/uc?export=view&id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
+    "image": "https://drive.google.com/thumbnail?id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli&sz=w1600",
     "driveFileId": "1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
     "storage": "google_drive"
   },
@@ -28122,10 +28122,10 @@ window.PMW_WALLPAPERS = [
       "green",
       "field"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
-    "preview": "https://drive.google.com/uc?export=view&id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
-    "image": "https://drive.google.com/uc?export=view&id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
+    "image": "https://drive.google.com/thumbnail?id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01&sz=w1600",
     "driveFileId": "1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
     "storage": "google_drive"
   },
@@ -28149,10 +28149,10 @@ window.PMW_WALLPAPERS = [
       "grass",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
-    "preview": "https://drive.google.com/uc?export=view&id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
-    "image": "https://drive.google.com/uc?export=view&id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
+    "image": "https://drive.google.com/thumbnail?id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI&sz=w1600",
     "driveFileId": "1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
     "storage": "google_drive"
   },
@@ -28176,10 +28176,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "hillside"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
-    "preview": "https://drive.google.com/uc?export=view&id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
-    "image": "https://drive.google.com/uc?export=view&id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
+    "image": "https://drive.google.com/thumbnail?id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL&sz=w1600",
     "driveFileId": "1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
     "storage": "google_drive"
   },
@@ -28203,10 +28203,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "road"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
-    "preview": "https://drive.google.com/uc?export=view&id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
-    "image": "https://drive.google.com/uc?export=view&id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
+    "image": "https://drive.google.com/thumbnail?id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7&sz=w1600",
     "driveFileId": "1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
     "storage": "google_drive"
   },
@@ -28229,10 +28229,10 @@ window.PMW_WALLPAPERS = [
       "cottage",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
-    "preview": "https://drive.google.com/uc?export=view&id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
-    "image": "https://drive.google.com/uc?export=view&id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
+    "image": "https://drive.google.com/thumbnail?id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg&sz=w1600",
     "driveFileId": "1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
     "storage": "google_drive"
   },
@@ -28257,10 +28257,10 @@ window.PMW_WALLPAPERS = [
       "cottage",
       "pink"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
-    "preview": "https://drive.google.com/uc?export=view&id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
-    "image": "https://drive.google.com/uc?export=view&id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
+    "image": "https://drive.google.com/thumbnail?id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n&sz=w1600",
     "driveFileId": "1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
     "storage": "google_drive"
   },
@@ -28285,10 +28285,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "blossoms"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
-    "preview": "https://drive.google.com/uc?export=view&id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
-    "image": "https://drive.google.com/uc?export=view&id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
+    "image": "https://drive.google.com/thumbnail?id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M&sz=w1600",
     "driveFileId": "1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
     "storage": "google_drive"
   },
@@ -28312,10 +28312,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
-    "preview": "https://drive.google.com/uc?export=view&id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
-    "image": "https://drive.google.com/uc?export=view&id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
+    "image": "https://drive.google.com/thumbnail?id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA&sz=w1600",
     "driveFileId": "1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
     "storage": "google_drive"
   },
@@ -28339,10 +28339,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "meadow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
-    "preview": "https://drive.google.com/uc?export=view&id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
-    "image": "https://drive.google.com/uc?export=view&id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
+    "image": "https://drive.google.com/thumbnail?id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7&sz=w1600",
     "driveFileId": "1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
     "storage": "google_drive"
   },
@@ -28366,10 +28366,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "ferns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
-    "preview": "https://drive.google.com/uc?export=view&id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
-    "image": "https://drive.google.com/uc?export=view&id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
+    "image": "https://drive.google.com/thumbnail?id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat&sz=w1600",
     "driveFileId": "1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
     "storage": "google_drive"
   },
@@ -28393,10 +28393,10 @@ window.PMW_WALLPAPERS = [
       "rolling",
       "fields"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
-    "preview": "https://drive.google.com/uc?export=view&id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
-    "image": "https://drive.google.com/uc?export=view&id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
+    "image": "https://drive.google.com/thumbnail?id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm&sz=w1600",
     "driveFileId": "1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
     "storage": "google_drive"
   },
@@ -28420,10 +28420,10 @@ window.PMW_WALLPAPERS = [
       "wall",
       "countryside"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
-    "preview": "https://drive.google.com/uc?export=view&id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
-    "image": "https://drive.google.com/uc?export=view&id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
+    "image": "https://drive.google.com/thumbnail?id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1&sz=w1600",
     "driveFileId": "1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
     "storage": "google_drive"
   },
@@ -28447,10 +28447,10 @@ window.PMW_WALLPAPERS = [
       "meadow",
       "fence"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
-    "preview": "https://drive.google.com/uc?export=view&id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
-    "image": "https://drive.google.com/uc?export=view&id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
+    "image": "https://drive.google.com/thumbnail?id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60&sz=w1600",
     "driveFileId": "1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
     "storage": "google_drive"
   },
@@ -28474,10 +28474,10 @@ window.PMW_WALLPAPERS = [
       "creek",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
-    "preview": "https://drive.google.com/uc?export=view&id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
-    "image": "https://drive.google.com/uc?export=view&id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
+    "image": "https://drive.google.com/thumbnail?id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3&sz=w1600",
     "driveFileId": "1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
     "storage": "google_drive"
   },
@@ -28501,10 +28501,10 @@ window.PMW_WALLPAPERS = [
       "hill",
       "clouds"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
-    "preview": "https://drive.google.com/uc?export=view&id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
-    "image": "https://drive.google.com/uc?export=view&id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
+    "image": "https://drive.google.com/thumbnail?id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO&sz=w1600",
     "driveFileId": "1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
     "storage": "google_drive"
   },
@@ -28528,10 +28528,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "reflection"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
-    "preview": "https://drive.google.com/uc?export=view&id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
-    "image": "https://drive.google.com/uc?export=view&id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
+    "image": "https://drive.google.com/thumbnail?id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n&sz=w1600",
     "driveFileId": "1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
     "storage": "google_drive"
   },
@@ -28554,10 +28554,10 @@ window.PMW_WALLPAPERS = [
       "countryside",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
-    "preview": "https://drive.google.com/uc?export=view&id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
-    "image": "https://drive.google.com/uc?export=view&id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
+    "image": "https://drive.google.com/thumbnail?id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9&sz=w1600",
     "driveFileId": "1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
     "storage": "google_drive"
   },
@@ -28580,10 +28580,10 @@ window.PMW_WALLPAPERS = [
       "lone",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
-    "preview": "https://drive.google.com/uc?export=view&id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
-    "image": "https://drive.google.com/uc?export=view&id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
+    "image": "https://drive.google.com/thumbnail?id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz&sz=w1600",
     "driveFileId": "1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
     "storage": "google_drive"
   },
@@ -28608,10 +28608,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
-    "preview": "https://drive.google.com/uc?export=view&id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
-    "image": "https://drive.google.com/uc?export=view&id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
+    "image": "https://drive.google.com/thumbnail?id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI&sz=w1600",
     "driveFileId": "1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
     "storage": "google_drive"
   },
@@ -28636,10 +28636,10 @@ window.PMW_WALLPAPERS = [
       "hills",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
-    "preview": "https://drive.google.com/uc?export=view&id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
+    "thumbnail": "https://drive.google.com/thumbnail?id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
-    "image": "https://drive.google.com/uc?export=view&id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
+    "image": "https://drive.google.com/thumbnail?id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj&sz=w1600",
     "driveFileId": "11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
     "storage": "google_drive"
   },
@@ -28663,10 +28663,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "road"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
-    "preview": "https://drive.google.com/uc?export=view&id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
-    "image": "https://drive.google.com/uc?export=view&id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
+    "image": "https://drive.google.com/thumbnail?id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC&sz=w1600",
     "driveFileId": "1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
     "storage": "google_drive"
   },
@@ -28690,10 +28690,10 @@ window.PMW_WALLPAPERS = [
       "villa",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
-    "preview": "https://drive.google.com/uc?export=view&id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
-    "image": "https://drive.google.com/uc?export=view&id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
+    "image": "https://drive.google.com/thumbnail?id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL&sz=w1600",
     "driveFileId": "1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
     "storage": "google_drive"
   },
@@ -28717,10 +28717,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "blue"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
-    "preview": "https://drive.google.com/uc?export=view&id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
-    "image": "https://drive.google.com/uc?export=view&id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
+    "image": "https://drive.google.com/thumbnail?id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17&sz=w1600",
     "driveFileId": "18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
     "storage": "google_drive"
   },
@@ -28744,10 +28744,10 @@ window.PMW_WALLPAPERS = [
       "road",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
-    "preview": "https://drive.google.com/uc?export=view&id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
-    "image": "https://drive.google.com/uc?export=view&id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
+    "image": "https://drive.google.com/thumbnail?id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR&sz=w1600",
     "driveFileId": "1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
     "storage": "google_drive"
   },
@@ -28771,10 +28771,10 @@ window.PMW_WALLPAPERS = [
       "cottage",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
-    "preview": "https://drive.google.com/uc?export=view&id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
-    "image": "https://drive.google.com/uc?export=view&id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
+    "image": "https://drive.google.com/thumbnail?id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD&sz=w1600",
     "driveFileId": "1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
     "storage": "google_drive"
   },
@@ -28798,10 +28798,10 @@ window.PMW_WALLPAPERS = [
       "cottage",
       "gate"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
-    "preview": "https://drive.google.com/uc?export=view&id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
-    "image": "https://drive.google.com/uc?export=view&id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
+    "image": "https://drive.google.com/thumbnail?id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f&sz=w1600",
     "driveFileId": "15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
     "storage": "google_drive"
   },
@@ -28824,10 +28824,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "creek"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
-    "preview": "https://drive.google.com/uc?export=view&id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
-    "image": "https://drive.google.com/uc?export=view&id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
+    "image": "https://drive.google.com/thumbnail?id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA&sz=w1600",
     "driveFileId": "1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
     "storage": "google_drive"
   },
@@ -28851,10 +28851,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
-    "preview": "https://drive.google.com/uc?export=view&id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
-    "image": "https://drive.google.com/uc?export=view&id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
+    "image": "https://drive.google.com/thumbnail?id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP&sz=w1600",
     "driveFileId": "1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
     "storage": "google_drive"
   },
@@ -28878,10 +28878,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "mountain"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
-    "preview": "https://drive.google.com/uc?export=view&id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
-    "image": "https://drive.google.com/uc?export=view&id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
+    "image": "https://drive.google.com/thumbnail?id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf&sz=w1600",
     "driveFileId": "1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
     "storage": "google_drive"
   },
@@ -28905,10 +28905,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
-    "preview": "https://drive.google.com/uc?export=view&id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
-    "image": "https://drive.google.com/uc?export=view&id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
+    "image": "https://drive.google.com/thumbnail?id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-&sz=w1600",
     "driveFileId": "1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
     "storage": "google_drive"
   },
@@ -28932,10 +28932,10 @@ window.PMW_WALLPAPERS = [
       "tree",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
-    "preview": "https://drive.google.com/uc?export=view&id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
-    "image": "https://drive.google.com/uc?export=view&id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
+    "image": "https://drive.google.com/thumbnail?id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn&sz=w1600",
     "driveFileId": "1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
     "storage": "google_drive"
   },
@@ -28960,10 +28960,10 @@ window.PMW_WALLPAPERS = [
       "fiery",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
-    "preview": "https://drive.google.com/uc?export=view&id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
-    "image": "https://drive.google.com/uc?export=view&id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
+    "image": "https://drive.google.com/thumbnail?id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8&sz=w1600",
     "driveFileId": "18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
     "storage": "google_drive"
   },
@@ -28987,10 +28987,10 @@ window.PMW_WALLPAPERS = [
       "wheat",
       "field"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
-    "preview": "https://drive.google.com/uc?export=view&id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
-    "image": "https://drive.google.com/uc?export=view&id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
+    "image": "https://drive.google.com/thumbnail?id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM&sz=w1600",
     "driveFileId": "1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
     "storage": "google_drive"
   },
@@ -29015,10 +29015,10 @@ window.PMW_WALLPAPERS = [
       "village",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
-    "preview": "https://drive.google.com/uc?export=view&id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
-    "image": "https://drive.google.com/uc?export=view&id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
+    "image": "https://drive.google.com/thumbnail?id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu&sz=w1600",
     "driveFileId": "17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
     "storage": "google_drive"
   },
@@ -29042,10 +29042,10 @@ window.PMW_WALLPAPERS = [
       "dusk",
       "meadow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
-    "preview": "https://drive.google.com/uc?export=view&id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
-    "image": "https://drive.google.com/uc?export=view&id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
+    "image": "https://drive.google.com/thumbnail?id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b&sz=w1600",
     "driveFileId": "1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
     "storage": "google_drive"
   },
@@ -29069,10 +29069,10 @@ window.PMW_WALLPAPERS = [
       "stream",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
-    "preview": "https://drive.google.com/uc?export=view&id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
-    "image": "https://drive.google.com/uc?export=view&id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
+    "image": "https://drive.google.com/thumbnail?id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk&sz=w1600",
     "driveFileId": "1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
     "storage": "google_drive"
   },
@@ -29096,10 +29096,10 @@ window.PMW_WALLPAPERS = [
       "large",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
-    "preview": "https://drive.google.com/uc?export=view&id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
-    "image": "https://drive.google.com/uc?export=view&id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
+    "image": "https://drive.google.com/thumbnail?id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS&sz=w1600",
     "driveFileId": "1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
     "storage": "google_drive"
   },
@@ -29123,10 +29123,10 @@ window.PMW_WALLPAPERS = [
       "cottage",
       "pond"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
-    "preview": "https://drive.google.com/uc?export=view&id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
-    "image": "https://drive.google.com/uc?export=view&id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
+    "image": "https://drive.google.com/thumbnail?id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2&sz=w1600",
     "driveFileId": "17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
     "storage": "google_drive"
   },
@@ -29150,10 +29150,10 @@ window.PMW_WALLPAPERS = [
       "valley",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
-    "preview": "https://drive.google.com/uc?export=view&id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
-    "image": "https://drive.google.com/uc?export=view&id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
+    "image": "https://drive.google.com/thumbnail?id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG&sz=w1600",
     "driveFileId": "1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
     "storage": "google_drive"
   },
@@ -29177,10 +29177,10 @@ window.PMW_WALLPAPERS = [
       "lane",
       "cottage"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
-    "preview": "https://drive.google.com/uc?export=view&id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
-    "image": "https://drive.google.com/uc?export=view&id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
+    "image": "https://drive.google.com/thumbnail?id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ&sz=w1600",
     "driveFileId": "1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
     "storage": "google_drive"
   },
@@ -29205,10 +29205,10 @@ window.PMW_WALLPAPERS = [
       "road",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
-    "preview": "https://drive.google.com/uc?export=view&id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
-    "image": "https://drive.google.com/uc?export=view&id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
+    "image": "https://drive.google.com/thumbnail?id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl&sz=w1600",
     "driveFileId": "1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
     "storage": "google_drive"
   },
@@ -29232,10 +29232,10 @@ window.PMW_WALLPAPERS = [
       "path",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
-    "preview": "https://drive.google.com/uc?export=view&id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
-    "image": "https://drive.google.com/uc?export=view&id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
+    "image": "https://drive.google.com/thumbnail?id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2&sz=w1600",
     "driveFileId": "1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
     "storage": "google_drive"
   },
@@ -29260,10 +29260,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "stream"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
-    "preview": "https://drive.google.com/uc?export=view&id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
-    "image": "https://drive.google.com/uc?export=view&id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
+    "image": "https://drive.google.com/thumbnail?id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2&sz=w1600",
     "driveFileId": "1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
     "storage": "google_drive"
   },
@@ -29288,10 +29288,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
-    "preview": "https://drive.google.com/uc?export=view&id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
-    "image": "https://drive.google.com/uc?export=view&id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
+    "image": "https://drive.google.com/thumbnail?id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy&sz=w1600",
     "driveFileId": "1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
     "storage": "google_drive"
   },
@@ -29316,10 +29316,10 @@ window.PMW_WALLPAPERS = [
       "country",
       "path"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
-    "preview": "https://drive.google.com/uc?export=view&id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
-    "image": "https://drive.google.com/uc?export=view&id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
+    "image": "https://drive.google.com/thumbnail?id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB&sz=w1600",
     "driveFileId": "1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
     "storage": "google_drive"
   },
@@ -29343,10 +29343,10 @@ window.PMW_WALLPAPERS = [
       "cottage",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
-    "preview": "https://drive.google.com/uc?export=view&id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
-    "image": "https://drive.google.com/uc?export=view&id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
+    "image": "https://drive.google.com/thumbnail?id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC&sz=w1600",
     "driveFileId": "1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
     "storage": "google_drive"
   },
@@ -29371,10 +29371,10 @@ window.PMW_WALLPAPERS = [
       "during",
       "rain"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
-    "preview": "https://drive.google.com/uc?export=view&id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
-    "image": "https://drive.google.com/uc?export=view&id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
+    "image": "https://drive.google.com/thumbnail?id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9&sz=w1600",
     "driveFileId": "1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
     "storage": "google_drive"
   },
@@ -29398,10 +29398,10 @@ window.PMW_WALLPAPERS = [
       "mountain",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
-    "preview": "https://drive.google.com/uc?export=view&id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
-    "image": "https://drive.google.com/uc?export=view&id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
+    "image": "https://drive.google.com/thumbnail?id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ&sz=w1600",
     "driveFileId": "1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
     "storage": "google_drive"
   },
@@ -29425,10 +29425,10 @@ window.PMW_WALLPAPERS = [
       "vineyard",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
-    "preview": "https://drive.google.com/uc?export=view&id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
-    "image": "https://drive.google.com/uc?export=view&id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
+    "image": "https://drive.google.com/thumbnail?id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV&sz=w1600",
     "driveFileId": "1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
     "storage": "google_drive"
   },
@@ -29452,10 +29452,10 @@ window.PMW_WALLPAPERS = [
       "stream",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
-    "preview": "https://drive.google.com/uc?export=view&id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
-    "image": "https://drive.google.com/uc?export=view&id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
+    "image": "https://drive.google.com/thumbnail?id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI&sz=w1600",
     "driveFileId": "10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
     "storage": "google_drive"
   },
@@ -29479,10 +29479,10 @@ window.PMW_WALLPAPERS = [
       "japanese",
       "garden"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
-    "preview": "https://drive.google.com/uc?export=view&id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
-    "image": "https://drive.google.com/uc?export=view&id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
+    "image": "https://drive.google.com/thumbnail?id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ&sz=w1600",
     "driveFileId": "1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
     "storage": "google_drive"
   },
@@ -29506,10 +29506,10 @@ window.PMW_WALLPAPERS = [
       "forest",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
-    "preview": "https://drive.google.com/uc?export=view&id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
-    "image": "https://drive.google.com/uc?export=view&id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
+    "image": "https://drive.google.com/thumbnail?id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y&sz=w1600",
     "driveFileId": "10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
     "storage": "google_drive"
   },
@@ -29534,10 +29534,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "waterfalls"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
-    "preview": "https://drive.google.com/uc?export=view&id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
-    "image": "https://drive.google.com/uc?export=view&id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
+    "image": "https://drive.google.com/thumbnail?id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0&sz=w1600",
     "driveFileId": "1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
     "storage": "google_drive"
   },
@@ -29561,10 +29561,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
-    "preview": "https://drive.google.com/uc?export=view&id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
-    "image": "https://drive.google.com/uc?export=view&id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
+    "image": "https://drive.google.com/thumbnail?id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy&sz=w1600",
     "driveFileId": "1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
     "storage": "google_drive"
   },
@@ -29588,10 +29588,10 @@ window.PMW_WALLPAPERS = [
       "rainy",
       "street"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
-    "preview": "https://drive.google.com/uc?export=view&id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
-    "image": "https://drive.google.com/uc?export=view&id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
+    "image": "https://drive.google.com/thumbnail?id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs&sz=w1600",
     "driveFileId": "1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
     "storage": "google_drive"
   },
@@ -29616,10 +29616,10 @@ window.PMW_WALLPAPERS = [
       "menu",
       "village"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=12vct0o_9OynABzgt591o5fZOrgX43j3u",
-    "preview": "https://drive.google.com/uc?export=view&id=12vct0o_9OynABzgt591o5fZOrgX43j3u",
+    "thumbnail": "https://drive.google.com/thumbnail?id=12vct0o_9OynABzgt591o5fZOrgX43j3u&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=12vct0o_9OynABzgt591o5fZOrgX43j3u&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=12vct0o_9OynABzgt591o5fZOrgX43j3u",
-    "image": "https://drive.google.com/uc?export=view&id=12vct0o_9OynABzgt591o5fZOrgX43j3u",
+    "image": "https://drive.google.com/thumbnail?id=12vct0o_9OynABzgt591o5fZOrgX43j3u&sz=w1600",
     "driveFileId": "12vct0o_9OynABzgt591o5fZOrgX43j3u",
     "storage": "google_drive"
   },
@@ -29644,10 +29644,10 @@ window.PMW_WALLPAPERS = [
       "lakeside",
       "town"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
-    "preview": "https://drive.google.com/uc?export=view&id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
-    "image": "https://drive.google.com/uc?export=view&id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
+    "image": "https://drive.google.com/thumbnail?id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m&sz=w1600",
     "driveFileId": "1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
     "storage": "google_drive"
   },
@@ -29672,10 +29672,10 @@ window.PMW_WALLPAPERS = [
       "sunlit",
       "studio"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
-    "preview": "https://drive.google.com/uc?export=view&id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
-    "image": "https://drive.google.com/uc?export=view&id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
+    "image": "https://drive.google.com/thumbnail?id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4&sz=w1600",
     "driveFileId": "1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
     "storage": "google_drive"
   },
@@ -29698,10 +29698,10 @@ window.PMW_WALLPAPERS = [
       "campfire",
       "stars"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
-    "preview": "https://drive.google.com/uc?export=view&id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
-    "image": "https://drive.google.com/uc?export=view&id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
+    "image": "https://drive.google.com/thumbnail?id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA&sz=w1600",
     "driveFileId": "1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
     "storage": "google_drive"
   },
@@ -29725,10 +29725,10 @@ window.PMW_WALLPAPERS = [
       "wisteria",
       "walkway"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
-    "preview": "https://drive.google.com/uc?export=view&id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
-    "image": "https://drive.google.com/uc?export=view&id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
+    "image": "https://drive.google.com/thumbnail?id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M&sz=w1600",
     "driveFileId": "16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
     "storage": "google_drive"
   },
@@ -29752,10 +29752,10 @@ window.PMW_WALLPAPERS = [
       "rainy",
       "window"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
-    "preview": "https://drive.google.com/uc?export=view&id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
-    "image": "https://drive.google.com/uc?export=view&id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
+    "image": "https://drive.google.com/thumbnail?id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX&sz=w1600",
     "driveFileId": "1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
     "storage": "google_drive"
   },
@@ -29778,10 +29778,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
-    "preview": "https://drive.google.com/uc?export=view&id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
-    "image": "https://drive.google.com/uc?export=view&id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
+    "image": "https://drive.google.com/thumbnail?id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB&sz=w1600",
     "driveFileId": "1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
     "storage": "google_drive"
   },
@@ -29805,10 +29805,10 @@ window.PMW_WALLPAPERS = [
       "cherry",
       "tree"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
-    "preview": "https://drive.google.com/uc?export=view&id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
+    "thumbnail": "https://drive.google.com/thumbnail?id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
-    "image": "https://drive.google.com/uc?export=view&id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
+    "image": "https://drive.google.com/thumbnail?id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs&sz=w1600",
     "driveFileId": "18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
     "storage": "google_drive"
   },
@@ -29831,10 +29831,10 @@ window.PMW_WALLPAPERS = [
       "pond",
       "bridge"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1OhAhq692cK6xemejga6ZjkoDOMK350_r",
-    "preview": "https://drive.google.com/uc?export=view&id=1OhAhq692cK6xemejga6ZjkoDOMK350_r",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1OhAhq692cK6xemejga6ZjkoDOMK350_r&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1OhAhq692cK6xemejga6ZjkoDOMK350_r&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1OhAhq692cK6xemejga6ZjkoDOMK350_r",
-    "image": "https://drive.google.com/uc?export=view&id=1OhAhq692cK6xemejga6ZjkoDOMK350_r",
+    "image": "https://drive.google.com/thumbnail?id=1OhAhq692cK6xemejga6ZjkoDOMK350_r&sz=w1600",
     "driveFileId": "1OhAhq692cK6xemejga6ZjkoDOMK350_r",
     "storage": "google_drive"
   },
@@ -29859,10 +29859,10 @@ window.PMW_WALLPAPERS = [
       "other",
       "vintage"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
-    "preview": "https://drive.google.com/uc?export=view&id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
-    "image": "https://drive.google.com/uc?export=view&id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
+    "image": "https://drive.google.com/thumbnail?id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru&sz=w1600",
     "driveFileId": "1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
     "storage": "google_drive"
   },
@@ -29886,10 +29886,10 @@ window.PMW_WALLPAPERS = [
       "sunrise",
       "meadow"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
-    "preview": "https://drive.google.com/uc?export=view&id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
-    "image": "https://drive.google.com/uc?export=view&id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
+    "image": "https://drive.google.com/thumbnail?id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C&sz=w1600",
     "driveFileId": "1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
     "storage": "google_drive"
   },
@@ -29913,10 +29913,10 @@ window.PMW_WALLPAPERS = [
       "jungle",
       "waterfall"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
-    "preview": "https://drive.google.com/uc?export=view&id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
-    "image": "https://drive.google.com/uc?export=view&id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
+    "image": "https://drive.google.com/thumbnail?id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7&sz=w1600",
     "driveFileId": "1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
     "storage": "google_drive"
   },
@@ -29939,10 +29939,10 @@ window.PMW_WALLPAPERS = [
       "lighthouse",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
-    "preview": "https://drive.google.com/uc?export=view&id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
-    "image": "https://drive.google.com/uc?export=view&id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
+    "image": "https://drive.google.com/thumbnail?id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2&sz=w1600",
     "driveFileId": "10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
     "storage": "google_drive"
   },
@@ -29967,10 +29967,10 @@ window.PMW_WALLPAPERS = [
       "blossom",
       "lane"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
-    "preview": "https://drive.google.com/uc?export=view&id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
-    "image": "https://drive.google.com/uc?export=view&id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
+    "image": "https://drive.google.com/thumbnail?id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u&sz=w1600",
     "driveFileId": "1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
     "storage": "google_drive"
   },
@@ -29993,10 +29993,10 @@ window.PMW_WALLPAPERS = [
       "willow",
       "pond"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
-    "preview": "https://drive.google.com/uc?export=view&id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
+    "thumbnail": "https://drive.google.com/thumbnail?id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
-    "image": "https://drive.google.com/uc?export=view&id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
+    "image": "https://drive.google.com/thumbnail?id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL&sz=w1600",
     "driveFileId": "13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
     "storage": "google_drive"
   },
@@ -30020,10 +30020,10 @@ window.PMW_WALLPAPERS = [
       "glowing",
       "carousel"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
-    "preview": "https://drive.google.com/uc?export=view&id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
-    "image": "https://drive.google.com/uc?export=view&id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
+    "image": "https://drive.google.com/thumbnail?id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6&sz=w1600",
     "driveFileId": "1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
     "storage": "google_drive"
   },
@@ -30047,10 +30047,10 @@ window.PMW_WALLPAPERS = [
       "carousel",
       "night"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
-    "preview": "https://drive.google.com/uc?export=view&id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
-    "image": "https://drive.google.com/uc?export=view&id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
+    "image": "https://drive.google.com/thumbnail?id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69&sz=w1600",
     "driveFileId": "1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
     "storage": "google_drive"
   },
@@ -30074,10 +30074,10 @@ window.PMW_WALLPAPERS = [
       "wheel",
       "city"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
-    "preview": "https://drive.google.com/uc?export=view&id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
-    "image": "https://drive.google.com/uc?export=view&id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
+    "image": "https://drive.google.com/thumbnail?id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3&sz=w1600",
     "driveFileId": "15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
     "storage": "google_drive"
   },
@@ -30101,10 +30101,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
-    "preview": "https://drive.google.com/uc?export=view&id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
+    "thumbnail": "https://drive.google.com/thumbnail?id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
-    "image": "https://drive.google.com/uc?export=view&id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
+    "image": "https://drive.google.com/thumbnail?id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX&sz=w1600",
     "driveFileId": "16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
     "storage": "google_drive"
   },
@@ -30127,10 +30127,10 @@ window.PMW_WALLPAPERS = [
       "flower",
       "greenhouse"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
-    "preview": "https://drive.google.com/uc?export=view&id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
-    "image": "https://drive.google.com/uc?export=view&id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
+    "image": "https://drive.google.com/thumbnail?id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM&sz=w1600",
     "driveFileId": "1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
     "storage": "google_drive"
   },
@@ -30154,10 +30154,10 @@ window.PMW_WALLPAPERS = [
       "cabin",
       "window"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
-    "preview": "https://drive.google.com/uc?export=view&id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
-    "image": "https://drive.google.com/uc?export=view&id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
+    "image": "https://drive.google.com/thumbnail?id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh&sz=w1600",
     "driveFileId": "1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
     "storage": "google_drive"
   },
@@ -30181,10 +30181,10 @@ window.PMW_WALLPAPERS = [
       "field",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
-    "preview": "https://drive.google.com/uc?export=view&id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
-    "image": "https://drive.google.com/uc?export=view&id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
+    "image": "https://drive.google.com/thumbnail?id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT&sz=w1600",
     "driveFileId": "1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
     "storage": "google_drive"
   },
@@ -30208,10 +30208,10 @@ window.PMW_WALLPAPERS = [
       "lake",
       "dock"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
-    "preview": "https://drive.google.com/uc?export=view&id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
-    "image": "https://drive.google.com/uc?export=view&id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
+    "image": "https://drive.google.com/thumbnail?id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu&sz=w1600",
     "driveFileId": "1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
     "storage": "google_drive"
   },
@@ -30236,10 +30236,10 @@ window.PMW_WALLPAPERS = [
       "flower",
       "baskets"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
-    "preview": "https://drive.google.com/uc?export=view&id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
+    "thumbnail": "https://drive.google.com/thumbnail?id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
-    "image": "https://drive.google.com/uc?export=view&id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
+    "image": "https://drive.google.com/thumbnail?id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG&sz=w1600",
     "driveFileId": "14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
     "storage": "google_drive"
   },
@@ -30263,10 +30263,10 @@ window.PMW_WALLPAPERS = [
       "overlook",
       "candles"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
-    "preview": "https://drive.google.com/uc?export=view&id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
-    "image": "https://drive.google.com/uc?export=view&id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
+    "image": "https://drive.google.com/thumbnail?id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2&sz=w1600",
     "driveFileId": "1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
     "storage": "google_drive"
   },
@@ -30290,10 +30290,10 @@ window.PMW_WALLPAPERS = [
       "covered",
       "hammock"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
-    "preview": "https://drive.google.com/uc?export=view&id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
-    "image": "https://drive.google.com/uc?export=view&id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
+    "image": "https://drive.google.com/thumbnail?id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi&sz=w1600",
     "driveFileId": "1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
     "storage": "google_drive"
   },
@@ -30317,10 +30317,10 @@ window.PMW_WALLPAPERS = [
       "arch",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
-    "preview": "https://drive.google.com/uc?export=view&id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
-    "image": "https://drive.google.com/uc?export=view&id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
+    "image": "https://drive.google.com/thumbnail?id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd&sz=w1600",
     "driveFileId": "1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
     "storage": "google_drive"
   },
@@ -30345,10 +30345,10 @@ window.PMW_WALLPAPERS = [
       "valley",
       "sunrise"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
-    "preview": "https://drive.google.com/uc?export=view&id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
-    "image": "https://drive.google.com/uc?export=view&id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
+    "image": "https://drive.google.com/thumbnail?id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08&sz=w1600",
     "driveFileId": "1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
     "storage": "google_drive"
   },
@@ -30372,10 +30372,10 @@ window.PMW_WALLPAPERS = [
       "candlelit",
       "library"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
-    "preview": "https://drive.google.com/uc?export=view&id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
+    "thumbnail": "https://drive.google.com/thumbnail?id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
-    "image": "https://drive.google.com/uc?export=view&id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
+    "image": "https://drive.google.com/thumbnail?id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw&sz=w1600",
     "driveFileId": "127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
     "storage": "google_drive"
   },
@@ -30400,10 +30400,10 @@ window.PMW_WALLPAPERS = [
       "string",
       "lights"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
-    "preview": "https://drive.google.com/uc?export=view&id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
+    "thumbnail": "https://drive.google.com/thumbnail?id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
-    "image": "https://drive.google.com/uc?export=view&id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
+    "image": "https://drive.google.com/thumbnail?id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu&sz=w1600",
     "driveFileId": "156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
     "storage": "google_drive"
   },
@@ -30427,10 +30427,10 @@ window.PMW_WALLPAPERS = [
       "garden",
       "fountain"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
-    "preview": "https://drive.google.com/uc?export=view&id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
-    "image": "https://drive.google.com/uc?export=view&id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
+    "image": "https://drive.google.com/thumbnail?id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7&sz=w1600",
     "driveFileId": "1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
     "storage": "google_drive"
   },
@@ -30453,10 +30453,10 @@ window.PMW_WALLPAPERS = [
       "greenhouse",
       "cafe"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
-    "preview": "https://drive.google.com/uc?export=view&id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
+    "thumbnail": "https://drive.google.com/thumbnail?id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
-    "image": "https://drive.google.com/uc?export=view&id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
+    "image": "https://drive.google.com/thumbnail?id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn&sz=w1600",
     "driveFileId": "15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
     "storage": "google_drive"
   },
@@ -30481,10 +30481,10 @@ window.PMW_WALLPAPERS = [
       "romantic",
       "canal"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
-    "preview": "https://drive.google.com/uc?export=view&id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
-    "image": "https://drive.google.com/uc?export=view&id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
+    "image": "https://drive.google.com/thumbnail?id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU&sz=w1600",
     "driveFileId": "1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
     "storage": "google_drive"
   },
@@ -30507,10 +30507,10 @@ window.PMW_WALLPAPERS = [
       "starry",
       "village"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
-    "preview": "https://drive.google.com/uc?export=view&id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
-    "image": "https://drive.google.com/uc?export=view&id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
+    "image": "https://drive.google.com/thumbnail?id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh&sz=w1600",
     "driveFileId": "1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
     "storage": "google_drive"
   },
@@ -30535,10 +30535,10 @@ window.PMW_WALLPAPERS = [
       "sunset",
       "lake"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
-    "preview": "https://drive.google.com/uc?export=view&id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
-    "image": "https://drive.google.com/uc?export=view&id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
+    "image": "https://drive.google.com/thumbnail?id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd&sz=w1600",
     "driveFileId": "1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
     "storage": "google_drive"
   },
@@ -30562,10 +30562,10 @@ window.PMW_WALLPAPERS = [
       "cabin",
       "balcony"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
-    "preview": "https://drive.google.com/uc?export=view&id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
-    "image": "https://drive.google.com/uc?export=view&id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
+    "image": "https://drive.google.com/thumbnail?id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1&sz=w1600",
     "driveFileId": "1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
     "storage": "google_drive"
   },
@@ -30589,10 +30589,10 @@ window.PMW_WALLPAPERS = [
       "swing",
       "sunset"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
-    "preview": "https://drive.google.com/uc?export=view&id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
-    "image": "https://drive.google.com/uc?export=view&id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
+    "image": "https://drive.google.com/thumbnail?id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH&sz=w1600",
     "driveFileId": "1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
     "storage": "google_drive"
   },
@@ -30616,10 +30616,10 @@ window.PMW_WALLPAPERS = [
       "floating",
       "lanterns"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
-    "preview": "https://drive.google.com/uc?export=view&id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
-    "image": "https://drive.google.com/uc?export=view&id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
+    "image": "https://drive.google.com/thumbnail?id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j&sz=w1600",
     "driveFileId": "1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
     "storage": "google_drive"
   },
@@ -30643,10 +30643,10 @@ window.PMW_WALLPAPERS = [
       "fireflies",
       "valley"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
-    "preview": "https://drive.google.com/uc?export=view&id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
-    "image": "https://drive.google.com/uc?export=view&id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
+    "image": "https://drive.google.com/thumbnail?id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-&sz=w1600",
     "driveFileId": "1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
     "storage": "google_drive"
   },
@@ -30669,10 +30669,10 @@ window.PMW_WALLPAPERS = [
       "antique",
       "bookstore"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
-    "preview": "https://drive.google.com/uc?export=view&id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
-    "image": "https://drive.google.com/uc?export=view&id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
+    "image": "https://drive.google.com/thumbnail?id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I&sz=w1600",
     "driveFileId": "1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
     "storage": "google_drive"
   },
@@ -30695,10 +30695,10 @@ window.PMW_WALLPAPERS = [
       "lanterns",
       "water"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
-    "preview": "https://drive.google.com/uc?export=view&id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
-    "image": "https://drive.google.com/uc?export=view&id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
+    "image": "https://drive.google.com/thumbnail?id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC&sz=w1600",
     "driveFileId": "1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
     "storage": "google_drive"
   },
@@ -30723,10 +30723,10 @@ window.PMW_WALLPAPERS = [
       "blue",
       "ballroom"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
-    "preview": "https://drive.google.com/uc?export=view&id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
-    "image": "https://drive.google.com/uc?export=view&id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
+    "image": "https://drive.google.com/thumbnail?id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP&sz=w1600",
     "driveFileId": "1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
     "storage": "google_drive"
   },
@@ -30750,10 +30750,10 @@ window.PMW_WALLPAPERS = [
       "cafe",
       "table"
     ],
-    "thumbnail": "https://drive.google.com/uc?export=view&id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
-    "preview": "https://drive.google.com/uc?export=view&id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
+    "thumbnail": "https://drive.google.com/thumbnail?id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx&sz=w1600",
+    "preview": "https://drive.google.com/thumbnail?id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx&sz=w1600",
     "download": "https://drive.google.com/uc?export=download&id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
-    "image": "https://drive.google.com/uc?export=view&id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
+    "image": "https://drive.google.com/thumbnail?id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx&sz=w1600",
     "driveFileId": "1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
     "storage": "google_drive"
   }
