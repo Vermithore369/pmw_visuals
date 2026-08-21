@@ -25,10 +25,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
     "image": "https://drive.google.com/uc?export=view&id=1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
     "driveFileId": "1QVownAK6nnYl1dmrKiiqUj1jE_Uy5k1T",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-05-pm-vlxhic&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-05-pm-vlxhic&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-05-pm-vlxhic&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-08-pm-wrwbd8",
@@ -56,10 +53,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
     "image": "https://drive.google.com/uc?export=view&id=1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
     "driveFileId": "1Qd2Bjfc7AsuT_ZZK_z4dDnHhyTTW1nXw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-08-pm-wrwbd8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-08-pm-wrwbd8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-08-pm-wrwbd8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-11-pm-figmjk",
@@ -87,10 +81,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
     "image": "https://drive.google.com/uc?export=view&id=1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
     "driveFileId": "1e8m2bLKkSyzVWDz9vNR2rHt4gL3htgJ4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-11-pm-figmjk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-11-pm-figmjk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-11-pm-figmjk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-14-pm-a7dpci",
@@ -118,10 +109,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
     "image": "https://drive.google.com/uc?export=view&id=1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
     "driveFileId": "1fS7dvWLaIUwz4bm_3ruI8ureCpxDMNFL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-14-pm-a7dpci&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-14-pm-a7dpci&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-14-pm-a7dpci&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-23-pm-pqgjac",
@@ -150,10 +138,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
     "image": "https://drive.google.com/uc?export=view&id=18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
     "driveFileId": "18TQlZ0oG_5fEozUTpI4D1SH9lc_F27ch",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-23-pm-pqgjac&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-23-pm-pqgjac&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-23-pm-pqgjac&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-26-pm-ul9jry",
@@ -179,10 +164,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
     "image": "https://drive.google.com/uc?export=view&id=13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
     "driveFileId": "13JZpU08R67tqgtYyzCtJcuPMcza1X40v",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-26-pm-ul9jry&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-26-pm-ul9jry&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-26-pm-ul9jry&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-30-pm-sedt3s",
@@ -210,10 +192,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
     "image": "https://drive.google.com/uc?export=view&id=1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
     "driveFileId": "1NNuynnPPq5oZdW3od76sYin_42Pd_p-0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-30-pm-sedt3s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-30-pm-sedt3s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-30-pm-sedt3s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-32-pm-lv9zmm",
@@ -240,10 +219,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
     "image": "https://drive.google.com/uc?export=view&id=1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
     "driveFileId": "1lNaMEPysB9rsxyJhg4ezVNhbs96cF62V",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-32-pm-lv9zmm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-32-pm-lv9zmm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-32-pm-lv9zmm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-34-pm-jj5huw",
@@ -270,10 +246,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
     "image": "https://drive.google.com/uc?export=view&id=1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
     "driveFileId": "1FYOybqnCEiVBolO26a2FiQ7M37pFGZ7I",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-34-pm-jj5huw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-34-pm-jj5huw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-34-pm-jj5huw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-37-pm-g3sle1",
@@ -301,10 +274,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
     "image": "https://drive.google.com/uc?export=view&id=1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
     "driveFileId": "1Nbacwh30Nc3vuC_XTSDycf9h-ZV6qkVb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-37-pm-g3sle1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-37-pm-g3sle1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-37-pm-g3sle1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-40-pm-mp79ac",
@@ -332,10 +302,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
     "image": "https://drive.google.com/uc?export=view&id=17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
     "driveFileId": "17tRiyl16TH4DRheG15N7NoyZh1csw_MH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-40-pm-mp79ac&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-40-pm-mp79ac&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-40-pm-mp79ac&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-42-pm-vqlmui",
@@ -362,10 +329,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
     "image": "https://drive.google.com/uc?export=view&id=1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
     "driveFileId": "1GXWwm9TTdq7Ze4BvG6DL_Yzyc38ULp3b",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-42-pm-vqlmui&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-42-pm-vqlmui&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-42-pm-vqlmui&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-45-pm-pr6qyo",
@@ -392,10 +356,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
     "image": "https://drive.google.com/uc?export=view&id=1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
     "driveFileId": "1kgpiU3N1oSCMrH6u5bDgBK4s-LHEFdvT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-45-pm-pr6qyo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-45-pm-pr6qyo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-45-pm-pr6qyo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-47-pm-z0xqst",
@@ -423,10 +384,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
     "image": "https://drive.google.com/uc?export=view&id=10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
     "driveFileId": "10SuAhdjSVI2D3XNMnk5Jl7sBsVh5btbh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-47-pm-z0xqst&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-47-pm-z0xqst&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-47-pm-z0xqst&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-50-pm-a6ldk9",
@@ -454,10 +412,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
     "image": "https://drive.google.com/uc?export=view&id=1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
     "driveFileId": "1BcVnecz-1oFG7kLYgk2XN9TaCJb3UCRA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-50-pm-a6ldk9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-50-pm-a6ldk9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-50-pm-a6ldk9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-54-pm-1-zorx7z",
@@ -484,10 +439,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
     "image": "https://drive.google.com/uc?export=view&id=1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
     "driveFileId": "1K3SKFYI3iQ_gDBAyeJCLLlp07JdSQhP6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-54-pm-1-zorx7z&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-54-pm-1-zorx7z&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-54-pm-1-zorx7z&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-54-pm-2-hdscmf",
@@ -515,10 +467,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
     "image": "https://drive.google.com/uc?export=view&id=1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
     "driveFileId": "1521_1f6n3dEMKObDegCVQiVJlg4nP7s_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-54-pm-2-hdscmf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-54-pm-2-hdscmf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-54-pm-2-hdscmf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-56-pm-s3xax7",
@@ -547,10 +496,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
     "image": "https://drive.google.com/uc?export=view&id=1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
     "driveFileId": "1NgNqsAARpeUJt2ss0o-u6BjGGv92nY-o",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-56-pm-s3xax7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-56-pm-s3xax7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-56-pm-s3xax7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-39-59-pm-gkobrh",
@@ -576,10 +522,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
     "image": "https://drive.google.com/uc?export=view&id=1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
     "driveFileId": "1M00FWZhUC-T-T0lD_DZYrXkJRBnLRCpn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-59-pm-gkobrh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-59-pm-gkobrh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-39-59-pm-gkobrh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-02-pm-t73n5k",
@@ -606,10 +549,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
     "image": "https://drive.google.com/uc?export=view&id=1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
     "driveFileId": "1xTrpuPMmTSJkwhLmitPmDAscAKt9Vlh7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-02-pm-t73n5k&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-02-pm-t73n5k&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-02-pm-t73n5k&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-06-pm-1-oph9ks",
@@ -637,10 +577,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
     "image": "https://drive.google.com/uc?export=view&id=1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
     "driveFileId": "1E9WTqHSgADuGAib_0CBq7ibyjTbiO0rW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-06-pm-1-oph9ks&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-06-pm-1-oph9ks&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-06-pm-1-oph9ks&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-06-pm-2-sdzheu",
@@ -669,10 +606,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
     "image": "https://drive.google.com/uc?export=view&id=19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
     "driveFileId": "19uculvPDQpTk4xMa60j6YqOUFl4X3KUs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-06-pm-2-sdzheu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-06-pm-2-sdzheu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-06-pm-2-sdzheu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-08-pm-hxfkcv",
@@ -699,10 +633,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
     "image": "https://drive.google.com/uc?export=view&id=17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
     "driveFileId": "17_eLiZH2YKYM7o8l9JryVKrIEkLp-zz9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-08-pm-hxfkcv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-08-pm-hxfkcv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-08-pm-hxfkcv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-10-pm-l9spjd",
@@ -729,10 +660,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
     "image": "https://drive.google.com/uc?export=view&id=1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
     "driveFileId": "1sI1wWvdOHSvpipUGplsC-nJXm7N0LX_m",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-10-pm-l9spjd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-10-pm-l9spjd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-10-pm-l9spjd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-14-pm-cds5ic",
@@ -760,10 +688,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
     "image": "https://drive.google.com/uc?export=view&id=11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
     "driveFileId": "11bdUIT54XzJ1qYEG7At9Vgj2vhZR1QMs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-14-pm-cds5ic&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-14-pm-cds5ic&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-14-pm-cds5ic&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-20-pm-1-nimz6t",
@@ -789,10 +714,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
     "image": "https://drive.google.com/uc?export=view&id=1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
     "driveFileId": "1XaXTx2K3Otrd_EAlQzGIQQW7J0AzK__x",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-20-pm-1-nimz6t&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-20-pm-1-nimz6t&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-20-pm-1-nimz6t&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-20-pm-2-dfucxh",
@@ -817,10 +739,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
     "image": "https://drive.google.com/uc?export=view&id=1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
     "driveFileId": "1z5YAq5jtqPyk6dloDHxIPBybGCheJ_e-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-20-pm-2-dfucxh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-20-pm-2-dfucxh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-20-pm-2-dfucxh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-24-pm-c12bj8",
@@ -848,10 +767,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
     "image": "https://drive.google.com/uc?export=view&id=1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
     "driveFileId": "1kksOGk3BAnfhik5_c64v7nN9Zv14hICq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-24-pm-c12bj8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-24-pm-c12bj8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-24-pm-c12bj8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-26-pm-xk5dxi",
@@ -878,10 +794,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
     "image": "https://drive.google.com/uc?export=view&id=1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
     "driveFileId": "1tl_8ao7t7G4FAgUG6jLfsCGx1N__XuBb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-26-pm-xk5dxi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-26-pm-xk5dxi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-26-pm-xk5dxi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-40-54-pm-jx1xju",
@@ -908,10 +821,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
     "image": "https://drive.google.com/uc?export=view&id=1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
     "driveFileId": "1OaRR95YJg5_99P4kycOvtoOhMQtT2R68",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-54-pm-jx1xju&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-54-pm-jx1xju&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-40-54-pm-jx1xju&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-01-pm-cnm2jz",
@@ -938,10 +848,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
     "image": "https://drive.google.com/uc?export=view&id=1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
     "driveFileId": "1F7ekTlD7GdNrcvqvJ09uCnGJa0dKzSSR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-01-pm-cnm2jz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-01-pm-cnm2jz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-01-pm-cnm2jz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-05-pm-1-mgd850",
@@ -969,10 +876,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
     "image": "https://drive.google.com/uc?export=view&id=1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
     "driveFileId": "1meiZ35kYevmjrE2GQj-XjCFR-B7NYq-_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-05-pm-1-mgd850&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-05-pm-1-mgd850&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-05-pm-1-mgd850&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-05-pm-2-xopf7x",
@@ -1000,10 +904,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
     "image": "https://drive.google.com/uc?export=view&id=1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
     "driveFileId": "1qLXAIUg6AopBjFdfqUCzNOdlayy0k2eE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-05-pm-2-xopf7x&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-05-pm-2-xopf7x&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-05-pm-2-xopf7x&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-09-pm-kkhtr4",
@@ -1030,10 +931,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
     "image": "https://drive.google.com/uc?export=view&id=1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
     "driveFileId": "1Q5zD1S2Dwk3MTugAhW0RGl2Et_chPIK2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-09-pm-kkhtr4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-09-pm-kkhtr4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-09-pm-kkhtr4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-12-pm-oc6g8a",
@@ -1061,10 +959,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
     "image": "https://drive.google.com/uc?export=view&id=19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
     "driveFileId": "19g14QW8q2aKNAVz8i-ZYgxFNhvZ8E-Vl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-12-pm-oc6g8a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-12-pm-oc6g8a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-12-pm-oc6g8a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-17-pm-1-fa30bv",
@@ -1091,10 +986,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
     "image": "https://drive.google.com/uc?export=view&id=1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
     "driveFileId": "1v2kk_ru0lf5WxCHzUYGFSog5f2aIv68N",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-17-pm-1-fa30bv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-17-pm-1-fa30bv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-17-pm-1-fa30bv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-17-pm-2-oaocgc",
@@ -1122,10 +1014,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
     "image": "https://drive.google.com/uc?export=view&id=1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
     "driveFileId": "1s7JCTAIzlGsS61_Mh-dfU0a6VxYQgOj_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-17-pm-2-oaocgc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-17-pm-2-oaocgc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-17-pm-2-oaocgc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-20-pm-rb9bga",
@@ -1152,10 +1041,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
     "image": "https://drive.google.com/uc?export=view&id=1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
     "driveFileId": "1fmD3K7Gy4l0fZyZxuUE7rWlj2mO1WTP-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-20-pm-rb9bga&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-20-pm-rb9bga&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-20-pm-rb9bga&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-22-pm-zkbp2n",
@@ -1183,10 +1069,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
     "image": "https://drive.google.com/uc?export=view&id=1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
     "driveFileId": "1uvTChJoo159bvuTXOg81syCvD6CtwyOw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-22-pm-zkbp2n&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-22-pm-zkbp2n&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-22-pm-zkbp2n&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-25-pm-djf1l1",
@@ -1212,10 +1095,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
     "image": "https://drive.google.com/uc?export=view&id=1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
     "driveFileId": "1RLci5GACE2PtICNx4AA6RJNtP9hmHWYX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-25-pm-djf1l1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-25-pm-djf1l1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-25-pm-djf1l1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-28-pm-k5dm7s",
@@ -1243,10 +1123,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
     "image": "https://drive.google.com/uc?export=view&id=1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
     "driveFileId": "1Bw72RHIA-OJQIGPPbcinTwRz24BJdgDG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-28-pm-k5dm7s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-28-pm-k5dm7s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-28-pm-k5dm7s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-31-pm-qzhagv",
@@ -1274,10 +1151,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
     "image": "https://drive.google.com/uc?export=view&id=1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
     "driveFileId": "1WNzPqVVUQRiACvIqqrufpj0ghPwOqiHc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-31-pm-qzhagv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-31-pm-qzhagv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-31-pm-qzhagv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-37-pm-crlfxj",
@@ -1304,10 +1178,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
     "image": "https://drive.google.com/uc?export=view&id=1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
     "driveFileId": "1UfIHc4136_Tagt59ZSDmJr1hb5XQAve3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-37-pm-crlfxj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-37-pm-crlfxj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-37-pm-crlfxj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-39-pm-uyhump",
@@ -1334,10 +1205,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
     "image": "https://drive.google.com/uc?export=view&id=1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
     "driveFileId": "1WgGceNadPhfSG_FhxSzE0NiyaMsa3LAj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-39-pm-uyhump&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-39-pm-uyhump&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-39-pm-uyhump&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-41-42-pm-pn6al0",
@@ -1364,10 +1232,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
     "image": "https://drive.google.com/uc?export=view&id=1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
     "driveFileId": "1p7AlZjtDS7dLBo2QGSbAOfurpXOj3Q5g",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-42-pm-pn6al0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-42-pm-pn6al0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-41-42-pm-pn6al0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-01-pm-opme8w",
@@ -1394,10 +1259,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
     "image": "https://drive.google.com/uc?export=view&id=1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
     "driveFileId": "1kPBgLWzIA0QABs6Ai2DcZ1b_I_25vn5T",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-01-pm-opme8w&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-01-pm-opme8w&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-01-pm-opme8w&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-04-pm-un9f1d",
@@ -1424,10 +1286,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
     "image": "https://drive.google.com/uc?export=view&id=1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
     "driveFileId": "1pIBcrDkFqhYIVyGl6_IKIvpCKGPekP22",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-04-pm-un9f1d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-04-pm-un9f1d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-04-pm-un9f1d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-06-pm-rgv8vb",
@@ -1454,10 +1313,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
     "image": "https://drive.google.com/uc?export=view&id=1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
     "driveFileId": "1SrgUYyJcllI31wXvvNLQbdWfUH3SGCih",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-06-pm-rgv8vb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-06-pm-rgv8vb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-06-pm-rgv8vb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-10-pm-nxefts",
@@ -1483,10 +1339,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
     "image": "https://drive.google.com/uc?export=view&id=1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
     "driveFileId": "1wWhtZqOrkWj0xXWzN-9k4yGrBmPANJp8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-10-pm-nxefts&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-10-pm-nxefts&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-10-pm-nxefts&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-17-pm-viejbw",
@@ -1513,10 +1366,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
     "image": "https://drive.google.com/uc?export=view&id=1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
     "driveFileId": "1Y1NrQNWmIdqQPUKpTDJx1-cop8WgEbCX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-17-pm-viejbw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-17-pm-viejbw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-17-pm-viejbw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-24-pm-zkswpw",
@@ -1543,10 +1393,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
     "image": "https://drive.google.com/uc?export=view&id=1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
     "driveFileId": "1MdDrPgVQGrMT6AAONUKro0SuPU5kbvsJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-24-pm-zkswpw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-24-pm-zkswpw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-24-pm-zkswpw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-27-pm-dovggh",
@@ -1574,10 +1421,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
     "image": "https://drive.google.com/uc?export=view&id=1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
     "driveFileId": "1ID8MuKp8jJ7quHvXfQdIJ1AlxrjZc2La",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-27-pm-dovggh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-27-pm-dovggh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-27-pm-dovggh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-29-pm-mansbr",
@@ -1604,10 +1448,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
     "image": "https://drive.google.com/uc?export=view&id=1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
     "driveFileId": "1-aOGLDnGCKWiDA0WDUeIY5cLWF3Wr6-Q",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-29-pm-mansbr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-29-pm-mansbr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-29-pm-mansbr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-33-pm-ozefqb",
@@ -1635,10 +1476,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
     "image": "https://drive.google.com/uc?export=view&id=1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
     "driveFileId": "1R-n_KCWetDBImrFhgiEBONp2lVtffpad",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-33-pm-ozefqb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-33-pm-ozefqb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-33-pm-ozefqb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-35-pm-pokaxk",
@@ -1666,10 +1504,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
     "image": "https://drive.google.com/uc?export=view&id=1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
     "driveFileId": "1ZxYI-IjqA5OuKvzCBajyXa6lpPBfiBBX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-35-pm-pokaxk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-35-pm-pokaxk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-35-pm-pokaxk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-40-pm-1-wck1ft",
@@ -1697,10 +1532,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
     "image": "https://drive.google.com/uc?export=view&id=1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
     "driveFileId": "1OVrVKiBxCCXZU3qXHYZcyIBpYOSe0gIV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-40-pm-1-wck1ft&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-40-pm-1-wck1ft&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-40-pm-1-wck1ft&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-40-pm-2-dktuyd",
@@ -1728,10 +1560,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
     "image": "https://drive.google.com/uc?export=view&id=1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
     "driveFileId": "1OUnaQVmbppVsEaRFT5PLPpQkWm6SYOdS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-40-pm-2-dktuyd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-40-pm-2-dktuyd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-40-pm-2-dktuyd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-44-pm-tskehb",
@@ -1758,10 +1587,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
     "image": "https://drive.google.com/uc?export=view&id=1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
     "driveFileId": "1EnlXDIYb70PFfItuTUF6RZxLjwYzsAej",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-44-pm-tskehb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-44-pm-tskehb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-44-pm-tskehb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-47-pm-tvuqdr",
@@ -1787,10 +1613,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
     "image": "https://drive.google.com/uc?export=view&id=1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
     "driveFileId": "1kZd5N2OuSxAtY4-dK0BgBO93ABZAfW6I",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-47-pm-tvuqdr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-47-pm-tvuqdr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-47-pm-tvuqdr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-50-pm-a8p2hi",
@@ -1818,10 +1641,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
     "image": "https://drive.google.com/uc?export=view&id=1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
     "driveFileId": "1VRojsMMQXBF5tBXXEvwYqFIDrk8s0Z4S",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-50-pm-a8p2hi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-50-pm-a8p2hi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-50-pm-a8p2hi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-42-52-pm-sd2bre",
@@ -1847,10 +1667,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
     "image": "https://drive.google.com/uc?export=view&id=1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
     "driveFileId": "1QQTLBedHuioGIqN3u1HVX1GK1wo788Fk",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-52-pm-sd2bre&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-52-pm-sd2bre&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-42-52-pm-sd2bre&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-43-27-pm-t2apbk",
@@ -1878,10 +1695,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
     "image": "https://drive.google.com/uc?export=view&id=1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
     "driveFileId": "1JlmCaZ6g_BBO1w2ZXosauxJYpYauXrd1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-43-27-pm-t2apbk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-43-27-pm-t2apbk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-43-27-pm-t2apbk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-03-pm-jj3oii",
@@ -1908,10 +1722,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
     "image": "https://drive.google.com/uc?export=view&id=1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
     "driveFileId": "1350mPYEi0IJndIMo-4u5n9ItE_PFU71T",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-03-pm-jj3oii&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-03-pm-jj3oii&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-03-pm-jj3oii&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-06-pm-xvlnhd",
@@ -1937,10 +1748,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
     "image": "https://drive.google.com/uc?export=view&id=1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
     "driveFileId": "1PA7WxBMDzrmi_EWs4pZd2dHY0ZVcOUc_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-06-pm-xvlnhd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-06-pm-xvlnhd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-06-pm-xvlnhd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-09-pm-rdidcv",
@@ -1967,10 +1775,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
     "image": "https://drive.google.com/uc?export=view&id=1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
     "driveFileId": "1HHqdNBNZrO9xndvfjBAIK-8EB8LinQPm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-09-pm-rdidcv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-09-pm-rdidcv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-09-pm-rdidcv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-11-pm-jhy5vp",
@@ -1995,10 +1800,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
     "image": "https://drive.google.com/uc?export=view&id=16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
     "driveFileId": "16yy8HY-FWkBmYYkcA9ZfW1dWmYR3SzWH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-11-pm-jhy5vp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-11-pm-jhy5vp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-11-pm-jhy5vp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-13-pm-zoh1bs",
@@ -2025,10 +1827,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
     "image": "https://drive.google.com/uc?export=view&id=18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
     "driveFileId": "18jEpTZnI1ZmzxKhVnQ-GjVgpZ10nuQgq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-13-pm-zoh1bs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-13-pm-zoh1bs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-13-pm-zoh1bs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-15-pm-bcgkrf",
@@ -2056,10 +1855,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
     "image": "https://drive.google.com/uc?export=view&id=1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
     "driveFileId": "1jDXkFsLIrsCuT4NCbT0gpk8BdUis9Nu4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-15-pm-bcgkrf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-15-pm-bcgkrf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-15-pm-bcgkrf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-17-pm-tjkjfb",
@@ -2086,10 +1882,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
     "image": "https://drive.google.com/uc?export=view&id=1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
     "driveFileId": "1JJZuT1HJ8yL8aRASU44P5N-rbvQ3zYG2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-17-pm-tjkjfb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-17-pm-tjkjfb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-17-pm-tjkjfb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-26-pm-1-kam0cp",
@@ -2117,10 +1910,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
     "image": "https://drive.google.com/uc?export=view&id=1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
     "driveFileId": "1i0DxHlmxBCjveipzEVtvbHMObQNp10XQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-26-pm-1-kam0cp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-26-pm-1-kam0cp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-26-pm-1-kam0cp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-26-pm-2-xkxvma",
@@ -2147,10 +1937,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
     "image": "https://drive.google.com/uc?export=view&id=1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
     "driveFileId": "1P6S6pE2rRpfPePOLMC1mM38KQnIjNxgh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-26-pm-2-xkxvma&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-26-pm-2-xkxvma&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-26-pm-2-xkxvma&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-28-pm-d4pr5v",
@@ -2177,10 +1964,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
     "image": "https://drive.google.com/uc?export=view&id=1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
     "driveFileId": "1HAF_D_caWo-ktI-j0Dih_z68vrZ5hbdJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-28-pm-d4pr5v&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-28-pm-d4pr5v&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-28-pm-d4pr5v&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-31-pm-dnyz2y",
@@ -2207,10 +1991,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
     "image": "https://drive.google.com/uc?export=view&id=1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
     "driveFileId": "1OAADYSB4uHNE9eCy-CKPZJu1v720jkLP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-31-pm-dnyz2y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-31-pm-dnyz2y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-31-pm-dnyz2y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-34-pm-dmzyro",
@@ -2238,10 +2019,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
     "image": "https://drive.google.com/uc?export=view&id=1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
     "driveFileId": "1e6FHB5y9Q5kTwXcCgo70NrhI1uKXNl6W",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-34-pm-dmzyro&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-34-pm-dmzyro&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-34-pm-dmzyro&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-39-pm-ui5sny",
@@ -2268,10 +2046,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
     "image": "https://drive.google.com/uc?export=view&id=14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
     "driveFileId": "14y6dzpO0OTzmLI4ebJ_aw_4p7zMu-de1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-39-pm-ui5sny&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-39-pm-ui5sny&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-39-pm-ui5sny&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-44-41-pm-sb7epc",
@@ -2298,10 +2073,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
     "image": "https://drive.google.com/uc?export=view&id=1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
     "driveFileId": "1fpd2Lm3aOZQEmDe_uhnMwALajCe1KMku",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-41-pm-sb7epc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-41-pm-sb7epc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-44-41-pm-sb7epc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-45-01-pm-1-lctrbe",
@@ -2327,10 +2099,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
     "image": "https://drive.google.com/uc?export=view&id=17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
     "driveFileId": "17mawtDKMJnVH7MxvQ2tPPO4OfdDdtE-n",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-01-pm-1-lctrbe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-01-pm-1-lctrbe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-01-pm-1-lctrbe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-45-01-pm-2-fclkuq",
@@ -2357,10 +2126,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
     "image": "https://drive.google.com/uc?export=view&id=1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
     "driveFileId": "1NZ2UMtB1fawPKTnL6BCO6CHbC67B_lVu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-01-pm-2-fclkuq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-01-pm-2-fclkuq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-01-pm-2-fclkuq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-45-04-pm-k61lj3",
@@ -2386,10 +2152,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
     "image": "https://drive.google.com/uc?export=view&id=1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
     "driveFileId": "1EGl7oUPW835pPWMO8o_ZiIZD7-ia-hph",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-04-pm-k61lj3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-04-pm-k61lj3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-04-pm-k61lj3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-45-07-pm-bsvvhk",
@@ -2416,10 +2179,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
     "image": "https://drive.google.com/uc?export=view&id=1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
     "driveFileId": "1vD0OGrTRKdrTw8bgrv_0aPKPrb0HsDxM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-07-pm-bsvvhk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-07-pm-bsvvhk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-07-pm-bsvvhk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-03-45-11-pm-tfn3kn",
@@ -2447,10 +2207,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
     "image": "https://drive.google.com/uc?export=view&id=1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
     "driveFileId": "1e5fISY7_lVuVZF3hFPmEzvdcoIBD8-2r",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-11-pm-tfn3kn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-11-pm-tfn3kn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-03-45-11-pm-tfn3kn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-06-22-00-pm-mu9iaj",
@@ -2478,10 +2235,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
     "image": "https://drive.google.com/uc?export=view&id=139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
     "driveFileId": "139aUqgGY34hCw7F3tScgzn0EgJ2ql2lL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-06-22-00-pm-mu9iaj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-06-22-00-pm-mu9iaj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-06-22-00-pm-mu9iaj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-14-09-pm-kmorac",
@@ -2508,10 +2262,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
     "image": "https://drive.google.com/uc?export=view&id=1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
     "driveFileId": "1dFjCK0OJRqNMvALJq2g7sHx2sgabnT4h",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-14-09-pm-kmorac&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-14-09-pm-kmorac&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-14-09-pm-kmorac&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-14-12-pm-xkx9xl",
@@ -2538,10 +2289,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
     "image": "https://drive.google.com/uc?export=view&id=1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
     "driveFileId": "1nKlWUEzIIPzKT5nkP23zFnBMYbCqzQTe",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-14-12-pm-xkx9xl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-14-12-pm-xkx9xl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-14-12-pm-xkx9xl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-15-27-pm-1-marbm1",
@@ -2568,10 +2316,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
     "image": "https://drive.google.com/uc?export=view&id=1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
     "driveFileId": "1UVnj0Nvp_cHaoBD0ZGCpAgGpwNqicQ8k",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-15-27-pm-1-marbm1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-15-27-pm-1-marbm1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-15-27-pm-1-marbm1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-15-27-pm-2-o7ajob",
@@ -2598,10 +2343,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
     "image": "https://drive.google.com/uc?export=view&id=1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
     "driveFileId": "1C3pGz8ZwzzuwfxkrVS9yY2-kX-VRRJgB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-15-27-pm-2-o7ajob&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-15-27-pm-2-o7ajob&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-15-27-pm-2-o7ajob&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-10-pm-fzjk3d",
@@ -2629,10 +2371,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
     "image": "https://drive.google.com/uc?export=view&id=1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
     "driveFileId": "1H8iTngqk2a9bjwcU-jbrHeRjbPBX4TK8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-10-pm-fzjk3d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-10-pm-fzjk3d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-10-pm-fzjk3d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-19-pm-m3deyy",
@@ -2660,10 +2399,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
     "image": "https://drive.google.com/uc?export=view&id=1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
     "driveFileId": "1ofFXOSK8ed5_A_XxzLNuqVM9m3d1JYwH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-19-pm-m3deyy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-19-pm-m3deyy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-19-pm-m3deyy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-27-pm-la5hiy",
@@ -2691,10 +2427,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
     "image": "https://drive.google.com/uc?export=view&id=1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
     "driveFileId": "1mnwCssGBcHcErv9vEvuMUlb3DylqzAJD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-27-pm-la5hiy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-27-pm-la5hiy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-27-pm-la5hiy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-35-pm-jlfdwq",
@@ -2722,10 +2455,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
     "image": "https://drive.google.com/uc?export=view&id=1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
     "driveFileId": "1Ygl0TbglLr2iIeHrjsX9iAXpY7jkptyZ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-35-pm-jlfdwq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-35-pm-jlfdwq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-35-pm-jlfdwq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-38-pm-djc4zx",
@@ -2753,10 +2483,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
     "image": "https://drive.google.com/uc?export=view&id=1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
     "driveFileId": "1AUtIpQhLeyVvveBF6MkH051JYBBQZ7QW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-38-pm-djc4zx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-38-pm-djc4zx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-38-pm-djc4zx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-43-pm-nqnp6k",
@@ -2784,10 +2511,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
     "image": "https://drive.google.com/uc?export=view&id=10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
     "driveFileId": "10oZ6NgZZIJGIRJyoTY5C7OmPUlIevPqq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-43-pm-nqnp6k&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-43-pm-nqnp6k&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-43-pm-nqnp6k&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-46-pm-fobyrc",
@@ -2815,10 +2539,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
     "image": "https://drive.google.com/uc?export=view&id=1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
     "driveFileId": "1SpSOXKuPfUXHz9Ugp7WvWxRrMS7wCSeC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-46-pm-fobyrc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-46-pm-fobyrc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-46-pm-fobyrc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-48-pm-zq8cum",
@@ -2845,10 +2566,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
     "image": "https://drive.google.com/uc?export=view&id=1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
     "driveFileId": "1RYXy90fltAkuNUDslP4_gok6S_7XwgZu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-48-pm-zq8cum&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-48-pm-zq8cum&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-48-pm-zq8cum&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-50-pm-tdnlkt",
@@ -2876,10 +2594,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
     "image": "https://drive.google.com/uc?export=view&id=1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
     "driveFileId": "1-G8KVLc_cTgNEM7o6WIdyTSPxgx8o9Y4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-50-pm-tdnlkt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-50-pm-tdnlkt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-50-pm-tdnlkt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-53-pm-ifcgur",
@@ -2906,10 +2621,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
     "image": "https://drive.google.com/uc?export=view&id=11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
     "driveFileId": "11rufKw4qF_ywl_n2v9PFRnQXKhUrqXXn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-53-pm-ifcgur&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-53-pm-ifcgur&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-53-pm-ifcgur&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-55-pm-tkvjg6",
@@ -2937,10 +2649,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
     "image": "https://drive.google.com/uc?export=view&id=1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
     "driveFileId": "1ADN-dJhOVWS96qdvQBfTO7ekPcdulwrX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-55-pm-tkvjg6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-55-pm-tkvjg6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-55-pm-tkvjg6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-16-58-pm-kc1clf",
@@ -2966,10 +2675,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
     "image": "https://drive.google.com/uc?export=view&id=1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
     "driveFileId": "1EKxULhIBmktZoOUj9O0y0E8yK57cFHEb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-58-pm-kc1clf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-58-pm-kc1clf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-16-58-pm-kc1clf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-17-00-pm-wsopwi",
@@ -2996,10 +2702,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
     "image": "https://drive.google.com/uc?export=view&id=1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
     "driveFileId": "1NbCmttIwGiFBYMu4GSeBC9WTfXufkLPl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-00-pm-wsopwi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-00-pm-wsopwi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-00-pm-wsopwi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-17-04-pm-1-dnjsqy",
@@ -3026,10 +2729,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
     "image": "https://drive.google.com/uc?export=view&id=1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
     "driveFileId": "1wlmQFuYsmKkd9UsNYjMZg8XB8LKjwq2F",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-04-pm-1-dnjsqy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-04-pm-1-dnjsqy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-04-pm-1-dnjsqy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-17-04-pm-2-kgapek",
@@ -3056,10 +2756,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
     "image": "https://drive.google.com/uc?export=view&id=1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
     "driveFileId": "1Sg41Iwag3Ujf3iZBQShq46ZRzy1375Vg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-04-pm-2-kgapek&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-04-pm-2-kgapek&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-04-pm-2-kgapek&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd",
@@ -3086,10 +2783,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
     "image": "https://drive.google.com/uc?export=view&id=1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
     "driveFileId": "1k-bdWDvc1mju1bvZzZN9SJcYYeuhze7s",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-10-pm-odzuqd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-08-17-15-pm-iluls1",
@@ -3116,10 +2810,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
     "image": "https://drive.google.com/uc?export=view&id=1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
     "driveFileId": "1WKq--cTLP0KLaqLZgktAMTLcZvH3B0Xb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-15-pm-iluls1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-15-pm-iluls1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-08-17-15-pm-iluls1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-09-57-pm-tvi87s",
@@ -3145,10 +2836,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
     "image": "https://drive.google.com/uc?export=view&id=1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
     "driveFileId": "1UmmmqRvby4IPUjrY9wmPHFruU9aDItZJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-09-57-pm-tvi87s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-09-57-pm-tvi87s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-09-57-pm-tvi87s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-45-46-pm-r9r1kt",
@@ -3175,10 +2863,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
     "image": "https://drive.google.com/uc?export=view&id=1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
     "driveFileId": "1dlSMjZAkuOIgywqzBt24KybSwNVwTn4_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-46-pm-r9r1kt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-46-pm-r9r1kt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-46-pm-r9r1kt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-45-49-pm-x9okup",
@@ -3204,10 +2889,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
     "image": "https://drive.google.com/uc?export=view&id=1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
     "driveFileId": "1Nwj8ixggiPYX9D9FF_MOo2IxtOYNvMvy",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-49-pm-x9okup&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-49-pm-x9okup&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-49-pm-x9okup&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-45-51-pm-hvvj1u",
@@ -3234,10 +2916,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
     "image": "https://drive.google.com/uc?export=view&id=1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
     "driveFileId": "1yGyJ8ZUrZWCQw2cL050pWqYMQBAyK5n6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-51-pm-hvvj1u&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-51-pm-hvvj1u&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-51-pm-hvvj1u&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-45-54-pm-g6ufck",
@@ -3264,10 +2943,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
     "image": "https://drive.google.com/uc?export=view&id=1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
     "driveFileId": "1N3BzaAQDGS2VYERD4iVeOsGPHWm5IKaj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-54-pm-g6ufck&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-54-pm-g6ufck&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-54-pm-g6ufck&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-45-56-pm-qsplnj",
@@ -3294,10 +2970,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
     "image": "https://drive.google.com/uc?export=view&id=16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
     "driveFileId": "16kbAW9-nBH0XEQZPBa1Je7IBN2kt6VqJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-56-pm-qsplnj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-56-pm-qsplnj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-45-56-pm-qsplnj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-02-pm-dxmtpw",
@@ -3325,10 +2998,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
     "image": "https://drive.google.com/uc?export=view&id=1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
     "driveFileId": "1IYgZZFKEsAr24A7va8A6ReHDp5jwihtf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-02-pm-dxmtpw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-02-pm-dxmtpw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-02-pm-dxmtpw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-05-pm-kuqcps",
@@ -3354,10 +3024,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
     "image": "https://drive.google.com/uc?export=view&id=1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
     "driveFileId": "1mo7FZ5r0OJJ3_iWTDtTGncmskKsZm-YC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-05-pm-kuqcps&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-05-pm-kuqcps&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-05-pm-kuqcps&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-08-pm-icpev0",
@@ -3384,10 +3051,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
     "image": "https://drive.google.com/uc?export=view&id=1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
     "driveFileId": "1STEhSiIT-RWE6rRbTUfqWcmidrDYNjdx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-08-pm-icpev0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-08-pm-icpev0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-08-pm-icpev0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-10-pm-ktudp3",
@@ -3414,10 +3078,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
     "image": "https://drive.google.com/uc?export=view&id=1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
     "driveFileId": "1rWTvrTL57-qITqvFjLUO6GQI0OOiZLlA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-10-pm-ktudp3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-10-pm-ktudp3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-10-pm-ktudp3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-19-pm-scfpjn",
@@ -3444,10 +3105,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
     "image": "https://drive.google.com/uc?export=view&id=1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
     "driveFileId": "1Cfz8RslHFz-v-aZV7BNCKN87U33pguiM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-19-pm-scfpjn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-19-pm-scfpjn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-19-pm-scfpjn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-22-pm-gw6h6v",
@@ -3474,10 +3132,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
     "image": "https://drive.google.com/uc?export=view&id=1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
     "driveFileId": "1t04aiGDbLZedmTgzg2w4R38ZRKjWcmB9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-22-pm-gw6h6v&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-22-pm-gw6h6v&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-22-pm-gw6h6v&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-25-pm-hfvdvi",
@@ -3503,10 +3158,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
     "image": "https://drive.google.com/uc?export=view&id=1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
     "driveFileId": "1Asw7h3zzMOVyQCevibZckf93hI2WKuXV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-25-pm-hfvdvi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-25-pm-hfvdvi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-25-pm-hfvdvi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-08-46-28-pm-giblnq",
@@ -3534,10 +3186,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
     "image": "https://drive.google.com/uc?export=view&id=1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
     "driveFileId": "1QlxrhW3RkimjrhajimwOg2gDanz_7NcW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-28-pm-giblnq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-28-pm-giblnq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-08-46-28-pm-giblnq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-35-03-pm-wg9jku",
@@ -3563,10 +3212,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
     "image": "https://drive.google.com/uc?export=view&id=1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
     "driveFileId": "1K03mRt6hU7xqPdi9mq8aSroIT1MuImjH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-03-pm-wg9jku&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-03-pm-wg9jku&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-03-pm-wg9jku&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-35-10-pm-xulaok",
@@ -3595,10 +3241,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
     "image": "https://drive.google.com/uc?export=view&id=1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
     "driveFileId": "1Gw3umHKJhY0e4CceQrCQPl6AHRKcZIZp",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-10-pm-xulaok&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-10-pm-xulaok&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-10-pm-xulaok&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-35-17-pm-xw4zdl",
@@ -3626,10 +3269,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
     "image": "https://drive.google.com/uc?export=view&id=1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
     "driveFileId": "1MsoJqmDC1k2MpWcS0zTWPDw-fELUYCk7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-17-pm-xw4zdl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-17-pm-xw4zdl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-17-pm-xw4zdl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-35-25-pm-vn3vc0",
@@ -3655,10 +3295,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
     "image": "https://drive.google.com/uc?export=view&id=1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
     "driveFileId": "1O0V2DbUaD4XlHiWToi01ePMbZFDmRl64",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-25-pm-vn3vc0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-25-pm-vn3vc0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-25-pm-vn3vc0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-35-33-pm-rryg23",
@@ -3685,10 +3322,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
     "image": "https://drive.google.com/uc?export=view&id=1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
     "driveFileId": "1TDvyjrmp6bHe4ahtB_1ml9aaPe5X2hWq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-33-pm-rryg23&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-33-pm-rryg23&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-33-pm-rryg23&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-35-38-pm-ybc8oe",
@@ -3715,10 +3349,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hKhD81guWVLfGydlTWvT735C3zFyVedz",
     "image": "https://drive.google.com/uc?export=view&id=1hKhD81guWVLfGydlTWvT735C3zFyVedz",
     "driveFileId": "1hKhD81guWVLfGydlTWvT735C3zFyVedz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-38-pm-ybc8oe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-38-pm-ybc8oe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-35-38-pm-ybc8oe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-42-12-pm-oonnqy",
@@ -3746,10 +3377,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
     "image": "https://drive.google.com/uc?export=view&id=1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
     "driveFileId": "1i3vfJe49NPRRjY9YFT1pEgG6UvSPU71H",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-12-pm-oonnqy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-12-pm-oonnqy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-12-pm-oonnqy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-42-16-pm-wi2h04",
@@ -3776,10 +3404,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
     "image": "https://drive.google.com/uc?export=view&id=1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
     "driveFileId": "1cbIUVPuLgpUQeK8rFA4ol7FBmTdDFde6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-16-pm-wi2h04&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-16-pm-wi2h04&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-16-pm-wi2h04&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-42-20-pm-fzuwmt",
@@ -3806,10 +3431,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
     "image": "https://drive.google.com/uc?export=view&id=14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
     "driveFileId": "14CcyxKBcM7cMO2gLJqtVsM3126mzsQqw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-20-pm-fzuwmt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-20-pm-fzuwmt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-20-pm-fzuwmt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-42-23-pm-bmtsev",
@@ -3836,10 +3458,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
     "image": "https://drive.google.com/uc?export=view&id=1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
     "driveFileId": "1e2Rm8GJ3s0kxquCK_XL9jZnsHCkISSE5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-23-pm-bmtsev&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-23-pm-bmtsev&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-23-pm-bmtsev&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-may-30-2026-06-42-29-pm-njez6q",
@@ -3868,10 +3487,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
     "image": "https://drive.google.com/uc?export=view&id=1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
     "driveFileId": "1ShVqwKANeYLgvDpEN_VZp97AFI9nK4Gf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-29-pm-njez6q&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-29-pm-njez6q&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-may-30-2026-06-42-29-pm-njez6q&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-1-kkntne",
@@ -3899,10 +3515,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
     "image": "https://drive.google.com/uc?export=view&id=1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
     "driveFileId": "1AS4wkGHUVWIvFeRLcuKe2miBoEb3ertE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-1-kkntne&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-1-kkntne&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-1-kkntne&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-2-jtdasf",
@@ -3929,10 +3542,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
     "image": "https://drive.google.com/uc?export=view&id=1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
     "driveFileId": "1VTuHdy6WuzQ8S4-1mLnjmQ0AiVu8r__3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-2-jtdasf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-2-jtdasf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-2-jtdasf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-3-p8j3p7",
@@ -3959,10 +3569,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
     "image": "https://drive.google.com/uc?export=view&id=1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
     "driveFileId": "1b3g-ZfxeRZrGyiTkQmb4Dxjgza4ml-1M",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-3-p8j3p7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-3-p8j3p7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-3-p8j3p7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-4-j2ado6",
@@ -3990,10 +3597,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
     "image": "https://drive.google.com/uc?export=view&id=1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
     "driveFileId": "1lzMa13-vN28lVNXseeqL2_HpOkgKCYnN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-4-j2ado6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-5-sdesbv",
@@ -4020,10 +3624,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
     "image": "https://drive.google.com/uc?export=view&id=1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
     "driveFileId": "1XkH62E72jnALiCpbWYwgCMUavC5QEMhN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-5-sdesbv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-5-sdesbv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-5-sdesbv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-6-kadkbc",
@@ -4050,10 +3651,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
     "image": "https://drive.google.com/uc?export=view&id=1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
     "driveFileId": "1hoPsceDnqRNjJhQeIUMt2VMl23eNMZqu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-6-kadkbc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-6-kadkbc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-6-kadkbc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-7-o5whm6",
@@ -4080,10 +3678,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
     "image": "https://drive.google.com/uc?export=view&id=1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
     "driveFileId": "1dKhtj5QEuKolaBexOJRvt9X2hLOFGWYG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-7-o5whm6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-7-o5whm6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-7-o5whm6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-8-jllv6x",
@@ -4110,10 +3705,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
     "image": "https://drive.google.com/uc?export=view&id=1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
     "driveFileId": "1bAxXDMRkWqfSlJ3rDybFOKrgMe6Qxp7a",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-8-jllv6x&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-8-jllv6x&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-8-jllv6x&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-9-oeri0f",
@@ -4140,10 +3732,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
     "image": "https://drive.google.com/uc?export=view&id=1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
     "driveFileId": "1vHGmPZG2HIOPY3W60y7b7Z_ZysEH5IXc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-9-oeri0f&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-9-oeri0f&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-9-oeri0f&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-10-yndicg",
@@ -4170,10 +3759,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
     "image": "https://drive.google.com/uc?export=view&id=1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
     "driveFileId": "1horU8W2RBuR_jHlyQiF427QZZUyMzmoP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-10-yndicg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-10-yndicg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-10-yndicg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-11-bmv27c",
@@ -4200,10 +3786,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
     "image": "https://drive.google.com/uc?export=view&id=1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
     "driveFileId": "1BaACXZzk3PlfZ24Yy25nyKpLgCQ3hsxj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-11-bmv27c&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-11-bmv27c&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-11-bmv27c&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-12-ji28kr",
@@ -4229,10 +3812,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
     "image": "https://drive.google.com/uc?export=view&id=1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
     "driveFileId": "1Mw_qw7qEfmpnPYwpPsf-cywG6l8NYnPK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-12-ji28kr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-12-ji28kr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-12-ji28kr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-13-a0fruf",
@@ -4260,10 +3840,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
     "image": "https://drive.google.com/uc?export=view&id=13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
     "driveFileId": "13IJ24hps1iA_744SKD8BR1q4WbILTWcA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-13-a0fruf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-13-a0fruf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-13-a0fruf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-14-blmcvo",
@@ -4291,10 +3868,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
     "image": "https://drive.google.com/uc?export=view&id=1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
     "driveFileId": "1nlHitGvacEi-HDFWsSqq9sFyLUO-E6Uc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-14-blmcvo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-14-blmcvo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-14-blmcvo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-15-njrzkt",
@@ -4321,10 +3895,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
     "image": "https://drive.google.com/uc?export=view&id=1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
     "driveFileId": "1iVHOAqznevDDDIH9HaN2RmznXmCi2dUe",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-15-njrzkt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-15-njrzkt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-15-njrzkt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-16-i0fsyf",
@@ -4351,10 +3922,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
     "image": "https://drive.google.com/uc?export=view&id=1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
     "driveFileId": "1dj1oE6roAdeYRR--IWe0MS2hwztMqlso",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-16-i0fsyf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-16-i0fsyf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-16-i0fsyf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-17-m4pgzc",
@@ -4380,10 +3948,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
     "image": "https://drive.google.com/uc?export=view&id=1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
     "driveFileId": "1IyiP3MS9qhUnuLnPbTX_ozNUekNh2v8V",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-17-m4pgzc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-17-m4pgzc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-17-m4pgzc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-18-s5fqp8",
@@ -4410,10 +3975,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
     "image": "https://drive.google.com/uc?export=view&id=1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
     "driveFileId": "1ZpPmxmMEAIQOmNyT1BIBjS52zxNKsbga",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-18-s5fqp8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-18-s5fqp8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-18-s5fqp8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-19-uiohyc",
@@ -4440,10 +4002,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
     "image": "https://drive.google.com/uc?export=view&id=1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
     "driveFileId": "1xaqC8R7wzmqakpD2a33Tuq4SsCkIGVCk",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-19-uiohyc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-19-uiohyc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-19-uiohyc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-20-bpzm10",
@@ -4470,10 +4029,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
     "image": "https://drive.google.com/uc?export=view&id=19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
     "driveFileId": "19oyZxDnNFVFMk_Y2l4TbZ4tXcgD20q9T",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-20-bpzm10&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-20-bpzm10&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-20-bpzm10&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-21-wkb0qr",
@@ -4500,10 +4056,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
     "image": "https://drive.google.com/uc?export=view&id=1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
     "driveFileId": "1hocY9kO7S2ilSvSHBjRcC9U6W5ugCGeC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-21-wkb0qr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-21-wkb0qr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-21-wkb0qr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-22-oske0b",
@@ -4530,10 +4083,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
     "image": "https://drive.google.com/uc?export=view&id=1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
     "driveFileId": "1AC4KxS21Yh5u6TxPU1ycFvbf5mRAB6rI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-22-oske0b&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-22-oske0b&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-22-oske0b&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-23-tzooxk",
@@ -4559,10 +4109,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
     "image": "https://drive.google.com/uc?export=view&id=1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
     "driveFileId": "1K600LUG7-QR598zqjfP-xUmmKcuuS7Ex",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-23-tzooxk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-23-tzooxk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-23-tzooxk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-24-rj0ywq",
@@ -4590,10 +4137,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
     "image": "https://drive.google.com/uc?export=view&id=16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
     "driveFileId": "16jddhLq7VJqAb9sgtrG91J7G_2tK_MK5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-24-rj0ywq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-24-rj0ywq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-24-rj0ywq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-25-grqyan",
@@ -4620,10 +4164,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
     "image": "https://drive.google.com/uc?export=view&id=1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
     "driveFileId": "1e_R4PXCH7iacLh_I8lfMt1Ck9SUvoREK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-25-grqyan&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-25-grqyan&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-25-grqyan&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-26-g08utk",
@@ -4649,10 +4190,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
     "image": "https://drive.google.com/uc?export=view&id=1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
     "driveFileId": "1CVHrYBPrzxEOcSxHaGn4_QuDZloqaf9O",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-26-g08utk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-26-g08utk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-26-g08utk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-27-lpliwb",
@@ -4680,10 +4218,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
     "image": "https://drive.google.com/uc?export=view&id=1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
     "driveFileId": "1EqZhbr1S9wy9z3OG2Cn6tli8WuQ5I4i6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-27-lpliwb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-27-lpliwb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-27-lpliwb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-28-w08gki",
@@ -4710,10 +4245,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
     "image": "https://drive.google.com/uc?export=view&id=19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
     "driveFileId": "19-o8407rcuphWQ4ZMWNeXkijBqdJrD5c",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-28-w08gki&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-28-w08gki&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-28-w08gki&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-29-lmtihr",
@@ -4740,10 +4272,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
     "image": "https://drive.google.com/uc?export=view&id=1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
     "driveFileId": "1VpUhZs893gS78qLB3fJoukC7Yprj_v9g",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-29-lmtihr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-29-lmtihr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-29-lmtihr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-30-oxfk2m",
@@ -4770,10 +4299,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
     "image": "https://drive.google.com/uc?export=view&id=1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
     "driveFileId": "1BYrSrMQfd99cwv9iz14FayzrET6wBdRW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-30-oxfk2m&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-30-oxfk2m&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-30-oxfk2m&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-31-cjqhof",
@@ -4800,10 +4326,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
     "image": "https://drive.google.com/uc?export=view&id=1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
     "driveFileId": "1WkkziBs6hdbDJ4UW3xEbNsJmsrRxqvyt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-31-cjqhof&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-31-cjqhof&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-31-cjqhof&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-32-ajpa95",
@@ -4830,10 +4353,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lm6hjIOeELTXYxjUszE-v73talck6EGX",
     "image": "https://drive.google.com/uc?export=view&id=1lm6hjIOeELTXYxjUszE-v73talck6EGX",
     "driveFileId": "1lm6hjIOeELTXYxjUszE-v73talck6EGX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-32-ajpa95&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-32-ajpa95&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-32-ajpa95&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-33-cz7enw",
@@ -4859,10 +4379,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
     "image": "https://drive.google.com/uc?export=view&id=1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
     "driveFileId": "1zbExzyKb8Vp-fAp89MPUVDXRaTnyMSX_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-33-cz7enw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-33-cz7enw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-33-cz7enw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-34-z5nlps",
@@ -4889,10 +4406,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
     "image": "https://drive.google.com/uc?export=view&id=1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
     "driveFileId": "1eu1zNJ6ZD9Ug9V8g5Nj42fkZytEMmG37",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-34-z5nlps&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-34-z5nlps&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-34-z5nlps&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-35-hdfxpl",
@@ -4920,10 +4434,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
     "image": "https://drive.google.com/uc?export=view&id=1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
     "driveFileId": "1ze23lXQ2aoPBSn6MW4Ga7QBiKBYSJozP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-35-hdfxpl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-35-hdfxpl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-35-hdfxpl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-36-zlh2qu",
@@ -4950,10 +4461,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
     "image": "https://drive.google.com/uc?export=view&id=1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
     "driveFileId": "1XEMgLe8wkwATybJ0078eDdsjl5axtQH-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-36-zlh2qu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-36-zlh2qu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-36-zlh2qu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-37-r4fgw3",
@@ -4981,10 +4489,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
     "image": "https://drive.google.com/uc?export=view&id=1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
     "driveFileId": "1CHdousLmiRGWrduvpt89uFr95y1fVVh-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-37-r4fgw3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-37-r4fgw3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-37-r4fgw3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-38-pmbws8",
@@ -5010,10 +4515,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
     "image": "https://drive.google.com/uc?export=view&id=1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
     "driveFileId": "1dnZkcsE3gYBtVWgBTkS58P-MwpGJb55R",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-38-pmbws8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-38-pmbws8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-38-pmbws8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-39-qhupe1",
@@ -5040,10 +4542,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
     "image": "https://drive.google.com/uc?export=view&id=1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
     "driveFileId": "1EJHlIWLaqJ8u5F8EdvR_d5-ezGs5M3NM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-39-qhupe1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-39-qhupe1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-39-qhupe1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-40-dvyiac",
@@ -5070,10 +4569,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
     "image": "https://drive.google.com/uc?export=view&id=1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
     "driveFileId": "1lBKzo9boUReVXf4nF63jbJM22r1wcr-0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-40-dvyiac&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-40-dvyiac&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-40-dvyiac&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-41-btd0df",
@@ -5101,10 +4597,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
     "image": "https://drive.google.com/uc?export=view&id=1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
     "driveFileId": "1PhvsCY12nuNBpslCFoFyTrtK4B7JLbgk",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-41-btd0df&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-41-btd0df&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-41-btd0df&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-42-engtol",
@@ -5132,10 +4625,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
     "image": "https://drive.google.com/uc?export=view&id=1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
     "driveFileId": "1jORG4XThxFiRAL6wrPzhCKWA41qepjDp",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-42-engtol&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-42-engtol&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-42-engtol&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-43-ccsj8o",
@@ -5162,10 +4652,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
     "image": "https://drive.google.com/uc?export=view&id=1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
     "driveFileId": "1RoNrCzxG_Sod0pBHAkEp6DD34lRQ0XKA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-43-ccsj8o&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-43-ccsj8o&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-43-ccsj8o&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-44-woq0pd",
@@ -5192,10 +4679,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
     "image": "https://drive.google.com/uc?export=view&id=1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
     "driveFileId": "1s88P8dDNmbVkZK2nYUL8MMdKFEXDf2y5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-44-woq0pd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-44-woq0pd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-44-woq0pd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-45-bp4wda",
@@ -5222,10 +4706,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
     "image": "https://drive.google.com/uc?export=view&id=1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
     "driveFileId": "1Pk2RH5SWmXUBYkvs1Gl1TWeKj_BWdJBg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-45-bp4wda&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-45-bp4wda&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-45-bp4wda&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-46-uaosp7",
@@ -5252,10 +4733,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
     "image": "https://drive.google.com/uc?export=view&id=1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
     "driveFileId": "1h8pjHLFgVorOWAWEEia6_QblIthK4Uy7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-46-uaosp7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-46-uaosp7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-46-uaosp7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-47-zm8uk4",
@@ -5283,10 +4761,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
     "image": "https://drive.google.com/uc?export=view&id=1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
     "driveFileId": "1I9Kw40T15hIJB7fD7gtGpIK2mLUZQZRo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-47-zm8uk4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-47-zm8uk4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-47-zm8uk4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-48-aedkvy",
@@ -5313,10 +4788,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
     "image": "https://drive.google.com/uc?export=view&id=1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
     "driveFileId": "1za95Nf-INtSkIaVkK9KNJgp8ridaNFxl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-48-aedkvy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-48-aedkvy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-48-aedkvy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-49-sfbwyw",
@@ -5343,10 +4815,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
     "image": "https://drive.google.com/uc?export=view&id=1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
     "driveFileId": "1JHKCq8XKrCohDxE0X7MkCUYZQFo6DFc3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-49-sfbwyw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-49-sfbwyw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-49-sfbwyw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-50-q03r2t",
@@ -5374,10 +4843,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
     "image": "https://drive.google.com/uc?export=view&id=1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
     "driveFileId": "1dtgpnsYpy8dDq9CIbmCGOIoZOu5eKAOJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-50-q03r2t&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-50-q03r2t&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-50-q03r2t&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-51-wnnxpy",
@@ -5404,10 +4870,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
     "image": "https://drive.google.com/uc?export=view&id=1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
     "driveFileId": "1FiaF3Mm4JUTjSbRgkwBOi08se4wjkGHq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-51-wnnxpy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-51-wnnxpy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-51-wnnxpy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-52-u1i3ro",
@@ -5435,10 +4898,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
     "image": "https://drive.google.com/uc?export=view&id=11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
     "driveFileId": "11GyWcngAP7AKUa-8LF3kWiTglZVKJ5yb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-52-u1i3ro&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-52-u1i3ro&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-52-u1i3ro&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-53-dlxavf",
@@ -5465,10 +4925,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
     "image": "https://drive.google.com/uc?export=view&id=1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
     "driveFileId": "1ugtNYCbnGg7TS7q00O0886w1xCfBMm55",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-53-dlxavf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-53-dlxavf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-53-dlxavf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-54-ntqneq",
@@ -5495,10 +4952,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
     "image": "https://drive.google.com/uc?export=view&id=1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
     "driveFileId": "1KzG69bPuTV62v86iHt72UgQszhLX8SiT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-54-ntqneq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-54-ntqneq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-54-ntqneq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-55-nlmogx",
@@ -5525,10 +4979,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
     "image": "https://drive.google.com/uc?export=view&id=1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
     "driveFileId": "1YVHkSY8eXuNt2SHUrnmdDz9a1nkVClsL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-55-nlmogx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-55-nlmogx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-55-nlmogx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-56-cqvglb",
@@ -5556,10 +5007,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
     "image": "https://drive.google.com/uc?export=view&id=1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
     "driveFileId": "1qod4FNVIUIQc-Iqc_WeKaREUKDZNslDt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-56-cqvglb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-56-cqvglb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-56-cqvglb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-57-hdy9ga",
@@ -5586,10 +5034,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
     "image": "https://drive.google.com/uc?export=view&id=1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
     "driveFileId": "1QgaJLwz8opOjUoCy-o7qGDr-ixoWWSnK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-57-hdy9ga&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-57-hdy9ga&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-57-hdy9ga&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-58-s7sxcv",
@@ -5617,10 +5062,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
     "image": "https://drive.google.com/uc?export=view&id=1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
     "driveFileId": "1KJyZW_wt_TY73nLFYGeQ5o8YPelGVLzi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-58-s7sxcv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-58-s7sxcv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-58-s7sxcv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-59-evsrzx",
@@ -5647,10 +5089,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
     "image": "https://drive.google.com/uc?export=view&id=1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
     "driveFileId": "1GtatNd_Kb3tbo4Wbrg4wSIBYVBEywDbv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-59-evsrzx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-59-evsrzx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-59-evsrzx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-60-xgkx88",
@@ -5676,10 +5115,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
     "image": "https://drive.google.com/uc?export=view&id=1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
     "driveFileId": "1E8NRI19OW0L8MJ-lqzx8xoovrj3M2G1J",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-60-xgkx88&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-60-xgkx88&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-60-xgkx88&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-61-z4aldl",
@@ -5706,10 +5142,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
     "image": "https://drive.google.com/uc?export=view&id=1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
     "driveFileId": "1jt7kYEsi52Qmu5OZhxr1MK-x0INGh-Mj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-61-z4aldl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-61-z4aldl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-61-z4aldl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-62-pfb1bt",
@@ -5736,10 +5169,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
     "image": "https://drive.google.com/uc?export=view&id=1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
     "driveFileId": "1P--1RPKsrWNlTDR4i9gXYVrRGGQC7t-z",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-62-pfb1bt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-62-pfb1bt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-62-pfb1bt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-63-smiicx",
@@ -5767,10 +5197,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FajPHIyTQZny4FVAKoygldITxEykLlNY",
     "image": "https://drive.google.com/uc?export=view&id=1FajPHIyTQZny4FVAKoygldITxEykLlNY",
     "driveFileId": "1FajPHIyTQZny4FVAKoygldITxEykLlNY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-63-smiicx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-63-smiicx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-63-smiicx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-64-s38qya",
@@ -5797,10 +5224,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
     "image": "https://drive.google.com/uc?export=view&id=19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
     "driveFileId": "19hB_AK3ueo2Xd9MdIffLROyLEMEIvJt3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-64-s38qya&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-64-s38qya&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-64-s38qya&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-65-oivor1",
@@ -5827,10 +5251,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
     "image": "https://drive.google.com/uc?export=view&id=1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
     "driveFileId": "1sGkdhiDvJNWjplC9k7UEHF2a11OtrMDS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-65-oivor1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-65-oivor1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-65-oivor1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-66-zqefg9",
@@ -5857,10 +5278,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
     "image": "https://drive.google.com/uc?export=view&id=1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
     "driveFileId": "1TcZlcx9e1CA5wcTz6lqrBqKtQMY-KsZB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-66-zqefg9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-66-zqefg9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-66-zqefg9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-67-b0esdx",
@@ -5888,10 +5306,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
     "image": "https://drive.google.com/uc?export=view&id=1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
     "driveFileId": "1LssuyX61JHzNkRQs8qglMDXlX7V9gRog",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-67-b0esdx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-67-b0esdx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-67-b0esdx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-68-dg2oud",
@@ -5918,10 +5333,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
     "image": "https://drive.google.com/uc?export=view&id=1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
     "driveFileId": "1EGZYrW3FQIgvDSEgPsruulfzyyDq3XqF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-68-dg2oud&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-68-dg2oud&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-68-dg2oud&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-69-nxqjjb",
@@ -5949,10 +5361,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
     "image": "https://drive.google.com/uc?export=view&id=1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
     "driveFileId": "1897oZtZK9qnhAciCTwq9jeuKFLpgx5S2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-69-nxqjjb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-69-nxqjjb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-69-nxqjjb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-70-jgxrgu",
@@ -5979,10 +5388,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
     "image": "https://drive.google.com/uc?export=view&id=1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
     "driveFileId": "1tpeFlmT_teOHtcD4ScSKP-S6ezbruJun",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-70-jgxrgu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-70-jgxrgu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-70-jgxrgu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-71-pjhhfp",
@@ -6009,10 +5415,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
     "image": "https://drive.google.com/uc?export=view&id=10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
     "driveFileId": "10MTBqoVjP0Azs_WcUMAMmmYkI718i0Sn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-71-pjhhfp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-71-pjhhfp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-71-pjhhfp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-72-fgjl4q",
@@ -6039,10 +5442,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
     "image": "https://drive.google.com/uc?export=view&id=14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
     "driveFileId": "14T9MHRcjFl4DMFt148c9FECZtdQKJakS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-72-fgjl4q&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-72-fgjl4q&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-72-fgjl4q&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-73-ngk2og",
@@ -6068,10 +5468,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
     "image": "https://drive.google.com/uc?export=view&id=1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
     "driveFileId": "1YMxT-HrEc-CH9J8k9WUx3QzIJtbXPsij",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-73-ngk2og&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-73-ngk2og&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-73-ngk2og&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-74-wlpq1l",
@@ -6097,10 +5494,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
     "image": "https://drive.google.com/uc?export=view&id=1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
     "driveFileId": "1WqsocGYLe8F3pSxu7acNrHkvbpKmBAnJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-74-wlpq1l&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-74-wlpq1l&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-74-wlpq1l&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-75-wratfz",
@@ -6127,10 +5521,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
     "image": "https://drive.google.com/uc?export=view&id=1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
     "driveFileId": "1iYk-KSBngqZkzQOJ_kjlKbGRW9slziWH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-75-wratfz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-75-wratfz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-75-wratfz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-76-bitytd",
@@ -6156,10 +5547,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
     "image": "https://drive.google.com/uc?export=view&id=16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
     "driveFileId": "16Bywb9uER7BrluGwvk8JwMVSGJwiP2gP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-76-bitytd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-76-bitytd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-76-bitytd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-77-rn4qyr",
@@ -6186,10 +5574,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
     "image": "https://drive.google.com/uc?export=view&id=1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
     "driveFileId": "1sWzP11DIBIz2SkPFcxjakgj8TmZIkdmx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-77-rn4qyr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-77-rn4qyr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-77-rn4qyr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-78-objqap",
@@ -6216,10 +5601,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
     "image": "https://drive.google.com/uc?export=view&id=1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
     "driveFileId": "1wNx3XaX7YD-EpU9jJL7se32uMnBYo8Qa",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-78-objqap&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-78-objqap&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-78-objqap&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-79-nvir0y",
@@ -6247,10 +5629,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
     "image": "https://drive.google.com/uc?export=view&id=1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
     "driveFileId": "1qF_g0V7No6pONaS7BXjK33SduTUbWwJ1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-79-nvir0y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-79-nvir0y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-79-nvir0y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-80-zbcv0i",
@@ -6277,10 +5656,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
     "image": "https://drive.google.com/uc?export=view&id=190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
     "driveFileId": "190fZZni52VP4cOs6wP16tYCyfEpkZjIc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-80-zbcv0i&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-80-zbcv0i&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-80-zbcv0i&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-81-c1qtyp",
@@ -6307,10 +5683,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
     "image": "https://drive.google.com/uc?export=view&id=1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
     "driveFileId": "1U3NrOrSGoDMd5awIaLDTXhGJgu5aatz0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-81-c1qtyp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-81-c1qtyp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-81-c1qtyp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-82-xlog29",
@@ -6338,10 +5711,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
     "image": "https://drive.google.com/uc?export=view&id=1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
     "driveFileId": "1bLZWtEYYYCbBAXJtA5G28jj8nGrneVhD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-82-xlog29&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-82-xlog29&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-82-xlog29&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-83-fk18ic",
@@ -6369,10 +5739,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
     "image": "https://drive.google.com/uc?export=view&id=1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
     "driveFileId": "1hX9Txgl7CX43ODFZLLCv6bajHcd-qFFi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-83-fk18ic&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-83-fk18ic&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-83-fk18ic&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-84-lrj4fr",
@@ -6399,10 +5766,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
     "image": "https://drive.google.com/uc?export=view&id=1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
     "driveFileId": "1yWCyE1b_RKYOCIotaMmuDx9JTctlNIy1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-84-lrj4fr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-84-lrj4fr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-84-lrj4fr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-85-scaxdk",
@@ -6430,10 +5794,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
     "image": "https://drive.google.com/uc?export=view&id=1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
     "driveFileId": "1SFabbbI9RJcAQGxWKnvRO-js1un7VL6A",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-85-scaxdk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-85-scaxdk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-85-scaxdk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-86-hs0v45",
@@ -6460,10 +5821,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
     "image": "https://drive.google.com/uc?export=view&id=1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
     "driveFileId": "1tMB7VjDhMzoWYNiBL15ZeuWT1LeObvlw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-86-hs0v45&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-86-hs0v45&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-86-hs0v45&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-87-xqdlo1",
@@ -6490,10 +5848,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
     "image": "https://drive.google.com/uc?export=view&id=1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
     "driveFileId": "1Dutg-JbqhwuQlj_zyAp3OEmiHs0n2ltd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-87-xqdlo1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-87-xqdlo1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-87-xqdlo1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-88-p3svup",
@@ -6520,10 +5875,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
     "image": "https://drive.google.com/uc?export=view&id=1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
     "driveFileId": "1r39ZYV1RmD553mipu6co08iQ1NWZrLmD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-88-p3svup&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-88-p3svup&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-88-p3svup&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-90-karm5g",
@@ -6550,10 +5902,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
     "image": "https://drive.google.com/uc?export=view&id=1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
     "driveFileId": "1UuM6LNytxx9YiGG80U5aKuYlH0jlgur3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-90-karm5g&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-90-karm5g&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-90-karm5g&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-91-gh3laa",
@@ -6579,10 +5928,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
     "image": "https://drive.google.com/uc?export=view&id=16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
     "driveFileId": "16GNg3h2qqq6rJPw0v16OuqGwgEmR-Ghy",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-91-gh3laa&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-91-gh3laa&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-91-gh3laa&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-92-d3hmj1",
@@ -6608,10 +5954,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
     "image": "https://drive.google.com/uc?export=view&id=1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
     "driveFileId": "1trbSxSJ5IFwNDkVKIZ7fGXEaZfLYXxFO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-92-d3hmj1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-92-d3hmj1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-92-d3hmj1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-93-gkyaqe",
@@ -6639,10 +5982,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
     "image": "https://drive.google.com/uc?export=view&id=1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
     "driveFileId": "1Kln0lf4kIXJBAPx5QKzOiB15u_-_yEms",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-93-gkyaqe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-93-gkyaqe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-93-gkyaqe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-94-cuxt3b",
@@ -6669,10 +6009,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
     "image": "https://drive.google.com/uc?export=view&id=1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
     "driveFileId": "1FjpsBee8uAnel6xqzi3sg0h__eMeZK58",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-94-cuxt3b&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-94-cuxt3b&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-94-cuxt3b&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-95-cxibna",
@@ -6699,10 +6036,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
     "image": "https://drive.google.com/uc?export=view&id=1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
     "driveFileId": "1kJpA_wk4mL9N4XRbC6tQZJnp_1P58lR5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-95-cxibna&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-95-cxibna&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-95-cxibna&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-96-vviv3r",
@@ -6729,10 +6063,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
     "image": "https://drive.google.com/uc?export=view&id=1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
     "driveFileId": "1lSCgUHEaDw-Bhrwz6tHDZDb_AuGACizD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-96-vviv3r&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-96-vviv3r&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-96-vviv3r&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "d-f-w-98-u6vyda",
@@ -6758,10 +6089,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
     "image": "https://drive.google.com/uc?export=view&id=1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
     "driveFileId": "1CKgUIANnJ450YI4H-r0LiYj65KofSqCh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-98-u6vyda&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-98-u6vyda&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=d-f-w-98-u6vyda&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-1-es47sx",
@@ -6788,10 +6116,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
     "image": "https://drive.google.com/uc?export=view&id=1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
     "driveFileId": "1nm38THP3DxODNX4fN5yJgG4gEYPtv-XG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-1-es47sx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-1-es47sx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-1-es47sx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-2-uzgbxw",
@@ -6818,10 +6143,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
     "image": "https://drive.google.com/uc?export=view&id=11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
     "driveFileId": "11rEflLs2zOQD9svQO7LCncenr4XLAhW1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-2-uzgbxw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-2-uzgbxw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-2-uzgbxw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-3-qgk6w5",
@@ -6849,10 +6171,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
     "image": "https://drive.google.com/uc?export=view&id=1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
     "driveFileId": "1303YNH9cEApFTWep6G6DqcyYrwnE-KEs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-3-qgk6w5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-3-qgk6w5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-3-qgk6w5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-4-blwblr",
@@ -6880,10 +6199,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
     "image": "https://drive.google.com/uc?export=view&id=1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
     "driveFileId": "1AVIuXQivLWIHRGe7uz96j8EZmAW55J-O",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-4-blwblr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-4-blwblr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-4-blwblr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-5-u43zud",
@@ -6911,10 +6227,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
     "image": "https://drive.google.com/uc?export=view&id=1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
     "driveFileId": "1HxJyGbB9ZiTWFb3amF6wZXSSyajslGe0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-5-u43zud&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-5-u43zud&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-5-u43zud&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-6-j8ses4",
@@ -6942,10 +6255,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
     "image": "https://drive.google.com/uc?export=view&id=1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
     "driveFileId": "1jtKJLn-HXoCDshrf_3hwYm2KWvu7Rob9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-6-j8ses4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-6-j8ses4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-6-j8ses4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-7-e73gtz",
@@ -6973,10 +6283,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
     "image": "https://drive.google.com/uc?export=view&id=1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
     "driveFileId": "1I-MdJvk4QYf0iu9Gz6b_Tu2yRRmLkJ9W",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-7-e73gtz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-7-e73gtz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-7-e73gtz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-8-pukhd2",
@@ -7003,10 +6310,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
     "image": "https://drive.google.com/uc?export=view&id=1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
     "driveFileId": "1q7H-JzWv0yS_hBe2sYjCgxWS75FtLY7K",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-8-pukhd2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-8-pukhd2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-8-pukhd2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-9-clpdzl",
@@ -7034,10 +6338,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
     "image": "https://drive.google.com/uc?export=view&id=1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
     "driveFileId": "1OF_DQE7sTNru-AKVdAHhgpyOXfoF0J5G",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-9-clpdzl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-9-clpdzl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-9-clpdzl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-10-idklmq",
@@ -7065,10 +6366,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
     "image": "https://drive.google.com/uc?export=view&id=1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
     "driveFileId": "1FDiRM0maYcAtBMYXs0YRoVEjmeJXdDui",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-10-idklmq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-10-idklmq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-10-idklmq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-11-djwg6y",
@@ -7095,10 +6393,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
     "image": "https://drive.google.com/uc?export=view&id=1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
     "driveFileId": "1Zq_8Ux-imKsbGpZdP2_4mG84aqccAC-8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-11-djwg6y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-11-djwg6y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-11-djwg6y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-12-nfdwns",
@@ -7126,10 +6421,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
     "image": "https://drive.google.com/uc?export=view&id=1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
     "driveFileId": "1k-Fx4pBpiL5UmVAyeogh97RCnj5TTWWv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-12-nfdwns&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-12-nfdwns&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-12-nfdwns&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-13-mpcbw5",
@@ -7157,10 +6449,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
     "image": "https://drive.google.com/uc?export=view&id=1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
     "driveFileId": "1yivYDs1LKybXkZWPHJoWDgC-Vrl-uVNa",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-13-mpcbw5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-13-mpcbw5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-13-mpcbw5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-14-mjfgly",
@@ -7188,10 +6477,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
     "image": "https://drive.google.com/uc?export=view&id=1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
     "driveFileId": "1VjlbuAOO3gcvusQ4djHAfR8CYXtfClEM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-14-mjfgly&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-14-mjfgly&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-14-mjfgly&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-15-eqfuio",
@@ -7219,10 +6505,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
     "image": "https://drive.google.com/uc?export=view&id=1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
     "driveFileId": "1m_RkFKLKPvMu_sFTgZl71AyONLfdMimm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-15-eqfuio&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-15-eqfuio&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-15-eqfuio&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-16-wq2hnc",
@@ -7251,10 +6534,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
     "image": "https://drive.google.com/uc?export=view&id=1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
     "driveFileId": "1Q4_KAGv1FDCQQFZJu6PN1pFdOV2yTKFR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-16-wq2hnc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-16-wq2hnc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-16-wq2hnc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-17-yelvev",
@@ -7283,10 +6563,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
     "image": "https://drive.google.com/uc?export=view&id=1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
     "driveFileId": "1KtiPSOS57CDQpl8YmER94OvSN9WoInEc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-17-yelvev&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-17-yelvev&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-17-yelvev&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-18-qxd89z",
@@ -7314,10 +6591,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
     "image": "https://drive.google.com/uc?export=view&id=1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
     "driveFileId": "1k6Y4YOZEJhNU-M38wAR2M3Ih7KpUatE9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-18-qxd89z&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-18-qxd89z&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-18-qxd89z&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-19-reyw5f",
@@ -7345,10 +6619,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
     "image": "https://drive.google.com/uc?export=view&id=1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
     "driveFileId": "1iGh1O7PVX-fZ-LcTpjXhWdhCFh-EaA_M",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-19-reyw5f&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-19-reyw5f&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-19-reyw5f&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-20-d1harg",
@@ -7377,10 +6648,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
     "image": "https://drive.google.com/uc?export=view&id=1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
     "driveFileId": "1P2AblLjnIp2UwIZ5Sa8VkPk7Tm623oaO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-20-d1harg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-20-d1harg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-20-d1harg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-21-tvirki",
@@ -7407,10 +6675,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
     "image": "https://drive.google.com/uc?export=view&id=1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
     "driveFileId": "1UqYtU3duBHf_FZuNhSsZmiUWTf0WZsQL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-21-tvirki&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-21-tvirki&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-21-tvirki&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-22-zz8og3",
@@ -7438,10 +6703,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
     "image": "https://drive.google.com/uc?export=view&id=1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
     "driveFileId": "1Y1eya8GV-ZjQN7-aThyAR9PmIorILl8n",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-22-zz8og3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-22-zz8og3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-22-zz8og3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-23-moqo46",
@@ -7469,10 +6731,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
     "image": "https://drive.google.com/uc?export=view&id=1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
     "driveFileId": "1BXWVGb0q8ckg7nSKlKvgALi3eo74wMTY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-23-moqo46&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-23-moqo46&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-23-moqo46&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-24-hr42mg",
@@ -7500,10 +6759,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
     "image": "https://drive.google.com/uc?export=view&id=13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
     "driveFileId": "13yqwHF5TSEvpNB1kFBq3yz-T_YWKVChd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-24-hr42mg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-24-hr42mg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-24-hr42mg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-25-mlbsa8",
@@ -7532,10 +6788,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
     "image": "https://drive.google.com/uc?export=view&id=1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
     "driveFileId": "1ZdGw1lKYF5bOKzfb7VxV1GUbCwxjbfRD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-25-mlbsa8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-25-mlbsa8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-25-mlbsa8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-26-mvqtbv",
@@ -7563,10 +6816,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
     "image": "https://drive.google.com/uc?export=view&id=1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
     "driveFileId": "1OtWRKUgyAzBnWyjwhfmki8GAMWuEsCkq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-26-mvqtbv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-26-mvqtbv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-26-mvqtbv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-27-vrk2h4",
@@ -7595,10 +6845,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
     "image": "https://drive.google.com/uc?export=view&id=18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
     "driveFileId": "18Ii1VhKxC-XhZmvACkGWQsaP7XZf4R3T",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-27-vrk2h4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-27-vrk2h4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-27-vrk2h4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-28-onhuaw",
@@ -7626,10 +6873,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
     "image": "https://drive.google.com/uc?export=view&id=1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
     "driveFileId": "1IQyTfW6cYBwYAcRZ1XCRtJcdejh9sGW6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-28-onhuaw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-28-onhuaw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-28-onhuaw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-29-at9mnf",
@@ -7658,10 +6902,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
     "image": "https://drive.google.com/uc?export=view&id=1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
     "driveFileId": "1QehpIW_eFYK4kZwOTE_EJDIOu0zIDkja",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-29-at9mnf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-29-at9mnf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-29-at9mnf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-30-d5mlnb",
@@ -7689,10 +6930,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
     "image": "https://drive.google.com/uc?export=view&id=1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
     "driveFileId": "1tvdHV2R4wGizYzfAcz51U_6omD7Ub9OV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-30-d5mlnb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-30-d5mlnb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-30-d5mlnb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-31-uqdjcf",
@@ -7721,10 +6959,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
     "image": "https://drive.google.com/uc?export=view&id=155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
     "driveFileId": "155BK2-OfknW8oqqQwhFEkdgIf2hWrSr9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-31-uqdjcf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-31-uqdjcf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-31-uqdjcf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-32-fkzmgo",
@@ -7752,10 +6987,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
     "image": "https://drive.google.com/uc?export=view&id=1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
     "driveFileId": "1iD-m_wRMsSeg_ucdnz6VQvktU-AqtIzw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-32-fkzmgo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-32-fkzmgo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-32-fkzmgo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-33-xjvy0u",
@@ -7781,10 +7013,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
     "image": "https://drive.google.com/uc?export=view&id=1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
     "driveFileId": "1yiHSF1BPLwJLDdlHYNUTPqWHWURHequW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-33-xjvy0u&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-33-xjvy0u&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-33-xjvy0u&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-34-ymwxx6",
@@ -7812,10 +7041,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
     "image": "https://drive.google.com/uc?export=view&id=1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
     "driveFileId": "1W-RdDNyD_zGzTzjcjo-dm5-rCddrMbUw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-34-ymwxx6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-34-ymwxx6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-34-ymwxx6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-35-exwh5a",
@@ -7843,10 +7069,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
     "image": "https://drive.google.com/uc?export=view&id=1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
     "driveFileId": "1qqkkwC8t-PKkQJL-UoKnIww3NbmK9zsF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-35-exwh5a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-35-exwh5a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-35-exwh5a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-36-houh0h",
@@ -7874,10 +7097,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
     "image": "https://drive.google.com/uc?export=view&id=198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
     "driveFileId": "198MYn02yPlcn7eLIuAlNsAocsJojxZRu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-36-houh0h&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-36-houh0h&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-36-houh0h&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-37-s1qmn9",
@@ -7905,10 +7125,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
     "image": "https://drive.google.com/uc?export=view&id=1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
     "driveFileId": "1kiLQEBvjLZF_hx06QEnnS1Ed-sQwLTD6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-37-s1qmn9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-37-s1qmn9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-37-s1qmn9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-38-n725g3",
@@ -7936,10 +7153,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
     "image": "https://drive.google.com/uc?export=view&id=1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
     "driveFileId": "1pVs1tKNwLgXTV3UW7Uy6d-4SSgMXoux2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-38-n725g3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-38-n725g3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-38-n725g3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-39-uqbgpi",
@@ -7969,10 +7183,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
     "image": "https://drive.google.com/uc?export=view&id=1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
     "driveFileId": "1WPEwxiUQ4Ta92CBXiGUhci0CcGJXt2GE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-39-uqbgpi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-39-uqbgpi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-39-uqbgpi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-40-xivfke",
@@ -8001,10 +7212,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
     "image": "https://drive.google.com/uc?export=view&id=1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
     "driveFileId": "1GYiINlfw-7BDrcow13ON_D5hMk3-D4jk",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-40-xivfke&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-40-xivfke&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-40-xivfke&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-41-rcstiw",
@@ -8032,10 +7240,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
     "image": "https://drive.google.com/uc?export=view&id=1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
     "driveFileId": "1aeaq5sbhU0Zj-nRnFH5j_dtWTuLR6vtL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-41-rcstiw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-41-rcstiw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-41-rcstiw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-42-bcqw40",
@@ -8063,10 +7268,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
     "image": "https://drive.google.com/uc?export=view&id=11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
     "driveFileId": "11AdRx6H3PSFv284tL_bAcop7mWGSliFY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-42-bcqw40&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-42-bcqw40&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-42-bcqw40&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-43-jrsdwt",
@@ -8093,10 +7295,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
     "image": "https://drive.google.com/uc?export=view&id=1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
     "driveFileId": "1SFYebgEeRtEX-Ia-EWHSXnRqfi7FmFLA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-43-jrsdwt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-43-jrsdwt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-43-jrsdwt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-44-rhnfca",
@@ -8123,10 +7322,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
     "image": "https://drive.google.com/uc?export=view&id=14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
     "driveFileId": "14C90WKn2wF7mDAbWPMCSbHiE2hxX4y_3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-44-rhnfca&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-44-rhnfca&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-44-rhnfca&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-45-wkqgjm",
@@ -8152,10 +7348,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
     "image": "https://drive.google.com/uc?export=view&id=1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
     "driveFileId": "1SzGxaHBtvDxI0MPKz65NO35PBwO6Z2kQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-45-wkqgjm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-45-wkqgjm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-45-wkqgjm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-46-fykkzk",
@@ -8182,10 +7375,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
     "image": "https://drive.google.com/uc?export=view&id=1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
     "driveFileId": "1vkvGA9sdKVQya7vUTU2V8TeJglIzj-90",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-46-fykkzk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-46-fykkzk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-46-fykkzk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-47-zinu25",
@@ -8213,10 +7403,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
     "image": "https://drive.google.com/uc?export=view&id=1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
     "driveFileId": "1GwEfYQQQQqtSkN-Hhfd_QXLKB55NTn1i",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-47-zinu25&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-47-zinu25&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-47-zinu25&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-48-rlnbg4",
@@ -8244,10 +7431,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
     "image": "https://drive.google.com/uc?export=view&id=1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
     "driveFileId": "1KSSZ3qg9_g91whPJCvY63rqIHWcmN5rH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-48-rlnbg4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-48-rlnbg4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-48-rlnbg4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-49-jdytog",
@@ -8275,10 +7459,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
     "image": "https://drive.google.com/uc?export=view&id=1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
     "driveFileId": "1HJv1cP5J-ic7xm-twQuBUcllNUZit9qH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-49-jdytog&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-49-jdytog&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-49-jdytog&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-50-z5i8uf",
@@ -8307,10 +7488,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
     "image": "https://drive.google.com/uc?export=view&id=1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
     "driveFileId": "1r3gnJbXGNVHmqrrYA6QT0co_9HhAhUgR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-50-z5i8uf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-50-z5i8uf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-50-z5i8uf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-51-jaiokg",
@@ -8337,10 +7515,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
     "image": "https://drive.google.com/uc?export=view&id=1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
     "driveFileId": "1PZVr_c9LXkEcm1CnrkDJjjiIwTZKU5o_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-51-jaiokg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-51-jaiokg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-51-jaiokg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-52-kfpao1",
@@ -8369,10 +7544,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
     "image": "https://drive.google.com/uc?export=view&id=1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
     "driveFileId": "1GyaI9P2RK54fHhBffs6LTrTO_JiAzVG7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-52-kfpao1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-52-kfpao1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-52-kfpao1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-53-qxfpsn",
@@ -8400,10 +7572,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
     "image": "https://drive.google.com/uc?export=view&id=1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
     "driveFileId": "1jA-YK0gawiOFziOoqegoOGQvItJtKq9W",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-53-qxfpsn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-53-qxfpsn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-53-qxfpsn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-54-vjsddp",
@@ -8430,10 +7599,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
     "image": "https://drive.google.com/uc?export=view&id=1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
     "driveFileId": "1uI6igSfsBw61BDU04eEvOHXTWLgsU8cr",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-54-vjsddp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-54-vjsddp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-54-vjsddp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-55-dowmvv",
@@ -8462,10 +7628,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
     "image": "https://drive.google.com/uc?export=view&id=1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
     "driveFileId": "1h8lRUCRsOGW-SJVyGwPFxjstoRXljT3t",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-55-dowmvv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-55-dowmvv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-55-dowmvv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-56-kcmou8",
@@ -8492,10 +7655,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
     "image": "https://drive.google.com/uc?export=view&id=1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
     "driveFileId": "1Bv6xNfYlWn4Lf9vAjWSo7lPDiRehu-7T",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-56-kcmou8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-56-kcmou8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-56-kcmou8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-57-ju9lp1",
@@ -8522,10 +7682,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
     "image": "https://drive.google.com/uc?export=view&id=1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
     "driveFileId": "1mYrlwKkKnESs186rK81YFs1cY-LzFs06",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-57-ju9lp1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-57-ju9lp1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-57-ju9lp1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-58-ttdajv",
@@ -8553,10 +7710,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
     "image": "https://drive.google.com/uc?export=view&id=1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
     "driveFileId": "1nlqFBcgzXokO2r2Q1REoSWwErr9SQuLT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-58-ttdajv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-58-ttdajv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-58-ttdajv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-59-pjieou",
@@ -8585,10 +7739,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
     "image": "https://drive.google.com/uc?export=view&id=1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
     "driveFileId": "1Dj_Z52-Y46LnXAVIPrUh8-7jGG-Ybbox",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-59-pjieou&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-59-pjieou&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-59-pjieou&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-60-cncmdi",
@@ -8617,10 +7768,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
     "image": "https://drive.google.com/uc?export=view&id=1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
     "driveFileId": "1e_2Oh65_dTqlBF2P3GIURlrfAAMeRq-v",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-60-cncmdi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-60-cncmdi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-60-cncmdi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-61-abljgg",
@@ -8647,10 +7795,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
     "image": "https://drive.google.com/uc?export=view&id=1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
     "driveFileId": "1LGAcjoO4SPTDegrZUeu9i5RLVS2huF4E",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-61-abljgg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-61-abljgg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-61-abljgg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-62-kwwf2y",
@@ -8677,10 +7822,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
     "image": "https://drive.google.com/uc?export=view&id=1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
     "driveFileId": "1wzifrwOy2bjKp6Iz4Yw29zR-doOUodcT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-62-kwwf2y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-62-kwwf2y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-62-kwwf2y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-63-ov9hga",
@@ -8708,10 +7850,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
     "image": "https://drive.google.com/uc?export=view&id=1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
     "driveFileId": "1B11D1pE3rVs4Fhva2Hp0Ayuzh63Eym5G",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-63-ov9hga&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-63-ov9hga&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-63-ov9hga&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-64-vfie57",
@@ -8739,10 +7878,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
     "image": "https://drive.google.com/uc?export=view&id=1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
     "driveFileId": "1ASK6YOl8dqGLzEmMEEMU_NXyqsJ66ydU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-64-vfie57&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-64-vfie57&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-64-vfie57&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-65-jwnpn3",
@@ -8769,10 +7905,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
     "image": "https://drive.google.com/uc?export=view&id=1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
     "driveFileId": "1GS32nsoh0hAuqc741eE7PfgkFoV66n4z",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-65-jwnpn3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-65-jwnpn3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-65-jwnpn3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-66-jplwvu",
@@ -8801,10 +7934,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
     "image": "https://drive.google.com/uc?export=view&id=1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
     "driveFileId": "1Dc5iJhUqBG_bmTfT9LIFJEMMoHp8B3U8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-66-jplwvu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-66-jplwvu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-66-jplwvu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-67-aktd5d",
@@ -8831,10 +7961,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
     "image": "https://drive.google.com/uc?export=view&id=1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
     "driveFileId": "1Be58DrbbyVFVx3ojjQLFn2tEXQ8dDc52",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-67-aktd5d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-67-aktd5d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-67-aktd5d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-68-uwnshr",
@@ -8862,10 +7989,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
     "image": "https://drive.google.com/uc?export=view&id=1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
     "driveFileId": "1iW9ESBRrDFhqM0-ekkR-lS3OKo_NTr2c",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-68-uwnshr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-68-uwnshr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-68-uwnshr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-69-bzuzfc",
@@ -8893,10 +8017,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
     "image": "https://drive.google.com/uc?export=view&id=1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
     "driveFileId": "1NP7nDuw-di_fmLyazf3NNC_Wq163AFwF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-69-bzuzfc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-69-bzuzfc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-69-bzuzfc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-70-imo4vk",
@@ -8923,10 +8044,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
     "image": "https://drive.google.com/uc?export=view&id=1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
     "driveFileId": "1lJJo_UYPzF1ilcPhVApm9w8z5PYy58gb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-70-imo4vk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-70-imo4vk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-70-imo4vk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-71-kjhqup",
@@ -8955,10 +8073,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
     "image": "https://drive.google.com/uc?export=view&id=1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
     "driveFileId": "1A-r_VxFpRhdyVjxzkHYT1i21tD2f6xNA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-71-kjhqup&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-71-kjhqup&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-71-kjhqup&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-72-gr7ib0",
@@ -8985,10 +8100,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
     "image": "https://drive.google.com/uc?export=view&id=1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
     "driveFileId": "1tpR_g6wnkJsM9qt1GZCBBO-_7pvAAhEG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-72-gr7ib0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-72-gr7ib0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-72-gr7ib0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-73-wzntpv",
@@ -9016,10 +8128,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
     "image": "https://drive.google.com/uc?export=view&id=1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
     "driveFileId": "1QR9SnStKzf96TDn3WgS-OZft5Ga9jJI0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-73-wzntpv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-73-wzntpv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-73-wzntpv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-74-cb6hus",
@@ -9045,10 +8154,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
     "image": "https://drive.google.com/uc?export=view&id=1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
     "driveFileId": "1RcweFCEiXmzqWyBSjX4X2Lnv7eJWV27Y",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-74-cb6hus&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-74-cb6hus&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-74-cb6hus&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-75-muue2g",
@@ -9075,10 +8181,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
     "image": "https://drive.google.com/uc?export=view&id=1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
     "driveFileId": "1uTlEQTETNY0B0G9fO2hSR2F9kzDKt0iT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-75-muue2g&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-75-muue2g&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-75-muue2g&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-76-sa47el",
@@ -9106,10 +8209,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
     "image": "https://drive.google.com/uc?export=view&id=1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
     "driveFileId": "1Td_9Du1pcOgcOtjiafeCe0gqsPEy4TqA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-76-sa47el&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-76-sa47el&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-76-sa47el&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-77-nomu1q",
@@ -9138,10 +8238,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
     "image": "https://drive.google.com/uc?export=view&id=1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
     "driveFileId": "1MVUdyzklfDhc3bPKB_8z-M7WuhDfwdn3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-77-nomu1q&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-77-nomu1q&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-77-nomu1q&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-78-y4mwyb",
@@ -9170,10 +8267,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
     "image": "https://drive.google.com/uc?export=view&id=14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
     "driveFileId": "14CKV-sPaFxc5PfJCq389GFMrliBrlsSg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-78-y4mwyb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-78-y4mwyb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-78-y4mwyb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-79-irg605",
@@ -9200,10 +8294,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
     "image": "https://drive.google.com/uc?export=view&id=1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
     "driveFileId": "1riE-o82IcsGEc-856RR2QWad5RcMVmY1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-79-irg605&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-79-irg605&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-79-irg605&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-80-o2gvb4",
@@ -9231,10 +8322,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
     "image": "https://drive.google.com/uc?export=view&id=1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
     "driveFileId": "1YT-Rn47QnxlO5uF6JtO6M8jlGB8ZIdzm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-80-o2gvb4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-80-o2gvb4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-80-o2gvb4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-81-ue0ios",
@@ -9261,10 +8349,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
     "image": "https://drive.google.com/uc?export=view&id=1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
     "driveFileId": "1Jje5V10RYNVwGkfXxqGUTZx9QD_MaBdF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-81-ue0ios&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-81-ue0ios&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-81-ue0ios&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-82-xnipkr",
@@ -9292,10 +8377,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
     "image": "https://drive.google.com/uc?export=view&id=1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
     "driveFileId": "1iz7uJaAJGIBhpNKe27BIp-P6Gi1MtFj0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-82-xnipkr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-82-xnipkr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-82-xnipkr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-83-uwwcbx",
@@ -9323,10 +8405,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
     "image": "https://drive.google.com/uc?export=view&id=1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
     "driveFileId": "1QkNd8OTeYNXtP19YGrEweIggNaLw2yCh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-83-uwwcbx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-83-uwwcbx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-83-uwwcbx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-84-g5oylg",
@@ -9354,10 +8433,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
     "image": "https://drive.google.com/uc?export=view&id=1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
     "driveFileId": "1YUShe2cZG5GxCqvMFHgC_tYSRYP2N85N",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-84-g5oylg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-84-g5oylg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-84-g5oylg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-85-xwghrp",
@@ -9385,10 +8461,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
     "image": "https://drive.google.com/uc?export=view&id=1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
     "driveFileId": "1Tj1ETgLztKRXNtXhaFlvKT10BQe0GIxW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-85-xwghrp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-85-xwghrp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-85-xwghrp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-86-wsdupx",
@@ -9416,10 +8489,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
     "image": "https://drive.google.com/uc?export=view&id=1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
     "driveFileId": "1ETImFh6FmlmBvmgizq8QVsfiv0T602Qj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-86-wsdupx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-86-wsdupx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-86-wsdupx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-87-aoqxq5",
@@ -9447,10 +8517,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
     "image": "https://drive.google.com/uc?export=view&id=17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
     "driveFileId": "17S9Lm0Folc257vmLoxScaPRpQytrrD_f",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-87-aoqxq5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-87-aoqxq5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-87-aoqxq5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-88-y8qixr",
@@ -9477,10 +8544,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
     "image": "https://drive.google.com/uc?export=view&id=1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
     "driveFileId": "1oi-AbaL2ii3tQCx4vbYlN2qGoeW-NO4b",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-88-y8qixr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-88-y8qixr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-88-y8qixr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-89-exsx8n",
@@ -9507,10 +8571,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
     "image": "https://drive.google.com/uc?export=view&id=1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
     "driveFileId": "1YkYi9_Uh69puFG3jn_qYrn2n86SDdYtV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-89-exsx8n&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-89-exsx8n&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-89-exsx8n&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-90-mgghqz",
@@ -9538,10 +8599,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
     "image": "https://drive.google.com/uc?export=view&id=1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
     "driveFileId": "1x-Sdn3yOVyxpmDK61yNvOEnLLopAnYMH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-90-mgghqz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-90-mgghqz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-90-mgghqz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-91-vpvc7d",
@@ -9568,10 +8626,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
     "image": "https://drive.google.com/uc?export=view&id=1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
     "driveFileId": "1yzN9eZKCV-8CZHdlKSMExwLC2-Yk1U49",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-91-vpvc7d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-91-vpvc7d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-91-vpvc7d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-92-zphsdy",
@@ -9599,10 +8654,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
     "image": "https://drive.google.com/uc?export=view&id=14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
     "driveFileId": "14PY7rt8K5bwFomIqRnWfSS7GzcvEzriE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-92-zphsdy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-92-zphsdy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-92-zphsdy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-93-xhp464",
@@ -9630,10 +8682,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
     "image": "https://drive.google.com/uc?export=view&id=1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
     "driveFileId": "1iEur5IuLgRmZS476US26NS_UiUpIIrDX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-93-xhp464&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-93-xhp464&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-93-xhp464&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-94-c9ffs9",
@@ -9661,10 +8710,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
     "image": "https://drive.google.com/uc?export=view&id=1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
     "driveFileId": "1KJQBVk_GB4k5uyyz9xFEUFvystlPjPaO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-94-c9ffs9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-94-c9ffs9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-94-c9ffs9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-95-hltlto",
@@ -9691,10 +8737,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
     "image": "https://drive.google.com/uc?export=view&id=1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
     "driveFileId": "1l7uDIwsB76OFgr3VfaL5YnwzOW9Hs4Ua",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-95-hltlto&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-95-hltlto&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-95-hltlto&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-96-vrw7sk",
@@ -9722,10 +8765,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
     "image": "https://drive.google.com/uc?export=view&id=1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
     "driveFileId": "1nfdvDslQDziaGhyBrRuOypgDA0XjHzax",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-96-vrw7sk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-96-vrw7sk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-96-vrw7sk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-97-bppwyj",
@@ -9753,10 +8793,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19POAs78XM79ff-UjN6inx6BEE8awYaeA",
     "image": "https://drive.google.com/uc?export=view&id=19POAs78XM79ff-UjN6inx6BEE8awYaeA",
     "driveFileId": "19POAs78XM79ff-UjN6inx6BEE8awYaeA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-97-bppwyj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-97-bppwyj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-97-bppwyj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-98-km9frt",
@@ -9784,10 +8821,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
     "image": "https://drive.google.com/uc?export=view&id=1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
     "driveFileId": "1QyMmy3Ri5ikfhk8YcsgOwcMYkoPce3_X",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-98-km9frt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-98-km9frt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-98-km9frt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-99-ufwdxw",
@@ -9815,10 +8849,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
     "image": "https://drive.google.com/uc?export=view&id=1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
     "driveFileId": "1uWR-NVtahSw6vbfZuIKWaYsWF0kKzH2U",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-99-ufwdxw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-99-ufwdxw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-99-ufwdxw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-100-zilbdm",
@@ -9846,10 +8877,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
     "image": "https://drive.google.com/uc?export=view&id=15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
     "driveFileId": "15VOfP-q2h3SglQntJnxu72dbUDaCwVy-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-100-zilbdm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-100-zilbdm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-100-zilbdm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-101-ger50j",
@@ -9877,10 +8905,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
     "image": "https://drive.google.com/uc?export=view&id=1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
     "driveFileId": "1kpVj6PvdJhbGsxAge9kWEf4cwx03SWPd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-101-ger50j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-101-ger50j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-101-ger50j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-102-rk7r2y",
@@ -9907,10 +8932,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
     "image": "https://drive.google.com/uc?export=view&id=1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
     "driveFileId": "1FCuUPfoErxtU5llI7OMy0NDi8tmBq7k0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-102-rk7r2y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-102-rk7r2y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-102-rk7r2y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "r-d-w-103-liemvk",
@@ -9937,10 +8959,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
     "image": "https://drive.google.com/uc?export=view&id=1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
     "driveFileId": "1mWHF9OLS_q4O3axw7G9-nnxlekUsKuxC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-103-liemvk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-103-liemvk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=r-d-w-103-liemvk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-11-25-pm-qxdmxa",
@@ -9967,10 +8986,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
     "image": "https://drive.google.com/uc?export=view&id=1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
     "driveFileId": "1HG4ThzIxQzUVtDr9XO0uI5vMLXdEJ65z",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-25-pm-qxdmxa&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-25-pm-qxdmxa&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-25-pm-qxdmxa&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-11-27-pm-hxhgf7",
@@ -9998,10 +9014,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
     "image": "https://drive.google.com/uc?export=view&id=1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
     "driveFileId": "1RTu-bkBZg8rhDF2JHzRbwEz0u2ZLxLTj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-27-pm-hxhgf7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-27-pm-hxhgf7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-27-pm-hxhgf7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-11-30-pm-tbnudu",
@@ -10030,10 +9043,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
     "image": "https://drive.google.com/uc?export=view&id=1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
     "driveFileId": "1lOoZJ0LzQvwTPPBBWRi9IfYUhnXa0mWv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-30-pm-tbnudu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-30-pm-tbnudu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-11-30-pm-tbnudu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-19-pm-uxgd6n",
@@ -10062,10 +9072,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
     "image": "https://drive.google.com/uc?export=view&id=1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
     "driveFileId": "1Q36xnH0xAXv6YVSJlmRWl-QkQszovCDG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-19-pm-uxgd6n&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-19-pm-uxgd6n&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-19-pm-uxgd6n&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-28-pm-jhu2hw",
@@ -10093,10 +9100,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
     "image": "https://drive.google.com/uc?export=view&id=1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
     "driveFileId": "1MZ74DwZxQS03ySqJiT1H6ekx8EOEZJMn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-28-pm-jhu2hw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-28-pm-jhu2hw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-28-pm-jhu2hw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-25-pm-bxmtjn",
@@ -10124,10 +9128,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
     "image": "https://drive.google.com/uc?export=view&id=1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
     "driveFileId": "1dPXPG3M5w1VMtIFG5AHuSyrPGbtg8gr3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-25-pm-bxmtjn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-25-pm-bxmtjn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-25-pm-bxmtjn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-22-pm-zxrtpj",
@@ -10155,10 +9156,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
     "image": "https://drive.google.com/uc?export=view&id=11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
     "driveFileId": "11m_SmeqihH8WmwRpIbk7FYT7ZCuVWMwC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-22-pm-zxrtpj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-22-pm-zxrtpj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-22-pm-zxrtpj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-32-pm-nzfhuy",
@@ -10187,10 +9185,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
     "image": "https://drive.google.com/uc?export=view&id=1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
     "driveFileId": "1RmDzEBRxnnoE_cXtY8PCSbVxMvZ2hUJG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-32-pm-nzfhuy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-32-pm-nzfhuy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-32-pm-nzfhuy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-36-pm-rj1kja",
@@ -10219,10 +9214,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
     "image": "https://drive.google.com/uc?export=view&id=1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
     "driveFileId": "1nM2BLD-yrILwikaVgeukXWi-2KBzHYHs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-36-pm-rj1kja&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-36-pm-rj1kja&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-36-pm-rj1kja&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-11-pm-awgken",
@@ -10250,10 +9242,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
     "image": "https://drive.google.com/uc?export=view&id=1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
     "driveFileId": "1Ai0Tz6gsshKJ2wxuEQi0FOzW-BgWsak-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-11-pm-awgken&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-11-pm-awgken&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-11-pm-awgken&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-01-pm-xnmwvb",
@@ -10281,10 +9270,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
     "image": "https://drive.google.com/uc?export=view&id=1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
     "driveFileId": "1NXoGlXNuVHte_UTYgjEZcZ2O8gqpJvYw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-01-pm-xnmwvb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-01-pm-xnmwvb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-01-pm-xnmwvb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-14-pm-ys2sj2",
@@ -10312,10 +9298,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
     "image": "https://drive.google.com/uc?export=view&id=14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
     "driveFileId": "14dzvdveE7LJiWXTYfN6rQjSHdjr5wRBi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-14-pm-ys2sj2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-14-pm-ys2sj2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-14-pm-ys2sj2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-35-pm-wy5ird",
@@ -10343,10 +9326,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
     "image": "https://drive.google.com/uc?export=view&id=1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
     "driveFileId": "1bJTZ_Hr1B52lhVWu9xI0ZB8kpKvVD91U",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-35-pm-wy5ird&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-35-pm-wy5ird&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-35-pm-wy5ird&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-37-pm-nhzxlp",
@@ -10374,10 +9354,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
     "image": "https://drive.google.com/uc?export=view&id=1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
     "driveFileId": "1yCTPrxBoPuqwNet29gggYV6xF9NWk2s4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-37-pm-nhzxlp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-37-pm-nhzxlp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-37-pm-nhzxlp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-40-pm-sdnyjc",
@@ -10405,10 +9382,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
     "image": "https://drive.google.com/uc?export=view&id=1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
     "driveFileId": "1Y7ThgZjmuinovuMHYSDbRyuoq2Jeg2Qu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-40-pm-sdnyjc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-40-pm-sdnyjc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-40-pm-sdnyjc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-42-pm-bxmduq",
@@ -10436,10 +9410,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
     "image": "https://drive.google.com/uc?export=view&id=1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
     "driveFileId": "1K8wMdsBOikNMl6VGmPuBrthI_3PetLTG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-42-pm-bxmduq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-42-pm-bxmduq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-42-pm-bxmduq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-38-pm-nav5bp",
@@ -10467,10 +9438,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
     "image": "https://drive.google.com/uc?export=view&id=1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
     "driveFileId": "1GPkqUF3MFmol94reDg0Zw7PGSp-pIB8M",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-38-pm-nav5bp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-38-pm-nav5bp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-38-pm-nav5bp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-44-pm-d1xfhf",
@@ -10498,10 +9466,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
     "image": "https://drive.google.com/uc?export=view&id=17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
     "driveFileId": "17WJvxFuPH7mFYlHSlLb92Ajasa6SfzGt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-44-pm-d1xfhf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-44-pm-d1xfhf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-44-pm-d1xfhf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-41-pm-g9l1bb",
@@ -10530,10 +9495,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
     "image": "https://drive.google.com/uc?export=view&id=1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
     "driveFileId": "1ZS6kYIiqCSDBLUcjukvuznseW8I-ra0i",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-41-pm-g9l1bb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-41-pm-g9l1bb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-41-pm-g9l1bb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-51-pm-ctqzaw",
@@ -10561,10 +9523,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
     "image": "https://drive.google.com/uc?export=view&id=1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
     "driveFileId": "1gg1KJZaIgUYaxGTLAM2YFrOmwKbVbaCn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-51-pm-ctqzaw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-51-pm-ctqzaw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-51-pm-ctqzaw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-49-pm-uzy9aw",
@@ -10592,10 +9551,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
     "image": "https://drive.google.com/uc?export=view&id=1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
     "driveFileId": "1GPDSS4h-DhanG8y8jhQw8l4ePzwYORwV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-49-pm-uzy9aw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-49-pm-uzy9aw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-49-pm-uzy9aw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-55-pm-bnmgun",
@@ -10623,10 +9579,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
     "image": "https://drive.google.com/uc?export=view&id=1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
     "driveFileId": "1xIw-Be_cOi0l2CrC_e2WF22pCjXTGG_9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-55-pm-bnmgun&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-55-pm-bnmgun&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-55-pm-bnmgun&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-16-pm-ri2kia",
@@ -10654,10 +9607,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
     "image": "https://drive.google.com/uc?export=view&id=1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
     "driveFileId": "1XVmr5tfui5S48oXjiDeVu6gISZivTWUR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-16-pm-ri2kia&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-16-pm-ri2kia&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-16-pm-ri2kia&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-58-pm-we5w4y",
@@ -10686,10 +9636,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
     "image": "https://drive.google.com/uc?export=view&id=10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
     "driveFileId": "10UkCviXaQC9oVUBrrvkZ-2_KwgIHkH0g",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-58-pm-we5w4y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-58-pm-we5w4y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-58-pm-we5w4y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-00-pm-km8o1a",
@@ -10717,10 +9664,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
     "image": "https://drive.google.com/uc?export=view&id=1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
     "driveFileId": "1U0cOI_h6_OKvQcjs4CSbr34g1StWDHfH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-00-pm-km8o1a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-00-pm-km8o1a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-00-pm-km8o1a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-12-44-pm-eqrpdr",
@@ -10748,10 +9692,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
     "image": "https://drive.google.com/uc?export=view&id=18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
     "driveFileId": "18UUqqHbyoieekqoonmpZpuxVYdcyfP7N",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-44-pm-eqrpdr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-44-pm-eqrpdr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-12-44-pm-eqrpdr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-08-pm-f8nudg",
@@ -10780,10 +9721,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
     "image": "https://drive.google.com/uc?export=view&id=1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
     "driveFileId": "1C_AmKOwDm6W-2mXBFl1hJdFeTy_C6YHN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-08-pm-f8nudg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-08-pm-f8nudg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-08-pm-f8nudg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-47-pm-wstt3w",
@@ -10812,10 +9750,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
     "image": "https://drive.google.com/uc?export=view&id=1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
     "driveFileId": "1k6Hj-LyZRJHlKJkm_3BTqgGuCV_04Wmx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-47-pm-wstt3w&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-47-pm-wstt3w&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-47-pm-wstt3w&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-17-pm-cxhs2y",
@@ -10843,10 +9778,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
     "image": "https://drive.google.com/uc?export=view&id=1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
     "driveFileId": "1_qFNySPCuL7y9T_jB8trUl2lqqxvfLhQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-17-pm-cxhs2y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-17-pm-cxhs2y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-17-pm-cxhs2y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-05-pm-2-r5qqxu",
@@ -10874,10 +9806,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
     "image": "https://drive.google.com/uc?export=view&id=1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
     "driveFileId": "1YG9h5-Cnze-gwxdUQMYqI0C7mK3nu6__",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-05-pm-2-r5qqxu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-05-pm-2-r5qqxu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-05-pm-2-r5qqxu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-13-53-pm-yfxhu2",
@@ -10905,10 +9834,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
     "image": "https://drive.google.com/uc?export=view&id=14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
     "driveFileId": "14Pk5TtPh8Q46EQDreJhX8AZeSrhkh7B4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-53-pm-yfxhu2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-53-pm-yfxhu2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-13-53-pm-yfxhu2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-39-pm-vtmgf1",
@@ -10936,10 +9862,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
     "image": "https://drive.google.com/uc?export=view&id=13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
     "driveFileId": "13pIwdzsXk_ySnhqvVGejb_bg9oaSai7j",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-39-pm-vtmgf1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-39-pm-vtmgf1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-39-pm-vtmgf1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-32-pm-f2shq7",
@@ -10968,10 +9891,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
     "image": "https://drive.google.com/uc?export=view&id=1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
     "driveFileId": "1QOc1ugPhTvYH20uSuDn3SK23osFNb0dc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-32-pm-f2shq7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-32-pm-f2shq7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-32-pm-f2shq7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-43-pm-qchijl",
@@ -11000,10 +9920,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
     "image": "https://drive.google.com/uc?export=view&id=16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
     "driveFileId": "16KjWYVjbrpy-5djKwFCt_Kof_1jcnaOw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-43-pm-qchijl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-43-pm-qchijl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-43-pm-qchijl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-50-pm-1-oefqi5",
@@ -11031,10 +9948,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
     "image": "https://drive.google.com/uc?export=view&id=1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
     "driveFileId": "1P5kjC8Q4pBw1NrtyIdVB0r-X4kYk_Ly6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-50-pm-1-oefqi5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-50-pm-1-oefqi5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-50-pm-1-oefqi5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-14-pm-qmc1zg",
@@ -11063,10 +9977,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
     "image": "https://drive.google.com/uc?export=view&id=1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
     "driveFileId": "1zq0vcXdyOj6pDOaKsKriPaRMuiJcD0Ae",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-14-pm-qmc1zg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-14-pm-qmc1zg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-14-pm-qmc1zg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-05-pm-1-huhhob",
@@ -11095,10 +10006,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
     "image": "https://drive.google.com/uc?export=view&id=1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
     "driveFileId": "1idQj5hG5zBkSZRBp30rcg5owRh8nWjn4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-05-pm-1-huhhob&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-05-pm-1-huhhob&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-05-pm-1-huhhob&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-21-pm-ibyp7a",
@@ -11127,10 +10035,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
     "image": "https://drive.google.com/uc?export=view&id=1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
     "driveFileId": "1RLJlUSFuR-oIYg8aIqwjDTXUCg38trBZ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-21-pm-ibyp7a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-21-pm-ibyp7a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-21-pm-ibyp7a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-36-pm-tk4ml1",
@@ -11159,10 +10064,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
     "image": "https://drive.google.com/uc?export=view&id=1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
     "driveFileId": "1eCpdSnLV_j47Hb3TTPVBtg3m8onwk3Pi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-36-pm-tk4ml1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-36-pm-tk4ml1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-36-pm-tk4ml1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-53-pm-pmpfxm",
@@ -11190,10 +10092,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
     "image": "https://drive.google.com/uc?export=view&id=19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
     "driveFileId": "19QlMSyM0y_TMG4eDNQB-UlDF_z5PvZFj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-53-pm-pmpfxm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-53-pm-pmpfxm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-53-pm-pmpfxm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-51-pm-2-mogbqz",
@@ -11222,10 +10121,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
     "image": "https://drive.google.com/uc?export=view&id=1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
     "driveFileId": "1a37L4FFKW-IKPNC1xr0LcR0lc_XXy0DU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-51-pm-2-mogbqz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-51-pm-2-mogbqz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-51-pm-2-mogbqz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-57-pm-jj2vhl",
@@ -11253,10 +10149,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
     "image": "https://drive.google.com/uc?export=view&id=1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
     "driveFileId": "1uEu-Pr2Vaui3RUU-mT4w8a5XF_84ALzD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-57-pm-jj2vhl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-57-pm-jj2vhl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-57-pm-jj2vhl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-14-59-pm-osyk6j",
@@ -11285,10 +10178,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
     "image": "https://drive.google.com/uc?export=view&id=1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
     "driveFileId": "1C04Lhepux-g3BLiQSYoU-mADncsDbysC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-59-pm-osyk6j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-59-pm-osyk6j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-14-59-pm-osyk6j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm",
@@ -11316,10 +10206,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
     "image": "https://drive.google.com/uc?export=view&id=1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
     "driveFileId": "1inc8x712CriL16Iyxc7VjH7c-QTLAsPD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-03-pm-h3ebhm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-06-pm-nbocce",
@@ -11348,10 +10235,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
     "image": "https://drive.google.com/uc?export=view&id=1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
     "driveFileId": "1viBM23dN0vsw_5rnWCtgKhbAZiT2pKVU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-06-pm-nbocce&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-06-pm-nbocce&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-06-pm-nbocce&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-19-pm-pxwg4a",
@@ -11379,10 +10263,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
     "image": "https://drive.google.com/uc?export=view&id=1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
     "driveFileId": "1XDBoJGuw-1qwtqY0H2Nlf8ehU6IJMyVF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-19-pm-pxwg4a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-19-pm-pxwg4a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-19-pm-pxwg4a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-23-pm-2-v6zzck",
@@ -11411,10 +10292,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
     "image": "https://drive.google.com/uc?export=view&id=1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
     "driveFileId": "1pSepHQ0F4EtmmA6Vw6_34AdeFnAcuSSF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-23-pm-2-v6zzck&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-23-pm-2-v6zzck&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-23-pm-2-v6zzck&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-29-pm-2-ru2dfx",
@@ -11442,10 +10320,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
     "image": "https://drive.google.com/uc?export=view&id=19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
     "driveFileId": "19Tjp6wzYw8UtvSvjglmw8btkgCz68upR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-29-pm-2-ru2dfx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-29-pm-2-ru2dfx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-29-pm-2-ru2dfx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-33-pm-1-ckodra",
@@ -11473,10 +10348,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
     "image": "https://drive.google.com/uc?export=view&id=11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
     "driveFileId": "11iI0XL-b0IADGW5N8f0ZDvSw_tMjb_sH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-33-pm-1-ckodra&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-33-pm-1-ckodra&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-33-pm-1-ckodra&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-33-pm-2-fhgkxz",
@@ -11505,10 +10377,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
     "image": "https://drive.google.com/uc?export=view&id=1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
     "driveFileId": "1437txdvG0kbq9MrX3rvq_HyE6KJtFoOX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-33-pm-2-fhgkxz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-33-pm-2-fhgkxz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-33-pm-2-fhgkxz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-15-pm-ovr6h9",
@@ -11536,10 +10405,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
     "image": "https://drive.google.com/uc?export=view&id=1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
     "driveFileId": "1F-32zIXaz5xHweXUoLp58FOZQBHb5lC2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-15-pm-ovr6h9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-15-pm-ovr6h9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-15-pm-ovr6h9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-35-pm-zzgwt4",
@@ -11568,10 +10434,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
     "image": "https://drive.google.com/uc?export=view&id=1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
     "driveFileId": "1WYERdB-sdJuPlPr2VFcY2chDsqyq3067",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-35-pm-zzgwt4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-35-pm-zzgwt4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-35-pm-zzgwt4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-10-pm-uyvaef",
@@ -11599,10 +10462,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
     "image": "https://drive.google.com/uc?export=view&id=1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
     "driveFileId": "1Sf_SBxjqmwRfFZra0FZ7qyAjzpImE4dc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-10-pm-uyvaef&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-10-pm-uyvaef&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-10-pm-uyvaef&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-13-pm-ypa4ro",
@@ -11630,10 +10490,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
     "image": "https://drive.google.com/uc?export=view&id=1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
     "driveFileId": "1SYRd6srcvBamT_o-u2zK47U6DVMcyehX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-13-pm-ypa4ro&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-13-pm-ypa4ro&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-13-pm-ypa4ro&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-29-pm-1-mvy8nb",
@@ -11661,10 +10518,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
     "image": "https://drive.google.com/uc?export=view&id=13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
     "driveFileId": "13DAGW8ht47dt6JFFQFoYXsKn7j597bRx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-29-pm-1-mvy8nb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-29-pm-1-mvy8nb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-29-pm-1-mvy8nb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-42-pm-e85hcj",
@@ -11693,10 +10547,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
     "image": "https://drive.google.com/uc?export=view&id=1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
     "driveFileId": "1hefooiLL17HRchlOo-cnWZRWiJlZn_IJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-42-pm-e85hcj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-42-pm-e85hcj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-42-pm-e85hcj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-49-pm-2-rgd4ok",
@@ -11724,10 +10575,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
     "image": "https://drive.google.com/uc?export=view&id=1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
     "driveFileId": "1kfrwAdVYjG0kMQieULP1YDAuINjeolDY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-49-pm-2-rgd4ok&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-49-pm-2-rgd4ok&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-49-pm-2-rgd4ok&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-40-pm-klwd6l",
@@ -11755,10 +10603,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
     "image": "https://drive.google.com/uc?export=view&id=1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
     "driveFileId": "1V3ClxktGSbgq4EBXFm2Iqdp8UA5ZfUjO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-40-pm-klwd6l&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-40-pm-klwd6l&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-40-pm-klwd6l&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-23-pm-1-iltwj2",
@@ -11786,10 +10631,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
     "image": "https://drive.google.com/uc?export=view&id=1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
     "driveFileId": "1fwVktbZcoBV7F3NT75rwLrFJOweXe07G",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-23-pm-1-iltwj2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-23-pm-1-iltwj2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-23-pm-1-iltwj2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-55-pm-2-ysijwf",
@@ -11817,10 +10659,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
     "image": "https://drive.google.com/uc?export=view&id=1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
     "driveFileId": "1IPjO5mwna4Rdg1X_V2nEKSE0B5TWmqlT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-55-pm-2-ysijwf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-55-pm-2-ysijwf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-55-pm-2-ysijwf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-55-pm-1-r2ca4r",
@@ -11848,10 +10687,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
     "image": "https://drive.google.com/uc?export=view&id=1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
     "driveFileId": "1HR4rZft86Z248RaP8WX_-sbR4okzh5EX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-55-pm-1-r2ca4r&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-55-pm-1-r2ca4r&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-55-pm-1-r2ca4r&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-45-pm-naii6l",
@@ -11879,10 +10715,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
     "image": "https://drive.google.com/uc?export=view&id=1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
     "driveFileId": "1h9BdNtMtnpcumPDC4DttHpRM5tMAUpjm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-45-pm-naii6l&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-45-pm-naii6l&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-45-pm-naii6l&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-00-pm-crswem",
@@ -11910,10 +10743,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
     "image": "https://drive.google.com/uc?export=view&id=1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
     "driveFileId": "1cV3DwYwCroHUaXGbQxCuUXuG1Oz5xKOx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-00-pm-crswem&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-00-pm-crswem&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-00-pm-crswem&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-37-pm-afj5xi",
@@ -11941,10 +10771,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
     "image": "https://drive.google.com/uc?export=view&id=1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
     "driveFileId": "1qtaKYm-e0e7fkF2I1ltxhQSWRLpVNYmK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-37-pm-afj5xi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-37-pm-afj5xi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-37-pm-afj5xi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-08-pm-2-uywbma",
@@ -11973,10 +10800,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
     "image": "https://drive.google.com/uc?export=view&id=1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
     "driveFileId": "1VG7TFojMj8W48SOgTe9T6WRPPLv3hGpJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-08-pm-2-uywbma&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-08-pm-2-uywbma&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-08-pm-2-uywbma&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-49-pm-1-gex7dv",
@@ -12004,10 +10828,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
     "image": "https://drive.google.com/uc?export=view&id=1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
     "driveFileId": "1ek4wpy8ScToqzNmPxm5zhPPXWflzDaaj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-49-pm-1-gex7dv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-49-pm-1-gex7dv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-49-pm-1-gex7dv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-02-pm-gzadfa",
@@ -12035,10 +10856,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
     "image": "https://drive.google.com/uc?export=view&id=1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
     "driveFileId": "1sX-HkaYjmfgozq9Emtb5CkpvKRKf-Kc5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-02-pm-gzadfa&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-02-pm-gzadfa&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-02-pm-gzadfa&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-16-pm-2-qmwpdm",
@@ -12067,10 +10885,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
     "image": "https://drive.google.com/uc?export=view&id=1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
     "driveFileId": "1liMCojWC59u9BA2Kshv8eZvcczBcdokN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-16-pm-2-qmwpdm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-16-pm-2-qmwpdm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-16-pm-2-qmwpdm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-22-pm-psughl",
@@ -12098,10 +10913,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
     "image": "https://drive.google.com/uc?export=view&id=1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
     "driveFileId": "1mtb5sibVjpxVydNf13lkbbayfWOCT1og",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-22-pm-psughl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-22-pm-psughl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-22-pm-psughl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-39-pm-1-zapl4w",
@@ -12129,10 +10941,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
     "image": "https://drive.google.com/uc?export=view&id=1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
     "driveFileId": "1T9uOkH8RLzOYXxbtvKC2YCF8MMLQlbCE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-39-pm-1-zapl4w&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-39-pm-1-zapl4w&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-39-pm-1-zapl4w&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-15-57-pm-smhlim",
@@ -12161,10 +10970,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
     "image": "https://drive.google.com/uc?export=view&id=1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
     "driveFileId": "1WiP7ZpYYkv8Q7uSwSUcwgd4gjsV9p4jU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-57-pm-smhlim&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-57-pm-smhlim&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-15-57-pm-smhlim&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-43-pm-2-iewaqf",
@@ -12192,10 +10998,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
     "image": "https://drive.google.com/uc?export=view&id=1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
     "driveFileId": "1Rg6DVjoZD3n15cl3WiaokIX48waB43Ke",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-43-pm-2-iewaqf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-43-pm-2-iewaqf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-43-pm-2-iewaqf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-48-pm-1-zapaii",
@@ -12222,10 +11025,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
     "image": "https://drive.google.com/uc?export=view&id=1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
     "driveFileId": "1E3b9cTBeK79ujCK_M5OIScJkY0f3-0Z3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-48-pm-1-zapaii&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-48-pm-1-zapaii&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-48-pm-1-zapaii&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-56-pm-f7uzd9",
@@ -12253,10 +11053,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
     "image": "https://drive.google.com/uc?export=view&id=1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
     "driveFileId": "1CdWhxbZF_jgB1rFJc9A4kZQRF-hoG3cc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-56-pm-f7uzd9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-56-pm-f7uzd9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-56-pm-f7uzd9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-21-pm-nclut6",
@@ -12284,10 +11081,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
     "image": "https://drive.google.com/uc?export=view&id=1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
     "driveFileId": "1NAjcSFDvC-7MyHNAwBLSGykzODeu7gpP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-21-pm-nclut6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-21-pm-nclut6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-21-pm-nclut6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-06-pm-1-o3p2yp",
@@ -12316,10 +11110,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
     "image": "https://drive.google.com/uc?export=view&id=1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
     "driveFileId": "1JDOUFvGowXZ0sCiI3q0IrcNRtv2YIBP_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-06-pm-1-o3p2yp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-06-pm-1-o3p2yp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-06-pm-1-o3p2yp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-00-pm-d9glet",
@@ -12347,10 +11138,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
     "image": "https://drive.google.com/uc?export=view&id=1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
     "driveFileId": "1JKTprKamK_GtmgByFatlIIlGNqg7-jez",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-00-pm-d9glet&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-00-pm-d9glet&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-00-pm-d9glet&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-14-pm-1-zxfjx1",
@@ -12377,10 +11165,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
     "image": "https://drive.google.com/uc?export=view&id=1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
     "driveFileId": "1lt71eSUU8XUq03jXz8I0AQCH60g4r_hB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-14-pm-1-zxfjx1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-14-pm-1-zxfjx1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-14-pm-1-zxfjx1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-04-pm-cda0cu",
@@ -12408,10 +11193,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
     "image": "https://drive.google.com/uc?export=view&id=1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
     "driveFileId": "1RUsD5GOqNGKhEkfBQd6PvKd7U7VEI4gP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-04-pm-cda0cu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-04-pm-cda0cu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-04-pm-cda0cu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-16-50-pm-2-kqoyex",
@@ -12439,10 +11221,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
     "image": "https://drive.google.com/uc?export=view&id=1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
     "driveFileId": "1zOv1jHizsGGaTW_rtFymi2dfGBb1myFe",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-50-pm-2-kqoyex&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-50-pm-2-kqoyex&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-16-50-pm-2-kqoyex&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-07-pm-te7hki",
@@ -12470,10 +11249,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
     "image": "https://drive.google.com/uc?export=view&id=1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
     "driveFileId": "1Wp9F7LhJmXR3ITYj0uHc67eRM186T2P9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-07-pm-te7hki&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-07-pm-te7hki&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-07-pm-te7hki&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-11-pm-vyeels",
@@ -12501,10 +11277,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
     "image": "https://drive.google.com/uc?export=view&id=19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
     "driveFileId": "19E8QTL3Khn92nMEE2If_4KJFxbDd99QJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-11-pm-vyeels&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-11-pm-vyeels&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-11-pm-vyeels&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-35-pm-xv4tv5",
@@ -12532,10 +11305,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
     "image": "https://drive.google.com/uc?export=view&id=1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
     "driveFileId": "1ZLxGNKff06c73o3K0fOcWaJq-LFTvis7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-35-pm-xv4tv5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-35-pm-xv4tv5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-35-pm-xv4tv5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-14-pm-odmogk",
@@ -12563,10 +11333,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
     "image": "https://drive.google.com/uc?export=view&id=1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
     "driveFileId": "1sDnx55yb9bpOhH4kF1VNB3CoatoPsna1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-14-pm-odmogk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-14-pm-odmogk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-14-pm-odmogk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-31-pm-up0ta3",
@@ -12594,10 +11361,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
     "image": "https://drive.google.com/uc?export=view&id=1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
     "driveFileId": "1r_MayUsHOGb0ri3EI1BOYH1K4Ipy4JAI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-31-pm-up0ta3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-31-pm-up0ta3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-31-pm-up0ta3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-18-pm-lll7ce",
@@ -12625,10 +11389,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
     "image": "https://drive.google.com/uc?export=view&id=1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
     "driveFileId": "1tZphOkEDQIbsOoqbjmRdJ8qOqEn_Ny8w",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-18-pm-lll7ce&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-18-pm-lll7ce&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-18-pm-lll7ce&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-54-pm-tbwgep",
@@ -12656,10 +11417,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
     "image": "https://drive.google.com/uc?export=view&id=1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
     "driveFileId": "1YmjRD5GAhnpg2e-ArBI1HxUd1an6dQS4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-54-pm-tbwgep&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-54-pm-tbwgep&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-54-pm-tbwgep&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-41-pm-wn1utf",
@@ -12688,10 +11446,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
     "image": "https://drive.google.com/uc?export=view&id=1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
     "driveFileId": "1l6IlbkUPRR1G2Ea_ZN8PcUconlf4-wpC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-41-pm-wn1utf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-41-pm-wn1utf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-41-pm-wn1utf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-45-pm-qf8lri",
@@ -12719,10 +11474,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
     "image": "https://drive.google.com/uc?export=view&id=1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
     "driveFileId": "1L22aLDOKuyx-x5NwMj8Fjz02GM81M0Bp",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-45-pm-qf8lri&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-45-pm-qf8lri&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-45-pm-qf8lri&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-50-pm-toa8js",
@@ -12749,10 +11501,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
     "image": "https://drive.google.com/uc?export=view&id=1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
     "driveFileId": "1Ckt23jzAYIRdeAxNLF4_kYF_kH07pGdW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-50-pm-toa8js&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-50-pm-toa8js&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-50-pm-toa8js&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-02-pm-esznia",
@@ -12781,10 +11530,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
     "image": "https://drive.google.com/uc?export=view&id=1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
     "driveFileId": "1wmpptMV6WEiKsCObW9mz6gGuoV_chjtw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-02-pm-esznia&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-02-pm-esznia&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-02-pm-esznia&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-09-pm-vxdppn",
@@ -12813,10 +11559,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
     "image": "https://drive.google.com/uc?export=view&id=178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
     "driveFileId": "178vHnONDTS1lZIj6-c6glC-f8Q0PSsjL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-09-pm-vxdppn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-09-pm-vxdppn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-09-pm-vxdppn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-12-pm-shwqay",
@@ -12844,10 +11587,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
     "image": "https://drive.google.com/uc?export=view&id=1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
     "driveFileId": "1ZkTKnO2cf_ypltI38VsLQBzB1G1enF23",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-12-pm-shwqay&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-12-pm-shwqay&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-12-pm-shwqay&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-17-56-pm-tnry4r",
@@ -12876,10 +11616,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
     "image": "https://drive.google.com/uc?export=view&id=1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
     "driveFileId": "1mz83O3LH775pgBQxyG8A09jYO3uc8J10",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-56-pm-tnry4r&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-56-pm-tnry4r&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-17-56-pm-tnry4r&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-00-pm-1-tayvlg",
@@ -12908,10 +11645,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
     "image": "https://drive.google.com/uc?export=view&id=11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
     "driveFileId": "11LewZxzt7xvMuXWxYi2bMrDEJ3JNtpz8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-00-pm-1-tayvlg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-00-pm-1-tayvlg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-00-pm-1-tayvlg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-00-pm-2-yse49r",
@@ -12939,10 +11673,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
     "image": "https://drive.google.com/uc?export=view&id=16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
     "driveFileId": "16X364-H7dnmJEoPyh7mehWuCcr3i9YDg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-00-pm-2-yse49r&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-00-pm-2-yse49r&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-00-pm-2-yse49r&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-07-pm-lerm4j",
@@ -12969,10 +11700,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
     "image": "https://drive.google.com/uc?export=view&id=1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
     "driveFileId": "1ZwPMJQTijspS8w6gnjIX1kIh6wpGgvGg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-07-pm-lerm4j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-07-pm-lerm4j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-07-pm-lerm4j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-04-pm-z8ba0x",
@@ -13000,10 +11728,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
     "image": "https://drive.google.com/uc?export=view&id=1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
     "driveFileId": "1ECA3N8UQ4oZ7W2zYdFr7bljGCeQKMFNl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-04-pm-z8ba0x&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-04-pm-z8ba0x&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-04-pm-z8ba0x&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-14-pm-l4dsay",
@@ -13031,10 +11756,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
     "image": "https://drive.google.com/uc?export=view&id=1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
     "driveFileId": "1-db3pjuEjKURC7KFR3lJ0K_ps5lPr9j-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-14-pm-l4dsay&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-14-pm-l4dsay&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-14-pm-l4dsay&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-16-pm-nzmcy3",
@@ -13063,10 +11785,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
     "image": "https://drive.google.com/uc?export=view&id=1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
     "driveFileId": "1MboWjmfdWLViQrcdtBDM6FictYaitAUR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-16-pm-nzmcy3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-16-pm-nzmcy3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-16-pm-nzmcy3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-19-pm-nlrqfj",
@@ -13094,10 +11813,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
     "image": "https://drive.google.com/uc?export=view&id=1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
     "driveFileId": "1foyum10XOcU2mJgrXAOHJFLNrIC7AAnE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-19-pm-nlrqfj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-19-pm-nlrqfj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-19-pm-nlrqfj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-22-pm-kp3cqz",
@@ -13125,10 +11841,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
     "image": "https://drive.google.com/uc?export=view&id=1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
     "driveFileId": "1d3RSaG6n3zaxvHbxafidROLZXE1DiWmg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-22-pm-kp3cqz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-22-pm-kp3cqz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-22-pm-kp3cqz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-24-pm-hg93q5",
@@ -13156,10 +11869,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
     "image": "https://drive.google.com/uc?export=view&id=1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
     "driveFileId": "1Tx-4NYiqP49uJKYxmMKFfeEVRKDfojQ7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-24-pm-hg93q5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-24-pm-hg93q5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-24-pm-hg93q5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-27-pm-yyeav7",
@@ -13187,10 +11897,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
     "image": "https://drive.google.com/uc?export=view&id=100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
     "driveFileId": "100Sksy9y6be0-gXnoMxnO2qYTMecOIyu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-27-pm-yyeav7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-27-pm-yyeav7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-27-pm-yyeav7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-29-pm-njx1dn",
@@ -13218,10 +11925,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
     "image": "https://drive.google.com/uc?export=view&id=1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
     "driveFileId": "1DhUarlrv2cNKjh8IhgnHtAUNsCFREAqq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-29-pm-njx1dn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-29-pm-njx1dn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-29-pm-njx1dn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-31-pm-umvylw",
@@ -13250,10 +11954,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
     "image": "https://drive.google.com/uc?export=view&id=1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
     "driveFileId": "1SYS2SaIIJ6BCXJUHkUzv2IrOtrU0mQS6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-31-pm-umvylw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-31-pm-umvylw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-31-pm-umvylw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-34-pm-eudae1",
@@ -13281,10 +11982,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
     "image": "https://drive.google.com/uc?export=view&id=1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
     "driveFileId": "1Lx9qrsJ8sBx4G1z2HlJhoqKLN7fkb2Ws",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-34-pm-eudae1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-34-pm-eudae1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-34-pm-eudae1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-36-pm-zkeibt",
@@ -13311,10 +12009,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
     "image": "https://drive.google.com/uc?export=view&id=1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
     "driveFileId": "1IgIpwQcNlBYByWGZhoWxawKuafazXdo2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-36-pm-zkeibt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-36-pm-zkeibt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-36-pm-zkeibt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-40-pm-1-ofyzet",
@@ -13343,10 +12038,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
     "image": "https://drive.google.com/uc?export=view&id=1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
     "driveFileId": "1zr_aktzC5Ym3fhPVX0PW19jwN3HI-FUf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-40-pm-1-ofyzet&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-40-pm-1-ofyzet&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-40-pm-1-ofyzet&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-40-pm-2-u3ec9n",
@@ -13375,10 +12067,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
     "image": "https://drive.google.com/uc?export=view&id=1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
     "driveFileId": "1wDitzFW9pVAztUtFu60CrUHpfFKa_-2t",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-40-pm-2-u3ec9n&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-40-pm-2-u3ec9n&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-40-pm-2-u3ec9n&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-42-pm-n0tkre",
@@ -13406,10 +12095,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
     "image": "https://drive.google.com/uc?export=view&id=1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
     "driveFileId": "1datDav5LrjT4AxYAu8E9W0RzFixp2Mhm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-42-pm-n0tkre&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-42-pm-n0tkre&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-42-pm-n0tkre&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-1-2026-10-18-44-pm-bzjfow",
@@ -13437,10 +12123,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
     "image": "https://drive.google.com/uc?export=view&id=1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
     "driveFileId": "1PHC-RsmADGo3McpCYoM3F2Aq1ZjJv9JE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-44-pm-bzjfow&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-44-pm-bzjfow&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-1-2026-10-18-44-pm-bzjfow&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-18-pm-ffbua0",
@@ -13469,10 +12152,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
     "image": "https://drive.google.com/uc?export=view&id=1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
     "driveFileId": "1Dbr8wmzi49Bmb7D81pKW4BqtHBH4LLJ5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-18-pm-ffbua0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-18-pm-ffbua0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-18-pm-ffbua0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-15-pm-ld8m7q",
@@ -13500,10 +12180,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
     "image": "https://drive.google.com/uc?export=view&id=1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
     "driveFileId": "1AYlJ9K78dHgMnQHnEaGTdPr9cAVgRfHn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-15-pm-ld8m7q&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-15-pm-ld8m7q&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-15-pm-ld8m7q&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-24-pm-ijkeew",
@@ -13532,10 +12209,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
     "image": "https://drive.google.com/uc?export=view&id=108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
     "driveFileId": "108xqCeWdzzHnuBhe__B6OwNdnMJIP6Zf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-24-pm-ijkeew&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-24-pm-ijkeew&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-24-pm-ijkeew&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-22-pm-xuzstd",
@@ -13564,10 +12238,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
     "image": "https://drive.google.com/uc?export=view&id=19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
     "driveFileId": "19CyfUDN6bTWTXfuKh5aH1SyEvdBKxzaS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-22-pm-xuzstd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-22-pm-xuzstd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-22-pm-xuzstd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-20-pm-smp73o",
@@ -13595,10 +12266,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
     "image": "https://drive.google.com/uc?export=view&id=1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
     "driveFileId": "1sVCFKZ6U2CSHgdxXT_EeRlofJcz_OQM1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-20-pm-smp73o&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-20-pm-smp73o&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-20-pm-smp73o&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-26-pm-kdt3rf",
@@ -13626,10 +12294,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
     "image": "https://drive.google.com/uc?export=view&id=151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
     "driveFileId": "151NXvvjHH7PoSnocpEJtWpEjqpERrcfI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-26-pm-kdt3rf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-26-pm-kdt3rf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-26-pm-kdt3rf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-28-pm-rvk8hd",
@@ -13657,10 +12322,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
     "image": "https://drive.google.com/uc?export=view&id=1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
     "driveFileId": "1gjs8oUYpqvXWfhsl4Qb0PUkHkdlLYf5N",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-28-pm-rvk8hd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-28-pm-rvk8hd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-28-pm-rvk8hd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-30-pm-jpkcog",
@@ -13688,10 +12350,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
     "image": "https://drive.google.com/uc?export=view&id=1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
     "driveFileId": "1rUk1pXAn3eEb7prFsDMzNzZbHqIePttj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-30-pm-jpkcog&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-30-pm-jpkcog&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-30-pm-jpkcog&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-35-pm-dfdfe4",
@@ -13719,10 +12378,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
     "image": "https://drive.google.com/uc?export=view&id=1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
     "driveFileId": "1P9ihUZ6QA88HaUlWfM7rANk6iARYStq4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-35-pm-dfdfe4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-35-pm-dfdfe4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-35-pm-dfdfe4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-32-pm-aps44s",
@@ -13751,10 +12407,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
     "image": "https://drive.google.com/uc?export=view&id=1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
     "driveFileId": "1EQhTUm9iX4VLJEhAX40Phy2UMBYD_OA5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-32-pm-aps44s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-32-pm-aps44s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-32-pm-aps44s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-34-pm-h1ldit",
@@ -13782,10 +12435,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
     "image": "https://drive.google.com/uc?export=view&id=18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
     "driveFileId": "18AzPjVDxQg-vNOO1jj9CIZ78yHfOiqmw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-34-pm-h1ldit&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-34-pm-h1ldit&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-34-pm-h1ldit&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-37-pm-rck3lh",
@@ -13814,10 +12464,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
     "image": "https://drive.google.com/uc?export=view&id=1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
     "driveFileId": "1xMk7bBdEfDvs5i478gmFTv6uZnEJ3Wkl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-37-pm-rck3lh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-37-pm-rck3lh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-37-pm-rck3lh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-40-pm-u6fi4u",
@@ -13844,10 +12491,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
     "image": "https://drive.google.com/uc?export=view&id=1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
     "driveFileId": "1Z4vZ7JXFSA8I6sOfxd_wenshpPmC5BoB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-40-pm-u6fi4u&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-40-pm-u6fi4u&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-40-pm-u6fi4u&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-39-pm-zkxrgn",
@@ -13875,10 +12519,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
     "image": "https://drive.google.com/uc?export=view&id=1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
     "driveFileId": "1xWTwYr9kdpUsbtGkhrTopq53LLnelRm_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-39-pm-zkxrgn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-39-pm-zkxrgn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-39-pm-zkxrgn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-42-pm-wmtmrw",
@@ -13906,10 +12547,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
     "image": "https://drive.google.com/uc?export=view&id=13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
     "driveFileId": "13ncaeK4JPZWA52_wFDEexhk0Y-qIkDZF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-42-pm-wmtmrw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-42-pm-wmtmrw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-42-pm-wmtmrw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-44-pm-eemzp3",
@@ -13936,10 +12574,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
     "image": "https://drive.google.com/uc?export=view&id=1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
     "driveFileId": "1wQIwYu0eTC0-QOiX4asotyu1F_SKc5w1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-44-pm-eemzp3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-44-pm-eemzp3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-44-pm-eemzp3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-24-46-pm-ecup3j",
@@ -13968,10 +12603,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
     "image": "https://drive.google.com/uc?export=view&id=1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
     "driveFileId": "1hBbIz-YZy0JeeuJCf5OP33WOfM4dUfEQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-46-pm-ecup3j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-46-pm-ecup3j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-24-46-pm-ecup3j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-15-pm-gxe19e",
@@ -13999,10 +12631,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
     "image": "https://drive.google.com/uc?export=view&id=1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
     "driveFileId": "1dJwGLKM44hgVjGZEimo1ktFgcGJLk3Q3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-15-pm-gxe19e&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-15-pm-gxe19e&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-15-pm-gxe19e&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-11-pm-ban4gu",
@@ -14030,10 +12659,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
     "image": "https://drive.google.com/uc?export=view&id=11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
     "driveFileId": "11f6fxRMvNUefAANW0MQ6S0cqha4nMar9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-11-pm-ban4gu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-11-pm-ban4gu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-11-pm-ban4gu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-07-pm-iuwutt",
@@ -14061,10 +12687,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
     "image": "https://drive.google.com/uc?export=view&id=1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
     "driveFileId": "1tAXNElf-iZBICTeuZYPPJJlWJn2RR2J3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-07-pm-iuwutt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-07-pm-iuwutt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-07-pm-iuwutt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-13-pm-uwoub9",
@@ -14093,10 +12716,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
     "image": "https://drive.google.com/uc?export=view&id=1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
     "driveFileId": "1vocs-mQO4ZYsTpGkii_-g5xUUyqNc_Fw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-13-pm-uwoub9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-13-pm-uwoub9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-13-pm-uwoub9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-09-pm-hgvwai",
@@ -14124,10 +12744,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
     "image": "https://drive.google.com/uc?export=view&id=15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
     "driveFileId": "15zTKQpNfAf57U9JjDGVdnoClbK9CC4uW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-09-pm-hgvwai&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-09-pm-hgvwai&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-09-pm-hgvwai&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-18-pm-fpjyph",
@@ -14155,10 +12772,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
     "image": "https://drive.google.com/uc?export=view&id=1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
     "driveFileId": "1fv0xZk0VOgtPKYAfQryiAR7uT4N-vd7E",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-18-pm-fpjyph&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-18-pm-fpjyph&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-18-pm-fpjyph&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-22-pm-2-dxoz0g",
@@ -14186,10 +12800,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
     "image": "https://drive.google.com/uc?export=view&id=1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
     "driveFileId": "1tTm3po4vOJpt9o2V1AltfcQivOeUaVv9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-22-pm-2-dxoz0g&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-22-pm-2-dxoz0g&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-22-pm-2-dxoz0g&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-22-pm-1-jh8zdn",
@@ -14217,10 +12828,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
     "image": "https://drive.google.com/uc?export=view&id=1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
     "driveFileId": "1Ctz4VEU5QQ8GS1cSOE3dUSQuhzF3teE7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-22-pm-1-jh8zdn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-22-pm-1-jh8zdn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-22-pm-1-jh8zdn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-16-pm-snpu0c",
@@ -14249,10 +12857,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
     "image": "https://drive.google.com/uc?export=view&id=12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
     "driveFileId": "12_K7CjTV0Le5B7kXtqY346HrhOsifyFX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-16-pm-snpu0c&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-16-pm-snpu0c&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-16-pm-snpu0c&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-36-pm-mligzp",
@@ -14280,10 +12885,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
     "image": "https://drive.google.com/uc?export=view&id=1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
     "driveFileId": "1mTiCUEKgTMOTq9bVNzsEP6QH3nVCPrOb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-36-pm-mligzp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-36-pm-mligzp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-36-pm-mligzp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-37-pm-q1jojs",
@@ -14310,10 +12912,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
     "image": "https://drive.google.com/uc?export=view&id=1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
     "driveFileId": "1WY8opJG_814HaKccOrFIQF3-nFyNc7pi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-37-pm-q1jojs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-37-pm-q1jojs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-37-pm-q1jojs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-33-pm-polpy6",
@@ -14341,10 +12940,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
     "image": "https://drive.google.com/uc?export=view&id=1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
     "driveFileId": "1yQ7ZePTAZUdyurMvCzmCvyPrtD5uRaiD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-33-pm-polpy6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-33-pm-polpy6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-33-pm-polpy6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-39-pm-f2ipdy",
@@ -14371,10 +12967,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gevOSIy40kpINktMCw97DabYb4FM8E7I",
     "image": "https://drive.google.com/uc?export=view&id=1gevOSIy40kpINktMCw97DabYb4FM8E7I",
     "driveFileId": "1gevOSIy40kpINktMCw97DabYb4FM8E7I",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-39-pm-f2ipdy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-39-pm-f2ipdy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-39-pm-f2ipdy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-32-pm-e5fe49",
@@ -14402,10 +12995,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
     "image": "https://drive.google.com/uc?export=view&id=1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
     "driveFileId": "1g7S8JXrq3YI8eMT4x4noeVj32qmTlGuE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-32-pm-e5fe49&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-32-pm-e5fe49&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-32-pm-e5fe49&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-40-pm-zodvnj",
@@ -14433,10 +13023,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
     "image": "https://drive.google.com/uc?export=view&id=16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
     "driveFileId": "16e9Has-jLK0_x7tgm0Rx8Zr20lM5CzHX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-40-pm-zodvnj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-40-pm-zodvnj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-40-pm-zodvnj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-27-pm-2-lkwezw",
@@ -14464,10 +13051,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
     "image": "https://drive.google.com/uc?export=view&id=1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
     "driveFileId": "1FNAY9sCeVLoOg-1SqlGGVuXOK_gojySs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-27-pm-2-lkwezw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-27-pm-2-lkwezw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-27-pm-2-lkwezw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-02-pm-qfbisl",
@@ -14496,10 +13080,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
     "image": "https://drive.google.com/uc?export=view&id=1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
     "driveFileId": "1wF2ESjuXaxlvd8CFmRN2S_vN2byAejDV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-02-pm-qfbisl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-02-pm-qfbisl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-02-pm-qfbisl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-06-pm-nb6biu",
@@ -14528,10 +13109,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
     "image": "https://drive.google.com/uc?export=view&id=1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
     "driveFileId": "1LI5G6TD2z1Px4V-1dIVYLKmgvM0kmqIR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-06-pm-nb6biu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-06-pm-nb6biu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-06-pm-nb6biu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-27-pm-1-t9re6q",
@@ -14559,10 +13137,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
     "image": "https://drive.google.com/uc?export=view&id=1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
     "driveFileId": "1ol6_lwxObrbcetBl484jWZ4G_6gVFjgH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-27-pm-1-t9re6q&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-27-pm-1-t9re6q&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-27-pm-1-t9re6q&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-08-pm-dpeh2h",
@@ -14590,10 +13165,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
     "image": "https://drive.google.com/uc?export=view&id=11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
     "driveFileId": "11hxOXQ_2h37dj4zX-0rWrYpdK-gc4qGe",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-08-pm-dpeh2h&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-08-pm-dpeh2h&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-08-pm-dpeh2h&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-11-pm-wahkim",
@@ -14621,10 +13193,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
     "image": "https://drive.google.com/uc?export=view&id=1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
     "driveFileId": "1v2zkllCJfuWdAwVG6mJCgX-cwSgCNqfq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-11-pm-wahkim&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-11-pm-wahkim&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-11-pm-wahkim&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-10-pm-hdxo8z",
@@ -14653,10 +13222,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
     "image": "https://drive.google.com/uc?export=view&id=1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
     "driveFileId": "1zNOXwnttQOV7VrtWq1Hge9kdJ6jVxJoL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-10-pm-hdxo8z&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-10-pm-hdxo8z&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-10-pm-hdxo8z&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-13-pm-xqoprs",
@@ -14684,10 +13250,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
     "image": "https://drive.google.com/uc?export=view&id=1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
     "driveFileId": "1Px7D4hJeo13BRRbXvpUHphvASEOERmp2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-13-pm-xqoprs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-13-pm-xqoprs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-13-pm-xqoprs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-16-pm-zbybj9",
@@ -14715,10 +13278,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
     "image": "https://drive.google.com/uc?export=view&id=1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
     "driveFileId": "1tOzEXDo9t25iVd6ebEPk1twEdffDHQaI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-16-pm-zbybj9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-16-pm-zbybj9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-16-pm-zbybj9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-18-pm-hcgjni",
@@ -14746,10 +13306,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
     "image": "https://drive.google.com/uc?export=view&id=1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
     "driveFileId": "1GzU5_KiQIu-StryF5o3PL-_BnLTzYwp5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-18-pm-hcgjni&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-18-pm-hcgjni&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-18-pm-hcgjni&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-20-pm-nmw07d",
@@ -14777,10 +13334,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
     "image": "https://drive.google.com/uc?export=view&id=1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
     "driveFileId": "1QzKtWVgQQN-yunIy1N2BffQP1d_Fjspi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-20-pm-nmw07d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-20-pm-nmw07d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-20-pm-nmw07d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-24-pm-b3bkjo",
@@ -14809,10 +13363,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
     "image": "https://drive.google.com/uc?export=view&id=19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
     "driveFileId": "19SNfSpE1CqzRvDQyT6jKWs-8bbsze6XU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-24-pm-b3bkjo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-24-pm-b3bkjo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-24-pm-b3bkjo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-28-pm-1-axrn1f",
@@ -14841,10 +13392,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
     "image": "https://drive.google.com/uc?export=view&id=1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
     "driveFileId": "1InqwLLiazHLAkOuy0pLrRvu9vo8ewM63",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-28-pm-1-axrn1f&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-28-pm-1-axrn1f&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-28-pm-1-axrn1f&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-25-59-pm-dfh2va",
@@ -14872,10 +13420,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
     "image": "https://drive.google.com/uc?export=view&id=12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
     "driveFileId": "12PLo4LsLLu1pcrtOQuMTNpbid70pD2PE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-59-pm-dfh2va&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-59-pm-dfh2va&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-25-59-pm-dfh2va&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-14-pm-uueyel",
@@ -14902,10 +13447,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
     "image": "https://drive.google.com/uc?export=view&id=1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
     "driveFileId": "1VpRoLkzYSeVGBSYAt9s0BUE2nNr-mLwH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-14-pm-uueyel&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-14-pm-uueyel&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-14-pm-uueyel&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-28-pm-2-dtjvzm",
@@ -14933,10 +13475,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
     "image": "https://drive.google.com/uc?export=view&id=1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
     "driveFileId": "1c4ttU9K4l7Oj-ofQ-jiTsS-TgFeirMHf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-28-pm-2-dtjvzm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-28-pm-2-dtjvzm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-28-pm-2-dtjvzm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-32-pm-fyrgk6",
@@ -14964,10 +13503,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
     "image": "https://drive.google.com/uc?export=view&id=11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
     "driveFileId": "11h4asI4w05mhqSvC-fBa8EoLQy3ep5qM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-32-pm-fyrgk6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-32-pm-fyrgk6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-32-pm-fyrgk6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-23-pm-inr3z2",
@@ -14994,10 +13530,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
     "image": "https://drive.google.com/uc?export=view&id=1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
     "driveFileId": "1UWcZwTw4i62AjlQTWYVfWUjRR08cQl2s",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-23-pm-inr3z2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-23-pm-inr3z2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-23-pm-inr3z2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-26-19-pm-l8qcqe",
@@ -15026,10 +13559,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
     "image": "https://drive.google.com/uc?export=view&id=13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
     "driveFileId": "13mVqfVPTkk0c86iZEU4GE4oOFACKMAJb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-19-pm-l8qcqe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-19-pm-l8qcqe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-26-19-pm-l8qcqe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-01-pm-pq5uk0",
@@ -15058,10 +13588,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
     "image": "https://drive.google.com/uc?export=view&id=1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
     "driveFileId": "1Ikgks6m3lJhCRoTN9TFrFQ8lfSe9Bbrm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-01-pm-pq5uk0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-01-pm-pq5uk0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-01-pm-pq5uk0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-04-pm-1-thdh97",
@@ -15089,10 +13616,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
     "image": "https://drive.google.com/uc?export=view&id=1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
     "driveFileId": "1P_CnZp49qfeFSDmUmxv91iHeMvUq3cck",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-04-pm-1-thdh97&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-04-pm-1-thdh97&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-04-pm-1-thdh97&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-05-pm-2-wmwejh",
@@ -15120,10 +13644,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
     "image": "https://drive.google.com/uc?export=view&id=1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
     "driveFileId": "1QlQ4xQsqBgFaLoWoinNadaURJFXdRe9j",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-05-pm-2-wmwejh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-05-pm-2-wmwejh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-05-pm-2-wmwejh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-07-pm-rieei0",
@@ -15151,10 +13672,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
     "image": "https://drive.google.com/uc?export=view&id=1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
     "driveFileId": "1NKHN9f20osXGNPfGZuhsWtaRs5FJC1EV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-07-pm-rieei0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-07-pm-rieei0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-07-pm-rieei0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-09-pm-wnhb03",
@@ -15183,10 +13701,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
     "image": "https://drive.google.com/uc?export=view&id=1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
     "driveFileId": "1UH_xQsfy5DF-WK4HOm958OB5uhVDAsvS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-09-pm-wnhb03&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-09-pm-wnhb03&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-09-pm-wnhb03&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-07-43-pm-rhunho",
@@ -15214,10 +13729,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
     "image": "https://drive.google.com/uc?export=view&id=1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
     "driveFileId": "1BWr7JUbSxxPlDQnzy_WDi2QK8LkBbOEh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-07-43-pm-rhunho&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-07-43-pm-rhunho&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-07-43-pm-rhunho&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-17-pm-lgmh82",
@@ -15245,10 +13757,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
     "image": "https://drive.google.com/uc?export=view&id=1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
     "driveFileId": "1mYmujYaPz3c9uu7Uk2_jx1yjwtz__tbG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-17-pm-lgmh82&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-17-pm-lgmh82&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-17-pm-lgmh82&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-15-pm-oneagm",
@@ -15275,10 +13784,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
     "image": "https://drive.google.com/uc?export=view&id=1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
     "driveFileId": "1OE8CMN1gZ-z37JjbmlRMWonBUHJ0UnWV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-15-pm-oneagm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-15-pm-oneagm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-15-pm-oneagm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-11-pm-yscugh",
@@ -15307,10 +13813,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
     "image": "https://drive.google.com/uc?export=view&id=1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
     "driveFileId": "1-M8YixxNGviq1SlBUgIwIoY2Fq9GSj8D",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-11-pm-yscugh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-11-pm-yscugh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-11-pm-yscugh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-20-pm-r1bnz7",
@@ -15338,10 +13841,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
     "image": "https://drive.google.com/uc?export=view&id=1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
     "driveFileId": "1GtEesbNV9PSDU3UVmwIlINqHsiQ5r7KI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-20-pm-r1bnz7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-20-pm-r1bnz7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-20-pm-r1bnz7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-13-pm-he7sgl",
@@ -15369,10 +13869,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
     "image": "https://drive.google.com/uc?export=view&id=1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
     "driveFileId": "1_ha7c6gJpolFgUvuKsCTpQa3eNyYCvyO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-13-pm-he7sgl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-13-pm-he7sgl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-13-pm-he7sgl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-24-pm-tvpdzy",
@@ -15399,10 +13896,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
     "image": "https://drive.google.com/uc?export=view&id=1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
     "driveFileId": "1UHSk3A6krPtaW2aHI9GY3DKHxmtla7D4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-24-pm-tvpdzy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-24-pm-tvpdzy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-24-pm-tvpdzy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-22-pm-nq7uyd",
@@ -15429,10 +13923,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
     "image": "https://drive.google.com/uc?export=view&id=18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
     "driveFileId": "18RkaBKkRSveCZZd2caejPPLlliy0HMJJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-22-pm-nq7uyd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-22-pm-nq7uyd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-22-pm-nq7uyd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-27-pm-mnj6qu",
@@ -15460,10 +13951,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
     "image": "https://drive.google.com/uc?export=view&id=17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
     "driveFileId": "17-DZstfcIlWY0MJsm-P8XZIVUpyjracK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-27-pm-mnj6qu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-27-pm-mnj6qu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-27-pm-mnj6qu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-29-pm-isbpne",
@@ -15491,10 +13979,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
     "image": "https://drive.google.com/uc?export=view&id=1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
     "driveFileId": "1XkDZNNd3dQwTVARPNvHB8BYtpkl_Bm3h",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-29-pm-isbpne&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-29-pm-isbpne&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-29-pm-isbpne&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-33-pm-wuldvf",
@@ -15522,10 +14007,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
     "image": "https://drive.google.com/uc?export=view&id=1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
     "driveFileId": "1QzB2PltgiMnbbwmqnhQ-_16rECmMTtmv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-33-pm-wuldvf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-33-pm-wuldvf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-33-pm-wuldvf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-36-pm-llins7",
@@ -15552,10 +14034,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EZZASHXKXySEVzihB9okBantgQrUFnhh",
     "image": "https://drive.google.com/uc?export=view&id=1EZZASHXKXySEVzihB9okBantgQrUFnhh",
     "driveFileId": "1EZZASHXKXySEVzihB9okBantgQrUFnhh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-36-pm-llins7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-36-pm-llins7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-36-pm-llins7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-38-pm-ia6vbd",
@@ -15583,10 +14062,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
     "image": "https://drive.google.com/uc?export=view&id=1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
     "driveFileId": "1BhR_hVbBaXZSIFJ0Y6qIDyE7jWbEgb5s",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-38-pm-ia6vbd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-38-pm-ia6vbd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-38-pm-ia6vbd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-41-pm-e8j9gs",
@@ -15613,10 +14089,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
     "image": "https://drive.google.com/uc?export=view&id=1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
     "driveFileId": "1DiYr2baILPInBMcJUUKns7UWkY8l8q91",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-41-pm-e8j9gs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-41-pm-e8j9gs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-41-pm-e8j9gs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-43-pm-lepd0x",
@@ -15643,10 +14116,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
     "image": "https://drive.google.com/uc?export=view&id=1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
     "driveFileId": "1Tlomc3DB8ewyvKNZy6U9R9B_1mp8CYIS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-43-pm-lepd0x&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-43-pm-lepd0x&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-43-pm-lepd0x&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-46-pm-hegbat",
@@ -15674,10 +14144,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
     "image": "https://drive.google.com/uc?export=view&id=1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
     "driveFileId": "1qR1A_rmAZEHIj2niSyjxIfs404DHN0U6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-46-pm-hegbat&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-46-pm-hegbat&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-46-pm-hegbat&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-31-pm-kujhrx",
@@ -15704,10 +14171,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
     "image": "https://drive.google.com/uc?export=view&id=1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
     "driveFileId": "1rTdAXwzmT_m6g8AgdxCX4hurUl90u9PE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-31-pm-kujhrx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-31-pm-kujhrx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-31-pm-kujhrx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-51-pm-bkikzf",
@@ -15734,10 +14198,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
     "image": "https://drive.google.com/uc?export=view&id=1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
     "driveFileId": "1U90r_7I_OA-rd_eKumAD7PY6zL_38mAn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-51-pm-bkikzf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-51-pm-bkikzf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-51-pm-bkikzf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-48-pm-xstwdc",
@@ -15764,10 +14225,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
     "image": "https://drive.google.com/uc?export=view&id=1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
     "driveFileId": "1yXKgxkUe7fJhWW_r-gOC3oYBh9WAmoU1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-48-pm-xstwdc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-48-pm-xstwdc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-48-pm-xstwdc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-55-pm-fbfsfe",
@@ -15795,10 +14253,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
     "image": "https://drive.google.com/uc?export=view&id=1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
     "driveFileId": "1hpNPHeHyxwkzYNa_ectSNOLZmb8JyGJR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-55-pm-fbfsfe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-55-pm-fbfsfe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-55-pm-fbfsfe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-53-pm-ixhuig",
@@ -15826,10 +14281,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
     "image": "https://drive.google.com/uc?export=view&id=1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
     "driveFileId": "1mfCKAFf-X9qIX5dvD4dDBHdeCRIW_Dgo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-53-pm-ixhuig&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-53-pm-ixhuig&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-53-pm-ixhuig&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-08-58-pm-eifxy3",
@@ -15857,10 +14309,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
     "image": "https://drive.google.com/uc?export=view&id=1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
     "driveFileId": "1kNpaWYS1RxL5HcqHQcY-7rThd-t3y_Ef",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-58-pm-eifxy3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-58-pm-eifxy3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-08-58-pm-eifxy3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-01-pm-2-in88kp",
@@ -15888,10 +14337,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
     "image": "https://drive.google.com/uc?export=view&id=1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
     "driveFileId": "1bhh1xybQwS7X5PTdQIUGTctm3v7m2oQf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-01-pm-2-in88kp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-01-pm-2-in88kp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-01-pm-2-in88kp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-04-pm-jqvt2r",
@@ -15920,10 +14366,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
     "image": "https://drive.google.com/uc?export=view&id=1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
     "driveFileId": "1czS2DGvt9DAYdQA5ZcKAEqD5BYn9Pdde",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-04-pm-jqvt2r&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-04-pm-jqvt2r&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-04-pm-jqvt2r&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-10-pm-al9co7",
@@ -15950,10 +14393,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
     "image": "https://drive.google.com/uc?export=view&id=1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
     "driveFileId": "1NA0rjAxJ8YaNepMH4W1dPs8MEadGJUOr",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-10-pm-al9co7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-10-pm-al9co7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-10-pm-al9co7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-01-pm-1-rcqrbk",
@@ -15981,10 +14421,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
     "image": "https://drive.google.com/uc?export=view&id=1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
     "driveFileId": "1-DBOZjLi4FjnCQWcsnTy-2fcpAMnFgeo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-01-pm-1-rcqrbk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-01-pm-1-rcqrbk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-01-pm-1-rcqrbk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-12-pm-fpxdf4",
@@ -16012,10 +14449,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
     "image": "https://drive.google.com/uc?export=view&id=1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
     "driveFileId": "1eS8hvGRxmwDaG4taILCQAUR_j76--S-e",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-12-pm-fpxdf4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-12-pm-fpxdf4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-12-pm-fpxdf4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-08-pm-picotz",
@@ -16042,10 +14476,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
     "image": "https://drive.google.com/uc?export=view&id=14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
     "driveFileId": "14iXY0uyDwJ68hXvBYB0KePk80Qno3m1r",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-08-pm-picotz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-08-pm-picotz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-08-pm-picotz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-15-pm-kbwalf",
@@ -16073,10 +14504,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
     "image": "https://drive.google.com/uc?export=view&id=1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
     "driveFileId": "1aHG7jj8Owt8kZT77z2lKK_1I_JKuAN_8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-15-pm-kbwalf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-15-pm-kbwalf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-15-pm-kbwalf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-17-pm-ffrhjb",
@@ -16104,10 +14532,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
     "image": "https://drive.google.com/uc?export=view&id=1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
     "driveFileId": "1zv836jQBqIwrq3xvmR4eJPUaj1fiB24c",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-17-pm-ffrhjb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-17-pm-ffrhjb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-17-pm-ffrhjb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-32-pm-eyg4ty",
@@ -16135,10 +14560,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
     "image": "https://drive.google.com/uc?export=view&id=1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
     "driveFileId": "1E1LJKk88pcfHsyOsRBWCggIYo4bZIbSr",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-32-pm-eyg4ty&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-32-pm-eyg4ty&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-32-pm-eyg4ty&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-20-pm-w9bqpt",
@@ -16166,10 +14588,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
     "image": "https://drive.google.com/uc?export=view&id=1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
     "driveFileId": "1lubnFpU2VxBLZ6xHhXDICt96ASe1nP7-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-20-pm-w9bqpt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-20-pm-w9bqpt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-20-pm-w9bqpt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-39-pm-u7ptuk",
@@ -16196,10 +14615,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
     "image": "https://drive.google.com/uc?export=view&id=13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
     "driveFileId": "13aRCADx85iD5Fv54QPWCYxPSqsLERrei",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-39-pm-u7ptuk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-39-pm-u7ptuk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-39-pm-u7ptuk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-36-pm-ip0uql",
@@ -16226,10 +14642,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
     "image": "https://drive.google.com/uc?export=view&id=1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
     "driveFileId": "1aXItkv2VJzRrkrbChgcAfURXWpexfa1o",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-36-pm-ip0uql&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-36-pm-ip0uql&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-36-pm-ip0uql&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-47-pm-p10vvi",
@@ -16257,10 +14670,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
     "image": "https://drive.google.com/uc?export=view&id=1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
     "driveFileId": "1C-fP_ixTq1sQZbLY_qy1vGVI06ryCo_a",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-47-pm-p10vvi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-47-pm-p10vvi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-47-pm-p10vvi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-49-pm-tdwcun",
@@ -16289,10 +14699,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
     "image": "https://drive.google.com/uc?export=view&id=1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
     "driveFileId": "1kp-sAr__ko7hvuvZ3k58vUja20Zu9Og_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-49-pm-tdwcun&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-49-pm-tdwcun&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-49-pm-tdwcun&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-52-pm-ui6czb",
@@ -16321,10 +14728,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
     "image": "https://drive.google.com/uc?export=view&id=1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
     "driveFileId": "1eijo0faFznEjGV2N1sOEXM0Lqab8O0LU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-52-pm-ui6czb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-52-pm-ui6czb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-52-pm-ui6czb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-54-pm-eylytk",
@@ -16351,10 +14755,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
     "image": "https://drive.google.com/uc?export=view&id=1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
     "driveFileId": "1gTZoj9fqfKePAtY_HdeHg1wMDwZ4100k",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-54-pm-eylytk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-54-pm-eylytk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-54-pm-eylytk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-09-57-pm-nfih5z",
@@ -16382,10 +14783,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
     "image": "https://drive.google.com/uc?export=view&id=1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
     "driveFileId": "1ChwUeK50hdGoe76ya3Memeo26Mnlv-TY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-57-pm-nfih5z&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-57-pm-nfih5z&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-09-57-pm-nfih5z&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-07-pm-ftn0fu",
@@ -16413,10 +14811,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
     "image": "https://drive.google.com/uc?export=view&id=1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
     "driveFileId": "1G7IzzKpLa3_1W9HIMxm1gl0HuOlT8nr_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-07-pm-ftn0fu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-07-pm-ftn0fu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-07-pm-ftn0fu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-02-pm-a7a3yb",
@@ -16443,10 +14838,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
     "image": "https://drive.google.com/uc?export=view&id=1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
     "driveFileId": "1K-E3Vl4PFQLTQLcLvKjLTETlNA9xVuWL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-02-pm-a7a3yb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-02-pm-a7a3yb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-02-pm-a7a3yb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-00-pm-hjfelj",
@@ -16474,10 +14866,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
     "image": "https://drive.google.com/uc?export=view&id=1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
     "driveFileId": "1kcVrLw0Sk37DiY_ZPHJCb-lN_ak-lFhP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-00-pm-hjfelj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-00-pm-hjfelj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-00-pm-hjfelj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-04-pm-p1jnxm",
@@ -16505,10 +14894,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
     "image": "https://drive.google.com/uc?export=view&id=15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
     "driveFileId": "15uJl7gKDJAyr6Q-994lM4qCpqb9w3R_R",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-04-pm-p1jnxm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-04-pm-p1jnxm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-04-pm-p1jnxm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-20-pm-cbxrog",
@@ -16536,10 +14922,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
     "image": "https://drive.google.com/uc?export=view&id=1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
     "driveFileId": "1TyhcgzVuaXFRQEGDDFUiVNZXGtCgioba",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-20-pm-cbxrog&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-20-pm-cbxrog&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-20-pm-cbxrog&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-09-pm-nzkpcr",
@@ -16567,10 +14950,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
     "image": "https://drive.google.com/uc?export=view&id=1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
     "driveFileId": "1HIdcnIkTiN5QP7SLVZ11OYmbBOezfnGX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-09-pm-nzkpcr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-09-pm-nzkpcr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-09-pm-nzkpcr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-27-pm-hbcbj8",
@@ -16599,10 +14979,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
     "image": "https://drive.google.com/uc?export=view&id=113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
     "driveFileId": "113V0cROYoxwaHINjqfQNDVIufyjGTpZn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-27-pm-hbcbj8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-27-pm-hbcbj8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-27-pm-hbcbj8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-33-pm-1-ihepce",
@@ -16629,10 +15006,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
     "image": "https://drive.google.com/uc?export=view&id=1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
     "driveFileId": "1ajvYqYLnJwFPk7X4_as13Dw0uTPHXQd9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-33-pm-1-ihepce&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-33-pm-1-ihepce&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-33-pm-1-ihepce&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-38-pm-pmuzb1",
@@ -16661,10 +15035,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
     "image": "https://drive.google.com/uc?export=view&id=1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
     "driveFileId": "1IzZxjcR73IKrBIOwEefpdFdo7x5iaAd1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-38-pm-pmuzb1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-38-pm-pmuzb1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-38-pm-pmuzb1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-33-pm-2-khvwsf",
@@ -16692,10 +15063,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
     "image": "https://drive.google.com/uc?export=view&id=1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
     "driveFileId": "1TXJZ6F2uoEb3W3Wh3b-8bdFaDLRCisiX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-33-pm-2-khvwsf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-33-pm-2-khvwsf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-33-pm-2-khvwsf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-23-pm-cmyipi",
@@ -16723,10 +15091,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
     "image": "https://drive.google.com/uc?export=view&id=1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
     "driveFileId": "1Mjj-1DQvnCDiPDsc-gVRYngMl93jTHmc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-23-pm-cmyipi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-23-pm-cmyipi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-23-pm-cmyipi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-43-pm-vwoomo",
@@ -16753,10 +15118,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
     "image": "https://drive.google.com/uc?export=view&id=1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
     "driveFileId": "1XPofMwbumR4OmsHDSzd-j2fe3aO2at43",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-43-pm-vwoomo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-43-pm-vwoomo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-43-pm-vwoomo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-41-pm-a1iuza",
@@ -16783,10 +15145,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
     "image": "https://drive.google.com/uc?export=view&id=1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
     "driveFileId": "1YloYddZ5ICWUKCtPkJhNcqigf_1vjvPW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-41-pm-a1iuza&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-41-pm-a1iuza&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-41-pm-a1iuza&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-45-pm-kfdmm9",
@@ -16814,10 +15173,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
     "image": "https://drive.google.com/uc?export=view&id=130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
     "driveFileId": "130kYvcgUGqhfRWBNJevgXZeh8hvDkmsD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-45-pm-kfdmm9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-45-pm-kfdmm9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-45-pm-kfdmm9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-51-pm-euta44",
@@ -16845,10 +15201,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
     "image": "https://drive.google.com/uc?export=view&id=1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
     "driveFileId": "1-lqku9nVt3_8mTiXCsUzw8JU_TcTEOX4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-51-pm-euta44&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-51-pm-euta44&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-51-pm-euta44&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-48-pm-hrpi16",
@@ -16875,10 +15228,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
     "image": "https://drive.google.com/uc?export=view&id=1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
     "driveFileId": "1TqMKj6XIm9Wep-zRoeMjCtv3Mp7_52KN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-48-pm-hrpi16&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-48-pm-hrpi16&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-48-pm-hrpi16&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-57-pm-g5sgiw",
@@ -16907,10 +15257,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
     "image": "https://drive.google.com/uc?export=view&id=1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
     "driveFileId": "1VM4ZSkfy7zjbhdMoXQzt6vR05xI2Tr0W",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-57-pm-g5sgiw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-57-pm-g5sgiw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-57-pm-g5sgiw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-54-pm-tu2kpt",
@@ -16938,10 +15285,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
     "image": "https://drive.google.com/uc?export=view&id=1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
     "driveFileId": "1Qx9SSC1XSR9BwdXOvML8auzYNpm49eA4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-54-pm-tu2kpt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-54-pm-tu2kpt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-54-pm-tu2kpt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-11-02-pm-oanmrx",
@@ -16969,10 +15313,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
     "image": "https://drive.google.com/uc?export=view&id=1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
     "driveFileId": "1Z4VOoZhGCM7PyMdz_MHQxSQzvoAuDRTf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-02-pm-oanmrx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-02-pm-oanmrx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-02-pm-oanmrx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-11-04-pm-ttpzc0",
@@ -17000,10 +15341,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
     "image": "https://drive.google.com/uc?export=view&id=1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
     "driveFileId": "1Vc8tXI-iIwCtVosJwnbp9aARpuVwWmyt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-04-pm-ttpzc0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-04-pm-ttpzc0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-04-pm-ttpzc0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-11-06-pm-giahx3",
@@ -17030,10 +15368,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
     "image": "https://drive.google.com/uc?export=view&id=1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
     "driveFileId": "1PjCbWseJ1e9TFyfTz-f64MeycwcCiIiQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-06-pm-giahx3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-06-pm-giahx3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-06-pm-giahx3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-10-59-pm-ouol3r",
@@ -17061,10 +15396,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
     "image": "https://drive.google.com/uc?export=view&id=1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
     "driveFileId": "1nBHQiOccT2_2WhiHGrSx_bTj92arYATM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-59-pm-ouol3r&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-59-pm-ouol3r&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-10-59-pm-ouol3r&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-26-pm-dbpew5",
@@ -17092,10 +15424,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
     "image": "https://drive.google.com/uc?export=view&id=14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
     "driveFileId": "14T6gtE4yBtinRB0_RRwjRnMPsBTawRmp",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-26-pm-dbpew5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-26-pm-dbpew5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-26-pm-dbpew5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-28-pm-octcap",
@@ -17123,10 +15452,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
     "image": "https://drive.google.com/uc?export=view&id=1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
     "driveFileId": "1lUxmIy9hZWt7vdhpGK9HsMdjVNeVK38y",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-28-pm-octcap&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-28-pm-octcap&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-28-pm-octcap&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-36-pm-ed9ate",
@@ -17152,10 +15478,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
     "image": "https://drive.google.com/uc?export=view&id=1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
     "driveFileId": "1QGNkIkApDTqXmEdyCvzKntVUbX7NAUM3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-36-pm-ed9ate&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-36-pm-ed9ate&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-36-pm-ed9ate&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-34-pm-hrqkja",
@@ -17183,10 +15506,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
     "image": "https://drive.google.com/uc?export=view&id=1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
     "driveFileId": "1aooOY32jIXOuCWiBU93FoKN4x76uFIA6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-34-pm-hrqkja&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-34-pm-hrqkja&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-34-pm-hrqkja&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-38-pm-pjdq5k",
@@ -17214,10 +15534,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
     "image": "https://drive.google.com/uc?export=view&id=1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
     "driveFileId": "1879jn1bjSDPxh_6Q9H_Yzna995IwUyIJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-38-pm-pjdq5k&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-38-pm-pjdq5k&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-38-pm-pjdq5k&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-41-pm-eyu3wx",
@@ -17245,10 +15562,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
     "image": "https://drive.google.com/uc?export=view&id=1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
     "driveFileId": "1EMJjr5LdKx9HWqA8Eo81LsuxJ4S21uhK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-41-pm-eyu3wx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-41-pm-eyu3wx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-41-pm-eyu3wx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-43-pm-pkdg4b",
@@ -17275,10 +15589,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
     "image": "https://drive.google.com/uc?export=view&id=1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
     "driveFileId": "1Pg0R3oBw8DT-P3cnB1ySMTk-LB5KmaLI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-43-pm-pkdg4b&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-43-pm-pkdg4b&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-43-pm-pkdg4b&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-11-08-pm-bmeim0",
@@ -17306,10 +15617,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
     "image": "https://drive.google.com/uc?export=view&id=1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
     "driveFileId": "1Id3SMSlIJLzea3QBjcmsIFZFmXP6zqcp",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-08-pm-bmeim0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-08-pm-bmeim0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-11-08-pm-bmeim0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-30-pm-galnf9",
@@ -17337,10 +15645,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
     "image": "https://drive.google.com/uc?export=view&id=14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
     "driveFileId": "14DmnwXBGyiLn6pAntvR5ydne_aa3tj7e",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-30-pm-galnf9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-30-pm-galnf9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-30-pm-galnf9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-45-pm-dznqmt",
@@ -17368,10 +15673,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
     "image": "https://drive.google.com/uc?export=view&id=1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
     "driveFileId": "1bKDOi-839hub2I0a1arpUkOg3a1eEV8m",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-45-pm-dznqmt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-45-pm-dznqmt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-45-pm-dznqmt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-32-pm-acixoo",
@@ -17398,10 +15700,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
     "image": "https://drive.google.com/uc?export=view&id=1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
     "driveFileId": "1B7uwCl25sFYEbCD0z9OrVO_XUM1GXKD3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-32-pm-acixoo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-32-pm-acixoo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-32-pm-acixoo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-47-pm-yvuxii",
@@ -17428,10 +15727,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
     "image": "https://drive.google.com/uc?export=view&id=1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
     "driveFileId": "1wqQuQzPdTwmOISCdbx6jFOpFVh_byqkx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-47-pm-yvuxii&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-47-pm-yvuxii&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-47-pm-yvuxii&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-51-pm-ub8cb5",
@@ -17459,10 +15755,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
     "image": "https://drive.google.com/uc?export=view&id=1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
     "driveFileId": "1yWymycJLEKDdki1_i5ZcynoWnvfdLkAR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-51-pm-ub8cb5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-51-pm-ub8cb5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-51-pm-ub8cb5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-01-pm-h1wril",
@@ -17490,10 +15783,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
     "image": "https://drive.google.com/uc?export=view&id=1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
     "driveFileId": "1fUP39-cVawbpOlpKzeV6-Gdi__xA2BsQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-01-pm-h1wril&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-01-pm-h1wril&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-01-pm-h1wril&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-53-pm-loqfao",
@@ -17521,10 +15811,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
     "image": "https://drive.google.com/uc?export=view&id=16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
     "driveFileId": "16OJV8lkl3IuXUyfclTLTWH0vGwph3si8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-53-pm-loqfao&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-53-pm-loqfao&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-53-pm-loqfao&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-08-pm-ikvs2y",
@@ -17552,10 +15839,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
     "image": "https://drive.google.com/uc?export=view&id=1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
     "driveFileId": "1vh-foluhUh7h1uMopE82A2cv_2ftlBoF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-08-pm-ikvs2y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-08-pm-ikvs2y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-08-pm-ikvs2y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-14-pm-yctlul",
@@ -17583,10 +15867,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
     "image": "https://drive.google.com/uc?export=view&id=1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
     "driveFileId": "1wJKsheg7XmC-_4BLjP4asnvLRnDHqgGL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-14-pm-yctlul&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-14-pm-yctlul&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-14-pm-yctlul&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-04-pm-uvwywm",
@@ -17613,10 +15894,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
     "image": "https://drive.google.com/uc?export=view&id=1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
     "driveFileId": "1_V36dP9I4RA9UPG2o6Z3lbSajCtv23a8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-04-pm-uvwywm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-04-pm-uvwywm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-04-pm-uvwywm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-10-pm-knj3cp",
@@ -17644,10 +15922,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
     "image": "https://drive.google.com/uc?export=view&id=1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
     "driveFileId": "1kekJsLTeLvi_MS9CJ5qC45-JlCH5nTAI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-10-pm-knj3cp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-10-pm-knj3cp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-10-pm-knj3cp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-55-pm-fghkrf",
@@ -17675,10 +15950,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CbrON6xTxU6jAMq8LqW18W736xh04go6",
     "image": "https://drive.google.com/uc?export=view&id=1CbrON6xTxU6jAMq8LqW18W736xh04go6",
     "driveFileId": "1CbrON6xTxU6jAMq8LqW18W736xh04go6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-55-pm-fghkrf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-55-pm-fghkrf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-55-pm-fghkrf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-59-pm-tly86o",
@@ -17706,10 +15978,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
     "image": "https://drive.google.com/uc?export=view&id=1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
     "driveFileId": "1sm-S8J8hfvOEja4DgrlgTNnTsl4Bz75_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-59-pm-tly86o&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-59-pm-tly86o&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-59-pm-tly86o&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-14-57-pm-owjydw",
@@ -17737,10 +16006,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
     "image": "https://drive.google.com/uc?export=view&id=1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
     "driveFileId": "1rUqJ80kO88myf-Dx_ZNKh8IAMZ6duEye",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-57-pm-owjydw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-57-pm-owjydw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-14-57-pm-owjydw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-16-pm-ahrggy",
@@ -17768,10 +16034,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
     "image": "https://drive.google.com/uc?export=view&id=1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
     "driveFileId": "1_cHzXiWSWtqoDEhvvICMHHsS7uYwXiGn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-16-pm-ahrggy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-16-pm-ahrggy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-16-pm-ahrggy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-19-pm-nxeoiy",
@@ -17799,10 +16062,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
     "image": "https://drive.google.com/uc?export=view&id=1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
     "driveFileId": "1Zk87wVFTPCnWgvlBTS6K_4GStbfxHe3t",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-19-pm-nxeoiy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-19-pm-nxeoiy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-19-pm-nxeoiy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-33-pm-eel0t1",
@@ -17830,10 +16090,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
     "image": "https://drive.google.com/uc?export=view&id=1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
     "driveFileId": "1j94Pz1_K-LX0H5k8UICY9UzB_soQ1uCn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-33-pm-eel0t1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-33-pm-eel0t1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-33-pm-eel0t1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-35-pm-cibdvm",
@@ -17861,10 +16118,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
     "image": "https://drive.google.com/uc?export=view&id=1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
     "driveFileId": "1IUFBjy-1K8reC2fbVURyfGntEhPMgDtB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-35-pm-cibdvm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-35-pm-cibdvm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-35-pm-cibdvm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-21-pm-bvw4zt",
@@ -17892,10 +16146,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
     "image": "https://drive.google.com/uc?export=view&id=1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
     "driveFileId": "1vEY1gHVRrx6bpIn3xPxdQy3ESxqf1kSF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-21-pm-bvw4zt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-21-pm-bvw4zt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-21-pm-bvw4zt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-38-pm-kyd9uu",
@@ -17923,10 +16174,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
     "image": "https://drive.google.com/uc?export=view&id=1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
     "driveFileId": "1BG6nx1O4IMbc1dNz_ssH4PuRCOKRdT-H",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-38-pm-kyd9uu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-38-pm-kyd9uu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-38-pm-kyd9uu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-26-pm-v1v7s1",
@@ -17954,10 +16202,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
     "image": "https://drive.google.com/uc?export=view&id=1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
     "driveFileId": "1EcJS3n3kU8u58a9c75lH0Y3kjEdtB_Tx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-26-pm-v1v7s1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-26-pm-v1v7s1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-26-pm-v1v7s1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-40-pm-ofqwgv",
@@ -17984,10 +16229,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
     "image": "https://drive.google.com/uc?export=view&id=1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
     "driveFileId": "1EHhlxivlDDsSMd9d_cF6oSRFSsNDcEYi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-40-pm-ofqwgv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-40-pm-ofqwgv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-40-pm-ofqwgv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-30-pm-gmds0f",
@@ -18014,10 +16256,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
     "image": "https://drive.google.com/uc?export=view&id=1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
     "driveFileId": "1HG6XacEO6DZLjtO0OUPbh3uzx5w0IzWE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-30-pm-gmds0f&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-30-pm-gmds0f&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-30-pm-gmds0f&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-28-pm-bwmhrb",
@@ -18045,10 +16284,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
     "image": "https://drive.google.com/uc?export=view&id=1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
     "driveFileId": "1NTqS7CZdv2s6tSHwSwt9iHz_B-r834Os",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-28-pm-bwmhrb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-28-pm-bwmhrb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-28-pm-bwmhrb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-23-pm-jijwkx",
@@ -18076,10 +16312,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
     "image": "https://drive.google.com/uc?export=view&id=1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
     "driveFileId": "1TJJTLR5gBkNpygW7J9GQhLSoDQJfwjVK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-23-pm-jijwkx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-23-pm-jijwkx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-23-pm-jijwkx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-44-pm-tdahsp",
@@ -18107,10 +16340,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
     "image": "https://drive.google.com/uc?export=view&id=1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
     "driveFileId": "1hONb6-SybrUCHKNqh_EOIVynlBYxU1tE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-44-pm-tdahsp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-44-pm-tdahsp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-44-pm-tdahsp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-47-pm-cvaafw",
@@ -18137,10 +16367,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
     "image": "https://drive.google.com/uc?export=view&id=19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
     "driveFileId": "19a1UrMjO8KAoLad2OhRPGteCpZ3lfQxw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-47-pm-cvaafw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-47-pm-cvaafw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-47-pm-cvaafw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-2-2026-10-15-42-pm-rhxnic",
@@ -18169,10 +16396,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
     "image": "https://drive.google.com/uc?export=view&id=12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
     "driveFileId": "12bNH7_QtMDu-IhDqkB8N4pXbZ1pvIcon",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-42-pm-rhxnic&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-42-pm-rhxnic&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-2-2026-10-15-42-pm-rhxnic&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-08-53-pm-wyockh",
@@ -18200,10 +16424,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
     "image": "https://drive.google.com/uc?export=view&id=13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
     "driveFileId": "13576zfhdH3o6RKKU_B2nzFBqgLVqOW8K",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-53-pm-wyockh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-53-pm-wyockh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-53-pm-wyockh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-08-56-pm-vtrf6t",
@@ -18232,10 +16453,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
     "image": "https://drive.google.com/uc?export=view&id=1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
     "driveFileId": "1tqTjchP9LZ5DRkPRHUcbximnXrViYrwQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-56-pm-vtrf6t&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-56-pm-vtrf6t&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-56-pm-vtrf6t&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-08-49-pm-bhlpux",
@@ -18264,10 +16482,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
     "image": "https://drive.google.com/uc?export=view&id=1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
     "driveFileId": "1w8vszbaBylFqiDSqSSG2kXwwMGfqsiLP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-49-pm-bhlpux&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-49-pm-bhlpux&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-49-pm-bhlpux&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-08-59-pm-gzm0hc",
@@ -18294,10 +16509,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
     "image": "https://drive.google.com/uc?export=view&id=1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
     "driveFileId": "1zn9Au2HE8IdfRzexPvCFU2_OkV0IbmP2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-59-pm-gzm0hc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-59-pm-gzm0hc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-59-pm-gzm0hc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-08-47-pm-hd5atz",
@@ -18326,10 +16538,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
     "image": "https://drive.google.com/uc?export=view&id=1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
     "driveFileId": "1EB3DHSlhy35GUbWNReqTGMinM1Zm7167",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-47-pm-hd5atz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-47-pm-hd5atz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-47-pm-hd5atz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-08-43-pm-spqp2k",
@@ -18357,10 +16566,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
     "image": "https://drive.google.com/uc?export=view&id=1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
     "driveFileId": "1vOoWQeo8hlz61OrEADoJFW3DKGvwx-aU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-43-pm-spqp2k&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-43-pm-spqp2k&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-08-43-pm-spqp2k&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-04-pm-genabg",
@@ -18389,10 +16595,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
     "image": "https://drive.google.com/uc?export=view&id=1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
     "driveFileId": "1p5aqdB3y6CYJI-llXEAkmQ0Hzl2y6kGL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-04-pm-genabg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-04-pm-genabg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-04-pm-genabg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-06-pm-aqtkwi",
@@ -18420,10 +16623,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
     "image": "https://drive.google.com/uc?export=view&id=1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
     "driveFileId": "1Q_ovzbTD-bfY0yQJvChw7owjwfvcjuKM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-06-pm-aqtkwi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-06-pm-aqtkwi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-06-pm-aqtkwi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-01-pm-ionyd3",
@@ -18451,10 +16651,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
     "image": "https://drive.google.com/uc?export=view&id=18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
     "driveFileId": "18VCeZXmKdY2wER1wDh1_pN4SeEkbrCRC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-01-pm-ionyd3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-01-pm-ionyd3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-01-pm-ionyd3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-22-pm-krlqty",
@@ -18483,10 +16680,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
     "image": "https://drive.google.com/uc?export=view&id=1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
     "driveFileId": "1RNvd_UpWn_1HZZe2NAHAfZwRTw-mGl3_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-22-pm-krlqty&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-22-pm-krlqty&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-22-pm-krlqty&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-28-pm-yqpwjn",
@@ -18513,10 +16707,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
     "image": "https://drive.google.com/uc?export=view&id=1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
     "driveFileId": "1XK41iRPaapClNlHMTYkT7DbwvFHR2kNt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-28-pm-yqpwjn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-28-pm-yqpwjn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-28-pm-yqpwjn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-25-pm-ty0crm",
@@ -18544,10 +16735,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=182rKynXBbpbMegpVHTESDziIS545fha4",
     "image": "https://drive.google.com/uc?export=view&id=182rKynXBbpbMegpVHTESDziIS545fha4",
     "driveFileId": "182rKynXBbpbMegpVHTESDziIS545fha4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-25-pm-ty0crm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-25-pm-ty0crm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-25-pm-ty0crm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-32-pm-m0kjd2",
@@ -18575,10 +16763,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
     "image": "https://drive.google.com/uc?export=view&id=1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
     "driveFileId": "1Zau9f87VI7ajV7nKtFpBFwFU4r6OrAdY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-32-pm-m0kjd2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-32-pm-m0kjd2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-32-pm-m0kjd2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-42-pm-bfboee",
@@ -18605,10 +16790,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
     "image": "https://drive.google.com/uc?export=view&id=1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
     "driveFileId": "1Or2oW_LR0Mq2bbQiwhy-obcrYR0Nx3VU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-42-pm-bfboee&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-42-pm-bfboee&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-42-pm-bfboee&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-39-pm-cyqlmu",
@@ -18637,10 +16819,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
     "image": "https://drive.google.com/uc?export=view&id=1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
     "driveFileId": "1GVTV7pQ9hTClhb1Utw22HvzJhVENHyAQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-39-pm-cyqlmu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-39-pm-cyqlmu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-39-pm-cyqlmu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-45-pm-k5k1u7",
@@ -18668,10 +16847,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
     "image": "https://drive.google.com/uc?export=view&id=1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
     "driveFileId": "1-VPsCif4YxJBtKVRSus4Myx7cleOPCFG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-45-pm-k5k1u7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-45-pm-k5k1u7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-45-pm-k5k1u7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-35-pm-zpygrd",
@@ -18699,10 +16875,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
     "image": "https://drive.google.com/uc?export=view&id=1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
     "driveFileId": "1W-LLNywb7ATfKWqFJEZ9Dqo8t7CZMh6e",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-35-pm-zpygrd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-35-pm-zpygrd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-35-pm-zpygrd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-48-pm-rkltx1",
@@ -18730,10 +16903,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
     "image": "https://drive.google.com/uc?export=view&id=1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
     "driveFileId": "1xt1MQXiHa1j5B9Zb9hRQNEGt7qEVHk8I",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-48-pm-rkltx1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-48-pm-rkltx1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-48-pm-rkltx1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-50-pm-y2k9pe",
@@ -18761,10 +16931,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
     "image": "https://drive.google.com/uc?export=view&id=12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
     "driveFileId": "12df0My0IkpNGpl1kVYzspyza1TtVUOFo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-50-pm-y2k9pe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-50-pm-y2k9pe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-50-pm-y2k9pe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-01-pm-sdstqe",
@@ -18791,10 +16958,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
     "image": "https://drive.google.com/uc?export=view&id=1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
     "driveFileId": "1WawcBNmIPMHI0qqFLa7HnTLsGVo1Y1f3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-01-pm-sdstqe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-01-pm-sdstqe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-01-pm-sdstqe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-09-58-pm-iwai3y",
@@ -18822,10 +16986,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
     "image": "https://drive.google.com/uc?export=view&id=1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
     "driveFileId": "1rgC3oQ5NtyWlffY6KGr2Y2-8Gq5bWXQm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-58-pm-iwai3y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-58-pm-iwai3y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-09-58-pm-iwai3y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-04-pm-igtgwn",
@@ -18852,10 +17013,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
     "image": "https://drive.google.com/uc?export=view&id=1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
     "driveFileId": "1IoUZfLUyxYMQlTZ6rbD_N9Ze3MClVypd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-04-pm-igtgwn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-04-pm-igtgwn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-04-pm-igtgwn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-06-pm-vvnmzl",
@@ -18883,10 +17041,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xClrBMggdLsas5xphesE4_E27fvNVDHW",
     "image": "https://drive.google.com/uc?export=view&id=1xClrBMggdLsas5xphesE4_E27fvNVDHW",
     "driveFileId": "1xClrBMggdLsas5xphesE4_E27fvNVDHW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-06-pm-vvnmzl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-06-pm-vvnmzl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-06-pm-vvnmzl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-09-pm-cutdcd",
@@ -18914,10 +17069,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
     "image": "https://drive.google.com/uc?export=view&id=1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
     "driveFileId": "1Q7aoVBAfPGVyEMVHBydmiI5o5L6S3SN9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-09-pm-cutdcd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-09-pm-cutdcd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-09-pm-cutdcd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-12-pm-dnassp",
@@ -18944,10 +17096,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
     "image": "https://drive.google.com/uc?export=view&id=1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
     "driveFileId": "1xAtI-rL7RA9G3-Tpl9QVX8JcqeOdAtWZ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-12-pm-dnassp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-12-pm-dnassp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-12-pm-dnassp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-23-pm-fs8n4v",
@@ -18975,10 +17124,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
     "image": "https://drive.google.com/uc?export=view&id=1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
     "driveFileId": "1UahrWIKy1qGYgAP6aQ6Zoqm4kEOembrn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-23-pm-fs8n4v&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-23-pm-fs8n4v&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-23-pm-fs8n4v&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-17-pm-xeyrtx",
@@ -19006,10 +17152,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
     "image": "https://drive.google.com/uc?export=view&id=1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
     "driveFileId": "1FtytOFfPhw2OTz1YKqu_VweyXO-PAo88",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-17-pm-xeyrtx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-17-pm-xeyrtx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-17-pm-xeyrtx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-15-pm-kzqgu8",
@@ -19037,10 +17180,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
     "image": "https://drive.google.com/uc?export=view&id=16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
     "driveFileId": "16UX-_BQ2zPoP1U3pRzQBphk9VS_KQWra",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-15-pm-kzqgu8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-15-pm-kzqgu8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-15-pm-kzqgu8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-20-pm-oyfu0s",
@@ -19068,10 +17208,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
     "image": "https://drive.google.com/uc?export=view&id=1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
     "driveFileId": "1ceoO_rizKvP1GD9pVQh-OmmY_ni0ke0R",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-20-pm-oyfu0s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-20-pm-oyfu0s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-20-pm-oyfu0s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-30-pm-1-vkikdl",
@@ -19098,10 +17235,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
     "image": "https://drive.google.com/uc?export=view&id=1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
     "driveFileId": "1-qKv_wyOLv_5NgzrcINIRgnBcE5wtsvq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-30-pm-1-vkikdl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-30-pm-1-vkikdl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-30-pm-1-vkikdl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-30-pm-2-qnz2v8",
@@ -19128,10 +17262,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
     "image": "https://drive.google.com/uc?export=view&id=1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
     "driveFileId": "1ZiPcppdqhIXtggWfDiUemVrbl_Om_XmJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-30-pm-2-qnz2v8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-30-pm-2-qnz2v8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-30-pm-2-qnz2v8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-51-pm-sce1eu",
@@ -19159,10 +17290,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
     "image": "https://drive.google.com/uc?export=view&id=1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
     "driveFileId": "1V_xR1AvU1JlSjZ4f85NNb1FLCOqy5Mx6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-51-pm-sce1eu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-51-pm-sce1eu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-51-pm-sce1eu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-39-pm-qu9c8s",
@@ -19190,10 +17318,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
     "image": "https://drive.google.com/uc?export=view&id=1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
     "driveFileId": "1n9ZcvL4qkXwurPGhtMk1WJhI_Nyr_DQ9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-39-pm-qu9c8s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-39-pm-qu9c8s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-39-pm-qu9c8s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-47-pm-txojot",
@@ -19220,10 +17345,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
     "image": "https://drive.google.com/uc?export=view&id=1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
     "driveFileId": "1_ZDWA_ONcamBDhyxMkk9zZgwMoz7-Gp5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-47-pm-txojot&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-47-pm-txojot&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-47-pm-txojot&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-42-pm-h3ajn0",
@@ -19251,10 +17373,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
     "image": "https://drive.google.com/uc?export=view&id=1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
     "driveFileId": "1j1JSnDvnX5OmGWoEeanDuYy8os5txaXo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-42-pm-h3ajn0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-42-pm-h3ajn0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-42-pm-h3ajn0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-45-pm-ash1ff",
@@ -19282,10 +17401,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
     "image": "https://drive.google.com/uc?export=view&id=1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
     "driveFileId": "1ruNWIm4XB5pekVn-v9D2xjmHJnyiZCa1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-45-pm-ash1ff&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-45-pm-ash1ff&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-45-pm-ash1ff&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-54-pm-wztsa2",
@@ -19312,10 +17428,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
     "image": "https://drive.google.com/uc?export=view&id=14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
     "driveFileId": "14MJAP9Ts6KkOqMECL-wP0kyMPQ11i7fO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-54-pm-wztsa2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-54-pm-wztsa2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-54-pm-wztsa2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-10-58-pm-njlhcq",
@@ -19344,10 +17457,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
     "image": "https://drive.google.com/uc?export=view&id=1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
     "driveFileId": "1k9cO9p-7_TIod6dGN8W3vI84d5s1uCcI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-58-pm-njlhcq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-58-pm-njlhcq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-10-58-pm-njlhcq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-01-pm-c58qd0",
@@ -19375,10 +17485,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
     "image": "https://drive.google.com/uc?export=view&id=1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
     "driveFileId": "1lIT8ESkjvVJ1ZESjKsZnqYocjMa7rscp",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-01-pm-c58qd0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-01-pm-c58qd0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-01-pm-c58qd0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-06-pm-tazwq1",
@@ -19406,10 +17513,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
     "image": "https://drive.google.com/uc?export=view&id=1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
     "driveFileId": "1hfzD7UTYTfORNcC_N8OdEvzN5ZKtjABO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-06-pm-tazwq1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-06-pm-tazwq1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-06-pm-tazwq1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-04-pm-gjobei",
@@ -19437,10 +17541,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
     "image": "https://drive.google.com/uc?export=view&id=1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
     "driveFileId": "1wP3FP9CxFciHYVArAyFJE7NER1fU2VYd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-04-pm-gjobei&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-04-pm-gjobei&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-04-pm-gjobei&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-08-pm-ppdgkc",
@@ -19467,10 +17568,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
     "image": "https://drive.google.com/uc?export=view&id=1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
     "driveFileId": "1x4oyxZQ7wABOsvJ4cswtLHFlAItgb7QF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-08-pm-ppdgkc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-08-pm-ppdgkc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-08-pm-ppdgkc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-11-pm-mlokaf",
@@ -19498,10 +17596,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
     "image": "https://drive.google.com/uc?export=view&id=10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
     "driveFileId": "10JruW7vZHNUS6qKahMZdraZ7l3H2B_m_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-11-pm-mlokaf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-11-pm-mlokaf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-11-pm-mlokaf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-14-pm-d7imhw",
@@ -19529,10 +17624,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
     "image": "https://drive.google.com/uc?export=view&id=1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
     "driveFileId": "1ii7XUZDnwFtSGYzsiZEFA9hvzYGDV5Wy",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-14-pm-d7imhw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-14-pm-d7imhw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-14-pm-d7imhw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-16-pm-nkbzlo",
@@ -19559,10 +17651,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
     "image": "https://drive.google.com/uc?export=view&id=1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
     "driveFileId": "1BdnfttTSrCDXlSoeFlDOyctYo66n6-k4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-16-pm-nkbzlo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-16-pm-nkbzlo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-16-pm-nkbzlo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-20-pm-pdsh7l",
@@ -19589,10 +17678,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
     "image": "https://drive.google.com/uc?export=view&id=18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
     "driveFileId": "18wFA3xUjObzchVd_v4PrklQQN9XjbwNY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-20-pm-pdsh7l&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-20-pm-pdsh7l&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-20-pm-pdsh7l&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-24-pm-lz4ymb",
@@ -19619,10 +17705,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
     "image": "https://drive.google.com/uc?export=view&id=1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
     "driveFileId": "1YKyZMx6ezUy8nKxlkXXToiNnVGWdkkLl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-24-pm-lz4ymb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-24-pm-lz4ymb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-24-pm-lz4ymb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-26-pm-swyu4n",
@@ -19650,10 +17733,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
     "image": "https://drive.google.com/uc?export=view&id=17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
     "driveFileId": "17ZQkW1KDNVwk6KNaOCR7GDrzdPmzn7R8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-26-pm-swyu4n&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-26-pm-swyu4n&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-26-pm-swyu4n&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-29-pm-us56pk",
@@ -19682,10 +17762,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
     "image": "https://drive.google.com/uc?export=view&id=1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
     "driveFileId": "1hSArnd1A3XdGsnf--xbAs_B9oN5EEEdY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-29-pm-us56pk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-29-pm-us56pk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-29-pm-us56pk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-35-pm-btolhg",
@@ -19713,10 +17790,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
     "image": "https://drive.google.com/uc?export=view&id=1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
     "driveFileId": "1hTb5QnFTw0zQhV3xCObvIr-Sl9q7BZZQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-35-pm-btolhg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-35-pm-btolhg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-35-pm-btolhg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-32-pm-dssa2m",
@@ -19744,10 +17818,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
     "image": "https://drive.google.com/uc?export=view&id=1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
     "driveFileId": "1SYNGPRB17rAuHKDdQ6-50YGwAhzXNNYR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-32-pm-dssa2m&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-32-pm-dssa2m&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-32-pm-dssa2m&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-38-pm-kqenuc",
@@ -19774,10 +17845,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
     "image": "https://drive.google.com/uc?export=view&id=17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
     "driveFileId": "17hpsARfWYdrxVtOf0148DUltHfvyc1qE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-38-pm-kqenuc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-38-pm-kqenuc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-38-pm-kqenuc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-43-pm-ab7aoo",
@@ -19805,10 +17873,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
     "image": "https://drive.google.com/uc?export=view&id=1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
     "driveFileId": "1-nDYtg1xWNUCvLlPOzq0jrEYbeE5M0uE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-43-pm-ab7aoo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-43-pm-ab7aoo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-43-pm-ab7aoo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-40-pm-tpiw2d",
@@ -19836,10 +17901,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
     "image": "https://drive.google.com/uc?export=view&id=1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
     "driveFileId": "1gJGML0MBvwCdEBRafevXtgx_BzLyiqu2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-40-pm-tpiw2d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-40-pm-tpiw2d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-40-pm-tpiw2d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-45-pm-mrhjci",
@@ -19866,10 +17928,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
     "image": "https://drive.google.com/uc?export=view&id=1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
     "driveFileId": "1qnz9Qt_pw_15UveVP7R10ys7utuqupqZ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-45-pm-mrhjci&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-45-pm-mrhjci&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-45-pm-mrhjci&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-48-pm-tnbpbl",
@@ -19897,10 +17956,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
     "image": "https://drive.google.com/uc?export=view&id=17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
     "driveFileId": "17jCWt-xz3NPfq0LH1EUgC-I1CCxPpFJp",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-48-pm-tnbpbl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-48-pm-tnbpbl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-48-pm-tnbpbl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-52-pm-drpqnu",
@@ -19929,10 +17985,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
     "image": "https://drive.google.com/uc?export=view&id=1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
     "driveFileId": "1ZOB8dIIfucfZpDDs_f5ihherFYZeasjz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-52-pm-drpqnu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-52-pm-drpqnu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-52-pm-drpqnu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-11-59-pm-dc58qe",
@@ -19959,10 +18012,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
     "image": "https://drive.google.com/uc?export=view&id=1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
     "driveFileId": "1wES4HzNuYWUcFUBsV4dxvaqDVdnsUlO5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-59-pm-dc58qe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-59-pm-dc58qe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-11-59-pm-dc58qe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-06-pm-1-cn6wv5",
@@ -19989,10 +18039,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
     "image": "https://drive.google.com/uc?export=view&id=1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
     "driveFileId": "1vhqkAEu5F-Z8uY5gOK19mpeuXmSpJqmK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-06-pm-1-cn6wv5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-06-pm-1-cn6wv5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-06-pm-1-cn6wv5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-08-pm-2-asymyk",
@@ -20019,10 +18066,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
     "image": "https://drive.google.com/uc?export=view&id=1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
     "driveFileId": "1Tn3VELkix_1hLcHOYw-RjS1sY00iy6eW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-08-pm-2-asymyk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-08-pm-2-asymyk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-08-pm-2-asymyk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-10-pm-igoghp",
@@ -20050,10 +18094,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
     "image": "https://drive.google.com/uc?export=view&id=1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
     "driveFileId": "1g82vkI857ZBdloXd1YLNl-gNoH43rDvi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-10-pm-igoghp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-10-pm-igoghp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-10-pm-igoghp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-13-pm-wccfes",
@@ -20082,10 +18123,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
     "image": "https://drive.google.com/uc?export=view&id=16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
     "driveFileId": "16slB7YCFs3aAWaSYWri3prM8Ph7A4vWI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-13-pm-wccfes&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-13-pm-wccfes&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-13-pm-wccfes&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-16-pm-har2l0",
@@ -20112,10 +18150,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
     "image": "https://drive.google.com/uc?export=view&id=1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
     "driveFileId": "1OE086ny5dMEV9qohftp5fxQmkGb0qdh0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-16-pm-har2l0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-16-pm-har2l0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-16-pm-har2l0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-19-pm-rpq6eu",
@@ -20142,10 +18177,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
     "image": "https://drive.google.com/uc?export=view&id=1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
     "driveFileId": "1I-6Duwm5j1U6Eto3MNeZxxQ1Qm6okRIy",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-19-pm-rpq6eu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-19-pm-rpq6eu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-19-pm-rpq6eu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-24-pm-1-hy8sy6",
@@ -20173,10 +18205,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
     "image": "https://drive.google.com/uc?export=view&id=1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
     "driveFileId": "1ija-P58gO4gW7c1pqrikzlfeLO7jhtBP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-24-pm-1-hy8sy6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-24-pm-1-hy8sy6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-24-pm-1-hy8sy6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-25-pm-2-fkhix0",
@@ -20204,10 +18233,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
     "image": "https://drive.google.com/uc?export=view&id=1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
     "driveFileId": "1up2vu5lbgkAxUukxLC1h4lLRsdU7OFwE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-25-pm-2-fkhix0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-25-pm-2-fkhix0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-25-pm-2-fkhix0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-27-pm-osiqss",
@@ -20234,10 +18260,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
     "image": "https://drive.google.com/uc?export=view&id=1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
     "driveFileId": "1spWADEYUWsY7XqawM6UR1nvtoWYLYS5B",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-27-pm-osiqss&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-27-pm-osiqss&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-27-pm-osiqss&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-32-pm-jqentc",
@@ -20265,10 +18288,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18-n5wD2x0mnTywdRblP7ql0B769T2i94",
     "image": "https://drive.google.com/uc?export=view&id=18-n5wD2x0mnTywdRblP7ql0B769T2i94",
     "driveFileId": "18-n5wD2x0mnTywdRblP7ql0B769T2i94",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-32-pm-jqentc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-32-pm-jqentc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-32-pm-jqentc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-35-pm-o69fju",
@@ -20295,10 +18315,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
     "image": "https://drive.google.com/uc?export=view&id=1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
     "driveFileId": "1mmDNPVI_3jnQm7BpvAc3SZc4lLqo0awo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-35-pm-o69fju&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-35-pm-o69fju&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-35-pm-o69fju&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-38-pm-luravr",
@@ -20326,10 +18343,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
     "image": "https://drive.google.com/uc?export=view&id=181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
     "driveFileId": "181sXmPMhvxxivQgz1p4cRxGH9RCHXe5H",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-38-pm-luravr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-38-pm-luravr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-38-pm-luravr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-42-pm-wftwf4",
@@ -20357,10 +18371,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
     "image": "https://drive.google.com/uc?export=view&id=1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
     "driveFileId": "1jhwAgj805rayYHihq0XoryZwdgzkVbA_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-42-pm-wftwf4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-42-pm-wftwf4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-42-pm-wftwf4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-56-pm-ondue2",
@@ -20387,10 +18398,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
     "image": "https://drive.google.com/uc?export=view&id=1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
     "driveFileId": "1BaGtxjKp8rZuRBG05532lpeCUC-kpS_D",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-56-pm-ondue2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-56-pm-ondue2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-56-pm-ondue2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-51-pm-uu3ize",
@@ -20417,10 +18425,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
     "image": "https://drive.google.com/uc?export=view&id=12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
     "driveFileId": "12Kzdj4Ffg3bqRLsdt5rgGqd_RvDWS8O6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-51-pm-uu3ize&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-51-pm-uu3ize&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-51-pm-uu3ize&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-59-pm-pq8sml",
@@ -20448,10 +18453,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
     "image": "https://drive.google.com/uc?export=view&id=1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
     "driveFileId": "1XUMnqRVcFlpXfSoPQ0zw9XonETnBFYIW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-59-pm-pq8sml&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-59-pm-pq8sml&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-59-pm-pq8sml&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-45-pm-mmj8xj",
@@ -20479,10 +18481,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
     "image": "https://drive.google.com/uc?export=view&id=17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
     "driveFileId": "17kfhIIig8UVd8GiCMNGPJf_Uyv_PoPfK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-45-pm-mmj8xj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-45-pm-mmj8xj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-45-pm-mmj8xj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-02-pm-gcxscn",
@@ -20509,10 +18508,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
     "image": "https://drive.google.com/uc?export=view&id=1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
     "driveFileId": "1kNQ-GwfE1r2HJIgwnzvNnPQVJQeCN9OH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-02-pm-gcxscn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-02-pm-gcxscn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-02-pm-gcxscn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-03-pm-n0j3t7",
@@ -20540,10 +18536,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
     "image": "https://drive.google.com/uc?export=view&id=1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
     "driveFileId": "1qmnxSfbfDJI9WGm7mThRMyfgylljglFF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-03-pm-n0j3t7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-03-pm-n0j3t7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-03-pm-n0j3t7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-06-pm-ktgjs5",
@@ -20570,10 +18563,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
     "image": "https://drive.google.com/uc?export=view&id=1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
     "driveFileId": "1ueaQEWUPR-NY5DkJv1BLU_0sRGtWxZrt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-06-pm-ktgjs5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-06-pm-ktgjs5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-06-pm-ktgjs5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-17-pm-gnl6tm",
@@ -20600,10 +18590,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
     "image": "https://drive.google.com/uc?export=view&id=1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
     "driveFileId": "1W1fU6GYcdmV7esNe8QvxMKCCdlfzQPWS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-17-pm-gnl6tm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-17-pm-gnl6tm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-17-pm-gnl6tm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-14-pm-kjs4mj",
@@ -20630,10 +18617,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
     "image": "https://drive.google.com/uc?export=view&id=1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
     "driveFileId": "1mic72DWw00tFjtumDusLbQrA0wSgqBUw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-14-pm-kjs4mj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-14-pm-kjs4mj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-14-pm-kjs4mj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-49-pm-owemcn",
@@ -20661,10 +18645,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
     "image": "https://drive.google.com/uc?export=view&id=1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
     "driveFileId": "1IT19xjSe63ohODpfbFak_IX7YFKoaQ7X",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-49-pm-owemcn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-49-pm-owemcn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-49-pm-owemcn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-19-pm-li4rxu",
@@ -20692,10 +18673,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
     "image": "https://drive.google.com/uc?export=view&id=1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
     "driveFileId": "1A71-JhZG4y-45KBQV5NhToeLPk3w0cKt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-19-pm-li4rxu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-19-pm-li4rxu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-19-pm-li4rxu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-22-pm-mtmrey",
@@ -20722,10 +18700,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
     "image": "https://drive.google.com/uc?export=view&id=1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
     "driveFileId": "1m-vEPfQLj1aDViY2irJY81R-Gi7aaqnc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-22-pm-mtmrey&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-22-pm-mtmrey&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-22-pm-mtmrey&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-12-54-pm-fptglc",
@@ -20752,10 +18727,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
     "image": "https://drive.google.com/uc?export=view&id=17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
     "driveFileId": "17rGXyEdrb0WX8Vuiz0sKzkXEWkaEYGvw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-54-pm-fptglc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-54-pm-fptglc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-12-54-pm-fptglc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-08-pm-ew5gzz",
@@ -20784,10 +18756,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
     "image": "https://drive.google.com/uc?export=view&id=1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
     "driveFileId": "1QeTZ4RgAO9JI5R8_NvPp467gJTAD_5-6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-08-pm-ew5gzz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-08-pm-ew5gzz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-08-pm-ew5gzz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-27-pm-penhda",
@@ -20815,10 +18784,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
     "image": "https://drive.google.com/uc?export=view&id=1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
     "driveFileId": "1YNkYNKiB9NjRKRwJKdMl_Qy3EoHO2Fhq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-27-pm-penhda&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-27-pm-penhda&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-27-pm-penhda&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-30-pm-jkwfnj",
@@ -20846,10 +18812,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
     "image": "https://drive.google.com/uc?export=view&id=1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
     "driveFileId": "1jpn4xoK8plsILYvsXKY-46L61GNI8OBa",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-30-pm-jkwfnj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-30-pm-jkwfnj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-30-pm-jkwfnj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-25-pm-oy7htw",
@@ -20877,10 +18840,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
     "image": "https://drive.google.com/uc?export=view&id=16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
     "driveFileId": "16JbPlKSRRWx6bM_5dKfN1fEHTZluX1Sr",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-25-pm-oy7htw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-25-pm-oy7htw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-25-pm-oy7htw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-14-06-pm-ukfeuk",
@@ -20908,10 +18868,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
     "image": "https://drive.google.com/uc?export=view&id=1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
     "driveFileId": "1m_d6_gHZq-57Zs1bCMVJXLV6JtLSQYnA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-06-pm-ukfeuk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-06-pm-ukfeuk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-06-pm-ukfeuk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-11-pm-wsa5bu",
@@ -20939,10 +18896,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
     "image": "https://drive.google.com/uc?export=view&id=1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
     "driveFileId": "1jEeLAzlwgCPXY7lOBWPGMfn7HTwD9Kf8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-11-pm-wsa5bu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-11-pm-wsa5bu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-11-pm-wsa5bu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-14-12-pm-ozeuzt",
@@ -20971,10 +18925,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
     "image": "https://drive.google.com/uc?export=view&id=1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
     "driveFileId": "1sb2beJWFFNv3DIXh3KlhNc2XoUuEB87l",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-12-pm-ozeuzt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-12-pm-ozeuzt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-12-pm-ozeuzt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-14-15-pm-h9cyzm",
@@ -21002,10 +18953,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
     "image": "https://drive.google.com/uc?export=view&id=1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
     "driveFileId": "1NGKrjDeLQUechyT2DAwP3qFkWgV0I9YH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-15-pm-h9cyzm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-15-pm-h9cyzm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-15-pm-h9cyzm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-19-10-pm-cso4a1",
@@ -21031,10 +18979,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
     "image": "https://drive.google.com/uc?export=view&id=18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
     "driveFileId": "18HkT0UM0mnIP100yMFYNwMAk8VVcb03L",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-10-pm-cso4a1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-10-pm-cso4a1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-10-pm-cso4a1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-19-17-pm-nsjs9t",
@@ -21062,10 +19007,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
     "image": "https://drive.google.com/uc?export=view&id=1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
     "driveFileId": "1bOvPMCxoL_j3b_u53_yLnWGrkB6zD65F",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-17-pm-nsjs9t&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-17-pm-nsjs9t&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-17-pm-nsjs9t&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-14-04-pm-aw7xcv",
@@ -21093,10 +19035,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
     "image": "https://drive.google.com/uc?export=view&id=17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
     "driveFileId": "17uyWqUyjkzxkvYwDSPu-F-NRnMPDn76r",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-04-pm-aw7xcv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-04-pm-aw7xcv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-14-04-pm-aw7xcv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-19-33-pm-kzrue8",
@@ -21123,10 +19062,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
     "image": "https://drive.google.com/uc?export=view&id=1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
     "driveFileId": "1zz6wsa1HjbvKc9c-PnIiP9CbecMxm32s",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-33-pm-kzrue8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-33-pm-kzrue8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-19-33-pm-kzrue8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-20-46-pm-s48v6u",
@@ -21155,10 +19091,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
     "image": "https://drive.google.com/uc?export=view&id=1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
     "driveFileId": "1A8GOIaUP_3uOqRjLhWkrZ5RNMhRT-JDX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-20-46-pm-s48v6u&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-20-46-pm-s48v6u&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-20-46-pm-s48v6u&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-22-25-pm-r5lbfs",
@@ -21185,10 +19118,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
     "image": "https://drive.google.com/uc?export=view&id=1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
     "driveFileId": "1qGKAdd7VRMGeu0Oo2JFU8mY7_RxTy9jx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-22-25-pm-r5lbfs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-22-25-pm-r5lbfs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-22-25-pm-r5lbfs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-35-pm-cpez6j",
@@ -21216,10 +19146,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
     "image": "https://drive.google.com/uc?export=view&id=1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
     "driveFileId": "1GDom7Ih_LnC_hZKcEgx67oHmfbCTsLHM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-35-pm-cpez6j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-35-pm-cpez6j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-35-pm-cpez6j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-4-2026-06-13-32-pm-wuvpyv",
@@ -21247,10 +19174,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
     "image": "https://drive.google.com/uc?export=view&id=1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
     "driveFileId": "1pAsiBGtTYPlwv29HMGmz4cJUkt-nXGZT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-32-pm-wuvpyv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-32-pm-wuvpyv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-4-2026-06-13-32-pm-wuvpyv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-23-10-pm-pq4vqx",
@@ -21279,10 +19203,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
     "image": "https://drive.google.com/uc?export=view&id=19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
     "driveFileId": "19YaIMCJRlz5YVxkNdlQosC1r2gdWGlrF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-10-pm-pq4vqx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-10-pm-pq4vqx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-10-pm-pq4vqx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-22-pm-2-vzisdd",
@@ -21311,10 +19232,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
     "image": "https://drive.google.com/uc?export=view&id=1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
     "driveFileId": "1XLDXpc6qpUSlUka33OYG97cDXsfqMT63",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-22-pm-2-vzisdd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-22-pm-2-vzisdd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-22-pm-2-vzisdd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-23-12-pm-shyvtk",
@@ -21342,10 +19260,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
     "image": "https://drive.google.com/uc?export=view&id=1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
     "driveFileId": "1_cR-jI51K2EP50xf8DNR1n8LwUGC5tRC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-12-pm-shyvtk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-12-pm-shyvtk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-12-pm-shyvtk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-23-17-pm-b9fjum",
@@ -21374,10 +19289,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
     "image": "https://drive.google.com/uc?export=view&id=1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
     "driveFileId": "1KhDmVSSncxgem9I3gOdDXdtl_f7ZBVqz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-17-pm-b9fjum&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-17-pm-b9fjum&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-17-pm-b9fjum&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-23-05-pm-vstdl1",
@@ -21405,10 +19317,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
     "image": "https://drive.google.com/uc?export=view&id=1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
     "driveFileId": "1J0irzIBSWcWsHf226FfCWeI8IHn1iYUz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-05-pm-vstdl1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-05-pm-vstdl1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-05-pm-vstdl1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-21-pm-au3ary",
@@ -21436,10 +19345,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
     "image": "https://drive.google.com/uc?export=view&id=14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
     "driveFileId": "14BsY3kPA4U6ZFoXsfO-AbwWxY1xoRXev",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-21-pm-au3ary&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-21-pm-au3ary&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-21-pm-au3ary&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-42-pm-ja99zy",
@@ -21468,10 +19374,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
     "image": "https://drive.google.com/uc?export=view&id=12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
     "driveFileId": "12oCIijK9UIWBgK6fZwgT7BX6tZ5SOpyD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-42-pm-ja99zy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-42-pm-ja99zy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-42-pm-ja99zy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-23-07-pm-fjhj7m",
@@ -21499,10 +19402,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
     "image": "https://drive.google.com/uc?export=view&id=1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
     "driveFileId": "1ku4xiWl-YlvUKz9LrpNUMJTaGNYOHcBf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-07-pm-fjhj7m&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-07-pm-fjhj7m&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-23-07-pm-fjhj7m&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-18-pm-v2e9mw",
@@ -21530,10 +19430,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
     "image": "https://drive.google.com/uc?export=view&id=1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
     "driveFileId": "1fWq8aOA_OVDHgKezqRofwuHCCfFZJ0OF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-18-pm-v2e9mw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-18-pm-v2e9mw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-18-pm-v2e9mw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-15-pm-1-rnwdqq",
@@ -21561,10 +19458,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
     "image": "https://drive.google.com/uc?export=view&id=1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
     "driveFileId": "1zvhEsrqkaLEEykyYwaUudjJ97VxuKJl4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-15-pm-1-rnwdqq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-15-pm-1-rnwdqq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-15-pm-1-rnwdqq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-08-pm-o3sao6",
@@ -21593,10 +19487,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
     "image": "https://drive.google.com/uc?export=view&id=1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
     "driveFileId": "1w4qORIxn-MaGgSvhCdgRdmQylA6zEvBo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-08-pm-o3sao6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-08-pm-o3sao6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-08-pm-o3sao6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-05-pm-wh7n4h",
@@ -21624,10 +19515,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
     "image": "https://drive.google.com/uc?export=view&id=1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
     "driveFileId": "1NpDjyoA5vuQZ5Q8P4CdSdZYQfv9RMZuS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-05-pm-wh7n4h&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-05-pm-wh7n4h&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-05-pm-wh7n4h&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-22-01-pm-fpa6w9",
@@ -21655,10 +19543,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
     "image": "https://drive.google.com/uc?export=view&id=1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
     "driveFileId": "1-5b1AyQKWAn7h_b8CnuHHJTuPUaotf5O",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-01-pm-fpa6w9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-01-pm-fpa6w9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-22-01-pm-fpa6w9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-51-pm-diebus",
@@ -21687,10 +19572,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
     "image": "https://drive.google.com/uc?export=view&id=16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
     "driveFileId": "16uIZTF-1tE5qLcomKLVwmjzMKSZHSTpM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-51-pm-diebus&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-51-pm-diebus&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-51-pm-diebus&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-54-pm-f6lsqz",
@@ -21718,10 +19600,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
     "image": "https://drive.google.com/uc?export=view&id=1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
     "driveFileId": "1yl39K7y37RcKx0JdYhoP0n6AotXAxAx9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-54-pm-f6lsqz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-54-pm-f6lsqz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-54-pm-f6lsqz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-58-pm-e4c4zx",
@@ -21749,10 +19628,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
     "image": "https://drive.google.com/uc?export=view&id=1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
     "driveFileId": "1fVq1UNpN5Rv94ETTWDhXRVBV8hgBP6HI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-58-pm-e4c4zx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-58-pm-e4c4zx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-58-pm-e4c4zx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-36-pm-uhnddy",
@@ -21780,10 +19656,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
     "image": "https://drive.google.com/uc?export=view&id=1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
     "driveFileId": "1Q4rQXaN2RYLXvC0GFiObI-jiIxveJTDL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-36-pm-uhnddy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-36-pm-uhnddy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-36-pm-uhnddy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-47-pm-qdvn2d",
@@ -21811,10 +19684,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
     "image": "https://drive.google.com/uc?export=view&id=1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
     "driveFileId": "1C27u_CGFNgsCzX5hRKcMNQ4ChFPhpOT_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-47-pm-qdvn2d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-47-pm-qdvn2d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-47-pm-qdvn2d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-31-pm-rwvsdc",
@@ -21842,10 +19712,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
     "image": "https://drive.google.com/uc?export=view&id=1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
     "driveFileId": "1q-_GvmG1vh15yL6zcqQSaKApAgUgaax8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-31-pm-rwvsdc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-31-pm-rwvsdc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-31-pm-rwvsdc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-33-pm-xayb2y",
@@ -21874,10 +19741,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NausepajyCLmMB59fIgg63OGpickQXjg",
     "image": "https://drive.google.com/uc?export=view&id=1NausepajyCLmMB59fIgg63OGpickQXjg",
     "driveFileId": "1NausepajyCLmMB59fIgg63OGpickQXjg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-33-pm-xayb2y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-33-pm-xayb2y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-33-pm-xayb2y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-26-pm-fitenl",
@@ -21905,10 +19769,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
     "image": "https://drive.google.com/uc?export=view&id=1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
     "driveFileId": "1-jZy3odRW7YMx6iy_vKDGmuvmkJohL_V",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-26-pm-fitenl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-26-pm-fitenl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-26-pm-fitenl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-28-pm-ypoy4g",
@@ -21936,10 +19797,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
     "image": "https://drive.google.com/uc?export=view&id=1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
     "driveFileId": "1-5kIx4KAxLdvtSzKFj-BWly4wFcjxy39",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-28-pm-ypoy4g&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-28-pm-ypoy4g&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-28-pm-ypoy4g&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-21-pm-gueqiz",
@@ -21967,10 +19825,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
     "image": "https://drive.google.com/uc?export=view&id=1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
     "driveFileId": "1E8WjIbHHSwPyx1_ITxesyfPb_NP5cAMu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-21-pm-gueqiz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-21-pm-gueqiz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-21-pm-gueqiz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-23-pm-wb6h1b",
@@ -21998,10 +19853,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
     "image": "https://drive.google.com/uc?export=view&id=1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
     "driveFileId": "1IGOH1zOaeunuztzt8wQsqDQssRkc8BUD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-23-pm-wb6h1b&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-23-pm-wb6h1b&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-23-pm-wb6h1b&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-06-pm-b0sps9",
@@ -22029,10 +19881,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
     "image": "https://drive.google.com/uc?export=view&id=1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
     "driveFileId": "1gPSobDOnbAjLyl2fe-NCe6s8A--Z_UDw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-06-pm-b0sps9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-06-pm-b0sps9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-06-pm-b0sps9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-12-pm-mqxviv",
@@ -22060,10 +19909,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
     "image": "https://drive.google.com/uc?export=view&id=1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
     "driveFileId": "1mCXjaIgCmYT_16ALzQ0mWmRtQ9Fb2WtQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-12-pm-mqxviv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-12-pm-mqxviv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-12-pm-mqxviv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-18-pm-nlc1s7",
@@ -22091,10 +19937,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
     "image": "https://drive.google.com/uc?export=view&id=1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
     "driveFileId": "1tJI_sh5dufM5ohvs9B9TjWWlquQiDYpw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-18-pm-nlc1s7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-18-pm-nlc1s7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-18-pm-nlc1s7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-09-pm-t8rzuo",
@@ -22122,10 +19965,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
     "image": "https://drive.google.com/uc?export=view&id=12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
     "driveFileId": "12j8f11XYAR4FBtyZJwtEXFQmOqz2cWaN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-09-pm-t8rzuo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-09-pm-t8rzuo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-09-pm-t8rzuo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-17-21-pm-1-sykkdc",
@@ -22153,10 +19993,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
     "image": "https://drive.google.com/uc?export=view&id=17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
     "driveFileId": "17ZRnwtWebG0_49goiGpAW5cc6a7et3kF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-21-pm-1-sykkdc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-21-pm-1-sykkdc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-21-pm-1-sykkdc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-17-09-pm-nbwwxd",
@@ -22184,10 +20021,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
     "image": "https://drive.google.com/uc?export=view&id=14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
     "driveFileId": "14F4PjI1JPrxxgGCwueduZEr2Zq0jfgPy",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-09-pm-nbwwxd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-09-pm-nbwwxd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-09-pm-nbwwxd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-15-pm-ddfgdl",
@@ -22215,10 +20049,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
     "image": "https://drive.google.com/uc?export=view&id=1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
     "driveFileId": "1Ol5Uu4ovXDR1Zm-7RKUKBAp8gbnhBQcc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-15-pm-ddfgdl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-15-pm-ddfgdl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-15-pm-ddfgdl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-17-06-pm-jkcjzs",
@@ -22246,10 +20077,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
     "image": "https://drive.google.com/uc?export=view&id=1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
     "driveFileId": "1IpT68Ut0EsejJiJA4MquQmbcGO9J_-nw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-06-pm-jkcjzs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-06-pm-jkcjzs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-06-pm-jkcjzs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-16-56-pm-ys1ydp",
@@ -22277,10 +20105,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
     "image": "https://drive.google.com/uc?export=view&id=1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
     "driveFileId": "1BzjOUKSOxmqFOZk3qVitP9TSDExZQl4g",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-56-pm-ys1ydp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-56-pm-ys1ydp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-56-pm-ys1ydp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-16-59-pm-eckeyr",
@@ -22309,10 +20134,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
     "image": "https://drive.google.com/uc?export=view&id=1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
     "driveFileId": "1gszpHFD7_K7nxF0-A0C7ym3EcWBiVEHs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-59-pm-eckeyr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-59-pm-eckeyr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-59-pm-eckeyr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-16-53-pm-mcxzsk",
@@ -22340,10 +20162,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
     "image": "https://drive.google.com/uc?export=view&id=1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
     "driveFileId": "1zinveRED1TjuJqb5lDh526Xs6XC-25dg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-53-pm-mcxzsk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-53-pm-mcxzsk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-53-pm-mcxzsk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-16-35-pm-u5qenl",
@@ -22370,10 +20189,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
     "image": "https://drive.google.com/uc?export=view&id=1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
     "driveFileId": "1G8h81a6xCdYwM2X8rTY9ONbR2BUyodpV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-35-pm-u5qenl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-35-pm-u5qenl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-35-pm-u5qenl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-15-50-pm-v6xzfl",
@@ -22401,10 +20217,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
     "image": "https://drive.google.com/uc?export=view&id=1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
     "driveFileId": "1z2cZqJQpBi7puiXhBVDAs4nS_f0_Cnzl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-50-pm-v6xzfl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-50-pm-v6xzfl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-50-pm-v6xzfl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-16-48-pm-xrx1yx",
@@ -22432,10 +20245,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
     "image": "https://drive.google.com/uc?export=view&id=1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
     "driveFileId": "1FeBAlLdz9NNd19S6GVOtK_-pEtj5Ce7k",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-48-pm-xrx1yx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-48-pm-xrx1yx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-16-48-pm-xrx1yx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-04-pm-r46esg",
@@ -22462,10 +20272,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
     "image": "https://drive.google.com/uc?export=view&id=1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
     "driveFileId": "1Txwt7yOdv9eTLaXdQtd0a5j3MeFxzy8P",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-04-pm-r46esg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-04-pm-r46esg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-04-pm-r46esg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-17-27-pm-lfwpqh",
@@ -22493,10 +20300,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
     "image": "https://drive.google.com/uc?export=view&id=14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
     "driveFileId": "14KlMNpgmmioh7PhGjJy2N5u4bC2bEpU6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-27-pm-lfwpqh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-27-pm-lfwpqh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-27-pm-lfwpqh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-21-01-pm-tcyutf",
@@ -22524,10 +20328,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
     "image": "https://drive.google.com/uc?export=view&id=1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
     "driveFileId": "1B_lVmZq9oKz85ASYq13DAfH3dvet96Z-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-01-pm-tcyutf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-01-pm-tcyutf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-21-01-pm-tcyutf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-17-03-pm-bhsvzw",
@@ -22555,10 +20356,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
     "image": "https://drive.google.com/uc?export=view&id=1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
     "driveFileId": "1eTCqV3xJ7DBrwsJF4NKqKaB69GLJh8Pc",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-03-pm-bhsvzw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-03-pm-bhsvzw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-03-pm-bhsvzw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-15-16-pm-mbie2d",
@@ -22586,10 +20384,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
     "image": "https://drive.google.com/uc?export=view&id=1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
     "driveFileId": "1P-GOZZ6JaabIHbrf0wl_LZRkHmjJpEZl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-16-pm-mbie2d&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-16-pm-mbie2d&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-16-pm-mbie2d&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-15-43-pm-thnocc",
@@ -22617,10 +20412,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
     "image": "https://drive.google.com/uc?export=view&id=1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
     "driveFileId": "1XZfY939-WLkqQkXJfovZKvb_qibAIqCE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-43-pm-thnocc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-43-pm-thnocc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-43-pm-thnocc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-15-46-pm-syj8pg",
@@ -22648,10 +20440,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
     "image": "https://drive.google.com/uc?export=view&id=10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
     "driveFileId": "10EgjhEPv5IIUJLkb06cn0u8wIEItNowD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-46-pm-syj8pg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-46-pm-syj8pg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-46-pm-syj8pg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-17-25-pm-2-ejpvtl",
@@ -22678,10 +20467,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
     "image": "https://drive.google.com/uc?export=view&id=1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
     "driveFileId": "1HfUgPoIlfhsrkRRLEVkw36zZkK7URMZG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-25-pm-2-ejpvtl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-25-pm-2-ejpvtl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-17-25-pm-2-ejpvtl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-5-2026-07-15-40-pm-ibzwqk",
@@ -22709,10 +20495,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
     "image": "https://drive.google.com/uc?export=view&id=1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
     "driveFileId": "1a916wwpvoEv5kUWXbJUmXQ3mPqSYtfiB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-40-pm-ibzwqk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-40-pm-ibzwqk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-5-2026-07-15-40-pm-ibzwqk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-46-34-pm-wx1gek",
@@ -22742,10 +20525,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
     "image": "https://drive.google.com/uc?export=view&id=1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
     "driveFileId": "1-o3klAFTrXtSrV_cZ94kv4IZBKMAbTfD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-46-34-pm-wx1gek&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-46-34-pm-wx1gek&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-46-34-pm-wx1gek&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-39-55-pm-ujmjne",
@@ -22774,10 +20554,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
     "image": "https://drive.google.com/uc?export=view&id=16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
     "driveFileId": "16HNaphEZPNbrUUV0T71GUIrPb4xP9P8E",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-39-55-pm-ujmjne&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-39-55-pm-ujmjne&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-39-55-pm-ujmjne&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-39-pm-betyej",
@@ -22807,10 +20584,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
     "image": "https://drive.google.com/uc?export=view&id=1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
     "driveFileId": "1w7DJB3g8IHPWhXNvgnVd-ROsiqLc18WD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-39-pm-betyej&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-39-pm-betyej&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-39-pm-betyej&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-39-47-pm-ipfpbs",
@@ -22840,10 +20614,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
     "image": "https://drive.google.com/uc?export=view&id=1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
     "driveFileId": "1VOi81t5GP5u1sNHDwEsH0E5l0sbAhq3u",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-39-47-pm-ipfpbs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-39-47-pm-ipfpbs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-39-47-pm-ipfpbs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-40-01-pm-i08scn",
@@ -22873,10 +20644,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
     "image": "https://drive.google.com/uc?export=view&id=1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
     "driveFileId": "1J1PYzHNnVFIq77VwcuSI987fbPsZkodv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-01-pm-i08scn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-01-pm-i08scn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-01-pm-i08scn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-40-13-pm-iyqsok",
@@ -22906,10 +20674,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
     "image": "https://drive.google.com/uc?export=view&id=1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
     "driveFileId": "1RKH_bKCPjFM5R0KoIUbJE4N9AvRLwHCH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-13-pm-iyqsok&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-13-pm-iyqsok&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-13-pm-iyqsok&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-40-04-pm-yahui5",
@@ -22938,10 +20703,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
     "image": "https://drive.google.com/uc?export=view&id=1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
     "driveFileId": "1xbt3cJ0URXl8Nk5J93AHon6pcgEHCOrk",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-04-pm-yahui5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-04-pm-yahui5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-04-pm-yahui5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-40-06-pm-g24096",
@@ -22970,10 +20732,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
     "image": "https://drive.google.com/uc?export=view&id=1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
     "driveFileId": "1wYPTJZUZEJMU6fLsnPI8ivQ0oASxnhp4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-06-pm-g24096&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-06-pm-g24096&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-06-pm-g24096&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-40-11-pm-szrzah",
@@ -23003,10 +20762,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
     "image": "https://drive.google.com/uc?export=view&id=1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
     "driveFileId": "1xU0Qx2Zf7CLbMsUC5BikRMIzfwbyjstC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-11-pm-szrzah&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-11-pm-szrzah&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-11-pm-szrzah&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-41-10-pm-omcqm2",
@@ -23036,10 +20792,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
     "image": "https://drive.google.com/uc?export=view&id=1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
     "driveFileId": "1Ed1Jmpf_xDRNpf3_lUW_3ToRZIcaN60Y",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-10-pm-omcqm2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-10-pm-omcqm2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-10-pm-omcqm2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-41-15-pm-qzqyvh",
@@ -23068,10 +20821,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
     "image": "https://drive.google.com/uc?export=view&id=1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
     "driveFileId": "1si8a-5cbubWznH1JjP-3DyVlHljtHBNC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-15-pm-qzqyvh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-15-pm-qzqyvh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-15-pm-qzqyvh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-40-15-pm-dz25vb",
@@ -23101,10 +20851,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
     "image": "https://drive.google.com/uc?export=view&id=10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
     "driveFileId": "10dFYsaPzzFIYasNRPNouMEhy0MH4rHr9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-15-pm-dz25vb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-15-pm-dz25vb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-40-15-pm-dz25vb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-41-17-pm-ijhkmm",
@@ -23134,10 +20881,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
     "image": "https://drive.google.com/uc?export=view&id=1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
     "driveFileId": "1JDSS8EjXwLlzRayACWE6wq--Lg8w4rMB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-17-pm-ijhkmm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-17-pm-ijhkmm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-41-17-pm-ijhkmm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-42-54-pm-r2diej",
@@ -23167,10 +20911,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
     "image": "https://drive.google.com/uc?export=view&id=1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
     "driveFileId": "1LjRsUeRHylG4lhpdfu_m519rkyPiY7r1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-42-54-pm-r2diej&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-42-54-pm-r2diej&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-42-54-pm-r2diej&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-11-pm-qsz19i",
@@ -23200,10 +20941,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
     "image": "https://drive.google.com/uc?export=view&id=1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
     "driveFileId": "1TdKksks-JP9bsiBJkHT1Sts4tsQF5EhZ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-11-pm-qsz19i&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-11-pm-qsz19i&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-11-pm-qsz19i&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-42-56-pm-ucatf9",
@@ -23233,10 +20971,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
     "image": "https://drive.google.com/uc?export=view&id=1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
     "driveFileId": "1cSiZ3dZ2ZFHM7_a9fgM_5QBWCiGdlNEg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-42-56-pm-ucatf9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-42-56-pm-ucatf9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-42-56-pm-ucatf9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-15-pm-iqfxiw",
@@ -23265,10 +21000,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
     "image": "https://drive.google.com/uc?export=view&id=1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
     "driveFileId": "1z7UudSnouhp0Bs1-TyB2b9AZ61V9Q0oq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-15-pm-iqfxiw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-15-pm-iqfxiw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-15-pm-iqfxiw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-13-pm-p97mjb",
@@ -23297,10 +21029,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
     "image": "https://drive.google.com/uc?export=view&id=1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
     "driveFileId": "1HXVFCN3fI4FiVJtG7x1dMNlZqnQ3EzJg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-13-pm-p97mjb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-13-pm-p97mjb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-13-pm-p97mjb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-17-pm-ihp6rd",
@@ -23330,10 +21059,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
     "image": "https://drive.google.com/uc?export=view&id=1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
     "driveFileId": "1l59I5jy3AXwEwRK3GZrHKckFQsmnsz-y",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-17-pm-ihp6rd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-17-pm-ihp6rd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-17-pm-ihp6rd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-22-pm-p2zzjz",
@@ -23363,10 +21089,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
     "image": "https://drive.google.com/uc?export=view&id=1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
     "driveFileId": "1cuyroofTK61ib0jiTUdsZFbW5VVIbUBA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-22-pm-p2zzjz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-22-pm-p2zzjz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-22-pm-p2zzjz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-19-pm-aih8lo",
@@ -23396,10 +21119,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
     "image": "https://drive.google.com/uc?export=view&id=1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
     "driveFileId": "1SO_p3LxW40QssXKryj30fKNhsQ1h1f1x",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-19-pm-aih8lo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-19-pm-aih8lo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-19-pm-aih8lo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-28-pm-sx296k",
@@ -23428,10 +21148,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
     "image": "https://drive.google.com/uc?export=view&id=1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
     "driveFileId": "1Nudg6ZJmIFgTAQniA_KlnZKjS6JdYPBT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-28-pm-sx296k&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-28-pm-sx296k&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-28-pm-sx296k&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-26-pm-ba7ezm",
@@ -23461,10 +21178,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
     "image": "https://drive.google.com/uc?export=view&id=1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
     "driveFileId": "1IQImq2BUuSJ-nsEmLtW-dIWjaKXh2XSe",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-26-pm-ba7ezm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-26-pm-ba7ezm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-26-pm-ba7ezm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-24-pm-luaqde",
@@ -23494,10 +21208,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
     "image": "https://drive.google.com/uc?export=view&id=1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
     "driveFileId": "1D7CxrURCet7rltjhniMQ5SAlEAttYwyo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-24-pm-luaqde&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-24-pm-luaqde&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-24-pm-luaqde&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-49-pm-wvuodj",
@@ -23527,10 +21238,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
     "image": "https://drive.google.com/uc?export=view&id=1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
     "driveFileId": "1lFdMCD2_0ciJ6ngB1yE10Pbp6zCgrW-l",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-49-pm-wvuodj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-49-pm-wvuodj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-49-pm-wvuodj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-32-pm-karfml",
@@ -23560,10 +21268,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
     "image": "https://drive.google.com/uc?export=view&id=1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
     "driveFileId": "1iytucNR4jGFdtG3i-K5Y0tMGt_u3QOp3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-32-pm-karfml&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-32-pm-karfml&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-32-pm-karfml&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-59-pm-1-eu6ju9",
@@ -23593,10 +21298,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
     "image": "https://drive.google.com/uc?export=view&id=1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
     "driveFileId": "1JVUC1as5xFgxjXJwbmUUQHF0NfwFEPRm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-59-pm-1-eu6ju9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-59-pm-1-eu6ju9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-59-pm-1-eu6ju9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-55-pm-yd0hlt",
@@ -23626,10 +21328,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
     "image": "https://drive.google.com/uc?export=view&id=1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
     "driveFileId": "1oOvUBf8GCYcqMJYBOKNlSvxDVbGF4FBR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-55-pm-yd0hlt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-55-pm-yd0hlt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-55-pm-yd0hlt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-43-59-pm-2-vtuuaf",
@@ -23658,10 +21357,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
     "image": "https://drive.google.com/uc?export=view&id=1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
     "driveFileId": "1SHm9rfaB-8oHCbivSf1hXONinsCKwKBX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-59-pm-2-vtuuaf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-59-pm-2-vtuuaf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-43-59-pm-2-vtuuaf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-44-08-pm-mwpcqj",
@@ -23691,10 +21387,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
     "image": "https://drive.google.com/uc?export=view&id=1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
     "driveFileId": "1QQWEIRsMkT99vaOFQpRHODaNGomcDn4R",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-08-pm-mwpcqj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-08-pm-mwpcqj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-08-pm-mwpcqj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-44-19-pm-n3m2tf",
@@ -23724,10 +21417,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
     "image": "https://drive.google.com/uc?export=view&id=1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
     "driveFileId": "1wLujVuEgFULUHxdTAKaQlz5OmYUX5jBo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-19-pm-n3m2tf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-19-pm-n3m2tf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-19-pm-n3m2tf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-44-21-pm-llliij",
@@ -23757,10 +21447,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
     "image": "https://drive.google.com/uc?export=view&id=1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
     "driveFileId": "1BvJHG-1HUnYc8ugGObk1F4yARDPGdkpv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-21-pm-llliij&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-21-pm-llliij&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-21-pm-llliij&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-44-17-pm-dvlnvv",
@@ -23789,10 +21476,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
     "image": "https://drive.google.com/uc?export=view&id=1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
     "driveFileId": "1CZ8qy9ucDQcaObi7HyT85f4YqnLH_m4s",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-17-pm-dvlnvv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-17-pm-dvlnvv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-44-17-pm-dvlnvv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-02-pm-1-j07lev",
@@ -23822,10 +21506,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
     "image": "https://drive.google.com/uc?export=view&id=1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
     "driveFileId": "1E-EoO5wob3BkOqNLv_CvBXp36rX1wnuW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-02-pm-1-j07lev&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-02-pm-1-j07lev&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-02-pm-1-j07lev&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-46-41-pm-gbisgh",
@@ -23855,10 +21536,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
     "image": "https://drive.google.com/uc?export=view&id=1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
     "driveFileId": "1KIZvly6sSS6o25yyVqo6tq7bY1LwiV0A",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-46-41-pm-gbisgh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-46-41-pm-gbisgh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-46-41-pm-gbisgh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-09-pm-ywz7bz",
@@ -23887,10 +21565,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
     "image": "https://drive.google.com/uc?export=view&id=15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
     "driveFileId": "15bwQzW7ZrUWVA7PVTmJpElwRrpkZMRcv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-09-pm-ywz7bz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-09-pm-ywz7bz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-09-pm-ywz7bz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-28-pm-1-ntt6wi",
@@ -23920,10 +21595,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
     "image": "https://drive.google.com/uc?export=view&id=14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
     "driveFileId": "14ZgOagqnIVxfW3Xw1K2jmUWgW6nhXZzW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-28-pm-1-ntt6wi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-28-pm-1-ntt6wi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-28-pm-1-ntt6wi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-03-pm-2-hsywm6",
@@ -23952,10 +21624,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
     "image": "https://drive.google.com/uc?export=view&id=1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
     "driveFileId": "1Vxb7JvU4JPoMx6WnmMZiMF9Eab-xs-9K",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-03-pm-2-hsywm6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-03-pm-2-hsywm6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-03-pm-2-hsywm6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-30-pm-2-mmsyjk",
@@ -23985,10 +21654,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
     "image": "https://drive.google.com/uc?export=view&id=1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
     "driveFileId": "1dDvR0CpVbkJbWzXR9yjVpuGsVLvmGcq2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-30-pm-2-mmsyjk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-30-pm-2-mmsyjk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-30-pm-2-mmsyjk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-34-pm-k9veeq",
@@ -24018,10 +21684,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
     "image": "https://drive.google.com/uc?export=view&id=1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
     "driveFileId": "1oQ8LximU5F_lfIcuKP6oPIbc_zDOm1YV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-34-pm-k9veeq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-34-pm-k9veeq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-34-pm-k9veeq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-29-pm-o4apo0",
@@ -24051,10 +21714,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
     "image": "https://drive.google.com/uc?export=view&id=1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
     "driveFileId": "1BTTRb2zJSS_91d582R6p2pS0Z2vLOvxE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-29-pm-o4apo0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-29-pm-o4apo0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-29-pm-o4apo0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-39-pm-cninxm",
@@ -24083,10 +21743,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
     "image": "https://drive.google.com/uc?export=view&id=1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
     "driveFileId": "1VXtOg8gUFS1Ezd97sE5WQfPfXzX8wPAi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-39-pm-cninxm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-39-pm-cninxm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-39-pm-cninxm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-02-pm-oewfgw",
@@ -24116,10 +21773,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
     "image": "https://drive.google.com/uc?export=view&id=1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
     "driveFileId": "1S9g3fqjTJvcGKn62UMHJyuCNIwn9WVGH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-02-pm-oewfgw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-02-pm-oewfgw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-02-pm-oewfgw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-47-44-pm-eceekn",
@@ -24148,10 +21802,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
     "image": "https://drive.google.com/uc?export=view&id=16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
     "driveFileId": "16ym9om96Z7IuA8YD92si7qDxNuWoAFLO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-44-pm-eceekn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-44-pm-eceekn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-47-44-pm-eceekn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-33-pm-pqwym7",
@@ -24181,10 +21832,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
     "image": "https://drive.google.com/uc?export=view&id=1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
     "driveFileId": "1lyZBZdYlBYz4QmOSJJtDwrBiZ8OS8RwF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-33-pm-pqwym7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-33-pm-pqwym7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-33-pm-pqwym7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-53-pm-rq3wip",
@@ -24214,10 +21862,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
     "image": "https://drive.google.com/uc?export=view&id=17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
     "driveFileId": "17hJrIooFbSqgYEL0-wjsq7J2kuoXN-3T",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-53-pm-rq3wip&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-53-pm-rq3wip&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-53-pm-rq3wip&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-55-pm-roh07j",
@@ -24247,10 +21892,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
     "image": "https://drive.google.com/uc?export=view&id=1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
     "driveFileId": "1Hok7JEKzV6F854onMZ9HoEfA9_Fojtdg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-55-pm-roh07j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-55-pm-roh07j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-55-pm-roh07j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-51-pm-lps7or",
@@ -24280,10 +21922,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
     "image": "https://drive.google.com/uc?export=view&id=16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
     "driveFileId": "16apV0ECP5yC5JDjrow53E_TcnWeD0Nwo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-51-pm-lps7or&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-51-pm-lps7or&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-51-pm-lps7or&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-35-pm-j52ipi",
@@ -24312,10 +21951,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
     "image": "https://drive.google.com/uc?export=view&id=1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
     "driveFileId": "1eelle4VlULVhmIJajWAHO90ezKM0QYLh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-35-pm-j52ipi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-35-pm-j52ipi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-35-pm-j52ipi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-40-pm-mqt42j",
@@ -24345,10 +21981,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
     "image": "https://drive.google.com/uc?export=view&id=1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
     "driveFileId": "1yteTmyTvFOcZJ-PpmWKUZ3VZTDhEmBME",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-40-pm-mqt42j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-40-pm-mqt42j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-40-pm-mqt42j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-27-pm-owvmjo",
@@ -24378,10 +22011,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
     "image": "https://drive.google.com/uc?export=view&id=1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
     "driveFileId": "1M29RMPT3lmZ4ZFLJ5jbZ8LJVlSeGsA8u",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-27-pm-owvmjo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-27-pm-owvmjo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-27-pm-owvmjo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-37-pm-aef37i",
@@ -24411,10 +22041,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
     "image": "https://drive.google.com/uc?export=view&id=1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
     "driveFileId": "1lfI3UUMeBtXbdoBjnAf-AX-CyIITOVNe",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-37-pm-aef37i&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-37-pm-aef37i&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-37-pm-aef37i&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-42-pm-sv2jor",
@@ -24444,10 +22071,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
     "image": "https://drive.google.com/uc?export=view&id=1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
     "driveFileId": "1RjSH5gbUqx94dxd0mm1oqcLNaGNkjt6_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-42-pm-sv2jor&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-42-pm-sv2jor&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-42-pm-sv2jor&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-44-pm-tivc01",
@@ -24477,10 +22101,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
     "image": "https://drive.google.com/uc?export=view&id=1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
     "driveFileId": "1Z_pP2jtjbwlpMczs-mV_TPh-viXKpWni",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-44-pm-tivc01&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-44-pm-tivc01&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-44-pm-tivc01&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-38-pm-pnxxm2",
@@ -24509,10 +22130,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
     "image": "https://drive.google.com/uc?export=view&id=1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
     "driveFileId": "1ids32ARlXut-cfKSLk4eS7oS3O0ao3Po",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-38-pm-pnxxm2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-38-pm-pnxxm2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-38-pm-pnxxm2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-34-pm-xrhasg",
@@ -24542,10 +22160,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
     "image": "https://drive.google.com/uc?export=view&id=1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
     "driveFileId": "1Av237QH5xR9SsmSW8TXrQrUkxfUAi3X7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-34-pm-xrhasg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-34-pm-xrhasg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-34-pm-xrhasg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-47-pm-xnuyve",
@@ -24574,10 +22189,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
     "image": "https://drive.google.com/uc?export=view&id=1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
     "driveFileId": "1AMPQojzcuVMI3pVJ8rHkq-_bcylrNJ_h",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-47-pm-xnuyve&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-47-pm-xnuyve&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-47-pm-xnuyve&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-57-pm-bgfgxh",
@@ -24607,10 +22219,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
     "image": "https://drive.google.com/uc?export=view&id=11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
     "driveFileId": "11Bk-MhnWUlYPKAP1LQmJec2fbcE2oW-a",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-57-pm-bgfgxh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-57-pm-bgfgxh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-57-pm-bgfgxh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-43-pm-s3ovpz",
@@ -24640,10 +22249,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
     "image": "https://drive.google.com/uc?export=view&id=15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
     "driveFileId": "15KNAR1QOdE15FMBi6bSbJLDoGK6bGeXV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-43-pm-s3ovpz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-43-pm-s3ovpz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-43-pm-s3ovpz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-51-pm-zzz2ou",
@@ -24673,10 +22279,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
     "image": "https://drive.google.com/uc?export=view&id=1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
     "driveFileId": "1UWkGM_dNd7DZ8o8pF-DWY3Vt7g187fSh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-51-pm-zzz2ou&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-51-pm-zzz2ou&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-51-pm-zzz2ou&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-49-38-pm-rcqxsq",
@@ -24706,10 +22309,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
     "image": "https://drive.google.com/uc?export=view&id=1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
     "driveFileId": "1MjELWxeBqcDmrtSPoQr-KB0qIFfbgo3x",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-38-pm-rcqxsq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-38-pm-rcqxsq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-38-pm-rcqxsq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-45-pm-wu6ldy",
@@ -24738,10 +22338,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
     "image": "https://drive.google.com/uc?export=view&id=1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
     "driveFileId": "1rgfd7YX23-IMWfPMw1m0V75OoXHZpLAb",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-45-pm-wu6ldy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-45-pm-wu6ldy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-45-pm-wu6ldy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-49-pm-h3kdr5",
@@ -24771,10 +22368,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
     "image": "https://drive.google.com/uc?export=view&id=1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
     "driveFileId": "1dQgLA7zviXFu5JwuzvmVVXA7tIgEB-ts",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-49-pm-h3kdr5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-49-pm-h3kdr5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-49-pm-h3kdr5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-49-40-pm-rbmb6c",
@@ -24803,10 +22397,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
     "image": "https://drive.google.com/uc?export=view&id=1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
     "driveFileId": "1lPd1CXRc6bV3vjvcZ8o7aFoB_8_DjGJa",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-40-pm-rbmb6c&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-40-pm-rbmb6c&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-40-pm-rbmb6c&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-48-54-pm-kbafqs",
@@ -24836,10 +22427,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
     "image": "https://drive.google.com/uc?export=view&id=1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
     "driveFileId": "1y7oj_4QAeQNTMi9XLzSckvZnYJbDHiXE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-54-pm-kbafqs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-54-pm-kbafqs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-48-54-pm-kbafqs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-46-pm-yxr5cl",
@@ -24869,10 +22457,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
     "image": "https://drive.google.com/uc?export=view&id=1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
     "driveFileId": "1aBBiMTBOsMYesK8TKjXNzRHXIVKHqfj9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-46-pm-yxr5cl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-46-pm-yxr5cl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-46-pm-yxr5cl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-50-09-pm-zgqgke",
@@ -24902,10 +22487,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
     "image": "https://drive.google.com/uc?export=view&id=1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
     "driveFileId": "1gtpqj4sRKzr2mbK-0F3jTUFyy9lFwl5A",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-50-09-pm-zgqgke&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-50-09-pm-zgqgke&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-50-09-pm-zgqgke&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-49-42-pm-vdpctn",
@@ -24935,10 +22517,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
     "image": "https://drive.google.com/uc?export=view&id=1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
     "driveFileId": "1eQ2AZS-s7EjggEyihJ9Io4l1tsr80gx7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-42-pm-vdpctn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-42-pm-vdpctn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-49-42-pm-vdpctn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-59-pm-paz0wj",
@@ -24968,10 +22547,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
     "image": "https://drive.google.com/uc?export=view&id=1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
     "driveFileId": "1m3R_yU6TLBHjZtu0bJsdfywNwCeQHJ-v",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-59-pm-paz0wj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-59-pm-paz0wj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-59-pm-paz0wj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-50-05-pm-zatsyp",
@@ -25001,10 +22577,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
     "image": "https://drive.google.com/uc?export=view&id=17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
     "driveFileId": "17J9bEmwT6J-lmF6YMY3UPGfW3PVldry2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-50-05-pm-zatsyp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-50-05-pm-zatsyp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-50-05-pm-zatsyp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-51-46-pm-qenext",
@@ -25034,10 +22607,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
     "image": "https://drive.google.com/uc?export=view&id=1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
     "driveFileId": "1kWp54-T-Zpx8vXNkbyyK5JiOzjfi8QJz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-51-46-pm-qenext&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-51-46-pm-qenext&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-51-46-pm-qenext&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-01-pm-zlxuwa",
@@ -25067,10 +22637,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
     "image": "https://drive.google.com/uc?export=view&id=1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
     "driveFileId": "1YUE_r1G_RCmOWcAJiE4BAlnToVMmWUuB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-01-pm-zlxuwa&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-01-pm-zlxuwa&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-01-pm-zlxuwa&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-12-pm-skt2cw",
@@ -25100,10 +22667,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
     "image": "https://drive.google.com/uc?export=view&id=1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
     "driveFileId": "1vtlHf6-5DiB-wmOme0R216DmBDqpr8lD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-12-pm-skt2cw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-12-pm-skt2cw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-12-pm-skt2cw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-03-pm-hnqklc",
@@ -25133,10 +22697,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
     "image": "https://drive.google.com/uc?export=view&id=1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
     "driveFileId": "1hBW1LL5bWHxbNLlrNgHRpPyguABebqeV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-03-pm-hnqklc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-03-pm-hnqklc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-03-pm-hnqklc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-05-pm-nxhs5y",
@@ -25165,10 +22726,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
     "image": "https://drive.google.com/uc?export=view&id=1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
     "driveFileId": "1J3YiVjL10jwiy2CUkveWFkHW5VwZZNpl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-05-pm-nxhs5y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-05-pm-nxhs5y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-05-pm-nxhs5y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-14-pm-mlhxeu",
@@ -25198,10 +22756,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
     "image": "https://drive.google.com/uc?export=view&id=1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
     "driveFileId": "1VAVIJCztMurfslFzyq60G0RQQrTxIYNn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-14-pm-mlhxeu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-14-pm-mlhxeu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-14-pm-mlhxeu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-51-50-pm-aji9nr",
@@ -25231,10 +22786,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
     "image": "https://drive.google.com/uc?export=view&id=1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
     "driveFileId": "1X6MDmtpLtd220-LZQLEOdMSqHH7KXivM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-51-50-pm-aji9nr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-51-50-pm-aji9nr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-51-50-pm-aji9nr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-16-pm-h4ustx",
@@ -25264,10 +22816,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
     "image": "https://drive.google.com/uc?export=view&id=1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
     "driveFileId": "1HWjxiCfNs-alCZOpe9utIqAseV-Zomst",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-16-pm-h4ustx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-16-pm-h4ustx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-16-pm-h4ustx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-52-26-pm-r2ctnt",
@@ -25297,10 +22846,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
     "image": "https://drive.google.com/uc?export=view&id=1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
     "driveFileId": "1yNh7JCG01mTx4pmi2FjgWNtQzqGuZmYT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-26-pm-r2ctnt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-26-pm-r2ctnt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-26-pm-r2ctnt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-52-24-pm-dzv1wl",
@@ -25330,10 +22876,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
     "image": "https://drive.google.com/uc?export=view&id=1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
     "driveFileId": "1eOu3ArgnH2Gqr6UWf1lHyjzM_VHzo_A-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-24-pm-dzv1wl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-24-pm-dzv1wl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-24-pm-dzv1wl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-12-pm-uuohqp",
@@ -25362,10 +22905,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
     "image": "https://drive.google.com/uc?export=view&id=1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
     "driveFileId": "1bxPZuxe42LPKQZ0bqXPGFXarTO118rql",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-12-pm-uuohqp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-12-pm-uuohqp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-12-pm-uuohqp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-57-pm-l2jqnm",
@@ -25395,10 +22935,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
     "image": "https://drive.google.com/uc?export=view&id=1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
     "driveFileId": "1TSGJs1gJmx-Qf6AIG_kLRInjtNuo2T7J",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-57-pm-l2jqnm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-57-pm-l2jqnm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-57-pm-l2jqnm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-52-56-pm-qcy5g3",
@@ -25428,10 +22965,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
     "image": "https://drive.google.com/uc?export=view&id=1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
     "driveFileId": "1XuSdH1akfZiGqa-91zQU_KCSuJ3L8PXd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-56-pm-qcy5g3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-56-pm-qcy5g3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-52-56-pm-qcy5g3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-09-pm-th3lrx",
@@ -25461,10 +22995,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
     "image": "https://drive.google.com/uc?export=view&id=10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
     "driveFileId": "10cnvODPzLduFC3DMEsxB-ze80e26Fbt5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-09-pm-th3lrx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-09-pm-th3lrx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-09-pm-th3lrx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-07-pm-xtd9ko",
@@ -25494,10 +23025,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
     "image": "https://drive.google.com/uc?export=view&id=13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
     "driveFileId": "13s-TalNZaXJVOxejcnIVNkcbQwt-HX4n",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-07-pm-xtd9ko&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-07-pm-xtd9ko&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-07-pm-xtd9ko&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-53-04-pm-jdplbr",
@@ -25526,10 +23054,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
     "image": "https://drive.google.com/uc?export=view&id=1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
     "driveFileId": "1z0FBtqrudFEWGQ5svgux-FaWQFHFUDh5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-04-pm-jdplbr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-04-pm-jdplbr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-04-pm-jdplbr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-10-pm-puwnhz",
@@ -25559,10 +23084,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
     "image": "https://drive.google.com/uc?export=view&id=1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
     "driveFileId": "1jD10wRVLg1nflpHcs_CYSAOZJ39sjLYR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-10-pm-puwnhz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-10-pm-puwnhz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-10-pm-puwnhz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-30-pm-kjegnp",
@@ -25592,10 +23114,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
     "image": "https://drive.google.com/uc?export=view&id=1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
     "driveFileId": "1bKfnwo27msg0RhKLhgoWV_6whHNHUwjF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-30-pm-kjegnp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-30-pm-kjegnp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-30-pm-kjegnp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-53-06-pm-eacgrn",
@@ -25624,10 +23143,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vBTmVui022cOT4hIe7iqC4DLZXablBni",
     "image": "https://drive.google.com/uc?export=view&id=1vBTmVui022cOT4hIe7iqC4DLZXablBni",
     "driveFileId": "1vBTmVui022cOT4hIe7iqC4DLZXablBni",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-06-pm-eacgrn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-06-pm-eacgrn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-06-pm-eacgrn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-15-pm-b3vafj",
@@ -25657,10 +23173,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
     "image": "https://drive.google.com/uc?export=view&id=1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
     "driveFileId": "1SMERqwVGPPNstovMw4p8QXZrdZOnHTOs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-15-pm-b3vafj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-15-pm-b3vafj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-15-pm-b3vafj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-17-pm-s9q96a",
@@ -25689,10 +23202,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
     "image": "https://drive.google.com/uc?export=view&id=1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
     "driveFileId": "1RMFrF8WVc66yNg5x-oXIEChLuTpgdAgW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-17-pm-s9q96a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-17-pm-s9q96a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-17-pm-s9q96a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-19-pm-qfnj8a",
@@ -25721,10 +23231,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
     "image": "https://drive.google.com/uc?export=view&id=1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
     "driveFileId": "1M9oEogKbxdOm8Hcz0qsph5693QuRalsf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-19-pm-qfnj8a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-19-pm-qfnj8a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-19-pm-qfnj8a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-53-10-pm-xig4bj",
@@ -25754,10 +23261,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
     "image": "https://drive.google.com/uc?export=view&id=1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
     "driveFileId": "1GY_Ss_5PyT0tR_2YppV6sf5YNV7qoK0Q",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-10-pm-xig4bj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-10-pm-xig4bj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-10-pm-xig4bj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-53-08-pm-odtuyk",
@@ -25787,10 +23291,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
     "image": "https://drive.google.com/uc?export=view&id=1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
     "driveFileId": "1rB5CAbsj2D-3gpMD1xaFHT4wTsaqwl1b",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-08-pm-odtuyk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-08-pm-odtuyk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-53-08-pm-odtuyk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-26-pm-gj5sva",
@@ -25820,10 +23321,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
     "image": "https://drive.google.com/uc?export=view&id=1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
     "driveFileId": "1M8GOB32iuQiMt-fsOxq90JwFH5gy3XwF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-26-pm-gj5sva&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-26-pm-gj5sva&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-26-pm-gj5sva&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-06-pm-ub6bf9",
@@ -25853,10 +23351,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
     "image": "https://drive.google.com/uc?export=view&id=1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
     "driveFileId": "1qnHsdaANy-eOUH_k-zF0qxt_iAWyaeG-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-06-pm-ub6bf9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-06-pm-ub6bf9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-06-pm-ub6bf9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-09-pm-zdag9s",
@@ -25885,10 +23380,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
     "image": "https://drive.google.com/uc?export=view&id=1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
     "driveFileId": "1JqRtTABK_PUW7yt8MN8BPiIgBmH1ICIl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-09-pm-zdag9s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-09-pm-zdag9s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-09-pm-zdag9s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-28-pm-baxj6i",
@@ -25918,10 +23410,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
     "image": "https://drive.google.com/uc?export=view&id=1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
     "driveFileId": "1c4i5LrtSz-FjodvKjJ3YzytwGQHyDLzz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-28-pm-baxj6i&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-28-pm-baxj6i&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-28-pm-baxj6i&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-55-59-pm-qtgw7i",
@@ -25951,10 +23440,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
     "image": "https://drive.google.com/uc?export=view&id=17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
     "driveFileId": "17AM_YOrEdzDmV6ylApzM8X_pfY-WvJD2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-59-pm-qtgw7i&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-59-pm-qtgw7i&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-55-59-pm-qtgw7i&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-01-pm-h1ndhh",
@@ -25983,10 +23469,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
     "image": "https://drive.google.com/uc?export=view&id=1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
     "driveFileId": "1IsFb8IytuqWakb1qqNk6CGwxNuPjL3qH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-01-pm-h1ndhh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-01-pm-h1ndhh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-01-pm-h1ndhh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-05-pm-qzx3ks",
@@ -26016,10 +23499,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
     "image": "https://drive.google.com/uc?export=view&id=11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
     "driveFileId": "11KhVY1dx2OIXMLAsJryb0byFwit2JJYN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-05-pm-qzx3ks&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-05-pm-qzx3ks&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-05-pm-qzx3ks&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-54-11-pm-arlr9m",
@@ -26049,10 +23529,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
     "image": "https://drive.google.com/uc?export=view&id=1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
     "driveFileId": "1zIadMMFHEuYTG0B4gPoxxDOSE7Ve7eAX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-11-pm-arlr9m&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-11-pm-arlr9m&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-54-11-pm-arlr9m&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-6-2026-10-56-03-pm-vhgfiq",
@@ -26081,10 +23558,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
     "image": "https://drive.google.com/uc?export=view&id=1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
     "driveFileId": "1JkRI5l4nHFwPcxC91FpTSWiLw1dFpofP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-03-pm-vhgfiq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-03-pm-vhgfiq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-6-2026-10-56-03-pm-vhgfiq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-33-24-pm-qqonbv",
@@ -26111,10 +23585,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
     "image": "https://drive.google.com/uc?export=view&id=1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
     "driveFileId": "1UP2W2NQqFEN6F6aGtpOvb-0RnOu9EJrx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-24-pm-qqonbv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-24-pm-qqonbv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-24-pm-qqonbv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-33-48-pm-qrqyv6",
@@ -26141,10 +23612,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
     "image": "https://drive.google.com/uc?export=view&id=1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
     "driveFileId": "1hNXWKIkli48IUyGqBDbvSwbF4vtgDG_V",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-48-pm-qrqyv6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-48-pm-qrqyv6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-33-48-pm-qrqyv6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-37-44-pm-da69i0",
@@ -26171,10 +23639,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
     "image": "https://drive.google.com/uc?export=view&id=1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
     "driveFileId": "1ba6Mo3eLFV5nZPhiC3GjlyYtlT2ZT_P1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-44-pm-da69i0&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-44-pm-da69i0&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-44-pm-da69i0&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-37-58-pm-clmupt",
@@ -26202,10 +23667,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
     "image": "https://drive.google.com/uc?export=view&id=1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
     "driveFileId": "1dOAu7tJ0tX0yJ-jeRehMWdCzdQ20G8g6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-58-pm-clmupt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-58-pm-clmupt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-37-58-pm-clmupt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-31-pm-t02f0t",
@@ -26233,10 +23695,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
     "image": "https://drive.google.com/uc?export=view&id=1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
     "driveFileId": "1rRKpsQGcwpQkrEg_6gr6rHPKi21zLV15",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-31-pm-t02f0t&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-31-pm-t02f0t&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-31-pm-t02f0t&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-27-pm-ekkydl",
@@ -26264,10 +23723,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
     "image": "https://drive.google.com/uc?export=view&id=1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
     "driveFileId": "1Gg4XLhZx_n4qUvvJLmMMN8X30DiKhU8v",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-27-pm-ekkydl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-27-pm-ekkydl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-27-pm-ekkydl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-29-pm-anpfgw",
@@ -26295,10 +23751,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
     "image": "https://drive.google.com/uc?export=view&id=1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
     "driveFileId": "1HXDZzd9NMdR_n7mXET0cY7lo9jXnU9E9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-29-pm-anpfgw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-29-pm-anpfgw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-29-pm-anpfgw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-33-pm-xqj6rg",
@@ -26325,10 +23778,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
     "image": "https://drive.google.com/uc?export=view&id=1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
     "driveFileId": "1eCvGmuLu5JMBhBV5jOfoRQZ-qX2bSxZE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-33-pm-xqj6rg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-33-pm-xqj6rg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-33-pm-xqj6rg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-37-pm-wjm3nn",
@@ -26356,10 +23806,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
     "image": "https://drive.google.com/uc?export=view&id=1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
     "driveFileId": "1LHQbmRKRpQqFjihz3QYwx8Og7LNtATEm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-37-pm-wjm3nn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-37-pm-wjm3nn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-37-pm-wjm3nn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-46-pm-ki8h4s",
@@ -26387,10 +23834,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
     "image": "https://drive.google.com/uc?export=view&id=1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
     "driveFileId": "1RYgA4aNClRDMFqJRu7ovkHivu8cGwBaC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-46-pm-ki8h4s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-46-pm-ki8h4s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-46-pm-ki8h4s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-43-pm-jle9ct",
@@ -26417,10 +23861,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
     "image": "https://drive.google.com/uc?export=view&id=1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
     "driveFileId": "1x1fDDP2wyKg6XiTHOgci0uN5MR5EcWrt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-43-pm-jle9ct&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-43-pm-jle9ct&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-43-pm-jle9ct&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-39-pm-vli04l",
@@ -26447,10 +23888,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
     "image": "https://drive.google.com/uc?export=view&id=1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
     "driveFileId": "1IVSeFi-MmfDiCB1T5uElxB-OenRjSezG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-39-pm-vli04l&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-39-pm-vli04l&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-39-pm-vli04l&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-31-pm-ndhfwr",
@@ -26478,10 +23916,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
     "image": "https://drive.google.com/uc?export=view&id=1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
     "driveFileId": "1j7l4vNZCkyzQHLOoP_35jzIFtV4AuiID",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-31-pm-ndhfwr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-31-pm-ndhfwr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-31-pm-ndhfwr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-41-pm-mgb9vl",
@@ -26509,10 +23944,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
     "image": "https://drive.google.com/uc?export=view&id=15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
     "driveFileId": "15NTbdsstiJf5PigVMAoz0IJoQ2GLDm2Q",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-41-pm-mgb9vl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-41-pm-mgb9vl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-41-pm-mgb9vl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-48-pm-ziapfd",
@@ -26540,10 +23972,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
     "image": "https://drive.google.com/uc?export=view&id=14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
     "driveFileId": "14llpDKikmw4Fn6MYdZ_yk0WE7hkre2zh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-48-pm-ziapfd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-48-pm-ziapfd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-48-pm-ziapfd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-29-pm-ovii4b",
@@ -26571,10 +24000,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
     "image": "https://drive.google.com/uc?export=view&id=1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
     "driveFileId": "1VDUnbw3JFObTNpaZIoCzy8csgWIHGysS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-29-pm-ovii4b&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-29-pm-ovii4b&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-29-pm-ovii4b&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-50-pm-umdlrk",
@@ -26602,10 +24028,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
     "image": "https://drive.google.com/uc?export=view&id=1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
     "driveFileId": "1uHV8Tqc1tOww8v_jXDuFN-9fFqkklkOo",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-50-pm-umdlrk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-50-pm-umdlrk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-50-pm-umdlrk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-34-pm-pcnurd",
@@ -26633,10 +24056,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
     "image": "https://drive.google.com/uc?export=view&id=1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
     "driveFileId": "1fD6-SzhJEKCEaPiwWOAkh2pbSTLQ8YNY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-34-pm-pcnurd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-34-pm-pcnurd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-34-pm-pcnurd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-53-pm-whkxe4",
@@ -26664,10 +24084,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
     "image": "https://drive.google.com/uc?export=view&id=1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
     "driveFileId": "1YF0tdoU9MlO8gfqlgX0gcN6wwRleudlI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-53-pm-whkxe4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-53-pm-whkxe4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-53-pm-whkxe4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-56-pm-f6hzrw",
@@ -26694,10 +24111,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
     "image": "https://drive.google.com/uc?export=view&id=1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
     "driveFileId": "1DIry4iLw9zTkos8rG1XAXXC9hJKLVCbr",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-56-pm-f6hzrw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-56-pm-f6hzrw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-56-pm-f6hzrw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-16-58-pm-hye2bv",
@@ -26725,10 +24139,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
     "image": "https://drive.google.com/uc?export=view&id=1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
     "driveFileId": "1hwS42et25tChoQ6rGIUwP5GYTeRSDyF_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-58-pm-hye2bv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-58-pm-hye2bv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-16-58-pm-hye2bv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-40-pm-fi4s6v",
@@ -26756,10 +24167,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
     "image": "https://drive.google.com/uc?export=view&id=1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
     "driveFileId": "1cNSRWDQkuuit7BEe11aoNcqnTnvsZy2q",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-40-pm-fi4s6v&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-40-pm-fi4s6v&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-40-pm-fi4s6v&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-00-pm-otmzxk",
@@ -26787,10 +24195,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
     "image": "https://drive.google.com/uc?export=view&id=11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
     "driveFileId": "11IrJqkFe2GbBXlOswpJhpQncTDNUXNQl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-00-pm-otmzxk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-00-pm-otmzxk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-00-pm-otmzxk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-03-pm-cw8dz4",
@@ -26818,10 +24223,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
     "image": "https://drive.google.com/uc?export=view&id=1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
     "driveFileId": "1PTjQbw6x5TRQOFKoE7pyyXf0HgU_BXwK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-03-pm-cw8dz4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-03-pm-cw8dz4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-03-pm-cw8dz4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-26-pm-tafh4o",
@@ -26848,10 +24250,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
     "image": "https://drive.google.com/uc?export=view&id=1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
     "driveFileId": "1a3c8DbgjBOlZHts0LYNbl4H_x4NqdecF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-26-pm-tafh4o&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-26-pm-tafh4o&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-26-pm-tafh4o&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-36-pm-ozjciy",
@@ -26879,10 +24278,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
     "image": "https://drive.google.com/uc?export=view&id=1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
     "driveFileId": "1FrjY_E0UygPLJucr4rPlt6SSD5KTxjj4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-36-pm-ozjciy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-36-pm-ozjciy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-36-pm-ozjciy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-38-pm-kcepay",
@@ -26909,10 +24305,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
     "image": "https://drive.google.com/uc?export=view&id=1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
     "driveFileId": "1yJfkdF7kQulxgKzH5HFrBzdlMWBF7r67",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-38-pm-kcepay&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-38-pm-kcepay&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-38-pm-kcepay&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-17-pm-trl2vl",
@@ -26939,10 +24332,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
     "image": "https://drive.google.com/uc?export=view&id=1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
     "driveFileId": "1slY3cLqesRqDQWgXRHndan31t8bG8ODR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-17-pm-trl2vl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-17-pm-trl2vl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-17-pm-trl2vl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-45-pm-t2dku3",
@@ -26970,10 +24360,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
     "image": "https://drive.google.com/uc?export=view&id=17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
     "driveFileId": "17oGIkOrxpc3GypGDj4h-Cf-DiakogC9P",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-45-pm-t2dku3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-45-pm-t2dku3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-45-pm-t2dku3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-43-pm-jzdbbt",
@@ -27000,10 +24387,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
     "image": "https://drive.google.com/uc?export=view&id=1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
     "driveFileId": "1DSnZSTq29_4XNwUyuAmzQ9aLU-_UUVnP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-43-pm-jzdbbt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-43-pm-jzdbbt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-43-pm-jzdbbt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-53-pm-nnq1q3",
@@ -27031,10 +24415,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
     "image": "https://drive.google.com/uc?export=view&id=1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
     "driveFileId": "1lx4AOP7jOarDh68sJTCYeUcG0awa51-e",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-53-pm-nnq1q3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-53-pm-nnq1q3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-53-pm-nnq1q3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-48-pm-cn9nyr",
@@ -27060,10 +24441,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
     "image": "https://drive.google.com/uc?export=view&id=1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
     "driveFileId": "1pD9GHqamzlTKjADijn_GqEcr6eHbCqJt",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-48-pm-cn9nyr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-48-pm-cn9nyr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-48-pm-cn9nyr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-55-pm-zd2r8i",
@@ -27090,10 +24468,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
     "image": "https://drive.google.com/uc?export=view&id=1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
     "driveFileId": "1b1y1TCGMEXQghDTUMsfRlIlCEk0hQINL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-55-pm-zd2r8i&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-55-pm-zd2r8i&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-55-pm-zd2r8i&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-50-pm-m6ncl1",
@@ -27120,10 +24495,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
     "image": "https://drive.google.com/uc?export=view&id=1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
     "driveFileId": "1Gu6r8Stxb677VyUEcsFN7tYmT3dCRGK9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-50-pm-m6ncl1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-50-pm-m6ncl1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-50-pm-m6ncl1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-27-pm-la0fql",
@@ -27151,10 +24523,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
     "image": "https://drive.google.com/uc?export=view&id=1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
     "driveFileId": "1_H7RstL-QICu2m-J4IH6NkThI8uNP4Y8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-27-pm-la0fql&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-27-pm-la0fql&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-27-pm-la0fql&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-17-57-pm-va8xc9",
@@ -27182,10 +24551,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
     "image": "https://drive.google.com/uc?export=view&id=1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
     "driveFileId": "1JcrLCdh1NjInCHmd9N4ucuuMwDOM8M2U",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-57-pm-va8xc9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-57-pm-va8xc9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-17-57-pm-va8xc9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-00-pm-c8aszv",
@@ -27213,10 +24579,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
     "image": "https://drive.google.com/uc?export=view&id=1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
     "driveFileId": "1eT032sbgbWkHHeUtZR-y7AdtS44_NX4S",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-00-pm-c8aszv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-00-pm-c8aszv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-00-pm-c8aszv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-23-pm-b46oai",
@@ -27242,10 +24605,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
     "image": "https://drive.google.com/uc?export=view&id=1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
     "driveFileId": "1_kktD09ZAqqArAwtEobfzeBlPRFm1gO5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-23-pm-b46oai&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-23-pm-b46oai&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-23-pm-b46oai&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-29-pm-x8xjwk",
@@ -27273,10 +24633,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
     "image": "https://drive.google.com/uc?export=view&id=131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
     "driveFileId": "131yuhoGcJvP7SfDLfgPE0_rFbIaoJn3o",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-29-pm-x8xjwk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-29-pm-x8xjwk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-29-pm-x8xjwk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-21-pm-w2kedc",
@@ -27304,10 +24661,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
     "image": "https://drive.google.com/uc?export=view&id=1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
     "driveFileId": "1UwExcGzSn5KyKJlgxteeG0Li7UYD9tfm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-21-pm-w2kedc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-21-pm-w2kedc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-21-pm-w2kedc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-02-pm-gpvpvq",
@@ -27335,10 +24689,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
     "image": "https://drive.google.com/uc?export=view&id=1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
     "driveFileId": "1CID0PElDhjpAB_RAoH7U_-bdMCYZJR0s",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-02-pm-gpvpvq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-02-pm-gpvpvq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-02-pm-gpvpvq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-25-pm-arsxwx",
@@ -27366,10 +24717,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
     "image": "https://drive.google.com/uc?export=view&id=19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
     "driveFileId": "19jl0jcJ7PIrxSauCa_GlfZV0Fbzqueid",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-25-pm-arsxwx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-25-pm-arsxwx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-25-pm-arsxwx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-36-pm-g9huln",
@@ -27397,10 +24745,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
     "image": "https://drive.google.com/uc?export=view&id=1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
     "driveFileId": "1QKYzyWCiKrMDqgayL292dovGIHGWA42l",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-36-pm-g9huln&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-36-pm-g9huln&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-36-pm-g9huln&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-40-pm-ocrdp7",
@@ -27428,10 +24773,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
     "image": "https://drive.google.com/uc?export=view&id=1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
     "driveFileId": "1pTWF9a9ihav44XckVDaIrTpfl2a3gDkW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-40-pm-ocrdp7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-40-pm-ocrdp7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-40-pm-ocrdp7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-34-pm-a7bc0w",
@@ -27459,10 +24801,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
     "image": "https://drive.google.com/uc?export=view&id=1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
     "driveFileId": "1h4G6noedWZoZA-vnDxbYOhC7ozhN_NwI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-34-pm-a7bc0w&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-34-pm-a7bc0w&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-34-pm-a7bc0w&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-31-pm-xdnp0m",
@@ -27490,10 +24829,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
     "image": "https://drive.google.com/uc?export=view&id=1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
     "driveFileId": "1zH322nBlrQ2pqgysjIFhrzzwsZydzuuE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-31-pm-xdnp0m&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-31-pm-xdnp0m&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-31-pm-xdnp0m&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-51-pm-hey6en",
@@ -27520,10 +24856,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
     "image": "https://drive.google.com/uc?export=view&id=1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
     "driveFileId": "1JXkdnZbtiXDz0y8CZTdEHmAqdzEaD1gE",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-51-pm-hey6en&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-51-pm-hey6en&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-51-pm-hey6en&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-45-pm-vyp3pf",
@@ -27550,10 +24883,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
     "image": "https://drive.google.com/uc?export=view&id=1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
     "driveFileId": "1F64PoKUsO9DE0eOAZeN9NwN23mtKNMmA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-45-pm-vyp3pf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-45-pm-vyp3pf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-45-pm-vyp3pf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-38-pm-yvu0eq",
@@ -27581,10 +24911,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
     "image": "https://drive.google.com/uc?export=view&id=1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
     "driveFileId": "1blNblRbH7Iy9fknmcfwtR3_tggnB0QA6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-38-pm-yvu0eq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-38-pm-yvu0eq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-38-pm-yvu0eq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-57-pm-eb8qku",
@@ -27610,10 +24937,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
     "image": "https://drive.google.com/uc?export=view&id=1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
     "driveFileId": "1Mh7_zVepPVHe0sS5jskhTxZyOO3HS0fS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-57-pm-eb8qku&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-57-pm-eb8qku&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-57-pm-eb8qku&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-49-pm-h68ffd",
@@ -27640,10 +24964,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
     "image": "https://drive.google.com/uc?export=view&id=1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
     "driveFileId": "1tglV7THW6Yu2mavm75vLZB_-mSvLcAao",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-49-pm-h68ffd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-49-pm-h68ffd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-49-pm-h68ffd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-42-pm-jmzxrg",
@@ -27670,10 +24991,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
     "image": "https://drive.google.com/uc?export=view&id=1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
     "driveFileId": "1yd8zkVZE1yOVs_mVFhSsDi6y7MLOt1sl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-42-pm-jmzxrg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-42-pm-jmzxrg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-42-pm-jmzxrg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-52-pm-yfnzgt",
@@ -27701,10 +25019,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
     "image": "https://drive.google.com/uc?export=view&id=12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
     "driveFileId": "12S5EfCuflIIfQSQjEtquBVDFu5Mn_rIO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-52-pm-yfnzgt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-52-pm-yfnzgt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-52-pm-yfnzgt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-04-pm-n55hgl",
@@ -27732,10 +25047,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
     "image": "https://drive.google.com/uc?export=view&id=1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
     "driveFileId": "1Z_kn9xVG8Cz1CVLaa-T3O6p0h2975A_s",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-04-pm-n55hgl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-04-pm-n55hgl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-04-pm-n55hgl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-46-pm-v8pbqc",
@@ -27763,10 +25075,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
     "image": "https://drive.google.com/uc?export=view&id=1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
     "driveFileId": "1hhxV-mOzNpC-V-qN-meTNo_SJqA_3F2X",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-46-pm-v8pbqc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-46-pm-v8pbqc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-46-pm-v8pbqc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-00-pm-qe90fe",
@@ -27793,10 +25102,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
     "image": "https://drive.google.com/uc?export=view&id=1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
     "driveFileId": "1iPYdf_qL2RrqGqTMMlDRvFLSZTO4nJEl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-00-pm-qe90fe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-00-pm-qe90fe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-00-pm-qe90fe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-18-54-pm-ksvmcn",
@@ -27823,10 +25129,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
     "image": "https://drive.google.com/uc?export=view&id=1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
     "driveFileId": "1xGBagKTE8WavX8vrtzMviIk7coeXjJKl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-54-pm-ksvmcn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-54-pm-ksvmcn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-18-54-pm-ksvmcn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-06-pm-nblcdv",
@@ -27854,10 +25157,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
     "image": "https://drive.google.com/uc?export=view&id=1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
     "driveFileId": "1d32W-mSIFpxWnbur8Z2WI7x1jlvsDfZB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-06-pm-nblcdv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-06-pm-nblcdv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-06-pm-nblcdv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-15-pm-vcwayd",
@@ -27884,10 +25184,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
     "image": "https://drive.google.com/uc?export=view&id=1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
     "driveFileId": "1LvlK06C-0y-SFSbrthnhMcaSzpp93SJJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-15-pm-vcwayd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-15-pm-vcwayd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-15-pm-vcwayd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-02-pm-yafz5p",
@@ -27915,10 +25212,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
     "image": "https://drive.google.com/uc?export=view&id=1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
     "driveFileId": "1QfoteldR-1t1mt6hhi5xbk3p73c7L9Cl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-02-pm-yafz5p&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-02-pm-yafz5p&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-02-pm-yafz5p&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-19-pm-zthdqv",
@@ -27946,10 +25240,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
     "image": "https://drive.google.com/uc?export=view&id=1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
     "driveFileId": "1oYdHeGFmtB__Bw2_58tGSkArwHZnM0et",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-19-pm-zthdqv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-19-pm-zthdqv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-19-pm-zthdqv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-21-pm-nsi2lo",
@@ -27977,10 +25268,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
     "image": "https://drive.google.com/uc?export=view&id=1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
     "driveFileId": "1eWgIZE45cnmUOMpb4ncVndRaqa-hUT2-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-21-pm-nsi2lo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-21-pm-nsi2lo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-21-pm-nsi2lo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-13-pm-vlnc5a",
@@ -28008,10 +25296,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
     "image": "https://drive.google.com/uc?export=view&id=136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
     "driveFileId": "136sCmsB6weZ3_qb1vOy_MlXbWyC55Uk_",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-13-pm-vlnc5a&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-13-pm-vlnc5a&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-13-pm-vlnc5a&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-23-pm-pginjq",
@@ -28039,10 +25324,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1koW56UUI_033xyPWGdKg57vbJS3_dXka",
     "image": "https://drive.google.com/uc?export=view&id=1koW56UUI_033xyPWGdKg57vbJS3_dXka",
     "driveFileId": "1koW56UUI_033xyPWGdKg57vbJS3_dXka",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-23-pm-pginjq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-23-pm-pginjq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-23-pm-pginjq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-28-pm-ufhha3",
@@ -28069,10 +25351,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
     "image": "https://drive.google.com/uc?export=view&id=1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
     "driveFileId": "1Onz7D2Er-CvPV9VDUMXBJIa_2GnYVsZY",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-28-pm-ufhha3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-28-pm-ufhha3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-28-pm-ufhha3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-26-pm-lndduv",
@@ -28100,10 +25379,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
     "image": "https://drive.google.com/uc?export=view&id=1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
     "driveFileId": "1LH168tElt6KfPmScT_HwXY_hEYcnvJbF",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-26-pm-lndduv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-26-pm-lndduv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-26-pm-lndduv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-47-pm-ib2iy9",
@@ -28131,10 +25407,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
     "image": "https://drive.google.com/uc?export=view&id=1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
     "driveFileId": "1nHFXtMnewt6C85lwPsG4IifO8YpnNxWJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-47-pm-ib2iy9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-47-pm-ib2iy9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-47-pm-ib2iy9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-29-pm-cxeote",
@@ -28162,10 +25435,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
     "image": "https://drive.google.com/uc?export=view&id=1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
     "driveFileId": "1u4AAAt_LsGQBQ6L-eAanv2GPQ9XTYm6L",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-29-pm-cxeote&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-29-pm-cxeote&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-29-pm-cxeote&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg",
@@ -28192,10 +25462,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
     "image": "https://drive.google.com/uc?export=view&id=1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
     "driveFileId": "1vJvjjpV2PCCB04WeIR1-92019hCE2xiT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-34-pm-mlb1bg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-49-pm-fbr3vp",
@@ -28223,10 +25490,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
     "image": "https://drive.google.com/uc?export=view&id=1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
     "driveFileId": "1BtGNaEC9WcEawREem9i3P8a5yalbOl5m",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-49-pm-fbr3vp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-49-pm-fbr3vp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-49-pm-fbr3vp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-32-pm-vn8qf7",
@@ -28254,10 +25518,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
     "image": "https://drive.google.com/uc?export=view&id=1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
     "driveFileId": "1RuD9fG7GBVcewVlkCEq6rCo_kStu2GzR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-32-pm-vn8qf7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-32-pm-vn8qf7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-32-pm-vn8qf7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-58-pm-q2ufnt",
@@ -28285,10 +25546,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
     "image": "https://drive.google.com/uc?export=view&id=1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
     "driveFileId": "1pz5GTyRrrbYBu0s33g5uVOyUCqNEmqYQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-58-pm-q2ufnt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-58-pm-q2ufnt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-58-pm-q2ufnt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-51-pm-uunwfe",
@@ -28316,10 +25574,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
     "image": "https://drive.google.com/uc?export=view&id=1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
     "driveFileId": "1xLiO1f0G7Zv046dMhLpIYlRAeg5KuEmB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-51-pm-uunwfe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-51-pm-uunwfe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-51-pm-uunwfe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-56-pm-rzorbj",
@@ -28347,10 +25602,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
     "image": "https://drive.google.com/uc?export=view&id=1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
     "driveFileId": "1pMSJ5yUfv4RaJTOYdnSV-W3VBrc_96eU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-56-pm-rzorbj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-56-pm-rzorbj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-56-pm-rzorbj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-19-54-pm-tux4ta",
@@ -28378,10 +25630,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
     "image": "https://drive.google.com/uc?export=view&id=1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
     "driveFileId": "1KZUE6ODurjegfdsJdSDyQxk1DYMawN8K",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-54-pm-tux4ta&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-54-pm-tux4ta&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-19-54-pm-tux4ta&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-00-pm-o6z79b",
@@ -28409,10 +25658,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
     "image": "https://drive.google.com/uc?export=view&id=1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
     "driveFileId": "1m_GIPeRdjZzKxmNu7y0qC5wwKBirUNpX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-00-pm-o6z79b&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-00-pm-o6z79b&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-00-pm-o6z79b&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-02-pm-vemlnl",
@@ -28440,10 +25686,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
     "image": "https://drive.google.com/uc?export=view&id=10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
     "driveFileId": "10IfxPIMft6b9yfUp3F9GtA9jEGjXXrXz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-02-pm-vemlnl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-02-pm-vemlnl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-02-pm-vemlnl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-04-pm-tl0c2g",
@@ -28471,10 +25714,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
     "image": "https://drive.google.com/uc?export=view&id=1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
     "driveFileId": "1py3cdxAc5-gZeCGcsupLdutg5KEOnNNK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-04-pm-tl0c2g&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-04-pm-tl0c2g&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-04-pm-tl0c2g&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-08-pm-wa6glf",
@@ -28501,10 +25741,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
     "image": "https://drive.google.com/uc?export=view&id=1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
     "driveFileId": "1bW3l70VpvALGRrDZgU8-kSjPAcdUyKXN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-08-pm-wa6glf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-08-pm-wa6glf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-08-pm-wa6glf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-06-pm-bvk7cw",
@@ -28531,10 +25768,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
     "image": "https://drive.google.com/uc?export=view&id=1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
     "driveFileId": "1dgUnY7j4Iv0xysBtI7oY1CcYrHnmLjCA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-06-pm-bvk7cw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-06-pm-bvk7cw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-06-pm-bvk7cw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-10-pm-b3bttq",
@@ -28561,10 +25795,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
     "image": "https://drive.google.com/uc?export=view&id=10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
     "driveFileId": "10q2yHs9vLpY2khhPFAMKsYM4mW2fWegw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-10-pm-b3bttq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-10-pm-b3bttq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-10-pm-b3bttq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-17-pm-kcesgi",
@@ -28591,10 +25822,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
     "image": "https://drive.google.com/uc?export=view&id=15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
     "driveFileId": "15GzyCI5xCZ3v3roJmlF_Dzh9E4bRp6RK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-17-pm-kcesgi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-17-pm-kcesgi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-17-pm-kcesgi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-13-pm-ygo9xk",
@@ -28621,10 +25849,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
     "image": "https://drive.google.com/uc?export=view&id=1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
     "driveFileId": "1cgrulIlvbGm-GGRSp2W09g7AFgxC61qj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-13-pm-ygo9xk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-13-pm-ygo9xk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-13-pm-ygo9xk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-20-pm-tq03be",
@@ -28651,10 +25876,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
     "image": "https://drive.google.com/uc?export=view&id=1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
     "driveFileId": "1q3NBvm2b48oC8BySicWuoSLaQPQOM9iX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-20-pm-tq03be&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-20-pm-tq03be&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-20-pm-tq03be&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-14-pm-vjgzth",
@@ -28682,10 +25904,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
     "image": "https://drive.google.com/uc?export=view&id=1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
     "driveFileId": "1dqWZzvTu2klwf_mz1hPnoxkhYR68-BLx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-14-pm-vjgzth&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-14-pm-vjgzth&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-14-pm-vjgzth&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-26-pm-kysd18",
@@ -28712,10 +25931,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
     "image": "https://drive.google.com/uc?export=view&id=1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
     "driveFileId": "1qKeD--BOgQJ6avJqavsvv8yX3zK3dYZT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-26-pm-kysd18&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-26-pm-kysd18&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-26-pm-kysd18&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-22-pm-iogznw",
@@ -28743,10 +25959,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
     "image": "https://drive.google.com/uc?export=view&id=10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
     "driveFileId": "10EfRjM_p4V8yDVxrUgBWOLMGjZzUn3YL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-22-pm-iogznw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-22-pm-iogznw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-22-pm-iogznw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-30-pm-h2c0ku",
@@ -28774,10 +25987,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
     "image": "https://drive.google.com/uc?export=view&id=1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
     "driveFileId": "1a6580-aIeJo4T_meFbG3gixTFEqvyco9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-30-pm-h2c0ku&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-30-pm-h2c0ku&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-30-pm-h2c0ku&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-24-pm-l8ntj9",
@@ -28805,10 +26015,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
     "image": "https://drive.google.com/uc?export=view&id=1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
     "driveFileId": "1gVa_SvaaEzqqJfS72oK2lVCOFH7jiVLs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-24-pm-l8ntj9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-24-pm-l8ntj9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-24-pm-l8ntj9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-47-pm-gjklyr",
@@ -28835,10 +26042,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
     "image": "https://drive.google.com/uc?export=view&id=1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
     "driveFileId": "1Lcn74oYFedsSAA3KxtnI6jcFZHASvW-6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-47-pm-gjklyr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-47-pm-gjklyr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-47-pm-gjklyr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-41-pm-wldhsj",
@@ -28865,10 +26069,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
     "image": "https://drive.google.com/uc?export=view&id=1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
     "driveFileId": "1dsaoCaOlpr9oL21U1vpZgrM8s5me2wOu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-41-pm-wldhsj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-41-pm-wldhsj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-41-pm-wldhsj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-36-pm-yyjz42",
@@ -28894,10 +26095,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
     "image": "https://drive.google.com/uc?export=view&id=1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
     "driveFileId": "1GCSRZtDaV0ae7I9VkEEQK92mkUL8WMww",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-36-pm-yyjz42&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-36-pm-yyjz42&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-36-pm-yyjz42&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-33-pm-pxqrel",
@@ -28924,10 +26122,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
     "image": "https://drive.google.com/uc?export=view&id=1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
     "driveFileId": "1u6zTCZXdKQJv6xk1l6BoL_RNwZszKPV0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-33-pm-pxqrel&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-33-pm-pxqrel&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-33-pm-pxqrel&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-50-pm-f9ptlx",
@@ -28955,10 +26150,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
     "image": "https://drive.google.com/uc?export=view&id=1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
     "driveFileId": "1GOdeDD4wa26Uk10xAwqH5mrP4ez7mvEw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-50-pm-f9ptlx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-50-pm-f9ptlx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-50-pm-f9ptlx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-38-pm-iqdrnp",
@@ -28986,10 +26178,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
     "image": "https://drive.google.com/uc?export=view&id=1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
     "driveFileId": "1zcor1f8wSaGP9Ojn1zbrdZOGdPo0Z9xU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-38-pm-iqdrnp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-38-pm-iqdrnp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-38-pm-iqdrnp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-58-pm-kzutyb",
@@ -29017,10 +26206,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
     "image": "https://drive.google.com/uc?export=view&id=1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
     "driveFileId": "1o3OXv75qxYuDtHDwhebDwDpOsFI_YDi5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-58-pm-kzutyb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-58-pm-kzutyb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-58-pm-kzutyb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-52-pm-pse7ot",
@@ -29047,10 +26233,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
     "image": "https://drive.google.com/uc?export=view&id=1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
     "driveFileId": "1OVofHn508h5MH2SWSvZw431T1_2f6hGu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-52-pm-pse7ot&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-52-pm-pse7ot&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-52-pm-pse7ot&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-43-pm-ftuzpn",
@@ -29077,10 +26260,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
     "image": "https://drive.google.com/uc?export=view&id=1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
     "driveFileId": "1NOPTUQ3SZHQW9ZoFdSV5TjqAFa6wixG0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-43-pm-ftuzpn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-43-pm-ftuzpn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-43-pm-ftuzpn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-21-03-pm-muwk2j",
@@ -29108,10 +26288,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
     "image": "https://drive.google.com/uc?export=view&id=1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
     "driveFileId": "1VUwnepSnOGehsaQRR6Rx8Y_2wZb3Acur",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-21-03-pm-muwk2j&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-21-03-pm-muwk2j&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-21-03-pm-muwk2j&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-21-00-pm-zyscl9",
@@ -29139,10 +26316,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
     "image": "https://drive.google.com/uc?export=view&id=1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
     "driveFileId": "1cgMDbfy7nLMZMFYXESWVjG87U-Fg3epP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-21-00-pm-zyscl9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-21-00-pm-zyscl9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-21-00-pm-zyscl9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-56-pm-ml56bx",
@@ -29169,10 +26343,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
     "image": "https://drive.google.com/uc?export=view&id=1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
     "driveFileId": "1tCBDrN62EowXS1gp9vWqLSQDWncrSn0Y",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-56-pm-ml56bx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-56-pm-ml56bx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-56-pm-ml56bx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-54-pm-osvvmg",
@@ -29199,10 +26370,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
     "image": "https://drive.google.com/uc?export=view&id=1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
     "driveFileId": "1en5wvoj7FMBo78RrI1Ah7k3lCQMzax14",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-54-pm-osvvmg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-54-pm-osvvmg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-54-pm-osvvmg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-10-2026-07-20-45-pm-ymce4r",
@@ -29230,10 +26398,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
     "image": "https://drive.google.com/uc?export=view&id=194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
     "driveFileId": "194xHoBu2JmiqnkZ5L85KJkU0q8UfGTTQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-45-pm-ymce4r&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-45-pm-ymce4r&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-10-2026-07-20-45-pm-ymce4r&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-05-09-13-pm-sxyvoi",
@@ -29262,10 +26427,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
     "image": "https://drive.google.com/uc?export=view&id=1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
     "driveFileId": "1waUCRpgPpuQS6rH79QHybPdmcJ_9E0Zf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-13-pm-sxyvoi&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-13-pm-sxyvoi&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-13-pm-sxyvoi&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-05-09-30-pm-gpcygd",
@@ -29294,10 +26456,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
     "image": "https://drive.google.com/uc?export=view&id=1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
     "driveFileId": "1Iid0QN4voPFGoPjqjLbooRjs36JvftP8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-30-pm-gpcygd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-30-pm-gpcygd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-30-pm-gpcygd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-05-09-57-pm-sgzuec",
@@ -29326,10 +26485,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
     "image": "https://drive.google.com/uc?export=view&id=1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
     "driveFileId": "1wQ3Bph39ADL8JcHgY6wwT-AtCghNuNYi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-57-pm-sgzuec&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-57-pm-sgzuec&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-57-pm-sgzuec&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-05-10-04-pm-fpltsw",
@@ -29358,10 +26514,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
     "image": "https://drive.google.com/uc?export=view&id=19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
     "driveFileId": "19RdiaooQ1V4fDGbSf0XdUQrJz7mR0sH6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-10-04-pm-fpltsw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-10-04-pm-fpltsw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-10-04-pm-fpltsw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-05-09-42-pm-stnppv",
@@ -29390,10 +26543,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
     "image": "https://drive.google.com/uc?export=view&id=1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
     "driveFileId": "1MNSBgHBWXDl9urnIiG1Z2uwm0rufpfkQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-42-pm-stnppv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-42-pm-stnppv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-05-09-42-pm-stnppv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-10-52-pm-nxzwvr",
@@ -29422,10 +26572,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
     "image": "https://drive.google.com/uc?export=view&id=1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
     "driveFileId": "1rVshdZ8PSXBy7dkF-HDyD4AKKP5e59x1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-52-pm-nxzwvr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-52-pm-nxzwvr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-52-pm-nxzwvr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-10-56-pm-ycn7be",
@@ -29453,10 +26600,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
     "image": "https://drive.google.com/uc?export=view&id=1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
     "driveFileId": "1VllfzhKohhypTUDrieWzY_4lT2_fBIPC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-56-pm-ycn7be&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-56-pm-ycn7be&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-56-pm-ycn7be&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-08-50-pm-fjix0g",
@@ -29483,10 +26627,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
     "image": "https://drive.google.com/uc?export=view&id=1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
     "driveFileId": "1Efq5EX27wX3ksX-OLpujE71llA0tBXWv",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-50-pm-fjix0g&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-50-pm-fjix0g&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-50-pm-fjix0g&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-10-48-pm-t5ef2f",
@@ -29514,10 +26655,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
     "image": "https://drive.google.com/uc?export=view&id=1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
     "driveFileId": "1Hdc5KjEjxcCRAWSyms5l8jHBdemm6kJz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-48-pm-t5ef2f&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-48-pm-t5ef2f&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-10-48-pm-t5ef2f&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-11-13-pm-xjykug",
@@ -29546,10 +26684,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
     "image": "https://drive.google.com/uc?export=view&id=1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
     "driveFileId": "1QBaKmvFXIs-rmFpu9LRd0epgATM4rynm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-13-pm-xjykug&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-13-pm-xjykug&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-13-pm-xjykug&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-11-09-pm-nzo7rb",
@@ -29578,10 +26713,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
     "image": "https://drive.google.com/uc?export=view&id=18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
     "driveFileId": "18PZ1ciMOh_0mCvMWjMV-lw6BBTLydTuX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-09-pm-nzo7rb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-09-pm-nzo7rb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-09-pm-nzo7rb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-11-20-pm-mp8xdc",
@@ -29609,10 +26741,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
     "image": "https://drive.google.com/uc?export=view&id=1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
     "driveFileId": "1RkYuo9ujBksa-jKxbpRalOz-4TMnvizd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-20-pm-mp8xdc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-20-pm-mp8xdc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-20-pm-mp8xdc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-11-03-pm-l4hhjs",
@@ -29641,10 +26770,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
     "image": "https://drive.google.com/uc?export=view&id=1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
     "driveFileId": "1Ab6hP_aNCQIECITpVkEo3Hlpb9u_mvFC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-03-pm-l4hhjs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-03-pm-l4hhjs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-03-pm-l4hhjs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-11-00-pm-ihomad",
@@ -29673,10 +26799,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
     "image": "https://drive.google.com/uc?export=view&id=11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
     "driveFileId": "11kufpu-gmJhM5YxCutnKp2BNVt0LfnQn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-00-pm-ihomad&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-00-pm-ihomad&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-00-pm-ihomad&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-11-06-pm-m4xuv7",
@@ -29705,10 +26828,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
     "image": "https://drive.google.com/uc?export=view&id=1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
     "driveFileId": "1ijNwBqpjHksaIGYjoq3vsqpRWYXUqPt5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-06-pm-m4xuv7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-06-pm-m4xuv7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-11-06-pm-m4xuv7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-04-08-pm-hasezx",
@@ -29736,10 +26856,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
     "image": "https://drive.google.com/uc?export=view&id=1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
     "driveFileId": "1zfuIfObrtszCtAO66ua3kE2rjGo_7FU4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-04-08-pm-hasezx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-04-08-pm-hasezx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-04-08-pm-hasezx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-05-39-pm-qngx0w",
@@ -29767,10 +26884,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
     "image": "https://drive.google.com/uc?export=view&id=1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
     "driveFileId": "1ru3e1-fr5ShPKSJasH2jvHRbyZwDeGRW",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-39-pm-qngx0w&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-39-pm-qngx0w&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-39-pm-qngx0w&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-05-32-pm-lnkwzp",
@@ -29799,10 +26913,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
     "image": "https://drive.google.com/uc?export=view&id=13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
     "driveFileId": "13xWuCCFLTwpgktgyUxcUQU-SAba2VrKG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-32-pm-lnkwzp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-32-pm-lnkwzp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-32-pm-lnkwzp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-05-44-pm-ofdvkt",
@@ -29830,10 +26941,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
     "image": "https://drive.google.com/uc?export=view&id=1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
     "driveFileId": "1clm227Dd9Dja0J-kGAArMcuuykiDzqKR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-44-pm-ofdvkt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-44-pm-ofdvkt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-44-pm-ofdvkt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-05-48-pm-myo1h9",
@@ -29862,10 +26970,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
     "image": "https://drive.google.com/uc?export=view&id=1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
     "driveFileId": "1nQWowgTvDqJdxqZnGt93-IjOwM4bgBW5",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-48-pm-myo1h9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-48-pm-myo1h9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-48-pm-myo1h9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-05-57-pm-l2ssry",
@@ -29893,10 +26998,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
     "image": "https://drive.google.com/uc?export=view&id=1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
     "driveFileId": "1SLvWshcjEDIbCwyAVpKJfOVTfgT9wqix",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-57-pm-l2ssry&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-57-pm-l2ssry&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-57-pm-l2ssry&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-06-10-pm-hsvsb7",
@@ -29924,10 +27026,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
     "image": "https://drive.google.com/uc?export=view&id=1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
     "driveFileId": "1kpUC2lFvtoh2RzdciP9-PZtwyNadoX43",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-10-pm-hsvsb7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-10-pm-hsvsb7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-10-pm-hsvsb7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-05-51-pm-cu4zsp",
@@ -29956,10 +27055,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
     "image": "https://drive.google.com/uc?export=view&id=1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
     "driveFileId": "1hV4PxNCInVQrf4aF0PV63zUIsvX_TA4-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-51-pm-cu4zsp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-51-pm-cu4zsp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-05-51-pm-cu4zsp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-06-13-pm-qtbdye",
@@ -29987,10 +27083,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
     "image": "https://drive.google.com/uc?export=view&id=19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
     "driveFileId": "19C7xmkHQBBE_0SY8Ey3MKXGUsNna_0F6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-13-pm-qtbdye&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-13-pm-qtbdye&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-13-pm-qtbdye&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-06-17-pm-nmt5fo",
@@ -30018,10 +27111,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
     "image": "https://drive.google.com/uc?export=view&id=1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
     "driveFileId": "1WX7K2kTdWTtt9CYv4WiujWFjQfQkKu1v",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-17-pm-nmt5fo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-17-pm-nmt5fo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-17-pm-nmt5fo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-06-58-pm-qpdg04",
@@ -30050,10 +27140,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
     "image": "https://drive.google.com/uc?export=view&id=13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
     "driveFileId": "13AvOfZs56IE_o-lqYoYQP0f2UJ4kWvvL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-58-pm-qpdg04&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-58-pm-qpdg04&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-58-pm-qpdg04&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-06-21-pm-ync7m7",
@@ -30082,10 +27169,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
     "image": "https://drive.google.com/uc?export=view&id=1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
     "driveFileId": "1G6ye-TLxfckh8u-5OOsZu38Cjf1_Qth9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-21-pm-ync7m7&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-21-pm-ync7m7&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-21-pm-ync7m7&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-06-27-pm-yhauwa",
@@ -30113,10 +27197,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1spguBgRjviuckPdbZRePds2EAlQrovcN",
     "image": "https://drive.google.com/uc?export=view&id=1spguBgRjviuckPdbZRePds2EAlQrovcN",
     "driveFileId": "1spguBgRjviuckPdbZRePds2EAlQrovcN",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-27-pm-yhauwa&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-27-pm-yhauwa&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-06-27-pm-yhauwa&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-07-03-pm-fxik5s",
@@ -30145,10 +27226,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
     "image": "https://drive.google.com/uc?export=view&id=1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
     "driveFileId": "1K4gRwCEvFahDvfdWPOFIVMV-sACH1EX6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-03-pm-fxik5s&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-03-pm-fxik5s&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-03-pm-fxik5s&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-07-52-pm-qe9sed",
@@ -30176,10 +27254,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
     "image": "https://drive.google.com/uc?export=view&id=1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
     "driveFileId": "1UhAF2UmEJ-imbjcU3HkJWKNfdsWcwQSa",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-52-pm-qe9sed&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-52-pm-qe9sed&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-52-pm-qe9sed&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-07-56-pm-pw0umk",
@@ -30208,10 +27283,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
     "image": "https://drive.google.com/uc?export=view&id=1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
     "driveFileId": "1jTK6RMv7RPKHMG8FlNCjd6gR3NpGC3Ch",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-56-pm-pw0umk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-56-pm-pw0umk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-07-56-pm-pw0umk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-08-42-pm-ugjonq",
@@ -30239,10 +27311,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
     "image": "https://drive.google.com/uc?export=view&id=11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
     "driveFileId": "11nVGiuYwyC2Juuew4FDWtesM7uweiBFT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-42-pm-ugjonq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-42-pm-ugjonq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-42-pm-ugjonq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-08-21-pm-ospsr3",
@@ -30271,10 +27340,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
     "image": "https://drive.google.com/uc?export=view&id=1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
     "driveFileId": "1aHwqJcm0RGBzOA45PLkKsMMAAH0azm0D",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-21-pm-ospsr3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-21-pm-ospsr3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-21-pm-ospsr3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-08-15-pm-e8auah",
@@ -30302,10 +27368,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
     "image": "https://drive.google.com/uc?export=view&id=19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
     "driveFileId": "19YgCvQYihkJ6BwASRTjQbSmdC_e1LNAB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-15-pm-e8auah&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-15-pm-e8auah&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-15-pm-e8auah&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-08-11-pm-eoni9e",
@@ -30334,10 +27397,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
     "image": "https://drive.google.com/uc?export=view&id=1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
     "driveFileId": "1D-fLNDO3kecGilY3TekxOZ8evSQUBPRK",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-11-pm-eoni9e&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-11-pm-eoni9e&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-11-pm-eoni9e&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-08-46-pm-zmdqr8",
@@ -30365,10 +27425,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
     "image": "https://drive.google.com/uc?export=view&id=1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
     "driveFileId": "1zLdp87o2ArwRJbFYNf1zknZXUF7K6cEf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-46-pm-zmdqr8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-46-pm-zmdqr8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-46-pm-zmdqr8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-10-08-25-pm-rqgziq",
@@ -30397,10 +27454,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
     "image": "https://drive.google.com/uc?export=view&id=1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
     "driveFileId": "1ifxfua5zuwe6OAab1fnYuibCsCYsWH2v",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-25-pm-rqgziq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-25-pm-rqgziq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-10-08-25-pm-rqgziq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-14-pm-lbphng",
@@ -30428,10 +27482,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
     "image": "https://drive.google.com/uc?export=view&id=1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
     "driveFileId": "1fYqsQfUxl3-w52UsVcYprBbG_5sFWkKR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-14-pm-lbphng&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-14-pm-lbphng&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-14-pm-lbphng&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-17-pm-tkbcdc",
@@ -30460,10 +27511,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
     "image": "https://drive.google.com/uc?export=view&id=1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
     "driveFileId": "1hK4qQosLBy8rMDWbo6YGcIpUWEm1VI78",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-17-pm-tkbcdc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-17-pm-tkbcdc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-17-pm-tkbcdc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-11-pm-xigzca",
@@ -30492,10 +27540,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
     "image": "https://drive.google.com/uc?export=view&id=1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
     "driveFileId": "1An-i_vQiiuUFX4T_jwwJFjWZPHkKun_i",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-11-pm-xigzca&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-11-pm-xigzca&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-11-pm-xigzca&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-08-pm-hal3zm",
@@ -30523,10 +27568,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
     "image": "https://drive.google.com/uc?export=view&id=1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
     "driveFileId": "1fK_GY6yHLCEKHFp2_eDwDCpu6f2D4vYq",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-08-pm-hal3zm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-08-pm-hal3zm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-08-pm-hal3zm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-06-pm-cg8qvr",
@@ -30555,10 +27597,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
     "image": "https://drive.google.com/uc?export=view&id=1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
     "driveFileId": "1ZOk5K0CiIO4nnMw_CUtG7HpU_8fj55bC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-06-pm-cg8qvr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-06-pm-cg8qvr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-06-pm-cg8qvr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-19-pm-iamvsv",
@@ -30586,10 +27625,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
     "image": "https://drive.google.com/uc?export=view&id=1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
     "driveFileId": "1xzvaKs4oE2L3_yzIEI-3PXY9HknBVZ-L",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-19-pm-iamvsv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-19-pm-iamvsv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-19-pm-iamvsv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-00-pm-nodxoq",
@@ -30618,10 +27654,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
     "image": "https://drive.google.com/uc?export=view&id=1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
     "driveFileId": "1_Ue52S86aevwd6RUIdlnhc9ZwIICQxiP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-00-pm-nodxoq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-00-pm-nodxoq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-00-pm-nodxoq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-38-pm-wcyp6w",
@@ -30649,10 +27682,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
     "image": "https://drive.google.com/uc?export=view&id=176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
     "driveFileId": "176Lc0X_Ao8-D_OnzTjiU9kUcwiGaM0FS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-38-pm-wcyp6w&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-38-pm-wcyp6w&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-38-pm-wcyp6w&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-48-56-pm-ckeitr",
@@ -30681,10 +27711,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
     "image": "https://drive.google.com/uc?export=view&id=1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
     "driveFileId": "1nZ5ADTWu42LxfAMPSoqJTKkFHCB45dIU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-48-56-pm-ckeitr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-48-56-pm-ckeitr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-48-56-pm-ckeitr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-03-pm-pwysfh",
@@ -30713,10 +27740,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
     "image": "https://drive.google.com/uc?export=view&id=1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
     "driveFileId": "1Q6eLeQBw5zRQxEdRnd3o8qVvJqJGmLWO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-03-pm-pwysfh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-03-pm-pwysfh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-03-pm-pwysfh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-34-pm-h2ufub",
@@ -30745,10 +27769,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
     "image": "https://drive.google.com/uc?export=view&id=1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
     "driveFileId": "1Ufox6s0gO9AMrXGoLDVp-L-mB-dhX6fH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-34-pm-h2ufub&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-34-pm-h2ufub&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-34-pm-h2ufub&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-47-09-pm-cdopeb",
@@ -30776,10 +27797,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
     "image": "https://drive.google.com/uc?export=view&id=10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
     "driveFileId": "10yZfMYuCVDVqv5T6eWAG_8mCo_ydW017",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-47-09-pm-cdopeb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-47-09-pm-cdopeb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-47-09-pm-cdopeb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-44-pm-t0hbuf",
@@ -30807,10 +27825,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
     "image": "https://drive.google.com/uc?export=view&id=1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
     "driveFileId": "1RCwUay3dLYbOPlOPt8Rvwv-Qs-qYY6cA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-44-pm-t0hbuf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-44-pm-t0hbuf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-44-pm-t0hbuf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-47-16-pm-p0wkzc",
@@ -30839,10 +27854,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
     "image": "https://drive.google.com/uc?export=view&id=1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
     "driveFileId": "1RMSwyf4PuyY8R0YigGHfekpqYKsfQ9XM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-47-16-pm-p0wkzc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-47-16-pm-p0wkzc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-47-16-pm-p0wkzc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-36-pm-mat0yf",
@@ -30870,10 +27882,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10N69J6pW8azovhIqvIpmIwilRivycuTB",
     "image": "https://drive.google.com/uc?export=view&id=10N69J6pW8azovhIqvIpmIwilRivycuTB",
     "driveFileId": "10N69J6pW8azovhIqvIpmIwilRivycuTB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-36-pm-mat0yf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-36-pm-mat0yf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-36-pm-mat0yf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-49-42-pm-ia2jby",
@@ -30901,10 +27910,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
     "image": "https://drive.google.com/uc?export=view&id=11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
     "driveFileId": "11BBcjRyyMHUo6A9MoWPoDN8v41TA6MuD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-42-pm-ia2jby&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-42-pm-ia2jby&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-49-42-pm-ia2jby&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-03-48-58-pm-g2sns1",
@@ -30933,10 +27939,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
     "image": "https://drive.google.com/uc?export=view&id=1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
     "driveFileId": "1M7x4jZbCV0tekD01XCAQQylluNTryQ4t",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-48-58-pm-g2sns1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-48-58-pm-g2sns1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-03-48-58-pm-g2sns1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-21-04-pm-pyewrz",
@@ -30964,10 +27967,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
     "image": "https://drive.google.com/uc?export=view&id=1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
     "driveFileId": "1ZYzlRLfEYmk_WQ5LG18y8Z39PH91u0gf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-04-pm-pyewrz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-04-pm-pyewrz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-04-pm-pyewrz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-21-02-pm-hev0tf",
@@ -30995,10 +27995,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
     "image": "https://drive.google.com/uc?export=view&id=1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
     "driveFileId": "1sCuM_5s_vs1_1OjPbiwt5ZtQfVFkNH_a",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-02-pm-hev0tf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-02-pm-hev0tf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-02-pm-hev0tf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-10-pm-u6qlg4",
@@ -31024,10 +28021,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
     "image": "https://drive.google.com/uc?export=view&id=1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
     "driveFileId": "1XKq0C5R6jTIaPkOv0DBDYVtW3WyQKE5I",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-10-pm-u6qlg4&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-10-pm-u6qlg4&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-10-pm-u6qlg4&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-18-pm-lacji1",
@@ -31053,10 +28047,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
     "image": "https://drive.google.com/uc?export=view&id=1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
     "driveFileId": "1k1N591V92D7kKU2SpiZdheH5GjtCN0qJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-18-pm-lacji1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-18-pm-lacji1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-18-pm-lacji1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-26-pm-owzftg",
@@ -31083,10 +28074,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
     "image": "https://drive.google.com/uc?export=view&id=1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
     "driveFileId": "1EFsId1WkbktzzDhTlJ7xomIbljG-s1N4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-26-pm-owzftg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-26-pm-owzftg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-26-pm-owzftg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-15-pm-dxlrrz",
@@ -31112,10 +28100,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
     "image": "https://drive.google.com/uc?export=view&id=1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
     "driveFileId": "1b_hzRMdbCi04sRHBKGkQUvDGWF7JUKli",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-15-pm-dxlrrz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-15-pm-dxlrrz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-15-pm-dxlrrz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-20-pm-tz7fb6",
@@ -31142,10 +28127,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
     "image": "https://drive.google.com/uc?export=view&id=1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
     "driveFileId": "1ChNwPaKn5_IJ5VsMrEtybk3ZwBN6on01",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-20-pm-tz7fb6&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-20-pm-tz7fb6&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-20-pm-tz7fb6&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-23-pm-ymbgjj",
@@ -31172,10 +28154,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
     "image": "https://drive.google.com/uc?export=view&id=1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
     "driveFileId": "1RYsYbCURdA0wnVFEhVV00Wb84DLZXzpI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-23-pm-ymbgjj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-23-pm-ymbgjj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-23-pm-ymbgjj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-20-54-pm-ebdmpf",
@@ -31202,10 +28181,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
     "image": "https://drive.google.com/uc?export=view&id=1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
     "driveFileId": "1D9iTp76BHb3ikjukZJnfL6hyNBE-EtwL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-54-pm-ebdmpf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-54-pm-ebdmpf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-54-pm-ebdmpf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-21-00-pm-b8mdva",
@@ -31232,10 +28208,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
     "image": "https://drive.google.com/uc?export=view&id=1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
     "driveFileId": "1gKZtzqMOZlkpTffZH-1frWQv2CibkFh7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-00-pm-b8mdva&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-00-pm-b8mdva&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-21-00-pm-b8mdva&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-20-57-pm-hacu2y",
@@ -31261,10 +28234,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
     "image": "https://drive.google.com/uc?export=view&id=1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
     "driveFileId": "1hqGbzHYCLt5GK2o6hul-3cehqu_nIsDg",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-57-pm-hacu2y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-57-pm-hacu2y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-57-pm-hacu2y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-20-50-pm-1-iek6i1",
@@ -31292,10 +28262,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
     "image": "https://drive.google.com/uc?export=view&id=1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
     "driveFileId": "1_LjqonBUKeZjhrlzZpM92GNTEZljfb9n",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-50-pm-1-iek6i1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-50-pm-1-iek6i1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-50-pm-1-iek6i1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-20-54-pm-2-rziqhb",
@@ -31323,10 +28290,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
     "image": "https://drive.google.com/uc?export=view&id=1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
     "driveFileId": "1Qih56KbLwkspl7htiP6qnPnL5mjHln-M",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-54-pm-2-rziqhb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-54-pm-2-rziqhb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-54-pm-2-rziqhb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-20-38-pm-rkxu69",
@@ -31353,10 +28317,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
     "image": "https://drive.google.com/uc?export=view&id=1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
     "driveFileId": "1h7ZmUbEuXfhVDhTNAKVeLTCzhSggGlCA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-38-pm-rkxu69&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-38-pm-rkxu69&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-38-pm-rkxu69&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-20-40-pm-rtpznl",
@@ -31383,10 +28344,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
     "image": "https://drive.google.com/uc?export=view&id=1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
     "driveFileId": "1P-AehffiSb7ibj7OfZtU1cZbUbnRvNL7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-40-pm-rtpznl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-40-pm-rtpznl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-40-pm-rtpznl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-20-33-pm-tzhhxx",
@@ -31413,10 +28371,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
     "image": "https://drive.google.com/uc?export=view&id=1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
     "driveFileId": "1aaYZhjA2oDsTctpXf0iCSdVWbEArlYat",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-33-pm-tzhhxx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-33-pm-tzhhxx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-20-33-pm-tzhhxx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-23-pm-odcogx",
@@ -31443,10 +28398,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
     "image": "https://drive.google.com/uc?export=view&id=1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
     "driveFileId": "1DwL__tR-36rluilIqmoNi2lNSZqcwDQm",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-23-pm-odcogx&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-23-pm-odcogx&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-23-pm-odcogx&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-29-pm-vv4caa",
@@ -31473,10 +28425,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
     "image": "https://drive.google.com/uc?export=view&id=1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
     "driveFileId": "1msn1BSFqErqkzkmgRqOK95zYJvx4iPX1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-29-pm-vv4caa&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-29-pm-vv4caa&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-29-pm-vv4caa&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-26-pm-gpf9es",
@@ -31503,10 +28452,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
     "image": "https://drive.google.com/uc?export=view&id=1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
     "driveFileId": "1FLgRKsQwQLgJObXl2GPv6zB7oEbcWW60",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-26-pm-gpf9es&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-26-pm-gpf9es&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-26-pm-gpf9es&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-16-pm-limwlh",
@@ -31533,10 +28479,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
     "image": "https://drive.google.com/uc?export=view&id=1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
     "driveFileId": "1OoQQRKJKkBZVuo0PDLHDPhkmAkhFY4h3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-16-pm-limwlh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-20-pm-jmjd2p",
@@ -31563,10 +28506,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
     "image": "https://drive.google.com/uc?export=view&id=1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
     "driveFileId": "1CY1qj-KEaf7eGTNe8jnLndmZESTM7-qO",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-20-pm-jmjd2p&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-20-pm-jmjd2p&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-20-pm-jmjd2p&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-13-pm-elg8jz",
@@ -31593,10 +28533,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
     "image": "https://drive.google.com/uc?export=view&id=1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
     "driveFileId": "1WQ0fVz0RXPWej3kcItQO9KEnoxkK0I0n",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-13-pm-elg8jz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-13-pm-elg8jz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-13-pm-elg8jz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-10-pm-cgfmji",
@@ -31622,10 +28559,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
     "image": "https://drive.google.com/uc?export=view&id=1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
     "driveFileId": "1bPKhOFuUDR04jI00D-QBd-zdZc24Och9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-10-pm-cgfmji&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-10-pm-cgfmji&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-10-pm-cgfmji&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-05-19-07-pm-fdc7hy",
@@ -31651,10 +28585,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
     "image": "https://drive.google.com/uc?export=view&id=1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
     "driveFileId": "1vuFiYJoRraodvwp-ctBXmJEUV_fNPugz",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-07-pm-fdc7hy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-07-pm-fdc7hy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-05-19-07-pm-fdc7hy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-31-pm-wkdx9c",
@@ -31682,10 +28613,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
     "image": "https://drive.google.com/uc?export=view&id=1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
     "driveFileId": "1c7qDSWUA9_YcQJDqfae-tqiQBBHrJnhI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-31-pm-wkdx9c&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-31-pm-wkdx9c&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-31-pm-wkdx9c&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-23-pm-pu1bek",
@@ -31713,10 +28641,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
     "image": "https://drive.google.com/uc?export=view&id=11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
     "driveFileId": "11oXVdNOP2RjOuF2fp3jtMDiCsAvWmpxj",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-23-pm-pu1bek&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-23-pm-pu1bek&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-23-pm-pu1bek&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-20-pm-fx9mcu",
@@ -31743,10 +28668,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
     "image": "https://drive.google.com/uc?export=view&id=1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
     "driveFileId": "1MQN05KHxy_nTFiBKJFX7Hun8VtPmdcoC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-20-pm-fx9mcu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-20-pm-fx9mcu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-20-pm-fx9mcu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-17-pm-husszh",
@@ -31773,10 +28695,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
     "image": "https://drive.google.com/uc?export=view&id=1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
     "driveFileId": "1zV8OLXtcmLRVOXPs89yVuSZnV7bosTlL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-17-pm-husszh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-17-pm-husszh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-17-pm-husszh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-14-pm-ztogtd",
@@ -31803,10 +28722,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
     "image": "https://drive.google.com/uc?export=view&id=18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
     "driveFileId": "18Cjw5HOB3Ffza0e5dAWE8l-gPF8jNu17",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-14-pm-ztogtd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-14-pm-ztogtd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-14-pm-ztogtd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-12-pm-fyjvfz",
@@ -31833,10 +28749,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
     "image": "https://drive.google.com/uc?export=view&id=1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
     "driveFileId": "1c32r2_lNvQw0Gs3FNmpzltoFI6Q6oOzR",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-12-pm-fyjvfz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-12-pm-fyjvfz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-12-pm-fyjvfz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-10-pm-x9orl2",
@@ -31863,10 +28776,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
     "image": "https://drive.google.com/uc?export=view&id=1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
     "driveFileId": "1xkFOC4fyZdcCKs8-FCANeizHYx3Ni3YD",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-10-pm-x9orl2&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-10-pm-x9orl2&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-10-pm-x9orl2&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-07-pm-ijfvct",
@@ -31893,10 +28803,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
     "image": "https://drive.google.com/uc?export=view&id=15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
     "driveFileId": "15fL099QqzWBrjcO1zdmOU5VfHpltwv8f",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-07-pm-ijfvct&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-07-pm-ijfvct&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-07-pm-ijfvct&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-04-pm-sss7jf",
@@ -31922,10 +28829,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
     "image": "https://drive.google.com/uc?export=view&id=1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
     "driveFileId": "1yJam4W2ZQeYwHuXHPPoy5NDDbgGChDfA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-04-pm-sss7jf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-04-pm-sss7jf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-04-pm-sss7jf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-59-pm-cqzyyy",
@@ -31952,10 +28856,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
     "image": "https://drive.google.com/uc?export=view&id=1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
     "driveFileId": "1pePlGH-HNE-P6seR9S0AiLEcUyE4dPFP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-59-pm-cqzyyy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-59-pm-cqzyyy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-59-pm-cqzyyy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-47-02-pm-abowvr",
@@ -31982,10 +28883,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
     "image": "https://drive.google.com/uc?export=view&id=1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
     "driveFileId": "1yy3T6NmAq1KQzPflWVFDuhQIS35qN8nf",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-02-pm-abowvr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-02-pm-abowvr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-47-02-pm-abowvr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-49-pm-dwqfe5",
@@ -32012,10 +28910,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
     "image": "https://drive.google.com/uc?export=view&id=1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
     "driveFileId": "1BmCogRmPUUtdkpeJyPtqlhi8SPimqTs-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-49-pm-dwqfe5&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-49-pm-dwqfe5&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-49-pm-dwqfe5&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-44-pm-hkoiu9",
@@ -32042,10 +28937,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
     "image": "https://drive.google.com/uc?export=view&id=1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
     "driveFileId": "1yl2rFA867laEk0ZgerLlcHySlmZvbQKn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-44-pm-hkoiu9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-44-pm-hkoiu9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-44-pm-hkoiu9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-56-pm-1-c6ilj9",
@@ -32073,10 +28965,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
     "image": "https://drive.google.com/uc?export=view&id=18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
     "driveFileId": "18rJCOTXSZQYgMxVudaKWcNQ-TfC9OUf8",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-56-pm-1-c6ilj9&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-56-pm-1-c6ilj9&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-56-pm-1-c6ilj9&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-56-pm-2-w4wz27",
@@ -32103,10 +28992,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
     "image": "https://drive.google.com/uc?export=view&id=1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
     "driveFileId": "1tndzZQFph22ryQ8LMtqTahHBiYcd3EoM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-56-pm-2-w4wz27&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-56-pm-2-w4wz27&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-56-pm-2-w4wz27&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-47-pm-ijpx70",
@@ -32134,10 +29020,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
     "image": "https://drive.google.com/uc?export=view&id=17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
     "driveFileId": "17vRuT2xj-Klz7CCv8VU8V7VSicGM4Xsu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-47-pm-ijpx70&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-47-pm-ijpx70&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-47-pm-ijpx70&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-42-pm-ni5uhk",
@@ -32164,10 +29047,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
     "image": "https://drive.google.com/uc?export=view&id=1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
     "driveFileId": "1ekRFXFEDdWagTBNbG4qt854Bidj70z7b",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-42-pm-ni5uhk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-42-pm-ni5uhk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-42-pm-ni5uhk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-36-pm-d2jngy",
@@ -32194,10 +29074,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
     "image": "https://drive.google.com/uc?export=view&id=1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
     "driveFileId": "1pGEjIdahA39xCgNCIahQlWwrCGg3bvdk",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-36-pm-d2jngy&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-36-pm-d2jngy&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-36-pm-d2jngy&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-46-39-pm-hu1tpt",
@@ -32224,10 +29101,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
     "image": "https://drive.google.com/uc?export=view&id=1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
     "driveFileId": "1Xsclq_Ug_LDep4UgwZWcUGOkoAwwsDQS",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-39-pm-hu1tpt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-39-pm-hu1tpt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-46-39-pm-hu1tpt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-42-pm-xzx9bd",
@@ -32254,10 +29128,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
     "image": "https://drive.google.com/uc?export=view&id=17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
     "driveFileId": "17quChEGWUiC478rk8BZpYq7UzoUTDFh2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-42-pm-xzx9bd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-42-pm-xzx9bd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-42-pm-xzx9bd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-45-pm-u1i3gg",
@@ -32284,10 +29155,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
     "image": "https://drive.google.com/uc?export=view&id=1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
     "driveFileId": "1DvLTPrGX3a7U8dk-Kq5arUvQD-zA68AG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-45-pm-u1i3gg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-45-pm-u1i3gg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-45-pm-u1i3gg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-58-pm-ownqvr",
@@ -32314,10 +29182,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
     "image": "https://drive.google.com/uc?export=view&id=1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
     "driveFileId": "1G0iVi8j3RkvDZftGfnrG_nG6apAeZDcZ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-58-pm-ownqvr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-58-pm-ownqvr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-58-pm-ownqvr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-56-pm-bknmnq",
@@ -32345,10 +29210,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
     "image": "https://drive.google.com/uc?export=view&id=1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
     "driveFileId": "1qFXNc4bxWPat0i_0M1czWz0-tWlPsFwl",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-56-pm-bknmnq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-56-pm-bknmnq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-56-pm-bknmnq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-49-pm-lposgg",
@@ -32375,10 +29237,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
     "image": "https://drive.google.com/uc?export=view&id=1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
     "driveFileId": "1hMP2-1_R5gf-TUjUg9bfqwYRGN7uNdW2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-49-pm-lposgg&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-49-pm-lposgg&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-49-pm-lposgg&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-34-pm-mauhvt",
@@ -32406,10 +29265,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
     "image": "https://drive.google.com/uc?export=view&id=1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
     "driveFileId": "1rVmaeDjgXsQ9DvTYmUM0jCehFlidKDa2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-34-pm-mauhvt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-34-pm-mauhvt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-34-pm-mauhvt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-29-pm-hghefp",
@@ -32437,10 +29293,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
     "image": "https://drive.google.com/uc?export=view&id=1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
     "driveFileId": "1R6RXvyWU-E74tVjOBYD-XVXPTrKUMXVy",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-29-pm-hghefp&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-29-pm-hghefp&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-29-pm-hghefp&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-53-pm-n6ubrs",
@@ -32468,10 +29321,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
     "image": "https://drive.google.com/uc?export=view&id=1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
     "driveFileId": "1CoYCe4t8Ajk7UEGbyuq-6V8_30hmcNTB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-53-pm-n6ubrs&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-53-pm-n6ubrs&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-53-pm-n6ubrs&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-8-2026-04-43-38-pm-u9fehw",
@@ -32498,10 +29348,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
     "image": "https://drive.google.com/uc?export=view&id=1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
     "driveFileId": "1dJhYOGIpX-GrgtttO4hiqUJkliiQbxBC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-38-pm-u9fehw&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-38-pm-u9fehw&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-8-2026-04-43-38-pm-u9fehw&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-35-26-pm-omiqvr",
@@ -32529,10 +29376,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
     "image": "https://drive.google.com/uc?export=view&id=1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
     "driveFileId": "1o8KpO8kt6-vZwVNXd4n0gvJhGkA4kKz9",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-35-26-pm-omiqvr&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-35-26-pm-omiqvr&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-35-26-pm-omiqvr&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-35-28-pm-gjrcuf",
@@ -32559,10 +29403,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
     "image": "https://drive.google.com/uc?export=view&id=1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
     "driveFileId": "1Vu93kSyH88qLzYfyBT10VTTko5blWSPQ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-35-28-pm-gjrcuf&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-35-28-pm-gjrcuf&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-35-28-pm-gjrcuf&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-36-43-pm-f1jmyb",
@@ -32589,10 +29430,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
     "image": "https://drive.google.com/uc?export=view&id=1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
     "driveFileId": "1kGrzuvweu3I2nqCfcJJpzCTrTZgVnkRV",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-43-pm-f1jmyb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-43-pm-f1jmyb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-43-pm-f1jmyb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-36-51-pm-vwzywk",
@@ -32619,10 +29457,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
     "image": "https://drive.google.com/uc?export=view&id=10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
     "driveFileId": "10HWNOKap4vkT-7k1XwDDW6q1EM4CGEDI",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-51-pm-vwzywk&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-51-pm-vwzywk&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-51-pm-vwzywk&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-36-45-pm-j7br6k",
@@ -32649,10 +29484,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
     "image": "https://drive.google.com/uc?export=view&id=1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
     "driveFileId": "1UQgUqOO56ZEfm28uw3InE67BTVxZtNnJ",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-45-pm-j7br6k&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-45-pm-j7br6k&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-45-pm-j7br6k&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-36-56-pm-2-tlrtmz",
@@ -32679,10 +29511,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
     "image": "https://drive.google.com/uc?export=view&id=10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
     "driveFileId": "10sQtXcAD0J52uFEkucdDeCSbs96b5W5y",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-56-pm-2-tlrtmz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-56-pm-2-tlrtmz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-56-pm-2-tlrtmz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-36-56-pm-1-ghtzqu",
@@ -32710,10 +29539,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
     "image": "https://drive.google.com/uc?export=view&id=1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
     "driveFileId": "1mYYo_tJ-K0OR0aHRgpIiJZbG2zfcwrM0",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-56-pm-1-ghtzqu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-56-pm-1-ghtzqu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-56-pm-1-ghtzqu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-36-47-pm-uhsh3w",
@@ -32740,10 +29566,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
     "image": "https://drive.google.com/uc?export=view&id=1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
     "driveFileId": "1jStA7wqZ2kyB7vHpoeivVsP8yXC-sYOy",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-47-pm-uhsh3w&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-47-pm-uhsh3w&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-47-pm-uhsh3w&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-36-58-pm-izxb7y",
@@ -32770,10 +29593,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
     "image": "https://drive.google.com/uc?export=view&id=1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
     "driveFileId": "1Xwv5G9yfnNdl0ofhgg1_W1gyPBD5DGKs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-58-pm-izxb7y&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-58-pm-izxb7y&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-36-58-pm-izxb7y&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-00-pm-xjtaxq",
@@ -32801,10 +29621,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=12vct0o_9OynABzgt591o5fZOrgX43j3u",
     "image": "https://drive.google.com/uc?export=view&id=12vct0o_9OynABzgt591o5fZOrgX43j3u",
     "driveFileId": "12vct0o_9OynABzgt591o5fZOrgX43j3u",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-00-pm-xjtaxq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-00-pm-xjtaxq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-00-pm-xjtaxq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-01-pm-mqbx3o",
@@ -32832,10 +29649,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
     "image": "https://drive.google.com/uc?export=view&id=1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
     "driveFileId": "1wGstVKz_GCIKwCOAQfVwvy0LlZS7Bi_m",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-01-pm-mqbx3o&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-01-pm-mqbx3o&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-01-pm-mqbx3o&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-05-pm-vesdbu",
@@ -32863,10 +29677,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
     "image": "https://drive.google.com/uc?export=view&id=1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
     "driveFileId": "1-J-JcOCwg9LVWb_4WbVNUwKYCGDU_mb4",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-05-pm-vesdbu&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-05-pm-vesdbu&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-05-pm-vesdbu&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-03-pm-rbz48x",
@@ -32892,10 +29703,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
     "image": "https://drive.google.com/uc?export=view&id=1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
     "driveFileId": "1qX4kNONfiCagahM2V0UBcYp9Pl2P5gfA",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-03-pm-rbz48x&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-03-pm-rbz48x&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-03-pm-rbz48x&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-09-pm-sy09ib",
@@ -32922,10 +29730,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
     "image": "https://drive.google.com/uc?export=view&id=16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
     "driveFileId": "16PYFBb5iQbvLly7y6HfThaLWpIddjJ7M",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-09-pm-sy09ib&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-09-pm-sy09ib&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-09-pm-sy09ib&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-07-pm-msn7wc",
@@ -32952,10 +29757,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
     "image": "https://drive.google.com/uc?export=view&id=1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
     "driveFileId": "1hs1E68pk9bCkzLoz3KobyHlSUO5W0toX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-07-pm-msn7wc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-07-pm-msn7wc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-07-pm-msn7wc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-10-pm-b7urwh",
@@ -32981,10 +29783,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
     "image": "https://drive.google.com/uc?export=view&id=1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
     "driveFileId": "1tq4NrDHx-j-qsLe_G7dfXOS12Fs0ZOQB",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-10-pm-b7urwh&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-10-pm-b7urwh&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-10-pm-b7urwh&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-21-pm-zdecir",
@@ -33011,10 +29810,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
     "image": "https://drive.google.com/uc?export=view&id=18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
     "driveFileId": "18XTEZN4Th_GMhWFWhB9ql-Rg_K1ME4bs",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-21-pm-zdecir&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-21-pm-zdecir&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-21-pm-zdecir&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-19-pm-rpcwtl",
@@ -33040,10 +29836,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1OhAhq692cK6xemejga6ZjkoDOMK350_r",
     "image": "https://drive.google.com/uc?export=view&id=1OhAhq692cK6xemejga6ZjkoDOMK350_r",
     "driveFileId": "1OhAhq692cK6xemejga6ZjkoDOMK350_r",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-19-pm-rpcwtl&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-19-pm-rpcwtl&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-19-pm-rpcwtl&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-12-pm-yowacv",
@@ -33071,10 +29864,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
     "image": "https://drive.google.com/uc?export=view&id=1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
     "driveFileId": "1TSaH1xL5hpzkMlE9VhQiyp1S3EXVHrru",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-12-pm-yowacv&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-12-pm-yowacv&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-12-pm-yowacv&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-23-pm-w9xp1m",
@@ -33101,10 +29891,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
     "image": "https://drive.google.com/uc?export=view&id=1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
     "driveFileId": "1_O6kfTm2G4aauqC4zPvQLbEK7pAaVY2C",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-23-pm-w9xp1m&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-23-pm-w9xp1m&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-23-pm-w9xp1m&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-26-pm-xedhjz",
@@ -33131,10 +29918,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
     "image": "https://drive.google.com/uc?export=view&id=1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
     "driveFileId": "1EEhS8aZOhl0Az1JTPw3kBm6Qd8Bj6qF7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-26-pm-xedhjz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-26-pm-xedhjz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-26-pm-xedhjz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-29-pm-tdymeb",
@@ -33160,10 +29944,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
     "image": "https://drive.google.com/uc?export=view&id=10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
     "driveFileId": "10Fnpo0xdJFyvWDCII1I_YH36-5jWwzq2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-29-pm-tdymeb&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-29-pm-tdymeb&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-29-pm-tdymeb&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-37-pm-bjog7p",
@@ -33191,10 +29972,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
     "image": "https://drive.google.com/uc?export=view&id=1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
     "driveFileId": "1ilb-lpO7eL3GeScQLQoVS43RGTrKkn-u",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-37-pm-bjog7p&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-37-pm-bjog7p&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-37-pm-bjog7p&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-18-pm-pnzp5i",
@@ -33220,10 +29998,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
     "image": "https://drive.google.com/uc?export=view&id=13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
     "driveFileId": "13rupiYovu_dgNLPDwy0c-42jAa-0lQgL",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-18-pm-pnzp5i&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-18-pm-pnzp5i&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-18-pm-pnzp5i&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-34-pm-1-wgzv7o",
@@ -33250,10 +30025,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
     "image": "https://drive.google.com/uc?export=view&id=1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
     "driveFileId": "1xu-be97-zkaq877MeNZatkV3ZLSIlzy6",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-34-pm-1-wgzv7o&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-34-pm-1-wgzv7o&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-34-pm-1-wgzv7o&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-37-44-pm-2-s5wlq3",
@@ -33280,10 +30052,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
     "image": "https://drive.google.com/uc?export=view&id=1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
     "driveFileId": "1Mr0ha55YZErJZJiHDPX2kneLal1FZz69",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-44-pm-2-s5wlq3&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-44-pm-2-s5wlq3&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-37-44-pm-2-s5wlq3&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-14-pm-rchxcj",
@@ -33310,10 +30079,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
     "image": "https://drive.google.com/uc?export=view&id=15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
     "driveFileId": "15XewQtEhPwSwyoWFKUkkqswjCm_zOQC3",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-14-pm-rchxcj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-14-pm-rchxcj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-14-pm-rchxcj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-21-pm-rpcvex",
@@ -33340,10 +30106,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
     "image": "https://drive.google.com/uc?export=view&id=16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
     "driveFileId": "16RCSBzkhnnnLgbSf2DZhX04t0xbNE2KX",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-21-pm-rpcvex&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-21-pm-rpcvex&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-21-pm-rpcvex&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-26-pm-d72enz",
@@ -33369,10 +30132,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
     "image": "https://drive.google.com/uc?export=view&id=1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
     "driveFileId": "1vlATQeXgXd5249T_FNQA7ZL33vNWKagM",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-26-pm-d72enz&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-26-pm-d72enz&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-26-pm-d72enz&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-23-pm-k7t4ai",
@@ -33399,10 +30159,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
     "image": "https://drive.google.com/uc?export=view&id=1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
     "driveFileId": "1rjK-l6zeZ2bFykU7KPuW3Ric8Dqi8znh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-23-pm-k7t4ai&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-23-pm-k7t4ai&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-23-pm-k7t4ai&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-16-pm-hrczxa",
@@ -33429,10 +30186,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
     "image": "https://drive.google.com/uc?export=view&id=1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
     "driveFileId": "1Pf3H1Y1Q377IvpycPF0YJ8NzOxaYv4xT",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-16-pm-hrczxa&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-16-pm-hrczxa&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-16-pm-hrczxa&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-28-pm-rd0qfc",
@@ -33459,10 +30213,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
     "image": "https://drive.google.com/uc?export=view&id=1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
     "driveFileId": "1TLCzVxqvR7g6kqiZEKsWQkQKuGRuKOmu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-28-pm-rd0qfc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-28-pm-rd0qfc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-28-pm-rd0qfc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-30-pm-sj7pmq",
@@ -33490,10 +30241,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
     "image": "https://drive.google.com/uc?export=view&id=14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
     "driveFileId": "14lInbAciiVfVcc0pHxWR4AS3cQqpOzdG",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-30-pm-sj7pmq&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-30-pm-sj7pmq&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-30-pm-sj7pmq&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-32-pm-dsmbzm",
@@ -33520,10 +30268,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
     "image": "https://drive.google.com/uc?export=view&id=1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
     "driveFileId": "1U5O5fyGnnZ1y75m1papwwewjY-usXGk2",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-32-pm-dsmbzm&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-32-pm-dsmbzm&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-32-pm-dsmbzm&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-44-pm-vyuebj",
@@ -33550,10 +30295,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
     "image": "https://drive.google.com/uc?export=view&id=1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
     "driveFileId": "1XPrqU0rCTXRyrL8lQMr8KLKCxgMqTmMi",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-44-pm-vyuebj&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-44-pm-vyuebj&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-44-pm-vyuebj&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-54-pm-sjoari",
@@ -33580,10 +30322,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
     "image": "https://drive.google.com/uc?export=view&id=1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
     "driveFileId": "1vbjaCJ9hXnhtsM83_8Nl2pjCuSY24Dbd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-54-pm-sjoari&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-54-pm-sjoari&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-54-pm-sjoari&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-40-pm-ptemym",
@@ -33611,10 +30350,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
     "image": "https://drive.google.com/uc?export=view&id=1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
     "driveFileId": "1xbLxuKTcqhn34WxYAoRgsoKpO3vHKc08",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-40-pm-ptemym&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-40-pm-ptemym&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-40-pm-ptemym&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-34-pm-uvrvfe",
@@ -33641,10 +30377,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
     "image": "https://drive.google.com/uc?export=view&id=127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
     "driveFileId": "127TdV_nUltqr9QfXq9sh-nJZ9fBvZmyw",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-34-pm-uvrvfe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-34-pm-uvrvfe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-34-pm-uvrvfe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-00-pm-nml1hd",
@@ -33672,10 +30405,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
     "image": "https://drive.google.com/uc?export=view&id=156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
     "driveFileId": "156398nCjxTc9Fa-_HsyDNaXHl6kg6GSu",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-00-pm-nml1hd&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-00-pm-nml1hd&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-00-pm-nml1hd&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-38-57-pm-lyx0ai",
@@ -33702,10 +30432,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
     "image": "https://drive.google.com/uc?export=view&id=1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
     "driveFileId": "1rB-k5jU5vFTr1XJengUb9zWMK0sVEYF7",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-57-pm-lyx0ai&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-57-pm-lyx0ai&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-38-57-pm-lyx0ai&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-05-pm-znfowo",
@@ -33731,10 +30458,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
     "image": "https://drive.google.com/uc?export=view&id=15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
     "driveFileId": "15k3GOM8yGpSpsOh4zIA9sMVVT-82GJFn",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-05-pm-znfowo&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-05-pm-znfowo&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-05-pm-znfowo&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-13-pm-1-mgp1tn",
@@ -33762,10 +30486,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
     "image": "https://drive.google.com/uc?export=view&id=1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
     "driveFileId": "1sT_1sRMsOTvtfJsy0IRuSqetjaQtTQuU",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-13-pm-1-mgp1tn&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-13-pm-1-mgp1tn&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-13-pm-1-mgp1tn&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-03-pm-atmi9c",
@@ -33791,10 +30512,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
     "image": "https://drive.google.com/uc?export=view&id=1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
     "driveFileId": "1ROeu2Uy1RBOkVTcdp0pHW4liUo2ZUaAh",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-03-pm-atmi9c&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-03-pm-atmi9c&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-03-pm-atmi9c&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-13-pm-2-ioqc0c",
@@ -33822,10 +30540,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
     "image": "https://drive.google.com/uc?export=view&id=1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
     "driveFileId": "1_0xiVHUsfHXMskexgvXGPr-zxF-fhrcd",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-13-pm-2-ioqc0c&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-13-pm-2-ioqc0c&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-13-pm-2-ioqc0c&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-07-pm-tgfs3f",
@@ -33852,10 +30567,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
     "image": "https://drive.google.com/uc?export=view&id=1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
     "driveFileId": "1qWtk_7YiBO8Ci29TAzVoYctNJ2Bd-t-1",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-07-pm-tgfs3f&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-07-pm-tgfs3f&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-07-pm-tgfs3f&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-15-pm-qvldfe",
@@ -33882,10 +30594,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
     "image": "https://drive.google.com/uc?export=view&id=1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
     "driveFileId": "1hMw5gOpWphb4bk8fVjH4FJ1Va6jKIYKH",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-15-pm-qvldfe&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-15-pm-qvldfe&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-15-pm-qvldfe&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-23-pm-1-hhwnsc",
@@ -33912,10 +30621,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
     "image": "https://drive.google.com/uc?export=view&id=1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
     "driveFileId": "1aiUq76WNperKtd6y0ugdWbeaoH0XIC2j",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-23-pm-1-hhwnsc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-23-pm-1-hhwnsc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-23-pm-1-hhwnsc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-19-pm-btb5pc",
@@ -33942,10 +30648,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
     "image": "https://drive.google.com/uc?export=view&id=1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
     "driveFileId": "1rr2e-rJKSFbXTLnPj_UReh48yYLSk8T-",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-19-pm-btb5pc&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-19-pm-btb5pc&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-19-pm-btb5pc&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-17-pm-a7kbjt",
@@ -33971,10 +30674,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
     "image": "https://drive.google.com/uc?export=view&id=1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
     "driveFileId": "1X040tVFHYZ0qt0QnrQYmke7-Lhp2Kt9I",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-17-pm-a7kbjt&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-17-pm-a7kbjt&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-17-pm-a7kbjt&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-23-pm-2-tbvhw1",
@@ -34000,10 +30700,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
     "image": "https://drive.google.com/uc?export=view&id=1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
     "driveFileId": "1VUPZczd7MXcu0oQmMdmOynLsjBg1H8MC",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-23-pm-2-tbvhw1&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-23-pm-2-tbvhw1&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-23-pm-2-tbvhw1&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-28-pm-tliqd8",
@@ -34031,10 +30728,7 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
     "image": "https://drive.google.com/uc?export=view&id=1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
     "driveFileId": "1l-eHOX4TFXCp4Ay5Tfs4zVkG3sFYfnIP",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-28-pm-tliqd8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-28-pm-tliqd8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-28-pm-tliqd8&variant=detail"
+    "storage": "google_drive"
   },
   {
     "id": "chatgpt-image-jun-9-2026-04-39-25-pm-ss1jw8",
@@ -34061,9 +30755,6 @@ window.PMW_WALLPAPERS = [
     "download": "https://drive.google.com/uc?export=download&id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
     "image": "https://drive.google.com/uc?export=view&id=1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
     "driveFileId": "1vB0ZmFqNib1AI3vpqKgDegLzm03gOAwx",
-    "storage": "google_drive",
-    "oldThumbnail": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-25-pm-ss1jw8&variant=thumbnail",
-    "oldPreview": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-25-pm-ss1jw8&variant=detail",
-    "oldImage": "https://us-central1-pmw-visuals-b14e8.cloudfunctions.net/wallpaperPreview?id=chatgpt-image-jun-9-2026-04-39-25-pm-ss1jw8&variant=detail"
+    "storage": "google_drive"
   }
 ];

@@ -43,34 +43,6 @@ function cleanTypes(item) {
     });
 }
 
-function cloudinaryTransformUrl(url, transformation) {
-  const value = normalizeText(url);
-  if (!value.includes("res.cloudinary.com") || !value.includes("/image/upload/")) return value;
-
-  try {
-    const parsed = new URL(value);
-    const marker = "/image/upload/";
-    const markerIndex = parsed.pathname.indexOf(marker);
-    if (markerIndex === -1) return value;
-
-    const beforeUpload = parsed.pathname.slice(0, markerIndex + marker.length);
-    const afterUpload = parsed.pathname.slice(markerIndex + marker.length);
-    const parts = afterUpload.split("/").filter(Boolean);
-    const versionIndex = parts.findIndex((part) => /^v\d+$/.test(part));
-
-    if (versionIndex >= 0) {
-      const publicPath = parts.slice(versionIndex).join("/");
-      parsed.pathname = `${beforeUpload}${transformation}/${publicPath}`;
-      return parsed.href;
-    }
-
-    parsed.pathname = `${beforeUpload}${transformation}/${afterUpload}`;
-    return parsed.href;
-  } catch (error) {
-    return value;
-  }
-}
-
 function buildResolution(item) {
   const width = Number(item.width) || 0;
   const height = Number(item.height) || 0;
@@ -104,10 +76,10 @@ function normalizeWallpaper(id, item, source) {
     height: Number(item.height) || 0,
     resolution: buildResolution(item),
     format: normalizeText(item.format).toUpperCase() || "Image",
-    thumbnail: normalizeText(item.thumbnail) || cloudinaryTransformUrl(imageUrl, "c_fill,g_auto,w_420,h_746,q_auto,f_auto"),
-    preview: normalizeText(item.preview) || cloudinaryTransformUrl(imageUrl, "q_auto,f_auto"),
+    thumbnail: normalizeText(item.thumbnail) || imageUrl,
+    preview: normalizeText(item.preview) || imageUrl,
     download: source === "static"
-      ? normalizeText(item.download) || cloudinaryTransformUrl(imageUrl, "fl_attachment")
+      ? normalizeText(item.download) || imageUrl
       : "",
     source
   };
@@ -171,6 +143,14 @@ async function fetchProtectedWallpapers(access) {
 export async function loadVisibleWallpapers({ access = "free", fallback = [], allowFallback = true } = {}) {
   const normalizedAccess = normalizeAccess(access);
   const fallbackItems = staticFallbackWallpapers(fallback, normalizedAccess);
+
+  if (normalizedAccess === "free" && fallbackItems.length) {
+    return {
+      items: fallbackItems,
+      source: "static",
+      error: null
+    };
+  }
 
   try {
     const protectedItems = await fetchProtectedWallpapers(normalizedAccess);

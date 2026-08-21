@@ -1761,7 +1761,7 @@
                     type: 'wallpaper'
                 });
             }
-            if (selectedWallpaper.source === 'desktop-static' && selectedWallpaper.access !== 'premium') {
+            if ((selectedWallpaper.source === 'desktop-static' || selectedWallpaper.source === 'static') && selectedWallpaper.access !== 'premium') {
                 window.location.href = selectedWallpaper.download || selectedWallpaper.imageUrl;
                 return;
             }

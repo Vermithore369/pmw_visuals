@@ -9,6 +9,7 @@ const preview = root?.querySelector(".preview-card");
 const image = preview?.querySelector("img");
 const downloadButton = document.getElementById("downloadButton");
 const wallpaperId = root?.dataset.wallpaperId || "";
+const staticDownloadUrl = root?.dataset.downloadUrl || "";
 
 function setDownloadState(label, disabled) {
   if (!downloadButton) return;
@@ -19,6 +20,15 @@ function setDownloadState(label, disabled) {
 
 async function initializeProtection() {
   if (!root || !preview || !image || !wallpaperId) return;
+
+  if (staticDownloadUrl) {
+    root.dataset.wallpaperAccess = "free";
+    preview.classList.remove("has-premium-watermark");
+    image.removeAttribute("srcset");
+    setDownloadState("Download Wallpaper", false);
+    return;
+  }
+
   root.classList.add("protection-pending");
   setDownloadState("Checking access...", true);
 
@@ -43,7 +53,7 @@ downloadButton?.addEventListener("click", async () => {
   if (!wallpaperId) return;
   setDownloadState("Preparing download...", true);
   try {
-    const downloadUrl = await requestWallpaperDownload(wallpaperId);
+    const downloadUrl = staticDownloadUrl || await requestWallpaperDownload(wallpaperId);
     if (window.PMW_DOWNLOAD_TRACKING && window.wallpaperDownloadItem) {
       window.PMW_DOWNLOAD_TRACKING.trackDownload(window.wallpaperDownloadItem);
     }
