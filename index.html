@@ -1888,5 +1888,129 @@
     <script src="consent.js" defer></script>
   <script src="./js/account-menu.js" defer></script>
   <script src="./js/platform-footer.js" defer></script>
+    <!-- =========================================
+     PMW VISUALS - ANTI ADBLOCK DETECTOR
+     ========================================= -->
+
+<style>
+  #pmw-adblock-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.65);
+    z-index: 999999;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  #pmw-adblock-box {
+    width: min(420px, 100%);
+    background: #fff;
+    color: #111;
+    border-radius: 18px;
+    padding: 26px;
+    text-align: center;
+    box-shadow: 0 20px 60px rgba(0,0,0,.3);
+    font-family: Arial, sans-serif;
+  }
+
+  #pmw-adblock-box h3 {
+    margin: 0 0 10px;
+    font-size: 21px;
+  }
+
+  #pmw-adblock-box p {
+    margin: 0 0 18px;
+    line-height: 1.5;
+    color: #555;
+  }
+
+  #pmw-adblock-continue {
+    border: 0;
+    background: #111;
+    color: #fff;
+    padding: 11px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  #pmw-adblock-continue:hover {
+    opacity: .9;
+  }
+
+  /* Hidden bait */
+  #pmw-ad-test {
+    position: absolute !important;
+    left: -9999px !important;
+    top: -9999px !important;
+    width: 1px !important;
+    height: 1px !important;
+    overflow: hidden !important;
+  }
+</style>
+
+<!-- Ad-block bait -->
+<div id="pmw-ad-test" class="ads ad ad-banner ad-container advertisement adsbox">
+  ad
+</div>
+
+<!-- Warning -->
+<div id="pmw-adblock-overlay">
+  <div id="pmw-adblock-box">
+    <h3>Ad blocker detected</h3>
+
+    <p>
+      Ads help keep PMW Visuals free. We don't have aggressive ads and we respect your privacy more than anything. 
+      It is just a ad banner which you can simply ignore so.....
+      Please disable your ad blocker or whitelist this website.
+    </p>
+
+    <button id="pmw-adblock-continue">
+      Continue to website
+    </button>
+  </div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  const CHECK_DELAY = 1500;
+  const bait = document.getElementById("pmw-ad-test");
+  const overlay = document.getElementById("pmw-adblock-overlay");
+  const continueButton = document.getElementById("pmw-adblock-continue");
+
+  if (!bait || !overlay) return;
+
+  function checkAdBlock() {
+    const style = window.getComputedStyle(bait);
+
+    const blocked =
+      bait.offsetWidth === 0 ||
+      bait.offsetHeight === 0 ||
+      style.display === "none" ||
+      style.visibility === "hidden";
+
+    bait.remove();
+
+    if (blocked) {
+      showWarning();
+    }
+  }
+
+  function showWarning() {
+    overlay.style.display = "flex";
+  }
+
+  continueButton.addEventListener("click", function () {
+    overlay.style.display = "none";
+  });
+
+  setTimeout(checkAdBlock, CHECK_DELAY);
+
+})();
+</script>
 </body>
 </html>
